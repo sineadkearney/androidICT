@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Android Tablets in the Classroom</title>
+    <title>Classroom - Android Tablets in the Classroom</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -62,11 +62,11 @@
 					<hr>
 					
 				<p class="lead">
-				Our vision for a Tablet-enabled, student-centric classroom is one which recoginses and enhances the existing classroom ICT infrastructure, 
+				Our vision for a Tablet-enabled, student-centric classroom is one which recognizes and enhances the existing classroom ICT infrastructure, 
 				and which then extends this.</p>
 				
 				<p>
-				Many if not most classrooms already have a Data Projector connected to an exisiing 'teacher computer' (this latter may be a Deskop or 
+				Many if not most classrooms already have a Data Projector connected to an existing 'teacher computer' (this latter may be a Deskop or 
 				Laptop, Windows or Mac or Linux). 
 				</p>
 				<p>
@@ -75,18 +75,18 @@
 				</p>
 				<p>
 				Many schools and teachers have invested greatly in developing their professional practice and resource bank (sometimes dipping into 
-				<a href='http://www.cbiproject.net/'>cbiproject.net</a>!)
+				<a href='http://www.cbiproject.net/' target="_blank">cbiproject.net</a>!)
 				</p>
 				<p>
 				We do not envisage discarding this equipment in favour of the 'new model'.
 				</p>
 				<p>
-				Rather, we propose adding Tablets into the enviroment. These Tablets are for Student Use in classroom where the learning is managed 
-				by the Teacher. The Teacher may, in addtion, have his/her own Tablet in order to model best practice.
+				Rather, we propose adding Tablets into the environment. These Tablets are for Student Use in classroom where the learning is managed 
+				by the Teacher. The Teacher may, in addition, have his/her own Tablet in order to model best practice.
 				</p>
 				<p>
-				Tablets may be used in a one-to-one ratio or with a Tablet shared among a Group: the former model is useful for the 'drill and practice' 
-				type activities (where individual activity and reinforcemnet is useful) - or for a 'flipped classroom' - while the latter may suit a 
+				Tablets may be used in a one-to-one ratio or with a Tablet shared among a Group: the former model is often useful for the 'drill and practice' 
+				type activities (where individual activity and reinforcement is useful) or for a 'flipped classroom' <a href="http://en.wikipedia.org/wiki/Flipped_classroom" target="_blank">(wikipedia link)</a> while the latter may suit a 
 				Research approach with Group Reporting and/or Group Presentation. 
 				</p>
 				
