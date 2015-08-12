@@ -65,62 +65,62 @@
 				<p><i>All links working as of January 2015</i></p>
 
 				<a class="anchor" name="articles"></a>
-				<p class="lead">
+				<p id="1" class="lead">
 				Research and Media Articles</p>
 				
-				<p>
+				<p id="2"> 
 				<a href="http://www.learninguntethered.com/wp-content/uploads/2012/08/Learning-is-Personal.pdf" target="_blank">Learning is Personal</a> - Stories of 
 				Android Tablet Use in the 5th Grade; Marie Bjerede and Tzaddi Bondi;
 				</p>
 				
-				<p>
+				<p id="3">
 				<a href="http://www.edutain.co.za/shop/news/news-letters/how-android-tablets-could-fit-into-your-classroom.html" target="_blank">How Android Tablets Could Fit Into Your Classroom</a>; Justin Craig;
 				</p>
 				
-				<p>
+				<p id="4">
 				<a href="http://karenmahon.com/2012/09/18/are-android-tablets-the-next-big-thing-in-education/" target="_blank">Are Android Tablets the Next Big Thing 
 				in Education?</a>; Karen Mahon;
 				</p>
 				
-				<p>
+				<p id="5">
 				<a href="http://karenmahon.com/2013/03/30/android-use-in-u-s-schools-an-update/" target="_blank">Android Tablet Use in U.S. Schools: An Update</a>; 
 				Karen Mahon;
 				</p>
 				
-				<p>
+				<p id="6">
 				<a href="http://karenmahon.com/2013/04/05/android-tablet-use-in-us-schools-a-response/" target="_blank">Android Tablet Use in U.S. Schools: 
 				A Response</a>; Jarrett Volzer via Karen Mahon;
 				</p>
 				
-				<p>
+				<p id="7">
 				<a href="http://www.educ.cam.ac.uk/centres/cce/events/Hennessy_eLA2011_extended_abstract.pdf" target="_blank">Portable Technologies to Support Interactive 
 				Teaching in Zambian Classrooms</a>; Sara Hennessy, Bjoern Hassler, Tom Lord, Alan Jackson and Andrew Cross;
 				</p>
 				
 				<hr>
 				<a class="anchor" name="research_studies"></a>
-				<p class="lead">
+				<p id="8" class="lead">
 				A collection of research study links (some relate to the iPad but are still relevant) .....
 				</p>
 				
-				<p>
+				<p id="9">
 				<a href="http://www.experientia.com/blog/recent-studies-on-the-impact-of-tablets-in-schools-an-overview/" target="_blank">Recent studies on the impact 
 				of tablet use in schools – an overview</a>; (I note that a Belfast School is referenced in 
 				<a href="http://www.tabletsforschools.co.uk/wp-content/uploads/2012/12/2011-12-Final-Report.pdf" target="_blank">this report</a>)
 				</p>
 				
-				<p>
+				<p id="10">
 				<a href="http://www.royalreports.com/2012/11/19/edgewood-city-schools-go-android-tablet/" target="_blank">Edgewood City Schools Go Android Tablet</a>; Ken Royal;				
 				(article has a link to the <a href="http://professional.us.acer.com/edu/webinar_archives.htm" target="_blank">Acer Webinars</a>)
 				</p>
 				
-				<p>
+				<p id="11">
 				<a href="http://www.samsung.com/ie/business-images/resource/white-paper/2012/11/EBT15_1210_Samsung_Smart_School_WP-0.pdf" target="_blank">The Next-Generation 
 				Classroom: Smart, Interactive and Connected Learning Environments</a>; WHITE PAPER, Sponsored by: Samsung; Ruthbea Yesner Clarke; 
 				October 2012.
 				</p>
 				
-				<p>
+				<p id="12">
 				Essential Reading is from NCTE/PDST: <a href="http://www.ncte.ie/media/Tablet-PCAdviceSheet(June2012).pdf" target="_blank">NCTE Advice Sheet – Tablet PC or Tablet;</a>
 				</p>
  
@@ -129,7 +129,7 @@
 					<h4>Images Below:</h4>
 				</p>
 				
-				<p>
+				<p id="13">
 				Kathy Shcrock's adaptation of <a href="http://www.schrockguide.net/bloomin-apps.html" target="_blank">Blooms' Taxonomy</a><br>
 				Reg Swanson's <a href="http://appsineducation.blogspot.ie/2012/11/samr-model-apps-poster.html" target="_blank">SAMR Model</a>
 				</p>

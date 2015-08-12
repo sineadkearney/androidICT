@@ -62,46 +62,45 @@
 					<h3 class="page-header">What is 'Android'?</h3>
 					<hr>
 				
-				<p>
+				<p id="1">
 				Android is a Linux-based operating system designed primarily for touchscreen mobile devices such as smartphones and tablet computers. 
 				Initially developed by Android, Inc., whom Google financially backed and later purchased in 2005, Android was unveiled in 2007. 
 				</p>
-				<p>
+				<p id="2">
 				In October 2012, there were approximately 700,000 apps available for Android, and the estimated number of applications downloaded 
 				from Google Play, Android's primary app store, was 25 billion. Taken from, and you can read more on the 
 				<a href="http://en.wikipedia.org/wiki/Android_(operating_system)" target="_blank">Android OS on wikipedia</a>. As of July 2013, the Google Play store 
 				officially reached over 1 million apps published and over 50 billion downloads (source: <a href="http://en.wikipedia.org/wiki/Google_Play" target="_blank">
 				Google Play on wikipedia</a> ... accessed May 2014)
 				</p>
-				<p>
+				<p id="3">
 				In 2012, there were 400 Million Activations of the Android OS: see <a href="http://www.youtube.com/embed/1UhGM2us8eA" target="_blank"> YouTube clip</a>
 				...that number had risen to 900 Million, May 2013 (source <a href="http://www.youtube.com/watch?v=1CVbQttKUIk" target="_blank">YouTube clip</a>
 				...accessed May 2014)
 				</p>
-				<p>
+				<p id="4">
 				The history of the Android Operating System comes in a number of (literally!) flavours: 
 				<ul>
-				<li>Cupcake (1.5)
+				<li>Cupcake (1.5) 
 				</li>
-				<li>Doughnut (1.6)
+				<li>Doughnut (1.6) 
 				</li>
-				<li>Eclair (2.0–2.1)
+				<li>Eclair (2.0–2.1) 
 				</li>
-				<li>Froyo (2.2–2.2.3)
+				<li>Froyo (2.2–2.2.3) 
 				</li>
-				<li>Gingerbread (2.3–2.3.7)
+				<li>Gingerbread (2.3–2.3.7) 
 				</li>
-				<li>Honeycomb (3.0–3.2.6)
+				<li>Honeycomb (3.0–3.2.6) 
 				</li>
-				<li>Ice Cream Sandwich (4.0–4.0.4)
+				<li>Ice Cream Sandwich (4.0–4.0.4) 
 				</li>
-				<li>Jelly Bean (4.1–4.3) ...4.2 added multi-user support, as well as MiraCast
+				<li>Jelly Bean (4.1–4.3) ...4.2 added multi-user support, as well as MiraCast 
 				</li>
-				<li>KitKat (4.4–4.4.2) ... released to commercial devices on 22 November 2013
+				<li>KitKat (4.4–4.4.2) ... released to commercial devices on 22 November 2013 
 				</li>
 				</ul>
 				(Source: <a href="http://en.wikipedia.org/wiki/Android_version_history" target="_blank">Android Version History on wikipedia</a> accessed May 2014)
-				<p>
 				</p>
 				
 			
@@ -110,12 +109,12 @@
 				<a class="anchor" name="how_to_use_android"></a>
 				<h4>How do we use Android?</h4>
 
-				<p>
+				<p id="5">
 				Read the <a href="https://docs.google.com/file/d/0BzJ3Uh61kQ8XX283eDd1MDVKbzg/edit?pli=1" target="_blank">'Tablet PC_Android 4.0_User Manual.pdf'</a> 
 				(in a 'Google Doc' of course!). This is a good general starting point as later versons of Android 'user guides'seem to refer to specific 
 				hardware models.
 				</p>
-				<p>
+				<p id="6">
 				We provide a series of 'How To' video clips below. These are best used on your PC, in the Chrome Browser ...while watching them on your 
 				PC you can then try out the tips on your Android Tablet
 				</p>

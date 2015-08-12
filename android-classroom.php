@@ -61,30 +61,30 @@
 					<h3 class="page-header">Android Classroom</h3>
 					<hr>
 					
-				<p class="lead">
+				<p id="1" class="lead">
 				Our vision for a Tablet-enabled, student-centric classroom is one which recognizes and enhances the existing classroom ICT infrastructure, 
 				and which then extends this.</p>
 				
-				<p>
+				<p id="2">
 				Many if not most classrooms already have a Data Projector connected to an existing 'teacher computer' (this latter may be a Deskop or 
 				Laptop, Windows or Mac or Linux). 
 				</p>
-				<p>
+				<p id="3">
 				Further many of these 'teacher computers' are connected to an existing Interactive Whiteboard (or there may be a Projector with an 
 				'Interactive Projector') 
 				</p>
-				<p>
+				<p id="4">
 				Many schools and teachers have invested greatly in developing their professional practice and resource bank (sometimes dipping into 
 				<a href='http://www.cbiproject.net/' target="_blank">cbiproject.net</a>!)
 				</p>
-				<p>
+				<p id="5">
 				We do not envisage discarding this equipment in favour of the 'new model'.
 				</p>
-				<p>
+				<p id="6">
 				Rather, we propose adding Tablets into the environment. These Tablets are for Student Use in classroom where the learning is managed 
 				by the Teacher. The Teacher may, in addition, have his/her own Tablet in order to model best practice.
 				</p>
-				<p>
+				<p id="7">
 				Tablets may be used in a one-to-one ratio or with a Tablet shared among a Group: the former model is often useful for the 'drill and practice' 
 				type activities (where individual activity and reinforcement is useful) or for a 'flipped classroom' <a href="http://en.wikipedia.org/wiki/Flipped_classroom" target="_blank">(wikipedia link)</a> while the latter may suit a 
 				Research approach with Group Reporting and/or Group Presentation. 

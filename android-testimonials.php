@@ -62,16 +62,16 @@
 					<h3 class="page-header">Android Testimonials</h3>
 					<hr>
 				
-				<p><i>The following article was written prior to the development of this website ...hopefully, some of the 'time searching through Play Store' 
+				<p id="1"><i>The following article was written prior to the development of this website ...hopefully, some of the 'time searching through Play Store' 
 				may now be reduced.</i>
 				</p>
 				
 				<p>
 				<h4>Evaluation of Androids in a Learning Support Classroom:</h4>
-				<p>
+				<p id="2">
 				St. Paul's SNS, Roll:19618B, Ayrfield, Dublin 13. Phone: 01 8472810
 				</p>
-				<p>
+				<p id="3">
 				We procured five Android tablets for the Learning Support Department which we have been using for the past six weeks with the children 
 				in a small group setting. I have found them easy to work with and the purchase and download of applications could not be easier. The 
 				sheer range and choice available on the play store is somewhat overwhelming, and I did spend a number of evenings downloading and 
@@ -79,7 +79,7 @@
 				but with the choice of free downloadable versions you are able to try each app out with groups and if satisfied can purchase the more 
 				sophisticated version. 
 				</p>
-				<p>
+				<p id="4">
 				What I like about the tablets is that they are portable and children in groups of five may be placed on task whether it be English or 
 				Maths in a swift and fuss free manner. I have also used them to assist children in gathering information for school projects, their 
 				neatness and portability allowing instantaneous access to the internet without the bother of having to de camp to the computer room. 
@@ -100,7 +100,7 @@
 				Overall a 10/10 for the tablets from teacher and pupils alike. 
 				Brian Malone.
 				</p>
-				<p><i>The 'Yarvik' Tablets used in the school above were sourced via Barry Donn of Uptown Computers</i></p>
+				<p id="5"><i>The 'Yarvik' Tablets used in the school above were sourced via Barry Donn of Uptown Computers</i></p>
 
 				</p>
 				

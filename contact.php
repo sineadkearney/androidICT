@@ -66,12 +66,12 @@
 				
 				<div class="col-xs-12">
 				<hr class="mobile-only">
-				<p>
+				<p id="1">
 				<strong>For Training and Education Support with regard to choosing and using Android Apps...</strong>
 				</p>
 
-				<p><a class="anchor" name="david_kearney"></a>
-				<strong>David Kearney</strong><br>
+				<p id="2"><a class="anchor" name="david_kearney"></a>
+				<strong>David Kearney</strong> <br>
 				I am based in Kildare and generally serve this and surrounding counties, although I may on occasion travel further afield
 				</p>
 
@@ -80,23 +80,23 @@
 				<span class="glyphicon glyphicon-envelope"></span> davidk@ict4schools.ie<br>				
 				</p>
 
-				<p>
+				<p id="3">
 				If you have purchased your Android Tablets from a Reseller, please contact me through your Reseller 
 				as 'training' may (and should) already be included in the purchase price.
 				</p>
 				
-				<p><i>
+				<p id="4"><i>
 				Having served as a Teacher and as ICT Advisor to Schools, I bring a wealth of first-hand experience of using ICT in the classrooom.
 				</i></p>
 				</div>
 				
 				<div class="col-xs-12">
 				<hr>
-				<p><strong>
+				<p id="5"><strong>
 				For Website Additions/Omissions/Errors...
 				</strong></p>
 				
-				<p>
+				<p id="6">
 				If you discover new Apps that are suitable for Classroom use, or if you feel that some Apps listed on this site are not appropriate...
 				</p>
 				
@@ -108,13 +108,13 @@
 				
 				<div class="col-xs-12">
 				<hr>
-				<p>
+				<p id="7">
 				<strong>For Direct Sales Enquiries</strong> (and particularly for Hardware Purchasing), 
 				please contact the Resellers below. In most instances, these Resellers have been recommended to me by a third-party School/Teacher
 
 				<ul>
 				<li>
-				<p><a class="anchor" name=""></a>
+				<p id="8"><a class="anchor" name=""></a>
 				Sean Griffin, Managing Director, eLearning Services<br>
 				<span class="glyphicon glyphicon-earphone"></span> +353876773175<br>
 				<span class="glyphicon glyphicon-envelope"></span> info@elearningservices.ie<br>

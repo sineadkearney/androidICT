@@ -86,11 +86,15 @@ function readTextFile(file)
 				for (var i = 0; i < allH4tags.length; i++)
 				{
 					var id = allH4tags[i].parentElement.id;
-					var content = allH4tags[i].innerHTML;
-					var arr = SplitStringIntoArray(content);
 					
-					var wordAmountEitherSide = 6;
-					AddParagrphContentToXml(arr, wordAmountEitherSide, title, id);
+					if (id != "")
+					{
+						var content = allH4tags[i].innerHTML;
+						var arr = SplitStringIntoArray(content);
+						
+						var wordAmountEitherSide = 6;
+						AddParagrphContentToXml(arr, wordAmountEitherSide, title, id);
+					}
 				}
 				
 				//find text in all stand-alone paragraphs
@@ -116,8 +120,12 @@ function readTextFile(file)
 							var arr = SplitStringIntoArray(content);
 							
 							var id = allPtags[i].id;
-							var wordAmountEitherSide = 6;
-							AddParagrphContentToXml(arr, wordAmountEitherSide, title, id);
+							
+							if (id != "")
+							{
+								var wordAmountEitherSide = 6;
+								AddParagrphContentToXml(arr, wordAmountEitherSide, title, id);
+							}
 						}
 					}
 				}
@@ -182,7 +190,6 @@ function readTextFile(file)
 				}
 				
 				xmlString += "</pages>";
-				// console.log(xmlString);
 				
 				// save xml string to links.xml
 				var data = new FormData();
@@ -196,7 +203,6 @@ function readTextFile(file)
         }
     }
     rawFile.send(null);
-	//return allText;
 }
 
 function SplitStringIntoArray(string)
@@ -242,11 +248,10 @@ function AddParagrphContentToXml(arr, wordAmountEitherSide, linkTitle, id)
 			xmlString += resultString + "\n";
 		}
 	}
-	//return xmlString;
 }
 
 //return false if the word is one of the words that we are ignoring
-var ignoreTheseWords = ['a', 'the', 'of', 'is', 'an', 'and', '', 'in', 'or', 'to', '...', '-', '--'];
+var ignoreTheseWords = ['a', 'the', 'of', 'is', 'an', 'and', '', 'in', 'or', 'to', '...', '-', '--', '.....', 'q.', 'a.', ':-)'];
 function CheckIfWordIsValid(word)
 {
 	for (var i = 0; i < ignoreTheseWords.length; i++)
@@ -258,10 +263,12 @@ function CheckIfWordIsValid(word)
 }
 
 // <pages>
-// <link>
-// <title>What is Android?</title>
-// <url>android-os.php#what_is_android</url>
-// </link>
+// 	<link>
+//		<term> the word the user searches for </term>
+// 		<title> the title of the result which will be a hyperlink </title>
+//		<string> shows some of the string in which "term" is found </string>
+// 		<url> the hyperlink that "title" uses</url>
+// 	</link>
 //...
 //</pages>
 function GenerateXmlEntry(word, title, string, url)
@@ -274,7 +281,19 @@ function GenerateXmlEntry(word, title, string, url)
 	return str;
 }
 
-var fileName = "apps-personal.php";
+//Done
+// var fileName = "apps-personal.php";
+// var fileName = "index.php";
+// var fileName = "contact.php";
+// var fileName = "android-classroom.php";
+// var fileName = "android-os.php"; //TODO: support lists
+// var fileName = "android-research.php";
+// var fileName = "android-support.php"; 
+// var fileName = "android-testimonials.php"; //TODO: support lists
+var fileName = "android-weblinks.php";
+
+//to check
+// var fileName = "android-hardware.php";
 $( document ).ready(function() {
 
 	
