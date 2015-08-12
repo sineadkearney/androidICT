@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Android Tablets in the Classroom</title>
+    <title>Contact - Android Tablets in the Classroom</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -62,34 +62,12 @@
 					<h3 class="page-header">Contact</h3>
 					<hr>
 				
-				<div class="col-md-6 col-xs-12">
-				<p>
-				<strong>For Direct Sales Enquiries</strong> with regard to the Android in Schools Project (and particularly for Hardware Purchasing), 
-				please contact...
-
-				<p><a class="anchor" name="barry_donn"></a>
-				<strong>Barry Donn</strong><br>
-				Uptown Computers,<br>
-				44 The Boulevard,<br>
-				Grange Rath,<br>
-				Colpe Cross,<br>
-				Drogheda,<br>
-				Co Meath<br>
-				<span class="glyphicon glyphicon-earphone"></span> +353 (0)41 9818292 (Office)<br>
-				<span class="glyphicon glyphicon-earphone"></span> +353 (0)87 2496341 (Mobile)<br>
-				<span class="glyphicon glyphicon-envelope"></span> barry@uptowncomputers.net <br>
-				</p>
 				
-				<p><i>
-				Uptown Computers has many years experience of addressing the ICT needs of schools ...supplying, installing and maintaining wired/wireless 
-				networking, projectors, whiteboards, PCs, Document Cameras etc.
-				</i></p>
-				</div>
 				
-				<div class="col-md-6 col-xs-12">
+				<div class="col-xs-12">
 				<hr class="mobile-only">
 				<p>
-				<strong>For Training and Education Support...</strong>
+				<strong>For Training and Education Support with regard to choosing and using Android Apps...</strong>
 				</p>
 
 				<p><a class="anchor" name="david_kearney"></a>
@@ -99,12 +77,11 @@
 
 				<p>
 				
-				<span class="glyphicon glyphicon-earphone"></span> +353 (0)87 9539580<br>
 				<span class="glyphicon glyphicon-envelope"></span> davidk@ict4schools.ie<br>				
 				</p>
 
 				<p>
-				If you have purchased your Android Tablets from Uptown Computers ...or from another supplier ...please contact me through your Reseller 
+				If you have purchased your Android Tablets from a Reseller, please contact me through your Reseller 
 				as 'training' may (and should) already be included in the purchase price.
 				</p>
 				
@@ -124,10 +101,33 @@
 				</p>
 				
 				<p>
-				Please contact me via davidk@ict4schools.ie
+				<span class="glyphicon glyphicon-envelope"></span> davidk@ict4schools.ie<br>	
 				</p>
 				
 				</div>
+				
+				<div class="col-xs-12">
+				<hr>
+				<p>
+				<strong>For Direct Sales Enquiries</strong> (and particularly for Hardware Purchasing), 
+				please contact the Resellers below. In most instances, these Resellers have been recommended to me by a third-party School/Teacher
+
+				<ul>
+				<li>
+				<p><a class="anchor" name=""></a>
+				Sean Griffin, Managing Director, eLearning Services<br>
+				<span class="glyphicon glyphicon-earphone"></span> +353876773175<br>
+				<span class="glyphicon glyphicon-envelope"></span> info@elearningservices.ie<br>
+				Web:  <a href="http://www.eLearningServices.ie" target="_blank">www.eLearningServices.ie</a><br>
+				As well as sales (and configuring) of Android Tablets, eLearning Services also specialise in configuring <a href="https://www.google.com/work/apps/education/" target="_blank">Google Apps for Education (GAFE)</a>
+				</p>
+				</li>
+				
+				</ul>
+				
+				</div>
+				
+				
 				
 				
                 </div>

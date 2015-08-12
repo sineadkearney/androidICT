@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Android Tablets in the Classroom</title>
+    <title>Technical - Android Tablets in the Classroom</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -67,7 +67,7 @@
 
 				<p>
 				<strong>Click on any icon below</strong> to see a description of the app, and a link to the (usually) Google Play Store (for which you will 
-				have previously registered an email account). Click anywhere on the page to close the description. We have have copied and pasted the description of the apps listed below but the <i>use 
+				have previously registered an email account). Click again on the icon to close the description. We have have copied and pasted the description of the apps listed below but the <i>use 
 				of Italics indicates that the App has also been Tested by us </i>
 				</p>
 				
@@ -79,17 +79,7 @@
 							<div class="col-xs-10 col-md-7 selectContainer">
 								<select id="jumpToSelection" onchange="location = this.options[this.selectedIndex].value" class="form-control">
 									<option value="#top"></option>
-									<option value="#banking">Banking/Finance</option>
-									<option value="#cloud">Cloud Storage</option>
-									<option value="#entertainment">Entertainment/Hobbies</option>
-									<option value="#games">Games</option>
-									<option value="#netComm">Networking/Communication</option>
-									<option value="#news">News/Media</option>
-									<option value="#office">Office</option>
-									<option value="#property">Property</option>
-									<option value="#shopping">Shopping</option>
-									<option value="#travel">Travel</option>
-									<option value="#weather">Weather</option>
+									
 								</select>
 							</div>
 						</div>
@@ -110,7 +100,7 @@
 				<p><strong>Advertising:</strong> Needs Wifi</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.sand.airdroid' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/technical/AirDroid.jpg">
+				<img  class="centered" src="images/technical/AirDroid.JPG">
 					<p class="text-center">AirDroid</p>
 				</div>
 				
@@ -122,7 +112,7 @@
 				(SD Card) memory.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.a0soft.gphone.app2sd&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/technical/App2CD.jpg">
+				<img  class="centered" src="images/technical/App2CD.JPG">
 					<p class="text-center">App 2 CD</p>
 				</div>
 				
@@ -135,7 +125,7 @@
 				installations (although 'profiles' in Android 4.2 may address some Policy issues)</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.domobile.applock' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/technical/AppLock.jpg">
+				<img  class="centered" src="images/technical/AppLock.JPG">
 					<p class="text-center">AppLock</p>
 				</div>	
 				
@@ -148,7 +138,7 @@
 				<p><strong>Advertising:</strong> <i>Need to be online when viewing Maps</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.esri.android.client&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/technical/ArcGisT.jpg">
+				<img  class="centered" src="images/technical/ArcGisT.JPG">
 					<p class="text-center">ArcGis</p>
 				</div>
 				
@@ -174,7 +164,7 @@
 				<p><i>Option to upgrade to Pro version for €7.50</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.antivirus.tablet&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/technical/AVG_bwh67308.jpg">
+				<img  class="centered" src="images/technical/AVG_bwh67308.JPG">
 					<p class="text-center">AVG Anti-Virus</p>
 				</div>
 				
@@ -190,7 +180,7 @@
 				bluestacks.com</a></p>
 				<p>Optionally, you can also install on your Android 'Cloud Connect' from the <a href='https://play.google.com/store/apps/details?id=com.bluestacks.appsyncer&hl=en' target='_blank'>
 				Google Play Store</a> in order to run (sync) your Android Installed Apps on your PC</p>">
-				<img  class="centered" src="images/technical/BlueStacks.jpg">
+				<img  class="centered" src="images/technical/BlueStacks.JPG">
 					<p class="text-center">BlueStacks</p>
 				</div>	
 				
@@ -199,7 +189,7 @@
 				<p><strong>Description:</strong> Move your files between Tablets and/or PC</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=it.medieval.blueftp&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/technical/BlueToothFile.jpg">
+				<img  class="centered" src="images/technical/BlueToothFile.JPG">
 					<p class="text-center">Bluetooth File Transfer</p>
 				</div>
 				
@@ -208,7 +198,7 @@
 				<p><strong>Description:</strong> <i>Works well ...as an alternative to the Android 'Browser'</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.android.chrome&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/technical/Chrome.jpg">
+				<img  class="centered" src="images/technical/Chrome.JPG">
 					<p class="text-center">Chrome</p>
 				</div>	
 				
@@ -218,7 +208,7 @@
 				<a href='https://chrome.google.com/remotedesktop'>Chrome Remote Desktop app</a> from Chrome Web Store  ...and then control via this app</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.google.chromeremotedesktop' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/technical/ChromeRemote.jpg">
+				<img  class="centered" src="images/technical/ChromeRemote.JPG">
 					<p class="text-center">Chrome Remote Desktop</p>
 				</div>
 				
@@ -228,7 +218,7 @@
 				directly (if recognised ...'Irish Times') or a Google Search listing (...'Irish Independent')</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=mobi.mgeek.TunnyBrowser' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/technical/DolphinPad.jpg">
+				<img  class="centered" src="images/technical/DolphinPad.JPG">
 					<p class="text-center">Dolphin Pad</p>
 				</div>
 				
@@ -278,7 +268,7 @@
 				<p><strong>Advertising:</strong> <i>Needs Wifi</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/technical/IPwebcam.jpg">
+				<img  class="centered" src="images/technical/IPwebcam.JPG">
 					<p class="text-center">IP Webcam</p>
 				</div>
 				
@@ -292,7 +282,7 @@
 				Google Play Store</a></p>
 				<p>Free Teacher Version: <a href='http://www.lanschool.com/lanschool_lite/download' target='_blank'>
 				lanschool.com</a></p>">
-				<img  class="centered" src="images/technical/LanSchool.jpg">
+				<img  class="centered" src="images/technical/LanSchool.JPG">
 					<p class="text-center">LanSchool</p>
 				</div>
 				
@@ -315,7 +305,7 @@
 				AVIs …these latter don’t seem to play in the pre-installed 2160P VideoPlayer</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/technical/MXPlayer.jpg">
+				<img  class="centered" src="images/technical/MXPlayer.JPG">
 					<p class="text-center">MX Player</p>
 				</div>
 				
@@ -331,19 +321,7 @@
 					<p class="text-center">Open in Broswer</p>
 				</div>
 				
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover"
-				data-content="
-				<p><strong>Description:</strong> <i>Adobe Flash Player is no longer available to download from the Play Store. One work-around is to 
-				use a 'streaming browser' such as Photon. The link below is to the free, ad-supported version (you can upgrade for, I think, €4). Such 
-				Browsers can have a time-lag effect. <strong>However, our advice is to 'side load' the flash.apk file from Adobe</strong> in order to 
-				get Flash running natively on Android 4.1. Read more on our <a href='android-weblinks.php'>weblinks info'</a> page</i></p>
-				<p><strong>Advertising:</strong> <i>Needs Wifi (of course!)</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.appsverse.photon' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/technical/PhotonBrowserT.jpg">
-					<p class="text-center">Photon Flash Browser</p>
-				</div>
-				
+								
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover"
 				data-content="
 				<p><strong>Description:</strong> <i>Print via Wifi, Bletooth, USB or Remotely. Some Printer brands have their own specific apps. Also, 
@@ -361,7 +339,7 @@
 				<p><strong>Advertising:</strong> Needs Wifi</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/technical/TeamView.jpg">
+				<img  class="centered" src="images/technical/TeamView.JPG">
 					<p class="text-center">TeamViewer</p>
 				</div>
 
@@ -371,10 +349,19 @@
 				having to go into Settings</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.hs.wifionoff' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/technical/WifiOnOff.jpg">
+				<img  class="centered" src="images/technical/WifiOnOff.JPG">
 					<p class="text-center">Wifi On/Off</p>
 				</div>	
 
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover"
+				data-content="
+				<p><strong>Description:</strong> <i>I have tested quite a number of Browsers to see which one would offer continued access to Flash content</i></p>
+				<p><strong>Link:</strong> <a href='http://android.ict4schools.ie/FlashBrowsers.html' target='_blank'>
+				Flash Browsers</a></p>">
+				<img  class="centered" src="images/technical/Flash.JPG">
+					<p class="text-center">Flash</p>
+				</div>	
+				
                 </div>
                 <!-- /.col-lg-12 -->
             </div>

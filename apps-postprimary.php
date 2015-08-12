@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Android Tablets in the Classroom</title>
+    <title>Post-Primary - Android Tablets in the Classroom</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -59,7 +59,7 @@
             <div class="row">
                 <div class="col-xs-12">
                     
-					<h3 class="page-header">Apps for Post Primary School</h3>
+					<h3 class="page-header">Apps for Post-Primary School</h3>
 					<hr>
 				
 				<p class="lead">
@@ -68,7 +68,7 @@
 				
 				<p>
 				<strong>Click on any icon below</strong> to see a description of the app, and a link to the (usually) Google Play Store (for which you will 
-				have previously registered an email account). Click anywhere on the page to close the description.
+				have previously registered an email account). Click again on the icon to close the description. We have have copied and pasted the description of the apps listed below but <i>the use of Italics indicates that the App has also been Tested by us.</i>
 				</p>
 				
 				<div class="col-xs-12 col-md-offset-7 col-md-5">
@@ -80,6 +80,7 @@
 									<option value="#top"></option>
 									<option value="#art">Art</option>
 									<option value="#business">Business</option>
+									<option value="#careers">Careers</option>
 									<option value="#cspe">CSPE</option>
 									<option value="#english">English</option>
 									<option value="#irish">Gaeilge</option>
@@ -93,7 +94,7 @@
 									<option value="#pe">PE/Health</option>
 									<option value="#religion">Religion</option>
 									<option value="#science">Science</option>
-									<option value="#all">All Subjects</option>
+									<option value="#all">eBooks/All Subjects</option>
 								</select>
 							</div>
 						</div>
@@ -113,7 +114,7 @@
 				<p><i>Pressure sensitive. Choice of 3 to 24 fps. An image (such as from your Camera) as Background. 'Projects' can be re-edited. 
 				Files are saved locally as .mp4. Help found <a href='http://www.kdanmobile.com/en/animation-desk/howto/?page_id=112'>here</a> 
 				€2.95 for Full Version but Free works well.</i></p>
-				<p><strong>Advertising:</strong> <i>Online - Ads.</i></p>
+				<p><strong>Technical:</strong> <i>Online - Ads.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.kdanmobile.android.animationdesk' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/AnimDesk.JPG">
@@ -128,7 +129,7 @@
 				<p><i>Supposed to be heavy on resources so check that you Quit when finished! Works in Portrait Mode (although images rotate to Landscape 
 				when fully pinch-zoomed). Painters listed from Aachen to Zwart. Images can be shared, saved, used as Wallpaper. Uses Wikipedia for 
 				additional info.</i></p>
-				<p><strong>Advertising:</strong> <i>Ads appear ...App needs to be online</i></p>
+				<p><strong>Technical:</strong> <i>Ads appear ...App needs to be online</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.merdroid.artyfarty&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/ArtAcademy.JPG">
@@ -152,7 +153,7 @@
 				<p><strong>Description:</strong> <i>Portrait Mode! A simple 'colour and draw' app ...except it also has a Playback feature (from Single 
 				to 12 Speed!) ...try it with Long Division! Images are saved into DoodleTalent folder: these static images can be Shared ...or they can 
 					be re-opened and re-played at leisure</i></p>
-				<p><strong>Advertising:</strong> <i>Ads appear, even when offline</i></p>
+				<p><strong>Technical:</strong> <i>Ads appear, even when offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.doodlejoy.studio.doodleworld' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/PaintJoy.JPG">
@@ -162,10 +163,10 @@
 				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Description:</strong> <i>High-end drawing app; Can Save and Load</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.adsk.sketchbookhdexpress&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/Sketchbook.jpg">
+				<img  class="centered" src="images/primary/Sketchbook.JPG">
 					<p class="text-center">Sketchbook Express</p>
 				</div>
 				
@@ -202,24 +203,91 @@
 					<p class="text-center">Daily Accounting</p>
 				</div>
 				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> The Eurostat Country Profiles application gives mobile access to the main statistical data for the EU and its Member States, the euro area, EFTA countries, EU candidate countries and a few other countries. The update function allows the downloading of the freshest data from the Eurostat data server. For more information and other data see also Eurostat's website at <a href='http://ec.europa.eu/eurostat' target='_blank'>http://ec.europa.eu/eurostat</a></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=eurostat.ec.europa.eu.country.profils' target='_blank'>
+				Google Play Store</a> ...and try the Eurostat Quiz App at <a href='https://play.google.com/store/apps/details?id=com.estat.eurostatquizz' target='_blank'>Eurostat Quiz</a></p>">
+				<img  class="centered" src="images/postprimary/Eurostat.JPG">
+					<p class="text-center">Eurostat</p>
+				</div>
+				
 				<div class="col-xs-offset-10 col-xs-2">
 					<button type="button" class="btn btn-default" onclick="document.getElementById('jumpToSelection').selectedIndex = 0; location = '#top'">
 					<span class="glyphicon glyphicon-arrow-up"></span></button>
 				</div>
 				
-				<div class="row col-xs-12" id="cspe">
+				<div class="row col-xs-12" id="careers">
 				<hr>
-				<p> <h4>CSPE:</h4>
+				<p> <h4>Careers:</h4>
 				</p></div>
 				
 				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
-				<p><strong>Description:</strong> <i>Text can be in English or ‘as Gaeilge’. Font size can be set; content can be Black on White, or 
-				vice versa. Click on an ‘Article’ and read its details. Unfortunately, text cannot be Copied from the app.</i></p>
+				<p><strong>Description:</strong> This simple app from <a href='http://www.careersportal.ie/' target='_blank'>CareersPortal.ie</a> allows the user to calculate CAO Points based on their Leaving Cert results. The app has an easy to use interface, allowing the user to obtain their total points quickly and efficiently. The app then provides easy access to the Course Search Wizard on the CareersPortal website, for detailed course and related points information.</p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=ie.careersportal.caocalc' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/postprimary/CAO.JPG">
+					<p class="text-center">CAO Points</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> TalktoEU's extensive guide to working and studying in Europe. Includes country guides for the 27 EU member states advising users on topics such as accommodation, financial matters, mobile networks, healthcare, job guides, studying and national registration.</p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=zoo.talktoeuapp' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/postprimary/EUwork.JPG">
+					<p class="text-center">EU Work/Study</p>
+				</div>
+				
+				<div class="col-xs-offset-10 col-xs-2">
+					<button type="button" class="btn btn-default" onclick="document.getElementById('jumpToSelection').selectedIndex = 0; location = '#top'">
+					<span class="glyphicon glyphicon-arrow-up"></span></button>
+				</div>
+				
+				
+				<div class="row col-xs-12" id="cspe">
+				<hr>
+				<p> <h4>CSPE/Citizenship:</h4>
+				</p></div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> <i>Text can be in English or ‘as Gaeilge’. Font size can be set; content can be Black on White, or vice versa. Click on an ‘Article’ and read its details. Unfortunately, text cannot be Copied from the app.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.al.icfinal&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/IrishConst.JPG">
 					<p class="text-center">Irish Constitution</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> If you've ever been stranded at a European airport or had your luggage lost by an airline, you can now use this mobile app to check your rights immediately, on the spot.
+Launched by the European Commission in 2013, the app now covers all modes of transport in the EU – air, rail, bus and boat.
+Your Passenger Rights gives clear and concise information on travel rights in the European Union.</p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.mobility.dg.android' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/postprimary/EUpassenger.JPG">
+					<p class="text-center">European Passenger Rights</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> Use the European Road Safety App to find all important road safety rules before going abroad or while on the road in Europe. Entertain your passenger(s) with two fun games about road safety.
+Road traffic rules in the EU (as compiled by the European Commission)</p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.emakina.roadsafety' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/postprimary/EUdriving.JPG">
+					<p class="text-center">European Driving</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> Guide on how to use the European Health Insurance Card in the 28 EU countries, Iceland, Lichtenstein, Norway and Switzerland. It includes general information about the card, emergency phone numbers, covered treatments and costs, how to claim reimbursement and who to contact in case you have lost your card. Available in 25 languages with easy option to switch from one language to another.)</p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=eu.europa.ec.ehic' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/postprimary/EUhealth.JPG">
+					<p class="text-center">European Health Guide</p>
 				</div>
 				
 				<div class="col-xs-offset-10 col-xs-2">
@@ -236,7 +304,7 @@
 				data-content="
 				<p><strong>Description:</strong> <i>Reads downloaded texts (e.g. Aladdin from Project Gutenberg). Font can be increased but page cannot 
 				be scrolled. Downloaded Texts – option to ‘continue reading’. Texts can be 'imported from SD'</i></p>
-				<p><strong>Advertising:</strong> <i>Online: Advertising from booking.com etc. Runs when offline</i></p>
+				<p><strong>Technical:</strong> <i>Online: Advertising from booking.com etc. Runs when offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.graphilos.epub&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/ePubPrimary.JPG">
@@ -249,7 +317,7 @@
 				FBReader is fast, highly customizable. Can use external TrueType/OpenType fonts. Includes hyphenation patterns for 16 languages. 
 				Includes a browser/downloader for network e-book catalogs/stores.</p>
 				</i>Pre-installed but you can also download from...</i></p>
-				<p><strong>Advertising:</strong> <i>No Ads. Works offline.</i></p>
+				<p><strong>Technical:</strong> <i>No Ads. Works offline.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/FBReaderP.png">
@@ -269,10 +337,10 @@
 				(Flash) interactive</a>. Curriculum advice (Creative Writing in TY) from 
 				<a href='http://www.ncca.ie/en/Curriculum_and_Assessment/Post-Primary_Education/Senior_Cycle/Transition_Year/Transition_Units/Creative_writing.pdf'>
 				NCCA.</a></i></p>
-				<p><strong>Advertising:</strong> <i>No Ads.</i></p>
+				<p><strong>Technical:</strong> <i>No Ads.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.org.reading.haiku' target='_blank'>
 				Google Play Store</a></p>">
-				<img class="centered" src="images/postprimary/Haiku.jpg">
+				<img class="centered" src="images/postprimary/Haiku.JPG">
 					<p class="text-center">Haiku Poem</p>
 				</div>
 				
@@ -282,7 +350,7 @@
 				use of tablet devices and their associated functionality. Word Mover allows children and teens to create “found poetry” by choosing from 
 				word banks and existing famous works; additionally, users can add new words to create a piece of poetry by moving/manipulating the text.</i>
 				<p><i>In the Word Bank, one can use two-finger gesturing to resize and rotate the words. App contains Shakepeare's Sonnet 18, Gettysburg Address, I have a Dream, America the Beautiful ...and allows user to create ab initio. A 'word' can be a phrase up to 23 characters in length. Files are saved as Images (so cannot be shared for editing within the App)</i></p>
-				<p><strong>Advertising:</strong> <i>No Ads.</i></p>
+				<p><strong>Technical:</strong> <i>No Ads.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.reading.wordmover' target='_blank'>
 				Google Play Store</a></p>"
 				>
@@ -306,7 +374,7 @@
 				<p><strong>Description:</strong> OIDE focuses exclusively on spoken Gaeilge as used in everyday interaction and gets learners speaking 
 				relevant, practical Irish language dialogue ...It sets out to help learners practice conversational Gaeilge...</p>
 				<p><i>Use as a stand-alone app and/or in conjunction with the <a href='http://lurgan.biz/oide-2015/'>website</a></i></p>
-				<p><strong>Advertising:</strong> <i>Needs to be online</i></p>
+				<p><strong>Technical:</strong> <i>Needs to be online</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.AbairleatOideMobile' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/AbairLeat.JPG">
@@ -340,7 +408,7 @@
 				<p><strong>Description:</strong> Free Version..., containing 6 lessons. ... Upgrade to the full version to remove adverts, receive 
 				exclusive updates and enjoy over 20 lessons.</p>
 				<p><i>'Use the Slider to move along the list of Topics: Animals, Colours, Days, Months, Numbers, St Patrick. Hear and see the words</i></p>
-				<p><strong>Advertising:</strong> <i>Ads appear</i></p>
+				<p><strong>Technical:</strong> <i>Ads appear</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.numbersfree&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img class="centered" src="images/postprimary/LearnIrishLite.JPG">
@@ -366,10 +434,28 @@
 				first class entertainment they are also an excellent vehicle for language learning. </p>
 				<p><i>Lots of songs with lyrics 'as Gaeilge'</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=ie.lurgan.android&hl=en' target='_blank'>
-				Google Play Store</a></p>"
-				>
+				Google Play Store</a></p>">
 				<img class="centered" src="images/postprimary/TGLurgan.JPG">
 					<p class="text-center">TG Lurgan</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" data-placement="bottom"
+				data-content="
+				<p><strong>Author:</strong> Coláiste Lurgan</p>
+				<p><strong>Description:</strong> Irish Grammar-Gramadach na Gaeilge is the Irish language app that Irish teachers, students and enthusiasts have been waiting for. It is a must have app for Leaving and Junior cert students to master their grammar in the run up to exams ... At the end of each quiz students will be given a summary and explanation of their answers.</p>
+				<p><i>There is a cost of €3.59</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.irishapps.irishgrammar&hl=en' target='_blank'>
+				Google Play Store</a></p>">
+				<img class="centered" src="images/postprimary/Gramadach.JPG">
+					<p class="text-center">Irish Grammar (€)</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> Learn <i>(among others)</i> ... Irish, ... Totally fun and 100% free. Google Play's 'Best of the Best' of 2013 and 2014!</p><p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.duolingo&hl=en' target='_blank'>
+				Google Play Store </a></p>">
+				<img  class="centered" src="images/postprimary/Duolingo.JPG">
+					<p class="text-center">Duolingo</p>
 				</div>
 				
 				<div class="col-xs-offset-10 col-xs-2">
@@ -400,7 +486,7 @@
 				<p><strong>Description:</strong> Political map. Educational game to learn easily the countries and capitals of the world (Europe, Africa, 
 				America, Oceania and Asia). You can move the map with your finger and zoom.</p>
 				<p><i>Runs in Portrait orientation. Two Modes: Study and Test. Simple 'point and click' interface</i></p>
-				<p><strong>Advertising:</strong> <i>Ads appear.</i></p>
+				<p><strong>Technical:</strong> <i>Ads appear.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=orimar.politicalMap' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/PoliticalMap.JPG">
@@ -409,13 +495,13 @@
 
 				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
-				<p><strong>Description:</strong> <i>…even better than the Apple one??? Pre-installed on many Tablets but also available from the Play 
+				<p><strong>Description:</strong> <i> Pre-installed on many Tablets but also available from the Play 
 				Store. Can Pinch to Zoom In/Out.</i></p>
-				<p><strong>Advertising:</strong> <i>In airplane/no-wifi mode, you will be able to see the last visited location but you need to be 
+				<p><strong>Technical:</strong> <i>In airplane/no-wifi mode, you will be able to see the last visited location but you need to be 
 				on-line to get the full potential of this app.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/GoogleMaps.jpg">
+				<img  class="centered" src="images/primary/GoogleMaps.JPG">
 					<p class="text-center">Maps</p>
 				</div>
 				
@@ -481,7 +567,7 @@
 				presidents, prime ministers, revolutionaries, artists, scientists, dictators, war criminals, generals, admirals, and more Play for leisure or 
 				compete for high scores with an online leader board. Features over 600 images.</p>
 				<p><i>Information provided via links to Wikipedia</i></p>
-				<p><strong>Advertising:</strong> <i>Ads appear</i></p>
+				<p><strong>Technical:</strong> <i>Ads appear</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=ta.namethathistoricalfigure' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/NameHistFigure.jpg">
@@ -493,7 +579,7 @@
 				<p><strong>Description:</strong> <i>Events that happened ‘on this day’ are listed and have ‘external links’ (to Wikipedia, which are 
 				based on the text in the ‘event’). There is a Search facility; typing ‘Ireland’ brings up a range of events, from 2008 back to, after 
 				about 7 clicks on ‘load more’, St Patrick in 456. There are major gaps: there is, for example, no reference to the Famine of 1845</i></p>
-				<p><strong>Advertising:</strong> <i>Ads. if online. Runs when Offline. No Ads when Offine.</i></p>
+				<p><strong>Technical:</strong> <i>Ads. if online. Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.downshift.android.tih&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/TodayHistory.JPG">
@@ -506,7 +592,7 @@
 				ships, tanks, weapons, places, awards, transports, and other cool stuff. Compete with your friends and the world via a global score board.</p>
 				<p><i>Comes with 20-30 images and more are downloaded during Wifi-connected use. Stick with 'Gallery' and Quiz' options and avoid the other 
 				download links!</i></p>
-				<p><strong>Advertising:</strong> <i>Ads appear</i></p>
+				<p><strong>Technical:</strong> <i>Ads appear</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.wwiiquiz' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/WW2.JPG">
@@ -571,6 +657,136 @@
 				<p> <h4>Languages:</h4>
 				</p></div>
 				
+				
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Author:</strong> babbel.com</p>
+				<p><strong>Description:</strong> <i>Babbel does a preliminary test/taster, the invites one to Register …this then allows you to download Lesson 1. Further Lessons available at a cost (c. €60 p.a.). App has Speech Recognition. Activities include Listening, Writing (via DnD), Matching and Spelling. App runs in Landscape mode. This App requires online access.</i></p>
+				
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/developer?id=Babbel' target='_blank'>
+				Google Play Store</a> ...and then choose your specific language(s)</p>">
+								<img  class="centered" src="images/postprimary/BabbelFrench.JPG">
+					<p class="text-center">Babbel</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> <i>(following Registration) Lingua.ly starts with a user profiling. It does state that it uses images sourced via Bing (so may not always be appropriate for 'under 13s'). You can browser to find your own 'best' flashcard (and then share it via Facebook – but don't choose this option in school!). According as you add your learned vocabulary, the App then locates articles from the Web using some/all of your vocab. Again, this opens up content from the Web (so possible issues with suitability). App runs in Portrait mode. This App requires online access.<i></i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.lingualy.lingualymobile' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/postprimary/LinguaLy.JPG">
+					<p class="text-center">Lingua.ly</p>
+				</div>
+
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> <i>Duolingo places the emphasis on daily practice. Activities including Reading, Writing (Keyboard and DnD), Speaking, Spelling. One can log in in order to save a Profile; also one can sign in to the web-based version at <a href='http://www.duolingo.com' target=_blank>duolingo.com</a> …and via <a href=https://schools.duolingo.com/ target=_blank>schools.duolingo.com</a> - with the latter, create an account and login to the teacher Dashboard. Invite students to, for example, <a href='https://www.duolingo.com/o$o=davidk@ict4schools.ie&s=Italian%20Fruit' target='_blank'>duolingo.com/davidk</a>. Once Students have enrolled, they can allow Teacher to track their progress. Very suitable app for classroom use. App runs in Portrait or Landscape mode. This App requires online access.</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.duolingo&hl=en' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/postprimary/Duolingo.JPG">
+					<p class="text-center">Duolingo</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> * English * French * Spanish * German * Italian * Japanese * Chinese * Portuguese * Polish * Russian * Turkish. <i>First 11 lessons are free; thereafter €9 pm or €49 pa. Formats used are Flashcards, Dialogue, Quiz - but not 'dictation'. For the 'writing' component, what you write is then sent to the online community (this is not age-limited!); you also have the option (and earn more 'berries') by correcting the work of others</i></p>
+				<p><strong>Technical:</strong> <i>Free but with in-app purchases. Registration required</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/developer?id=busuu+Limited' target='_blank'>
+				Google Play Store</a> (you can choose from the General or Language-specific apps)</p>">
+				<img  class="centered" src="images/postprimary/Busuu.JPG">
+					<p class="text-center">Busuu</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> <i>Use it to learn a Language (and other topics). Log in to the App as a Learner - on the web version <a href='http://www.memrise.com' target='_blank'>memrise.com</a>, you can be a Teacher (create a course). 300+ languages. Uses 'mems' (silly sentences/images!) to help you memorise. Plenty of repetition</i></p>
+				<p><strong>Technical:</strong> <i>Registration required. Volume of Audio varies a little. Runs in Portrait mode.</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion' target='_blank'>
+				Google Play Store</a> </p>">
+				<img  class="centered" src="images/postprimary/Memrise.JPG">
+					<p class="text-center">Memrise</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> <i>Activities are 'Word List' (Read and Listen), 'Flash Card', 'Take Test' (Multiple Choice, Word Order (DnD), Bubble Game and Fill in Blank) - the Display switches to Portrait for these four) and 'Did you Know?'. Has Dictation: you can record yourself (they are kept in a folder called 'REC')</i></p>
+				<p>All 100 audio clips (.mp3) can be downloaded (e.g. as ENIT-all.zip, then extracted) and listened to outside of the app</p>
+				<p>Many of the activities are also available on desktop/laptop/tablet browser via <a href='http://50languages.com/' target='_blank'>http://50languages.com/</a></p>
+				<p><strong>Technical:</strong> <i>30 of the 100 Lessons are free: Single language purchase c. €2.50, All languages c. €9. Registration not required for Trial. No 'online community'.</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/developer?id=50languages' target='_blank'>
+				Google Play Store</a> (you can choose from the General or Language-specific apps)</p>">
+				<img  class="centered" src="images/postprimary/50langs.JPG">
+					<p class="text-center">50Languages</p>
+				</div>
+				
+			
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> Not always a perfect translation ...but a useful exercise even (especially?) when wrong. Translate typed text, speech input, freehand input, large text (e.g. Menus or Signs)</p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/postprimary/GoogleTranslate.JPG">
+					<p class="text-center">Google Translate</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> <i>Text to Speech: Type or Paste the story, then hear it played back in French, German, Italian, Spanish and many more. Finally, export what you hear as an Audio (.wav) file. Each Sentence is highlighted as it is spoken. As an extra bonus, select any text in another application (e.g. a web page like euronews.com) and choose to Share it back into Talk.</i></p>
+				<p><strong>Technical:</strong> <i>Advertising (remove ads for €1.99). Many languages still run when Offline</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.ktix007.talk' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/postprimary/Talk.JPG">
+					<p class="text-center">Talk</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong><i>This is a series of Offline Dictionaries. They are Monolingual, taken from the relevant 'Wiktionary'</i></p>
+				<a href='https://play.google.com/store/apps/developer?id=Livio&hl=en' target='_blank'>
+				Google Play Store</a> ...and pick the language of your choice</p>">
+				<img  class="centered" src="images/postprimary/ItalianDict.JPG">
+					<p class="text-center">Offline Dictionary (MonoL)</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong><i>This is a series of Offline Dictionaries. They are Bilingual. Very simple searching in both languages. No conjugation/gender information</i></p>
+				
+				<a href='https://play.google.com/store/apps/developer?id=DIC-o' target='_blank'>
+				Google Play Store</a> ...and pick the language of your choice</p>">
+				<img  class="centered" src="images/postprimary/Dico.JPG">
+					<p class="text-center">Offline Dictionary (BiL)</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong><i>WordReference is a very useful resource, giving Translations and Conjugations. Works with French, German, Italian, Spanish and many others. I also use its online web version at <a href='http://www.wordreference.com/' target='_blank'</a>www.wordreference.com</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.wordreference' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/postprimary/WordReference.JPG">
+					<p class="text-center">Online Reference</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> <i> A very simple App to use. Having registered the App and having bought the 'Post-Its', launch the App and point the camera. The relevant video appears on screen. There is also the option to play back the previously viewed videos. 'Post-It' Packs cost around €6. You could also use the App in conjunction with the sample digital notes on their website <a href=http://flashsticks.com/download/free-flashsticks-notes-try-app-right-now/ target=_blank>flashsticks.com/notes</a> (give your email in order to download the .pdf file).</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.creativeexample.FlashSticks' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/postprimary/FlashSticksPP.JPG">
+					<p class="text-center">Flashsticks</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> ReLANpro Language Lab combines all the features of the ReLANpro CCM with advanced language laboratory functionality. There are dual tracks: one for Teacher, one for Student. Teacher records/creates the content; Student listens and speaks. A Language Lab 'in the cloud'. Distributed in Ireland cf. <a href=http://www.ambassadorlanguages.ie/ReLANPro_Cloud__Class/Default.1118.html target=blank>http://www.ambassadorlanguages.ie/ReLANPro_Cloud__Class/Default.1118.html</a>  </i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.relanpro.mobile&hl=en' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/postprimary/ReLanPro.JPG">
+					<p class="text-center">ReLanPro</p>
+				</div>
+				
 				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Description:</strong> Crosswords. Lines (3 ... 25) columns (3 ... 25) and difficulty levels (3) - Game infinite combinations.
@@ -588,38 +804,6 @@
 					<p class="text-center">Crosswords</p>
 				</div>
 				
-				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Author:</strong> babbel.com</p>
-				<p><strong>Description:</strong> Play, understand, speak and write! Get the free Basic and Advanced Vocabulary at home and on-the-go: 
-				study vocabulary with interactive exercises, systematically deepen your knowledge and practice your pronunciation. Actively speak 
-				French with babbel.com, one of the biggest language learning platforms worldwide.</p>
-				<p><i>You can skip the Log In part. A Number of Levels are provided without Logging in. See and Listen; Listen and Select; Test 
-				(spell, gap fill etc.)</i></p>
-				<p><strong>Link:</strong> French: <a href='https://play.google.com/store/apps/details?id=com.babbel.mobile.android.fr' target='_blank'>
-				Google Play Store</a></p>
-				<p>Spanish: <a href='https://play.google.com/store/apps/details?id=com.babbel.mobile.android.es' target='_blank'>
-				Google Play Store</a></p>
-				<p>German: <a href='https://play.google.com/store/apps/details?id=com.babbel.mobile.android.de' target='_blank'>
-				Google Play Store</a></p>
-				<p>Italian: <a href='https://play.google.com/store/apps/details?id=com.babbel.mobile.android.it' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/postprimary/BabbelFrench.JPG">
-					<p class="text-center">Learn French, German....</p>
-				</div>
-				
-				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Description:</strong> Lingua.ly turns any mobile device into a language learning experience.
-				<ul><li>Type or paste words to enrich your vocabulary with our smart dictionary</li>
-				<li>Practice what you learned with personalized flashcards and fun games</li>
-				<li>See your new words in real articles from around the web that are just right for you</li></ul></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.lingualy.lingualymobile' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/postprimary/LinguaLy.JPG">
-					<p class="text-center">Lingua.ly</p>
-				</div>
-
 				<div class="col-xs-offset-10 col-xs-2">
 					<button type="button" class="btn btn-default" onclick="document.getElementById('jumpToSelection').selectedIndex = 0; location = '#top'">
 					<span class="glyphicon glyphicon-arrow-up"></span></button>
@@ -642,11 +826,11 @@
 				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Description:</strong> The SolidWorks Tips Daily App will give you access to our Free Video Tutorials, Tips, Website, 
-				Social Media and more. If you are a user of SolidWorks every bit of help is a benifit. Checking this app on a regular basis will
+				Social Media and more. If you are a user of SolidWorks every bit of help is a benefit. Checking this app on a regular basis will
 				help you learn new tools you didn't know before and keep you updated with changes in SolidWorks.</p>
-				<p>Additonal Note: <a href='https://play.google.com/store/apps/details?id=com.solidworks.eDrawingsAndroid'>eDrawings App</a> - to 
+				<p>Additional Note: <a href='https://play.google.com/store/apps/details?id=com.solidworks.eDrawingsAndroid'>eDrawings App</a> - to 
 				open 3D (EASM, EPRT, SLDASM, SLDPRT), 2D (EDRW, SLDDRW) and associated files from any source - is available but costs €1.47</p>
-				<p><i>Some <a href='http://www.t4.ie/dcg_com_design_cad.html'>'T4' files are available</a> ...choose the CAD tab, then e.g. '6 Pencil 
+				<p><i>Some 'T4' files are available at, e.g., <a href='http://www.t4.ie/dcg_com_design_cad.html' target=_blank>http://www.t4.ie/dcg_com_design_cad.html</a> ...choose the CAD tab, then e.g. '6 Pencil 
 				Case' ...Long Press and Open ...with ES Downloader (I use ES File Manager on my tablets) ...Long Press ...More ...Extract ...with 
 				ES again.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.conduit.app_b81b2aee33bd4b2191c160263f2776d7.app' target='_blank'>
@@ -693,10 +877,10 @@
 				data-content="
 				<p><strong>Description:</strong> <i>Pre-installed. Does the ‘big 4’ operations as well as Trig., Exponents etc. (but not too many!). 
 				Follows the ‘Bodmas’ Rule, thankfully!</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when offline. Preinstalled</i></p>
+				<p><strong>Technical:</strong> <i>Runs when offline. Preinstalled</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=uk.co.bigfishstudios.eduDroid' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/CalculatorPrimary.jpg">
+				<img  class="centered" src="images/primary/CalculatorPrimary.JPG">
 					<p class="text-center">Calculator</p>
 				</div>
 				
@@ -750,6 +934,16 @@
 
 				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
+				<p><strong>Description:</strong> <i>Whilst I have been a long-time fan of GeoGebra, I love what Sketchometry has brought to the table: freehand drawing and shape recognition</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.sketchometry&hl=en' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/postprimary/Sketchometry.JPG">
+					<p class="text-center">Sketchometry</p>
+				</div>
+				
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
 				<p><strong>Author:</strong> Duck</p>
 				<p><strong>Description:</strong> A digital version of the Formulae and Tables booklet used in Irish State Examinations. Has all the 
 				information supplied in the exams for subjects like Maths, Physics, Chemistry and Economics. Made as part of a project for the BT Young 
@@ -762,34 +956,13 @@
 					<p class="text-center">Log Tables</p>
 				</div>
 				
-				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Description:</strong> Explanatory Calculator
-				<ul><li>Includes basic calculator</li>
-				<li>Performs trigonometric functions</li>
-				<li>Solves quadratic equations (roots, maxima, minima, etc)(with solution)</li>
-				<li>Solves a pair of linear equations (with solution) ...uses Substitution rather than 'Cancellation' method</li>
-				<li>Can evaluate the equation of a line (with solution)</li>
-				<li>Can evaluate point, and angle, of intersection of two lines (with solution)</li>
-				<li>Can solve problems involving parallel lines (with solution)</li>
-				<li>Can solve problems involving points (with solution)</li>
-				<li>Performs linear regression (although graph cannot Pinch to Zoom)</li>
-				<li>Displays indicative graph of the best square fit line</li>
-				<li>Data remains stored</li>
-				<li>Space provided to store any notes</p></li></ul>
-				<p><strong>Advertising:</strong> <i>Ads appear when online. App does not need online access.</i></p>
-				<p><strong>Link:</strong> No longer available in the Google Play Store</p>">
-				<img  class="centered" src="images/postprimary/MathMate.JPG">
-					<p class="text-center">Math Mate</p>
-				</div>
-
-				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+						<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Author:</strong> Mathlab.us</p>
 				<p><strong>Description:</strong> <i>Use ‘keyboard’ at bottom right to modify Function. Nice Pinch-to-Zoom effect. Can switch views 
 				between Graph, Table (of values on a curve). X-Axis is marked in Units (so 1.571 represents Pie/2). You can Save a Library of 
 				Calculations/Functions in the Pro version:  $5 for unlimited offline mode and no ads</i></p>
-				<p><strong>Advertising:</strong> Free Version needs to be online</p>
+				<p><strong>Technical:</strong> Free Version needs to be online</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=us.mathlab.android' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/MathLab.JPG">
@@ -812,7 +985,7 @@
 				Specially designed for Android devices. Easy, simple and intuitive, just write the mathematical expression on the screen then let 
 				MyScript technology perform its magic converting symbols and numbers to digital text and delivering the result in real time.</p>
 				<p><i>Very effective use of the technology!</i></p>
-				<p><strong>Advertising:</strong> <i>No Ads. Works offline ...although useful for Sharing</i></p>
+				<p><strong>Technical:</strong> <i>No Ads. Works offline ...although useful for Sharing</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.visionobjects.calculator&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/MyScriptCalc.JPG">
@@ -830,13 +1003,32 @@
 				<li>Random Cards (useful to do a 'Tally Count' of the result)</li>
 				<li>Copy results to clipboard</li></ul>
 				App can be installed to SD or to memory</p>
-				<p><strong>Advertising:</strong> <i>Annoying Ads when online. App does not to be online</i></p>
+				<p><strong>Technical:</strong> <i>Annoying Ads when online. App does not to be online</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.moletag.random.allinone' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/RandomGenerator.JPG">
 					<p class="text-center">Random All-in-One Generator</p>
 				</div>
 
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Subject:</strong> Maths/Science</p>
+				<p><strong>Description:</strong> The easiest way to revise Maths and Science - take the tests and improve your hiscores ! Junior iCERT 
+				Maths and Science is a Junior Cert revision app that helps you to improve your knowledge of selected topics in the Junior Cert Ordinary 
+				and Higher Maths and Science courses. Each Junior Cert topic is examined by a question bank of 40+ questions. The Junior Cert quizzes 
+				have been written and verified in practice by a qualified and experienced Maths and Science teacher.</p>
+				<p>Full Version (€1.00) is 'ad free' and contains the following modules: <ul><li>Maths: Sets 1; Quadratics; Points, Lines and Angles 1; 
+				Pythagoras and Trigonometry; Calculating Probabilities; Rounding Numbers; Percentages</li><li>Science: Measurement and Units; Volume, 
+				Density, Velocity and Acceleration; Force and Work; Moments and Centre of Gravity; Electric Current; Periodic Table.</li></ul>
+				<i>Tests can be '10 Selected' or '5 Random'</i></p>
+				<p><strong>Technical:</strong> <i>Ads appear</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=net.iBs.freejc2013' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/postprimary/JunMathsScience.png">
+					<p class="text-center">Junior Cert Maths & Science</p>
+				</div>
+				
+				
 				<div class="col-xs-offset-10 col-xs-2">
 					<button type="button" class="btn btn-default" onclick="document.getElementById('jumpToSelection').selectedIndex = 0; location = '#top'">
 					<span class="glyphicon glyphicon-arrow-up"></span></button>
@@ -854,7 +1046,7 @@
 				metronome, music playback from your library, wireless bluetooth pedal support, the ability to jump between pages with a single click, 
 				and bookmarking.</p>
 				<p><i>NOTE: This application is designed and optimized for 7-inch and larger tablets. Full version costs €6.99 and there is 
-				a <a href='http://www.zubersoft.com/mobilesheets/about.html'>pc companion app</a></i></p>
+				a <a href='http://www.zubersoft.com/mobilesheets/about.html' target=_blank>pc companion app</a></i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.zubersoft.mobilesheetsfree' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/Maestro.png">
@@ -870,7 +1062,7 @@
 				instrument you put down. The clear mark on the right erases notes. Tunes that you invent can be saved as .wav files</p>
 				<p><i>Works in Portrait Mode. I could only manage to choose Three of the Four Instruments. Pity there isn't a Pause/Resume button. 
 				Files are exported to the 'Music' folder</i></p>
-				<p><strong>Advertising:</strong> No Ads</p>
+				<p><strong>Technical:</strong> No Ads</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.igoweb.bleep' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/Miniseq.png">
@@ -886,7 +1078,7 @@
 				<li>Export to printable image file</li>
 				<li>Export to playable audio file</li></ul>
 				<i>Saves .ay file in MusicComposition/Workspace folder; Exports .midi to MusicComposition folder; .midi can then be Shared via Dropbox or Bluetooth</i></p>
-				<p><strong>Advertising:</strong> Ads</p>
+				<p><strong>Technical:</strong> Ads</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.ayelectronics.MusicComposition' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/MusicComp.png">
@@ -901,7 +1093,7 @@
 				<p>Cloud-based technology: performs the audio rendering process in a remote service. Pro Version costs €7.64</p>
 				<p><i>Downside: When you add new sounds, you must do an 'online save' before you can hear the addition :-( Local savings of .mp3 seem to be 
 				in the PocketBand/Saved folder</i></p>
-				<p><strong>Advertising:</strong> No Ads</p>
+				<p><strong>Technical:</strong> No Ads</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=net.uloops.android' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/PocketBand.png">
@@ -935,7 +1127,7 @@
 				to the information you need to know to handle the most common first aid emergencies. With videos, interactive quizzes and simple 
 				step-by-step advice ... Interactive quizzes.</p>
 				<p><i>Nice One! Useful to have on all Student and Teacher tablets/phones</i></p>
-				<p><strong>Advertising:</strong> <i>Does not need wifi. No Ads.</i></p>
+				<p><strong>Technical:</strong> <i>Does not need wifi. No Ads.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.cube.gdpc.ire' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/IrishRedCross.JPG">
@@ -944,9 +1136,9 @@
 				
 				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
-				<p><strong>Description:</strong> <i>Basic Pemometer. Seems to use Accelerometer (i.e you can 'shake' rather than 'walk'!). Need to 
-				log in (use 'Manual option'). When online, you can see scores for other 'Noom Walkers' arond the world. Portrait Mode.</i></p>
-				<p><strong>Advertising:</strong> <i>Doesn't need wifi. No Ads.</i></p>
+				<p><strong>Description:</strong> <i>Useful Pedometer. Seems to use Accelerometer (i.e. you can 'shake' the unit rather than 'walk'!). You don't need to 
+				log in (use 'Manual option'). If logged in and online, you can see scores for other 'Noom Walkers' around the world. Otherwise, it keeps your Step record for the day, for the week, and the Total. Portrait Mode.</i></p>
+				<p><strong>Technical:</strong> <i>Doesn't need wifi. No Ads.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.noom.walk' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/NoomWalk.JPG">
@@ -960,11 +1152,22 @@
 				It will also give some historical background on where these sports originated. NB: 125 MB download. 'VSB' represents Virtual Smart Books.</p>
 				<p><i>Need to Register in order to use. Watch the video, read the script, answer the Quiz ...in order to advance to the next lesson/sport. 
 				'Run on Track' is a virtual race that uses tablet well - Swipe and Tilt. Your progress through the lessons is recorded online. Also 
-				available to download for Desktop from <a href='http://ericshs.com/'>ericshs.com</a></i></p>
+				available to download for Desktop from <a href='http://ericshs.com/' target=_blank>ericshs.com</a></i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.gen4web.vsb.physicaleducations' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/VSBpe.JPG">
 					<p class="text-center">VSB Physical Education</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> <i>While <a href='https://play.google.com/store/apps/details?id=com.techsmith.apps.coachseye.free' target='_blank'>
+				Coach's Eye</a> seems to be the professional tool, I prefer the video-analysis simplicity of Ubersense - that and no need for in-app purchases. 'Sharing ' is done via email but you could also just do a screengrab</i></p>
+				
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.ubersense.app.production' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/postprimary/Ubersense.JPG">
+					<p class="text-center">Ubersense Coach</p>
 				</div>
 				
 				<div class="col-xs-offset-10 col-xs-2">
@@ -1008,17 +1211,46 @@
 				
 				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
+				<p><strong>Description:</strong> The handbook 'Biology - Morphology of Plants' will be useful to high school students, prospective students and everyone who is interested in biology, botany and plants.
+				The free version is available as 'Flower', which presents the characteristics and structure of flowers.</p>
+				<p><i>The full version also offers Leaves and Fruits (around €6.99)</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.intergraphics.plantmorphology.demo' target='_blank'>
+				Google Play Store</a> </p>">
+				<img  class="centered" src="images/postprimary/PlantMorph.JPG">
+					<p class="text-center">Plant Morphology</p>
+				</div>
+				
+				
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> (Biology) 3D view inside a cell. iCell gives students, teachers, and anyone interested in biology a 3D view 
+				inside a cell. Included are examples of three types of cells: animal, plant, and bacteria. You can use your finger to tap on parts
+				of the cell to select and zoom in on that particular organelle. Each organelle comes with a name and a short description of its 
+				function in the cell.</p>
+				<p>For a better view of each cell, hold down one finger on the screen, and drag to rotate around the cell or selected organelle. 
+				<i>Pinch To Zoom.</i></p>
+				<p><strong>Technical:</strong> <i>No Ads. when offline. Runs offline</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.hudsonalpha.icell&hl=en' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/postprimary/iCell.JPG">
+					<p class="text-center">iCell</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
 				<p><strong>Author:</strong> Dolan DNA</p>
 				<p><strong>Description:</strong> (Biology) Use your touch screen to rotate and zoom around the interactive brain structures. Discover how 
 				each brain region functions, what happens when it is injured, and how it is involved in mental illness. Each detailed structure 
 				comes with information on functions, disorders, brain damage, case studies, and links to modern research.</p>
 				<p><i>Note: view is Portrait Mode only</i></p>
-				<p><strong>Advertising:</strong> <i>No Ads. when offline. Runs offline</i></p>
+				<p><strong>Technical:</strong> <i>No Ads. when offline. Runs offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.dnalc.threedbrain&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/3Dbrain.JPG">
 					<p class="text-center">3D Brain</p>
 				</div>
+				
 				
 				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
@@ -1041,7 +1273,7 @@
 				<p>The lecture will play and the relevant diagrams will appear in time with the audio. You can zoom in on the images with the pinch 
 				gesture as the audio plays.</p>
 				<p><i>A bit advanced for Leaving Cert. but still useful.</i></p>
-				<p><strong>Advertising:</strong> <i>No Ads. when offline. Runs offline</i></p>
+				<p><strong>Technical:</strong> <i>No Ads. when offline. Runs offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=net.instantanatomy.heart&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/Anatomy.JPG">
@@ -1055,7 +1287,7 @@
 				3D molecular viewer/builder and contains local optimization and Monte Carlo simulation features.</p>
 				<p><i>Downside: when you go to ‘Add an Atom’ the view of the Periodic Table is very small (nor does this latter Pinch to Zoom)
 				Note that if you Download (such as Ethanol, Benzene etc.), the files will go into /mnt/sdcard/org.atomdroid/Library/Public</i></p>
-				<p><strong>Advertising:</strong> <i>Runs Offline (but useful to have access to online Databses)</i></p>
+				<p><strong>Technical:</strong> <i>Runs Offline (but useful to have access to online Databses)</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.atomdroid' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/AtomDroid.JPG">
@@ -1070,7 +1302,7 @@
 				I tried HBrO3+O2 (as a reagent) and Br2+H2O (as product). Firstly 'numbers get subscripted' (good) with, secondly, the answer 
 				corrected as 4HBrO3=5O2+2Br2+2H2O. A useful option also is the online <a href='http://www.gregthatcher.com/Chemistry/BalanceChemicalEquations.aspx'>
 				Balance Chemical Equations</a></p>
-				<p><strong>Advertising:</strong> <i>No Ads.</i></p>
+				<p><strong>Technical:</strong> <i>No Ads.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=ru.handapps.chemistrysolverreactions' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/ChemistrySolver.JPG">
@@ -1079,11 +1311,29 @@
 				
 				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
+				<p><strong>Author:</strong> K12 inc</p>
+				<p><strong>Description:</strong> (Chemistry) K12 Periodic Table lets you explore the elements and their key attributes in a simple, easy-to-use way. 
+				It's a perfect reference for working through homework problems for Science courses.</p>
+				<p>Version 2 has these new, advanced features:
+				<ul><li>Improved swipe and touch functions display element details such as name, symbol, atomic number, atomic mass, Lewis dots, and radius.</li>
+				<li>Colors change in the table to show classification, melting point, boiling point, outermost orbital, radius, ion radius, electronegativity, 
+				and ionization energy.</li>
+				<li>Temperatures are shown in Kelvin, Celsius, and Fahrenheit scales.</li>
+				<li>The table includes the newly named elements Darmstadtium (110), Roentgenium (111), Copernicium (112), and Ununhexium (116).</li></ul></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.k12.periodictablev2&feature=also_installed' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/postprimary/PeriodicK12.JPG">
+					<p class="text-center">K12 Periodic Table</p>
+				</div>
+				
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
 				<p><strong>Author:</strong> Antonio Carlon</p>
 				<p><strong>Description:</strong> (Physics) Doodle Physics (Lite Version).</p>
 				<i>Very different – watch and enjoy the Video before you install! Takes a bit of practice to get the Pivot Points working …make these 
 				(with a Long Tap) before you draw the Shape around them</i></p>
-				<p><strong>Advertising:</strong> No Ads. when offline. Runs Offline</p>
+				<p><strong>Technical:</strong> No Ads. when offline. Runs Offline</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=doodle.physics.lite' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/PhysDoodle.JPG">
@@ -1097,7 +1347,7 @@
 				on each question to help you if you need it. Covers 20 of the most essential questions on the physics of electricity, electric forces, 
 				electric fields, voltage, resistance, current, charge and circuits. ‘Get Help’ button brings you out to a Google Search.</p>
 				<p><i>There is a suite of Physics Apps – at a small price – available from this Author</i></p>
-				<p><strong>Advertising:</strong> No Ads. when offline. Runs Offline (but the ‘Get Help’ option won’t then work)</p>
+				<p><strong>Technical:</strong> No Ads. when offline. Runs Offline (but the ‘Get Help’ option won’t then work)</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/developer?id=PhysicsOne&hl=en' target='_blank'>
 				Google Play Store</a> …'Electricity' is one of the Apps</p>">
 				<img  class="centered" src="images/postprimary/Electricity.JPG">
@@ -1112,7 +1362,7 @@
 				you can upgrade to the full version for €7.00. I also liked the look of 
 				<a href='https://play.google.com/store/apps/details?id=air.com.ljcreate.virtualElectricalCircuitsTrainer&hl=en'>'Circuit Builder'</a> 
 				but this latter does not have a Free version to try</i></p>
-				<p><strong>Advertising:</strong> <i>No Ads. Runs when Offline (although extra Examples are available from the Online Community)</i></p>
+				<p><strong>Technical:</strong> <i>No Ads. Runs when Offline (although extra Examples are available from the Online Community)</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.everycircuit.free&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/EveryCircuit.JPG">
@@ -1135,37 +1385,8 @@
 					<p class="text-center">High School Physics</p>
 				</div>
 				
-				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Description:</strong> (Biology) 3D view inside a cell. iCell gives students, teachers, and anyone interested in biology a 3D view 
-				inside a cell. Included are examples of three types of cells: animal, plant, and bacteria. You can use your finger to tap on parts
-				of the cell to select and zoom in on that particular organelle. Each organelle comes with a name and a short description of its 
-				function in the cell.</p>
-				<p>For a better view of each cell, hold down one finger on the screen, and drag to rotate around the cell or selected organelle. 
-				<i>Pinch To Zoom.</i></p>
-				<p><strong>Advertising:</strong> <i>No Ads. when offline. Runs offline</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.hudsonalpha.icell&hl=en' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/postprimary/iCell.JPG">
-					<p class="text-center">iCell</p>
-				</div>
 				
-				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Author:</strong> K12 inc</p>
-				<p><strong>Description:</strong> (Chemistry) K12 Periodic Table lets you explore the elements and their key attributes in a simple, easy-to-use way. 
-				It's a perfect reference for working through homework problems for Science courses.</p>
-				<p>Version 2 has these new, advanced features:
-				<ul><li>Improved swipe and touch functions display element details such as name, symbol, atomic number, atomic mass, Lewis dots, and radius.</li>
-				<li>Colors change in the table to show classification, melting point, boiling point, outermost orbital, radius, ion radius, electronegativity, 
-				and ionization energy.</li>
-				<li>Temperatures are shown in Kelvin, Celsius, and Fahrenheit scales.</li>
-				<li>The table includes the newly named elements Darmstadtium (110), Roentgenium (111), Copernicium (112), and Ununhexium (116).</li></ul></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.k12.periodictablev2&feature=also_installed' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/postprimary/PeriodicK12.JPG">
-					<p class="text-center">K12 Periodic Table</p>
-				</div>
+				
 				
 				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
@@ -1182,7 +1403,7 @@
 				<p><strong>Author:</strong> Brett Plummer</p>
 				<p><strong>Description:</strong> (Physics) Multiple-choice Physics questions. Choose from 20 to Unlimited set</p>
 				<p><i>Does seek to access ’phone state and identity’ but should be fine on a Tablet. ‘Profile’ part can be skipped</i></p>
-				<p><strong>Advertising:</strong> No Ads. when offline. Runs Offline</p>
+				<p><strong>Technical:</strong> No Ads. when offline. Runs Offline</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.alaskajim.physics&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/PhysQuiz.JPG">
@@ -1198,7 +1419,7 @@
 				<li>Global Gravity: none, downward or upward with adjustable strength</li>
 				<li>Collision Type: merge, bounce, destroy, or none</li>
 				<li>Drag/Acceleration: none, drag, or acceleration with adjustable strength</p></li></ul></p>
-				<p><strong>Advertising:</strong> No Ads. when offline. Runs Offline</p>
+				<p><strong>Technical:</strong> No Ads. when offline. Runs Offline</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.egansoft.physics.sketchpad&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/PhysSketch.JPG">
@@ -1228,6 +1449,68 @@
 					<p class="text-center">Sensor Kinetics</p>
 				</div>
 				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> Measure the loudness of sounds in the classroom! Ask students to measure loudness of their mp3 
+				(or similar) player, loudness of vacuum cleaner etc. <i>Here is a nice example of its use at second-level: <a href='http://www.sails-project.eu/portal/resource/interview-karden-%C3%B6ns%C3%B6z-use-mobile-technologies-science-teaching' target='_blank'>http://www.sails-project.eu/portal/resource/interview-karden-%C3%B6ns%C3%B6z-use-mobile-technologies-science-teaching</a></p>
+				<p>Not sure about its accuracy, but it is at least a useful tool for comparing graph of differing volume levels</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=kr.sira.sound&hl=en' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/postprimary/SmartSound.JPG">
+					<p class="text-center">Sound Meter</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong></p>
+				<p><i>A Fourier product. Plug in the LabMate unit via USB and use the six built-in sensors. The MiLab App itself is free and - without the LabMate - allows you to use the Tablet's Camera as a Light Sensor. There is an extensive range of sensors available to purchase ...e.g. via <a href='http://www.shawscientific.com/Catalogue/ProductList/fourier?catalogueLevelItemID=54333629-c60e-499a-9a45-1986623d7059' target='_blank'>ShawScientific.ie</a> </i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=fourier.milab' target='_blank'>
+				Google Play Store</a> ...with a complimentary Activity App at <a href='https://play.google.com/store/apps/details?id=com.fourier.einsteindesktop' target='_blank'> einstein World</a></p>">
+				<img  class="centered" src="images/postprimary/MiLab.JPG">
+					<p class="text-center">MiLab</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong></p>
+				<p><i>A Pasco product. I didn't get to try this as much as MiLab so quoting  here 'New! SPARKvue 2.2.0 now brings live data sharing to our popular sensor-based data collection, visualization and analysis application for STEM learning. In addition to collecting data on your own Android tablet, SPARKvue now supports live sharing of sensor data with anyone else--on any other Android tablet, iPad, Mac or Windows computer.' ...available e.g. via <a href='http://www.lennox.ie/suppliers/pasco/' target='_blank'>Lennox.ie</a> </i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.isbx.pasco.Spark' target='_blank'>
+				Google Play Store</a> </p>">
+				<img  class="centered" src="images/postprimary/Spark.JPG">
+					<p class="text-center">SPARKvue</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Subject:</strong> Maths/Science</p>
+				<p><strong>Description:</strong> The easiest way to revise Maths and Science - take the tests and improve your hiscores ! Junior iCERT 
+				Maths and Science is a Junior Cert revision app that helps you to improve your knowledge of selected topics in the Junior Cert Ordinary 
+				and Higher Maths and Science courses. Each Junior Cert topic is examined by a question bank of 40+ questions. The Junior Cert quizzes 
+				have been written and verified in practice by a qualified and experienced Maths and Science teacher.</p>
+				<p>Full Version (€1.00) is 'ad free' and contains the following modules: <ul><li>Maths: Sets 1; Quadratics; Points, Lines and Angles 1; 
+				Pythagoras and Trigonometry; Calculating Probabilities; Rounding Numbers; Percentages</li><li>Science: Measurement and Units; Volume, 
+				Density, Velocity and Acceleration; Force and Work; Moments and Centre of Gravity; Electric Current; Periodic Table.</li></ul>
+				<i>Tests can be '10 Selected' or '5 Random'</i></p>
+				<p><strong>Technical:</strong> <i>Ads appear</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=net.iBs.freejc2013' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/postprimary/JunMathsScience.png">
+					<p class="text-center">Junior Cert Maths & Science</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> A new educational app “Science - Microcosm 3D” will take you on a fascinating journey across the world of science. ... Normally it is impossible to see [these objects] without a microscope.
+				“Science - Microcosm 3D” represents a virtual scale with sizes from 10^-1 to 10^-21 and animated 3D models of micro objects from such areas of science like physics, chemistry, natural sciences and biology.
+				The size of the objects varies from the smallest particles and atoms to protons, neutrons and quarks.</p>
+				<p><i>6 objects avaialble in the free version, 20 more available with upgrade (around €1.50)</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.OSC.scale.micro' target='_blank'>
+				Google Play Store</a> </p>">
+				<img  class="centered" src="images/postprimary/Microcosm3D.JPG">
+					<p class="text-center">Microcosm 3D</p>
+				</div>
+				
 				<div class="col-xs-offset-10 col-xs-2">
 					<button type="button" class="btn btn-default" onclick="document.getElementById('jumpToSelection').selectedIndex = 0; location = '#top'">
 					<span class="glyphicon glyphicon-arrow-up"></span></button>
@@ -1235,39 +1518,12 @@
 				
 				<div class="row col-xs-12" id="all">
 				<hr>
-				<p> <h4>All Subjects:</h4>
+				<p> <h4>eBooks/All Subjects:</h4>
 				</p></div>
 				
 				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
-				<p><strong>Subject:</strong> English/All Subjects</p>
-				<p><strong>Description:</strong> <i>The standard for working with PDFs. Can Annotate and Save Annotations. Can Pinch to Zoom. 
-				Can insert (and Save) a Text Note. Can use a Highlighter, ‘strike through’, underline, add signature, scroll (horizontally or 
-				vertically depending on reading mode), search for text, share (via Bluetooth, Dropbox etc.)</i></p>
-				<p><strong>Advertising:</strong> <i>No Ads. Runs when offline</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.adobe.reader&hl=en' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/AdobeReader.JPG">
-					<p class="text-center">Adobe Reader</p>
-				</div>
-				
-				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Subject:</strong> English/All Subjects</p>
-				<p><strong>Description:</strong> Top-rated #1 Android dictionary app, with trusted reference content from Dictionary.com & Thesaurus.com!
-				Time Magazine ‘Top 10 Back-To-School App’, ‘Top 10 App’ High School Survival Guide, Winner: CNET Top 100 Mobile App Award</p>
-				<p><i>Switch between Dictionary and Thesaurus mode (icon top right). Uses American and British spelling ('color' as well as'colour'). 
-				Displays Synonyms and Antonyms; says Word.</i></p>
-				<p><strong>Advertising:</strong> <i>Ads. in Free Version displayed if online</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.dictionary' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/postprimary/Dictionary.png">
-					<p class="text-center">Dictionary.com</p>
-				</div>
-				
-				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Subject:</strong> All Subjects - Post-Primary</p>
+				<p><strong>Subject:</strong> eBooks - Post-Primary</p>
 				<p><strong>Description:</strong> The Edco e-books app is an innovative and interactive e-book application, which enables students using 
 				Edco e-books to access all their Post-Primary e-book content on their Android tablet.</p>
 				<p><i>Login needed for full access but 19 Sample Title/Chapters are provided (all Second Level). Icons are provided in theText but 
@@ -1281,7 +1537,7 @@
 				
 				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
-				<p><strong>Subject:</strong> All Subjects - Post-Primary</p>
+				<p><strong>Subject:</strong> eBooks - Post-Primary</p>
 				<p><strong>Description:</strong> educate.ie is Ireland's new educational publishing imprint based in Castleisland, Co. Kerry. 
 				Our eTextbooks are available for the iOS, Android and Windows platforms and they work across these platforms giving you complete 
 				flexibility and freedom to roam! This means that all user-generated content is saved to the cloud, ensuring that notes, bookmarks, 
@@ -1294,9 +1550,14 @@
 					<p class="text-center">Educate.ie</p>
 				</div>
 				
+						
+				
+				
+				
+				
 				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
-				<p><strong>Subject:</strong> All Subjects - Primary and Post-Primary</p>
+				<p><strong>Subject:</strong> eBooks - Primary and Post-Primary</p>
 				<p><strong>Description:</strong> CJ Fallon eBook Reader. <i>Needs a Username and Password for full access. However, a Demo Mode is 
 				provided in order to download eight chapter/titles. eBooks open to allow you to navigate through the texts; with the Second-Level 
 				Language Texts, multimedia (audio clips) can be accessed relevant to a particular page; at all Levels, Student can enter and save 
@@ -1309,7 +1570,7 @@
 				
 				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
-				<p><strong>Subject:</strong> All Subjects - Post-Primary</p>
+				<p><strong>Subject:</strong> eBooks - Post-Primary</p>
 				<p><strong>Description:</strong> Your digital classroom! Download digital versions of all your Junior Cert titles to your Bookshelf for 
 				offline use. Folens eBooks for Android provide an excellent eTextbook experience, smooth performance, reliability and high quality 
 				graphics. The app includes a selection of free eBook content. New titles will appear automatically on your bookshelf as they are 
@@ -1326,34 +1587,59 @@
 				
 				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
-				<p><strong>Subject:</strong> All Subjects - Primary and Post-Primary</p>
+				<p><strong>Subject:</strong> eBooks - Primary and Post-Primary</p>
 				<p><strong>Description:</strong> Our interactive eBooks contain audio, video, animations and web links... You can use your Gill 
 				& Macmillan eBook on multiple devices and all personal notes attached to your eBook will automatically sync across all of your 
 				devices. Our secure cloud-based platform means that if your device is lost or broken your eBook and notes are backed up.</p>
 				<p><i>Options for Thumbnails, Bookmark, Add Note, Highlight and Change Zoom. Samples for 'Cracking Maths'</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.yudu.ReaderAIR3458192&hl=en_GB' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/GillMacP.jpg">
+				<img  class="centered" src="images/primary/GillMacP.JPG">
 					<p class="text-center">Gill & Macmillan</p>
 				</div>
 				
 				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
-				<p><strong>Subject:</strong> Maths/Science</p>
-				<p><strong>Description:</strong> The easiest way to revise Maths and Science - take the tests and improve your hiscores ! Junior iCERT 
-				Maths and Science is a Junior Cert revision app that helps you to improve your knowledge of selected topics in the Junior Cert Ordinary 
-				and Higher Maths and Science courses. Each Junior Cert topic is examined by a question bank of 40+ questions. The Junior Cert quizzes 
-				have been written and verified in practice by a qualified and experienced Maths and Science teacher.</p>
-				<p>Full Version (€1.00) is 'ad free' and contains the following modules: <ul><li>Maths: Sets 1; Quadratics; Points, Lines and Angles 1; 
-				Pythagoras and Trigonometry; Calculating Probabilities; Rounding Numbers; Percentages</li><li>Science: Measurement and Units; Volume, 
-				Density, Velocity and Acceleration; Force and Work; Moments and Centre of Gravity; Electric Current; Periodic Table.</li></ul>
-				<i>Tests can be '10 Selected' or '5 Random'</i></p>
-				<p><strong>Advertising:</strong> <i>Ads appear</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=net.iBs.freejc2013' target='_blank'>
+				<p><strong>Subject:</strong> All Subjects - Primary and Post-Primary</p>
+				<p><strong>Description:</strong> This app is freely available for use by all students, teachers and educators who can sign up for 
+				free and avail of book vouchers from their teachers or book providers to claim their education material and enhance their learning 
+				experience on their Samsung Galaxy Note 10.1 or Galaxy Tab 10.1. Designed for 10.1 inch tablets only.</p>
+				<p><i>Without a Login, I am unable to test this app; nor is there a Demo Mode that I can try :-(</p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.yudu.ReaderAIR4800455&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/postprimary/JunMathsScience.png">
-					<p class="text-center">Junior Cert Maths & Science</p>
+				<img  class="centered" src="images/postprimary/Mentor.JPG">
+					<p class="text-center">Mentor</p>
 				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Subject:</strong> English/All Subjects</p>
+				<p><strong>Description:</strong> <i>The standard for working with PDFs. Can Annotate and Save Annotations. Can Pinch to Zoom. 
+				Can insert (and Save) a Text Note. Can use a Highlighter, ‘strike through’, underline, add signature, scroll (horizontally or 
+				vertically depending on reading mode), search for text, share (via Bluetooth, Dropbox etc.)</i></p>
+				<p><strong>Technical:</strong> <i>No Ads. Runs when offline</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.adobe.reader&hl=en' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/primary/AdobeReader.JPG">
+					<p class="text-center">Adobe Reader</p>
+				</div>
+				
+				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Subject:</strong> English/All Subjects</p>
+				<p><strong>Description:</strong> Top-rated #1 Android dictionary app, with trusted reference content from Dictionary.com & Thesaurus.com!
+				Time Magazine ‘Top 10 Back-To-School App’, ‘Top 10 App’ High School Survival Guide, Winner: CNET Top 100 Mobile App Award</p>
+				<p><i>Switch between Dictionary and Thesaurus mode (icon top right). Uses American and British spelling ('color' as well as'colour'). 
+				Displays Synonyms and Antonyms; says Word.</i></p>
+				<p><strong>Technical:</strong> <i>Ads. in Free Version displayed if online</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.dictionary' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/postprimary/Dictionary.png">
+					<p class="text-center">Dictionary.com</p>
+				</div>
+				
+				
+				
 				
 				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
@@ -1400,18 +1686,7 @@
 					<p class="text-center">Leaving Cert Past Papers</p>
 				</div>
 				
-				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Subject:</strong> All Subjects - Primary and Post-Primary</p>
-				<p><strong>Description:</strong> This app is freely available for use by all students, teachers and educators who can sign up for 
-				free and avail of book vouchers from their teachers or book providers to claim their education material and enhance their learning 
-				experience on their Samsung Galaxy Note 10.1 or Galaxy Tab 10.1. Designed for 10.1 inch tablets only.</p>
-				<p><i>Without a Login, I am unable to test this app; nor is there a Demo Mode that I can try :-(</p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.aptriva.android.mentorbooks' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/postprimary/Mentor.JPG">
-					<p class="text-center">Mentor</p>
-				</div>
+				
 				
 				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
@@ -1437,7 +1712,7 @@
 				<p><strong>Description:</strong> My Class Schedule keeps your student life organized! This app will not only keep you informed 
 				about your upcoming classes, but also reminds you of exams and unfinished homework. The main feature of My Class Schedule 
 				is its timetable that shows your schedule for any particular day or week.</p>
-				<p><strong>Advertising:</strong> Ad Supported. Pro version also available</p>
+				<p><strong>Technical:</strong> Ad Supported. Pro version also available</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=de.rakuun.MyClassSchedule.free&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/postprimary/ClassSchedule.JPG">
@@ -1465,7 +1740,7 @@
 				Pictures can be Attached. Files can be Shared (Dropbox etc.). A Custom Word/Phrase bank can be used. Doesn't have spell-check nor other
 				word-processing features. Can also display a Note on the desktop as a 'widget' for ease of access (or Reminder). Can change font Size 
 				and Serif; adjust background brightness; swap dark/light foreground/background. Has 'Voice Input' ...start it with a large'V' gesture</i></p>
-				<p><strong>Advertising:</strong> <i>Needs to be online. Ads appear briefly as you dictate but you may not notice these.</i></p>
+				<p><strong>Technical:</strong> <i>Needs to be online. Ads appear briefly as you dictate but you may not notice these.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.khymaera.android.listnotefree&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/SimpleNotepadPrimary.JPG">
@@ -1482,7 +1757,7 @@
 				(which you could use as ‘Subjects’), Deleted (and Recovered from the Trashcan), Shared (as a .txt file) into Dropbox, over Bluetooth etc.</p>
 				<p>ListNote makes use of a Voice Recognition app such as <a href='https://play.google.com/store/apps/details?id=com.google.android.voicesearch&hl=en'>
 				Google Voice Search</a></i></p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline. No Ads. 'Voice Input' requires online connection.</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads. 'Voice Input' requires online connection.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.mightyfrog.android.simplenotepad&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/SpeechText.JPG">
@@ -1497,7 +1772,7 @@
 				Pico Synthesizer. The app also underlines the (very many, initially) unrecognised words and allows you to add them to the Dictionary. 
 				Basic editing (Select to Cut, copy, Paste). ‘Reading’ is from the current cursor position: you cannot highlight a word to have it alone 
 				read out, for example. Many languages are available  - but not Gaeilge :-(</i></p>
-				<p><strong>Advertising:</strong> <i>Ads. For Languages other than English, needs to be online to access 'all' languages</i></p>
+				<p><strong>Technical:</strong> <i>Ads. For Languages other than English, needs to be online to access 'all' languages</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.ktix007.talk&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/TalkTextPrimary.JPG">

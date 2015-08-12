@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Android Tablets in the Classroom</title>
+    <title>Primary - Android Tablets in the Classroom</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -67,7 +67,7 @@
 				
 				<p>
 				<strong>Click on any icon below</strong> to see a description of the app, and a link to the (usually) Google Play Store (for which you will 
-				have previously registered an email account). Click anywhere on the page to close the description.
+				have previously registered an email account). Click again on the icon to close the description. We have have copied and pasted the description of the apps listed below but <i>the use of Italics indicates that the App has also been Tested by us</i>
 				</p>
 
 				<div class="col-xs-12 col-md-offset-7 col-md-5">
@@ -84,9 +84,10 @@
 									<option value="#maths">Maths</option>
 									<option value="#music">Music</option>
 									<option value="#science">Science</option>
+									<option value="#sphe">SPHE</option>
 									<option value="#typing">Typing</option>
 									<option value="#arts">Visual Arts</option>
-									<option value="#allMixed">All/Mixed Subjects</option>
+									<option value="#allMixed">eBooks/All Subjects</option>
 								</select>
 							</div>
 						</div>
@@ -103,24 +104,14 @@
 				<p><strong>Description:</strong> ABC HandWriting is a fun way for children to learn Alphabet, digits and how to write them. Two modes: 
 				Free drawing and guided drawing</p>
 				<p><i>Works in Portrait Mode. Guided Mode: trace correctly, get rewarded with a picture</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.divmob.abchandwrittingactivity' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/ABCHandwriting.JPG">
 					<p class="text-center">ABC Handwriting</p>
 				</div>
 				
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Description:</strong> <i>The standard for working with PDFs. Can Annotate and Save Annotations. Can Pinch to Zoom. 
-				Can insert (and Save) a Text Note. Can use a Highlighter, ‘strike through’, underline, add signature, scroll (horizontally or 
-				vertically depending on reading mode), search for text, share (via Bluetooth, Dropbox etc.)</i></p>
-				<p><strong>Advertising:</strong> <i>No Ads. Runs when offline</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.adobe.reader&hl=en' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/AdobeReader.JPG">
-					<p class="text-center">Adobe Reader</p>
-				</div>
+				
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
@@ -129,7 +120,7 @@
 				to picking out the letters one by one against the clock. Capital letters option is also included. As in many of my educational programs, 
 				good work is rewarded with a certificate which can saved as a screen shot. Best played on a Tablet.</p>
 				<p>Suitable for UK Key Stage 1, 2, 3, 4 & 5 - USA 1st to 12th Grade (Age 5 - adult)</p>
-				<p><strong>Advertising:</strong> <i>Runs when offline. No Ads.</i></p>
+				<p><strong>Technical:</strong> <i>Runs when offline. No Ads.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.greyolltwit.alphabetsoup' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/GreyAlphaSoup.JPG">
@@ -141,7 +132,7 @@
 				<p><strong>Description:</strong> <i>Choose a Title – such as ‘Huckleberry Finn’ - and the Download begins. All of the recordings are
 				in the Public Domain. Volunteer Recorders (American). Audio without Text: students may wish to have the hardcopy beside them (or downloaded
 				onto another screen from, e.g., <a href='http://www.gutenberg.org/'>Project Gutenberg</a>). Portrait Mode.</i></p>
-				<p><strong>Advertising:</strong> <i>Ad supported.Wifi is not needed one the Audio has been downloaded.</i></p>
+				<p><strong>Technical:</strong> <i>Ad supported.Wifi is not needed one the Audio has been downloaded.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.crossforward.audiobooks' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/Audiobooks.JPG">
@@ -154,43 +145,21 @@
 				one custom word list. ... Over 3100 American English words are included in the full version (about 500 words in this LITE version). You 
 				may also enter your own word lists and play the game to learn them.</p>
 				<p><i>From the same 'Effective Authors' as WordBot and similar in design and functionality. Portrait Mode</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when offline. No Ads.</i></p>
+				<p><strong>Technical:</strong> <i>Runs when offline. No Ads.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.effectiveobjects.bspellinglite&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/BrillSpell.JPG">
 					<p class="text-center">Brilliant Spelling Lite</p>
 				</div>
 				
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Description:</strong> <i>Reads downloaded texts (e.g. Aladdin from Project Gutenberg). Font can be increased but page cannot 
-				be scrolled. Downloaded Texts – option to ‘continue reading’. Texts can be 'imported from SD'</i></p>
-				<p><strong>Advertising:</strong> <i>Online: Advertising from booking.com etc. Runs when offline</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.graphilos.epub&hl=en' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/ePubPrimary.JPG">
-					<p class="text-center">ePub Reader</p>
-				</div>
 				
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Description:</strong> FBReader (FBReaderJ) is an e-book reader. Supports epub, rtf, fb2(.zip), mobi, and plain text file formats.
-				FBReader is fast, highly customizable. Can use external TrueType/OpenType fonts. Includes hyphenation patterns for 16 languages. 
-				Includes a browser/downloader for network e-book catalogs/stores.</p>
-				</i>Pre-installed but you can also download from...</i></p>
-				<p><strong>Advertising:</strong> <i>No Ads. Works offline.</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android&hl=en' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/FBReaderP.png">
-					<p class="text-center">FBReader</p>
-				</div>
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Description:</strong> <i>Collection of approx. 20 stories for children. Books are downloaded when online and are then 
 				available afterwards. Very nicely illustrated. Option to have text read aloud (although no highlighting). You can also run the eBooks 
 				on your PC from the <a href='https://www.istorybooks.co/free-books.html'>iStory Books site</a></i></p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.infomarvel.istorybooks&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/iStoryBooks.JPG">
@@ -202,27 +171,14 @@
 				<p><strong>Description:</strong> <i>This free version includes letters A to H and is fully-featured. Has 4 different activities: 
 				Learn Letters (Three Pictures are used for each Onset), Make Words (put letter/sounds together), Pop Letters (continues from where 
 				you left off), Letter Blocks/Cubes (drag Pictures onto Sounds)</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline. No Ads.</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=zok.android.phonics' target='_blank'>
 				Google Play Store</a></p>">
-				<img class="centered" src="images/primary/ABCphonics.jpg">
+				<img class="centered" src="images/primary/ABCphonics.JPG">
 					<p class="text-center">Kids ABC Phonics</p>
 				</div>
 				
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Description:</strong> <i>Read ‘kindle-type’ eBooks on your Android. Text can be Pinched to Zoom (to quite a large font size). 
-				Long Click on a word to see its definition (via the free Downloaded Dictionary). Stroke sideways to turn pages (or tap bottom corner). 
-				User Notes can be inserted. Background Colour can be set, as can Line Spacing, Number of Columns and Margin Size (very good for Dyslexia). 
-				Some free titles (Alice in Wonderland, Pride and Prejudice etc.) can be downloaded from 
-				<a href='http://www.amazon.com/Totally-Free-kindle-Books/lm/R27UG52OAM3TFX(registration'>Amazon</a> needed) ...or from 
-				<a href='http://m.gutenberg.org/'>Project Gutenberg</a> (no reg. needed).</p>
-				<p>Note that the Installed 'FBReader' (below) will also read the Kindle .mobi formats</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.amazon.kindle&hl=en' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/KindleReader.JPG">
-					<p class="text-center">Kindle Reader</p>
-				</div>
+				
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" data-placement="bottom"
 				data-content="
@@ -230,12 +186,34 @@
 				The large type allows young readers to move their fingers along the words while they sound it out, while the alliterative and 
 				rhyming verse promote phonemic awareness. This app is optimized for tablet devices. </p>
 				<p><i>Three words are used, with the option to purchase another 13 for €1.45</i></p>
-				<p><strong>Advertising:</strong> <i>No Ads. Runs when offline.</i></p>
+				<p><strong>Technical:</strong> <i>No Ads. Runs when offline.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=lmb.ebooks.CatCatFree' target='_blank'>
 				Google Play Store</a></p>"
 				>
 				<img class="centered" src="images/primary/CatCat.JPG">
 					<p class="text-center">Learn To Read Kids App</p>
+				</div>
+				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> <i>This popular reading series is available for Android. There are four titles (at €1.89 each) available at <a href='https://play.google.com/store/apps/developer?id=Letterland' target='_blank'>Letterland</a> with a free Sample Titles (the Letters A and Z) available below</i></p>
+				<p><strong>Technical:</strong> <i>Runs when offline. No Ads. in the A/Z Samples. Runs in Portrait Mode</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.gazoob.letterlanda' target='_blank'>
+				Google Play Store - Letter A</a>  and <a href='https://play.google.com/store/apps/details?id=com.gazoob.letterland.z' target='_blank'>
+				Google Play Store - Letter Z</a></p>">
+				<img  class="centered" src="images/primary/LetterlandA.JPG">
+					<p class="text-center">Letterland</p>
+				</div>
+				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> Pip is a series of animated episodes that allow children to enjoy mastering the two most important skills they will ever learn: reading and maths.
+It has been built by a team of teachers and education consultants to make the most of the increasing amount of time children spend using tablets or mobile phones.
+Each episode has a particular learning objective and, because they are fun, your child can continue consolidating their skills by watching them again and again.</p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.learnwithpip.pipadventures' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/primary/Pip.JPG">
+					<p class="text-center">Learn with Pip</p>
 				</div>
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
@@ -255,7 +233,7 @@
 				Words are highlighted as they are being read. When you Register and Sign In, you get two books on your Shelf: Rapunzel and Pinocchio – 
 				when you are online, these books can be downloaded and then accessed while offline. More free books 
 				<a href='http://www.meegenius.com/store/books/free/'>here</a>. Skip the part about 'Facebook'!</p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.meegenius.reader&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/MeeGenius.JPG">
@@ -294,7 +272,7 @@
 				and then Menu 'Favourites Mode' to review only those selected by you. (Remember to turn off 'Fav Mode' when finished!). <p>
 				</p>Requires access to prevent Tablet from Sleeping (so watch the battery levels!). Author does a range of similar apps - 
 				follow the link</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when offline. No Ads.</i></p>
+				<p><strong>Technical:</strong> <i>Runs when offline. No Ads.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.fivepumpkins.words&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/SightWords.JPG">
@@ -318,8 +296,8 @@
 				(such as Aesop’s ‘The Ant and The Grasshopper’ – 18MB). Books in their Library appear on the Bookshelf. Scroll to the previously 
 				downloaded ones in order to ‘Read’. Option to Record your own Reading of the Story.  Individual Sentences are highlighted as they 
 				are being read. $0.99 to purchase individual story without ads</i></p>
-				<p><strong>Advertising:</strong> <i>When online, Advertising from booking.com etc., and for their own books. Runs when Offline. No Ads when Offine.</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.tabtale.goldilocks.googles' target='_blank'>
+				<p><strong>Technical:</strong> <i>When online, Advertising from booking.com etc., and for their own books. Runs when Offline. No Ads when Offine.</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.tabtale.goldilocks.google' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/TabGoldilocks.JPG">
 					<p class="text-center">TabTale Goldilocks</p>
@@ -330,7 +308,7 @@
 				<p><strong>Description:</strong> <i>Of all the WordSearch Apps I have looked at, this one is by far the most configurable ...and it 
 				runs in Landscape mode. I would skip the part regarding Sign In. You still don't have full 'teacher' control such as at the online 
 				<a href='http://www.puzzle-maker.com/WS/index.htm'>puzzle maker</a> for example</i></p>
-				<p><strong>Advertising:</strong> Ad supported but paid version (0.99)  available</p>
+				<p><strong>Technical:</strong> Ad supported but paid version (0.99)  available</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.havos.wordsearch' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/WordSearchH.JPG">
@@ -345,6 +323,16 @@
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/WordSearch.JPG">
 					<p class="text-center">Word Search Fun</p>
+				</div>
+				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> <i>Scrabble cum Countdown game ...make as many words as possible from the available list</i></p>
+				
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.ludomade.chicktionary&hl=en' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/primary/Chicktionary.JPG">
+					<p class="text-center">Chicktionary</p>
 				</div>
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" data-placement="bottom"
@@ -366,6 +354,59 @@
 					<p class="text-center">WordBot Lite 3D</p>
 				</div>
 
+				
+				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> <i>Reads downloaded texts (e.g. Aladdin from Project Gutenberg). Font can be increased but page cannot 
+				be scrolled. Downloaded Texts – option to ‘continue reading’. Texts can be 'imported from SD'</i></p>
+				<p><strong>Technical:</strong> <i>Online: Advertising from booking.com etc. Runs when offline</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.graphilos.epub&hl=en' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/primary/ePubPrimary.JPG">
+					<p class="text-center">ePub Reader</p>
+				</div>
+				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> <i>The standard for working with PDFs. Can Annotate and Save Annotations. Can Pinch to Zoom. 
+				Can insert (and Save) a Text Note. Can use a Highlighter, ‘strike through’, underline, add signature, scroll (horizontally or 
+				vertically depending on reading mode), search for text, share (via Bluetooth, Dropbox etc.)</i></p>
+				<p><strong>Technical:</strong> <i>No Ads. Runs when offline</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.adobe.reader&hl=en' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/primary/AdobeReader.JPG">
+					<p class="text-center">Adobe Reader</p>
+				</div>
+				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> FBReader (FBReaderJ) is an e-book reader. Supports epub, rtf, fb2(.zip), mobi, and plain text file formats.
+				FBReader is fast, highly customizable. Can use external TrueType/OpenType fonts. Includes hyphenation patterns for 16 languages. 
+				Includes a browser/downloader for network e-book catalogs/stores.</p>
+				</i>Pre-installed but you can also download from...</i></p>
+				<p><strong>Technical:</strong> <i>No Ads. Works offline.</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android&hl=en' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/primary/FBReaderP.png">
+					<p class="text-center">FBReader</p>
+				</div>
+				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> <i>Read ‘kindle-type’ eBooks on your Android. Text can be Pinched to Zoom (to quite a large font size). 
+				Long Click on a word to see its definition (via the free Downloaded Dictionary). Stroke sideways to turn pages (or tap bottom corner). 
+				User Notes can be inserted. Background Colour can be set, as can Line Spacing, Number of Columns and Margin Size (very good for Dyslexia). 
+				Some free titles (Alice in Wonderland, Pride and Prejudice etc.) can be downloaded from 
+				<a href='http://www.amazon.com/Totally-Free-kindle-Books/lm/R27UG52OAM3TFX(registration'>Amazon</a> needed) ...or from 
+				<a href='http://m.gutenberg.org/'>Project Gutenberg</a> (no reg. needed).</p>
+				<p>Note that the Installed 'FBReader' (below) will also read the Kindle .mobi formats</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.amazon.kindle&hl=en' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/primary/KindleReader.JPG">
+					<p class="text-center">Kindle Reader</p>
+				</div>
+				
 				<div class="col-xs-offset-10 col-xs-2">
 					<button type="button" class="btn btn-default" onclick="document.getElementById('jumpToSelection').selectedIndex = 0; location = '#top'">
 					<span class="glyphicon glyphicon-arrow-up"></span></button>
@@ -382,7 +423,7 @@
 				The words include Weather, Animals, Vehicles, and Parts of the Body ...and Alphabet, Numbers, Colours, Food and Clothes. They include the 
 				written and the spoken version of each word. They also includes a drawing page, to scribble your own words!</p>
 				<p><i>Visually engaging, simple interface. Go híontach!</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine. N.B. This does not seem to run on my And. 4.4 tablets :-(</i></p>
 				<p><strong>Link:</strong> Cúla Caint 1: <a href='https://play.google.com/store/apps/details?id=air.com.opus.culacainte' target='_blank'>
 				Google Play Store</a></p>
 				<p>Cúla Caint 2: <a href='https://play.google.com/store/apps/details?id=air.com.opus.culacaint2' target='_blank'>
@@ -407,10 +448,11 @@
 				children. Mo Chéad Fhocail will delight and encourage children as they learn their first words in Irish using a combination of superb, 
 				colourful photographs, simple word labels and friendly narration. It's also a great way to teach children another language, with the 
 				option to add a second language that you'd like to see and hear from a choice of English, French, German, Spanish or Chinese.</p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.storytoys.myfirstwords.ga.free.android.googleplay' target='_blank'>
+				<p><strong>Technical:</strong> <i>Free, Ad.-supported version seems to be gone now (Feb 2015) so I provide the link to the paid version</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.storytoys.myfirstwords.ga.paid.android.googleplay' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/MoCheadFhocail.JPG">
-					<p class="text-center">Mo Chéad Fhocail</p>
+					<p class="text-center">(€) Mo Chéad Fhocail</p>
 				</div>
 				
 				<div class="col-xs-offset-10 col-xs-2">
@@ -440,22 +482,22 @@
 				world; you can even use the Camera to generate a ‘local image’ (including a photo from a book!). Works in Portrait Mode; start with 
 				‘No thanks’ to the download offer. Choose from any of the 46 images presented; choose a 3x3 up to 19x19 ‘piece’ size; choose either 
 				jigsaw or sliding mode; Choose ‘Cancel’ – and ‘Cancel’ - to the ‘Google Sign in’ at the end of the game!</i></p>
-				<p><strong>Advertising:</strong> <i>Ad. supported.</i></p>
+				<p><strong>Technical:</strong> <i>Ad. supported.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.mokoolapps.landmarkspuzzles' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/LandmarksPuzzle.jpg">
+				<img  class="centered" src="images/primary/LandmarksPuzzle.JPG">
 					<p class="text-center">Landmarks Puzzle</p>
 				</div>
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
-				<p><strong>Description:</strong> <i>…even better than the Apple one??? Pre-installed on many Tablets but also available from the Play 
+				<p><strong>Description:</strong> <i> Pre-installed on many Tablets but also available from the Play 
 				Store. Can Pinch to Zoom In/Out.</i></p>
-				<p><strong>Advertising:</strong> <i>In airplane/no-wifi mode, you will be able to see the last visited location but you need to be 
+				<p><strong>Technical:</strong> <i>In airplane/no-wifi mode, you will be able to see the last visited location but you need to be 
 				on-line to get the full potential of this app.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/GoogleMaps.jpg">
+				<img  class="centered" src="images/primary/GoogleMaps.JPG">
 					<p class="text-center">Maps</p>
 				</div>
 
@@ -477,7 +519,7 @@
 				tablet (so would not show up in a Search in the Play Store). 22 Mb. Portrait Mode.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.deisedesign.android' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/DungarvanJ.jpg">
+				<img  class="centered" src="images/primary/DungarvanJ.JPG">
 					<p class="text-center">Dungarvan Town Trail</p>
 				</div>
 				
@@ -486,7 +528,7 @@
 				<p><strong>Description:</strong> <i>A virtual tour of Kilkenny Castle. Designed as a 'Tourist App' but could be useful in classrooms also</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.mobanode.kilkenny_castle' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/KilkennyCastle.jpg">
+				<img  class="centered" src="images/primary/KilkennyCastle.JPG">
 					<p class="text-center">Kilkenny Castle</p>
 				</div>
 
@@ -506,16 +548,16 @@
 				to (rapidly) tap the correct Product on an engaging screen</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.tenmonkeys.multiplication&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/10monkeys.jpg">
+				<img  class="centered" src="images/primary/10monkeys.JPG">
 					<p class="text-center">10Monkeys Multiplication</p>
 				</div>
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
-				<p><strong>Description:</strong> <i>I like the Bubbbles game (tap the floating bubbles to place four numbers in order). 'Calculations' 
+				<p><strong>Description:</strong> <i>I like the Bubbles game (tap the floating bubbles to place four numbers in order). 'Calculations' 
 				provides addition exercises while 'Tables' offers multiplication. Exercises are timed (80 seconds countdown) with intermediate rewards 
 				provided. Attractive interface. Portrait Mode</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline. No Ads when Offline.</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offline.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=fr.lehovetzki.ABMathlite&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/ABmathL.JPG">
@@ -527,10 +569,10 @@
 				<p><strong>Description:</strong> A spirit level. Hold any of the tablet's four sides against an object to test it for level or plumb, 
 				or lay it down on a flat surface for a 360° level.</p>
 				<p><i>Great for teaching ‘Horizontal’ or 'Level'! Works very well on my 'phone ; Tablets need to have an Accelerometer Sensor'</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline. No Ads.</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=zok.android.dots&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/Bubble.jpg">
+				<img  class="centered" src="images/primary/Bubble.JPG">
 					<p class="text-center">Bubble Level</p>
 				</div>
 				
@@ -538,10 +580,10 @@
 				data-content="
 				<p><strong>Description:</strong> <i>Pre-installed. Does the ‘big 4’ operations as well as Trig., Exponents etc. (but not too many!). 
 				Follows the ‘Bodmas’ Rule, thankfully!</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when offline. Preinstalled</i></p>
+				<p><strong>Technical:</strong> <i>Runs when offline. Preinstalled</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=uk.co.bigfishstudios.eduDroid' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/CalculatorPrimary.jpg">
+				<img  class="centered" src="images/primary/CalculatorPrimary.JPG">
 					<p class="text-center">Calculator</p>
 				</div>
 				
@@ -570,10 +612,10 @@
 				<p><strong>Description:</strong> <i>Master your multiplication skills with this multiple-choice math game. Does seek to access ’phone 
 				state and identity’ but should be fine on a Tablet.  Student has the option to 'Submit' scores to the Edwin Website, so exercise caution
 				here!</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.edwinsmath.multiplication' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/EdwinMathX.jpg">
+				<img  class="centered" src="images/primary/EdwinMathX.JPG">
 					<p class="text-center">Edwin’s Math – Multiplication</p>
 				</div>
 				
@@ -599,7 +641,7 @@
 				teach your kids about analog and digital clocks. Includes 8 fun and interactive clocks that comes with movable hour and minutes hands 
 				especially designed for kids!</p>
 				<p><i>Note: 46 MB download file</i></p>
-				<p><strong>Advertising:</strong> <i>No Ads (just invite to upgrade). Runs when Offline. No Ads when Offine.</i></p>
+				<p><strong>Technical:</strong> <i>No Ads (just invite to upgrade). Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.giggleup.ITTAFree&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/TellingTime.JPG">
@@ -627,10 +669,10 @@
 				data-content="
 				<p><strong>Description:</strong> <i>The 'arcade game' that has been available on PC for some 20 years is now on Tablet. With this version,
 				you can rotate yoru Tablet in order to steer the rocket! 'Arithmetic' exercises are available in the 'free' version</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline. Ads for more games appear when online. Advise studnets to skip the 'Store' part</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline. Ads for more games appear when online. Advise students to skip the 'Store' part</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.KnowledgeAdventure.HyperBlast2HDFree' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/MathsBlaster.jpg">
+				<img  class="centered" src="images/primary/MathsBlaster.JPG">
 					<p class="text-center">Maths Blaster</p>
 				</div>
 				
@@ -646,13 +688,33 @@
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
-				<p><strong>Description:</strong> <i>50 basic computations Add/Subratct; Multiply/D Runs in Portrait Mode. License is for personal use only.
+				<p><strong>Description:</strong> <i>50 basic computations Add/Subtract; Multiply/D Runs in Portrait Mode. License is for personal use only.
 				Does seek to access ’phone state and identity’ but should be fine on a Tablet.</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline. No Ads when Offline but they appear when Online.</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offline but they appear when Online.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.akbur.mathsworkout&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/MathWorkout.JPG">
 					<p class="text-center">Math Workout</p>
+				</div>
+				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> <i>Practise addition, subtraction, multiplication and division as you travel through the three levels in this 'asteroid' type game. I can just about manage the 'Beginner' Profile! students will need to be alert!</i></p>
+				<p><strong>Technical:</strong> <i>43 Mb file</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.InterActionEducation.MathEvolveLite' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/primary/MathEvolve.JPG">
+					<p class="text-center">Math Evolve</p>
+				</div>
+				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> <i>Practise addition, subtraction, multiplication and division ...as two students go head-to-head</i></p>
+				<p><strong>Technical:</strong> <i>Some advertising at beginning and end of game</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.mathduel2playersgame.mathgame' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/primary/MathDuel.JPG">
+					<p class="text-center">Math Duel</p>
 				</div>
 
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
@@ -661,7 +723,7 @@
 				Mathletics Student is available as a free download to all mathletics.com subscribers and requires login credentials to access.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.mathletics.android.samsung&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/MathleticsS.jpg">
+				<img  class="centered" src="images/primary/MathleticsS.JPG">
 					<p class="text-center">Mathletics Student</p>
 				</div>
 				
@@ -676,18 +738,17 @@
 				Google Play Store</a></p>
 				Simply Fractions 3: <a href='https://play.google.com/store/apps/details?id=com.SimplyLearningAid.SimplyFrac3Lite' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/SimplifyFractions.jpg">
-					<p class="text-center">Simplfy Fractions</p>
+				<img  class="centered" src="images/primary/SimplifyFractions.JPG">
+					<p class="text-center">Simplify Fractions</p>
 				</div>
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
-				<p><strong>Description:</strong> <i>Place shape onscreen in order to measure angles. Can also be used as a Clinometer (but the 
-				Plumbline feature did not work on my Tablet, showing a ‘magnetic sensor error’)</i></p>
-				<p><strong>Advertising:</strong> <i>Ads. If online. Runs when Offline</i></p>
+				<p><strong>Description:</strong> <i>Place shape onscreen in order to measure angles. Can also be used as a Clinometer. Accurate to 0.1 of a Degree</i></p>
+				<p><strong>Technical:</strong> <i>Ads. If online. Runs when Offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=kr.sira.protractor&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/SmartPro.jpg">
+				<img  class="centered" src="images/primary/SmartPro.JPG">
 					<p class="text-center">Smart Protractor</p>
 				</div>
 				
@@ -695,7 +756,7 @@
 				data-content="
 				<p><strong>Description:</strong> <i>Place object on screen to measure length (up to 20cm). Displays measure to accuracy of tenths of 
 				millimetre – a good exercise in ‘rounding to one place of decimals.</i></p>
-				<p><strong>Advertising:</strong> <i>Ads. If online. Runs when Offline</i></p>
+				<p><strong>Technical:</strong> <i>Ads. If online. Runs when Offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=kr.sira.ruler&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/SmartRuler.JPG">
@@ -706,13 +767,33 @@
 				data-content="
 				<p><strong>Description:</strong> <i>Traditional 'Shape and Space' Game: Drag the Tan Pieces into place onto user-selected shapes. 
 				User can Rotate and Flip pieces. Very good for developing spatial awareness.</i></p>
-				<p><strong>Advertising:</strong> <i>Ads. if online. Runs when Offline. No Ads when Offine.</i></p>
+				<p><strong>Technical:</strong> <i>Ads. if online. Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.jin.games.tangram&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/Tangrams.JPG">
 					<p class="text-center">Tangram HD</p>
 				</div>
 
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> A personalized learning system for math with proven results. <i> The UK's #1 Primary Maths App, previously on iPad but released for Android at BETT2015. Teacher Dashboard also available. Currency (coins) is UK</i></p>
+				<p><strong>Technical:</strong> <i>in-app purchasing; It is a 226 MB file</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.ezeducation.doodlemaths.ks2' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/primary/Doodle.JPG">
+					<p class="text-center">Doodle Maths</p>
+				</div>
+				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> <i>An interesting way to learn about solving equations ...but using Pictures rather than algebra. Students learn the concepts of 'additive inverse' and 'balancing equations'. Very nice visuals </i></p>
+				<p><strong>Technical:</strong> <i>Finishing this Level 1 provides the option of purchasing the additional levels; It is a 38 MB file</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.wewanttoknow.DragonBoxLite' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/primary/DragonBox.JPG">
+					<p class="text-center">DragonBox Lite</p>
+				</div>
+				
 				<div class="col-xs-offset-10 col-xs-2">
 					<button type="button" class="btn btn-default" onclick="document.getElementById('jumpToSelection').selectedIndex = 0; location = '#top'">
 					<span class="glyphicon glyphicon-arrow-up"></span></button>
@@ -727,10 +808,10 @@
 				data-content="
 				<p><strong>Description:</strong> <i>Full Keyboard system. Similar to ‘My Piano’ but with no Record option. Similar instruments but can 
 				also use Steel Drums, Bells etc.</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline.</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=souvey.musical&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/Musical.jpg">
+				<img  class="centered" src="images/primary/Musical.JPG">
 					<p class="text-center">Musical Lite</p>
 				</div>
 				
@@ -738,7 +819,7 @@
 				data-content="
 				<p><strong>Description:</strong> <i>A simpler approach than ‘Perfect Piano’ but very useful nonetheless. Just one octave by default 
 				(but you can add a second via the Settings). Can Play, Record and Save. Choose from Piano, Organ, Synth, Guitar, Saxophone etc.</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.bti.myPiano&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/MyPiano.JPG">
@@ -749,20 +830,20 @@
 				data-content="
 				<p><strong>Description:</strong> <i>Learn the Piano Keyboard from Revontulet: Single or Double Row of Keys; Can Record and Playback. 
 				'Learn to Play' Mode has lots of familiar tunes. Music files can be saved (using own format) or 'Audio' can be saved as .aac</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.gamestar.perfectpiano' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/PerfectPiano.jpg">
+				<img  class="centered" src="images/primary/PerfectPiano.JPG">
 					<p class="text-center">Perfect Piano</p>
 				</div>
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Description:</strong> <i>Virtual Drum Kit. Very realistic sound effects. Option to Record and Playback</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline.</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=br.com.rodrigokolb.realdrum&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/RealDrum.jpg">
+				<img  class="centered" src="images/primary/RealDrum.JPG">
 					<p class="text-center">Real Drum</p>
 				</div>
 				
@@ -771,10 +852,10 @@
 				<p><strong>Description:</strong> <i>Turns speech into Music. Works in Portrait Mode only. Users are encouraged to buy additional tracks 
 				(can only proceed when online) ‘though some are free. ‘Song’ can be saved or Uploaded (Dropbox etc.) or Bluetoothed. A bit of musical fun
 				really but it might encourage the ‘reluctant reader’ to hear his/her story or poem in this medium</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.smule.songify&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/Songify.jpg">
+				<img  class="centered" src="images/primary/Songify.JPG">
 					<p class="text-center">Songify</p>
 				</div>
 						
@@ -797,7 +878,7 @@
 				finds using the reference section. Best played on a Tablet.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.greyolltwit.dinohunt' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/GreyDino.jpg">
+				<img  class="centered" src="images/primary/GreyDino.JPG">
 					<p class="text-center">Dinosaur Hunt</p>
 				</div>
 				
@@ -827,7 +908,7 @@
 				While you are there (on the Play Store) you might also wish to download the Author's 'Irish Land Mammals' and 'Irish Bumblebees'</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.biodiversityireland.butterfly&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/IrishButterfly.jpg">
+				<img  class="centered" src="images/primary/IrishButterfly.JPG">
 					<p class="text-center">Irish Butterflies</p>
 				</div>
 
@@ -851,13 +932,46 @@
 				<p><strong>Description:</strong> Measure the loudness of sounds in the classroom! Ask students to measure loudness of their mp3 
 				(or similar) player, loudness of vacuum cleaner etc.</p>
 				<p><i>Not sure about its accuracy, but it is at least a useful tool for comparing graph of differing volume levels</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=kr.sira.sound&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/SmartSound.jpg">
+				<img  class="centered" src="images/primary/SmartSound.JPG">
 					<p class="text-center">Sound Meter</p>
 				</div>
 
+				<div class="col-xs-offset-10 col-xs-2">
+					<button type="button" class="btn btn-default" onclick="document.getElementById('jumpToSelection').selectedIndex = 0; location = '#top'">
+					<span class="glyphicon glyphicon-arrow-up"></span></button>
+				</div>
+				
+				<div id="sphe" class="row col-xs-12">
+				<hr>
+				<p> <h4>SPHE:</h4>
+				</p></div>
+				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Subject:</strong> PE/SPHE</p>
+				<p><strong>Description:</strong> Graphics and information about such topics as Safe Swimming, Basic Life Support, Beach Flags, 
+				Lifejackets etc.</p>
+				<p><i>Simple, information rich. Some of the text may be too difficult for younger readers</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=ie.iwsapp&hl=en' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/primary/IrishWater.JPG">
+					<p class="text-center">Irish Water Safety</p>
+				</div>
+				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> A new App developed by the Environment Directorate General of the European Commission. [] Parents & Teachers: this interactive storybook is for you to use in the classroom or with your child (target group 7-11) to learn about the importance of water in our society, how to use it in moderation, the impact of polluted water on wildlife and habitats and the benefits we get from clean water.
+				The story features two children and their adventures with Fred, a well educated Frog who teaches them the error of their (and their parents' ways). [] There are some challenging sections where the reader learns about the hydrological cycle and how water treatment works.
+				<i>Very nice visuals</i>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.inuistudio.zoemakesasplash' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/primary/EUZoeSplash.JPG">
+					<p class="text-center">Zoe makes a splash!</p>
+				</div>
+				
 				<div class="col-xs-offset-10 col-xs-2">
 					<button type="button" class="btn btn-default" onclick="document.getElementById('jumpToSelection').selectedIndex = 0; location = '#top'">
 					<span class="glyphicon glyphicon-arrow-up"></span></button>
@@ -874,7 +988,7 @@
 				The software is produced (and used) as part of PhD thesis. Have a look also at the 'SpeedTest' app in the Post-Primary App page</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=net.nhenze.game.typeit' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/TypeIt.jpg">
+				<img  class="centered" src="images/primary/TypeIt.JPG">
 					<p class="text-center">Type It!</p>
 				</div>
 				
@@ -895,10 +1009,10 @@
 				(255,255,0 by the way!); a second Pen can also be used (I like to set it as the Eraser). Can Save (drawings go into the local 
 				'Camera' folder' and Send To (Dropbox, Bluetooth etc.); can Import from Gallery (or from Cloud locations such as Dropbox); can 
 				Shake to Clear; can turn your drawing into a Jigsaw; can set Background Colour (239, 228, 176 for a Pale Yellow)</i></p>
-				<p><strong>Advertising:</strong> <i>Ads. when online. Runs when Offline. No Ads when Offine.</i></p>
+				<p><strong>Technical:</strong> <i>Ads. when online. Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.android.thewongandonly.QuickDraw&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/Draw.jpg">
+				<img  class="centered" src="images/primary/Draw.JPG">
 					<p class="text-center">Draw</p>
 				</div>
 				
@@ -908,7 +1022,7 @@
 				Save feature so use your Tablet's capture option. Brought to you by Inclusive Technology</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.inclusive.fingerpaint' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/FingerPaint.jpg">
+				<img  class="centered" src="images/primary/FingerPaint.JPG">
 					<p class="text-center">Finger Paint</p>
 				</div>
 				
@@ -919,10 +1033,10 @@
 				edit, and export movies to your favorite social networks!</p>
 				<p><i>Animations can also be saved locally ...and shared with your class (without going near those 'social networks'!). A simple and 
 				accessible utility.</i></p>
-				<p><strong>Advertising:</strong> <i>Works without Wifi.</i></p>
+				<p><strong>Technical:</strong> <i>Works without Wifi.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.vblast.flipaclip' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/FlipaClip.jpg">
+				<img  class="centered" src="images/primary/FlipaClip.JPG">
 					<p class="text-center">Flip A Clip</p>
 				</div>
 				
@@ -935,10 +1049,10 @@
 				<a href='http://creative.lego.com/en-us/default.aspx'>Creative.LEGO.com</a></p>
 				<p><i>...for Flash-based activities in the 'Games' section (Build, Matching Pairs etc.). The app itself does not have many activities, 
 				aimed more for age 4 than age 7.</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.lego.bricksmore' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/Lego.jpg">
+				<img  class="centered" src="images/primary/Lego.JPG">
 					<p class="text-center">Lego</p>
 				</div>
 				
@@ -948,31 +1062,43 @@
 				<p><strong>Description:</strong> <i>Not just another useful painting app as this one will also play back the brush strokes for you. 
 				Images (.png) can be exported. I also use the Playback feature in Maths, English etc. Be careful with the Ads. that will appear when 
 				online as these may not be appropriate for classroom - use with wifi turned off.</i></p>
-				<p><strong>Advertising:</strong> <i>Works without Wifi. Ads. will appear when online</i></p>
+				<p><strong>Technical:</strong> <i>Works without Wifi. Ads. will appear when online</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.doodlejoy.studio.doodleworld&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/PaintJoyN.jpg">
+				<img  class="centered" src="images/primary/PaintJoyN.JPG">
 					<p class="text-center">PaintJoy</p>
 				</div>
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Description:</strong> <i>High-end drawing app; Can Save and Load</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.adsk.sketchbookhdexpress&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/Sketchbook.jpg">
+				<img  class="centered" src="images/primary/Sketchbook.JPG">
 					<p class="text-center">Sketchbook Express</p>
 				</div>
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Description:</strong> <i>For Junior Infants. Paint (Tap to Fill) the provided pictures: simple but effective.</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when offline.</i></p>
+				<p><strong>Technical:</strong> <i>Runs when offline.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.dornbachs.zebra&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/ZebraPaint.jpg">
+				<img  class="centered" src="images/primary/ZebraPaint.JPG">
 					<p class="text-center">Zebra Paint</p>
+				</div>
+				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				
+				<p><strong>Description:</strong> PicCollage is THE coolest collage-maker in town! Join 80 million people who use PicCollage to combine photos, Youtube videos, funky fonts, sassy stickers and cute cutouts to create the prettiest collages you'll ever see on a mobile device.</p>
+				<p><i>Another App that I saw used at BETT2015 ...this one by students at Woodlands Junior</i></p>
+				<p><strong>Technical:</strong> <i></i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.cardinalblue.piccollage.google&hl=en' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/primary/Collage.JPG">
+					<p class="text-center">Pic Collage</p>
 				</div>
 
 				<div class="col-xs-offset-10 col-xs-2">
@@ -982,24 +1108,42 @@
 				
 				<div id="allMixed" class="row col-xs-12">
 				<hr>
-				<p> <h4>All/Mixed Subjects:</h4>
+				<p> <h4>eBooks/All Subjects:</h4>
 				</p></div>
+				
+				
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
-				<p><strong>Subject:</strong> Maths/Art</p>
-				<p><strong>Description:</strong> <i>Connect the Dots! In a Sequence chosen by user (1, 2, 3 or Evens or Odds ..or even Alphabetic). 
-				Simple but effective. When sequence is complete, a graphic is presented</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=zok.android.dots&hl=en' target='_blank'>
+				<p><strong>Subject:</strong> eBooks- Primary and Post-Primary</p>
+				<p><strong>Description:</strong> Mentor eBooks. This app is freely available for use by all students, teachers and educators who 
+				can sign up for free and avail of book vouchers from their teachers or book providers to claim their education material and 
+				enhance their learning experience on their Samsung Galaxy Note 10.1 or Galaxy Tab 10.1. Designed for 10.1 inch tablets only.</p>
+				<p><i>Without a Login, I am unable to test this app; nor is there a Demo Mode that I can try :-(</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.yudu.ReaderAIR4800455&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/connect.jpg">
-					<p class="text-center">Connect the Dots - Junior Infants</p>
+				<img  class="centered" src="images/primary/MentorPrimary.JPG">
+					<p class="text-center">Mentor</p>
 				</div>
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
-				<p><strong>Subject:</strong> All Subjects - Primary and Post-Primary</p>
+				<p><strong>Subject:</strong> eBooks - Primary and Post-Primary</p>
+				<p><strong>Description:</strong> Our interactive eBooks contain audio, video, animations and web links... You can use your Gill 
+				& Macmillan eBook on multiple devices and all personal notes attached to your eBook will automatically sync across all of your 
+				devices. Our secure cloud-based platform means that if your device is lost or broken your eBook and notes are backed up.</p>
+				<p><i>Options for Thumbnails, Bookmark, Add Note, Highlight and Change Zoom. Samples for 'Cracking Maths'</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.yudu.ReaderAIR3458192&hl=en_GB' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/primary/GillMacP.JPG">
+					<p class="text-center">Gill & Macmillan</p>
+				</div>
+				
+				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Subject:</strong> eBooks - Primary and Post-Primary</p>
 				<p><strong>Description:</strong> CJ Fallon eBook Reader.</p>
 				<p><i>Needs a Username and Password for full access. However, a Demo Mode is provided in order to download eight chapter/titles. 
 				eBooks open to allow you to navigate through the texts; with the Second-Level Language Texts, multimedia (audio clips) can be 
@@ -1007,21 +1151,22 @@
 				Page Number or use Scroll to navigate through pages.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=IPI.cjfallon.ereader&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/FallonsPrimary.jpg">
+				<img  class="centered" src="images/primary/FallonsPrimary.JPG">
 					<p class="text-center">CJ Fallons</p>
 				</div>
 				
+				
+				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
-				<p><strong>Subject:</strong> English/Music/All Subjects</p>
-				<p><strong>Description:</strong> Easy Voice Recorder is a simple, fun, and easy to use audio & voice recorder. Use it to record meetings, 
-				lectures, and personal notes, without time limits! This is the free, ad-supported version.</p>
-				<p><i>Saves as .wav files. Menu allows Sharing (Bluetooth, Dropbox etc.). €2.99 for the Pro version</i></p>
-				<p><strong>Advertising:</strong> <i>Ads appear</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&hl=en' target='_blank'>
+				<p><strong>Subject:</strong> Maths/Art</p>
+				<p><strong>Description:</strong> <i>Connect the Dots! In a Sequence chosen by user (1, 2, 3 or Evens or Odds ..or even Alphabetic). 
+				Simple but effective. When sequence is complete, a graphic is presented</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=zok.android.dots&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/EasyVoice.jpg">
-					<p class="text-center">Easy Voice Recorder</p>
+				<img  class="centered" src="images/primary/connect.JPG">
+					<p class="text-center">Connect the Dots - Junior Infants</p>
 				</div>
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
@@ -1038,59 +1183,6 @@
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
-				<p><strong>Subject:</strong> All Subjects - Primary and Post-Primary</p>
-				<p><strong>Description:</strong> Our interactive eBooks contain audio, video, animations and web links... You can use your Gill 
-				& Macmillan eBook on multiple devices and all personal notes attached to your eBook will automatically sync across all of your 
-				devices. Our secure cloud-based platform means that if your device is lost or broken your eBook and notes are backed up.</p>
-				<p><i>Options for Thumbnails, Bookmark, Add Note, Highlight and Change Zoom. Samples for 'Cracking Maths'</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.yudu.ReaderAIR3458192&hl=en_GB' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/GillMacP.jpg">
-					<p class="text-center">Gill & Macmillan</p>
-				</div>
-				
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Subject:</strong> English/Music/All Subjects</p>
-				<p><strong>Description:</strong> Hi-Q MP3 Voice Recorder. <i>Saves as .mp3, and you can set a Check that allows you to assign 
-				('rename') a Filename.</p>
-				<p>Limit of 10-minutes per recording in the free version. Its Settings allow you to set the Location of the saved file (defaults 
-				to Recordings folder ...from where file can be Moved etc.). €2.99 for the Pro version</i></p>
-				<p><strong>Advertising:</strong> <i>No Ads. appear</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=yuku.mp3recorder.lite&hl=en' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/HiQRecorder.jpg">
-					<p class="text-center">Hi-Q Voice Recorder</p>
-				</div>
-				
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Subject:</strong> PE/SPHE</p>
-				<p><strong>Description:</strong> Graphics and information about such topics as Safe Swimming, Basic Life Support, Beach Flags, 
-				Lifejackets etc.</p>
-				<p><i>Simple, information rich. Some of the text may be too difficult for younger readers</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=ie.iwsapp&hl=en' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/IrishWater.jpg">
-					<p class="text-center">Irish Water Safety</p>
-				</div>
-			
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Subject:</strong> All Subjects - Primary and Post-Primary</p>
-				<p><strong>Description:</strong> Mentor eBooks. This app is freely available for use by all students, teachers and educators who 
-				can sign up for free and avail of book vouchers from their teachers or book providers to claim their education material and 
-				enhance their learning experience on their Samsung Galaxy Note 10.1 or Galaxy Tab 10.1. Designed for 10.1 inch tablets only.</p>
-				<p><i>Without a Login, I am unable to test this app; nor is there a Demo Mode that I can try :-(</i></p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.aptriva.android.mentorbooks' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/MentorPrimary.jpg">
-					<p class="text-center">Mentor</p>
-				</div>
-				
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
 				<p><strong>Subject:</strong> SESE Science, Geography</p>
 				<p><strong>Description:</strong> National Geographic Explorer is a robust classroom resource that connects students to the world. 
 				It supports common core science and language arts standards. Highly interactive content with videos, audio, photos, and levelled 
@@ -1100,9 +1192,50 @@
 				Adobe Air</a> app. Very visually appealing</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.cengage.mobile.android.natgeoexplorer&hl=en ' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/NatGeographic.jpg">
+				<img  class="centered" src="images/primary/NatGeographic.JPG">
 					<p class="text-center">National Geographic</p>
 				</div>
+				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Subject:</strong> English/Music/All Subjects</p>
+				<p><strong>Description:</strong> Easy Voice Recorder is a simple, fun, and easy to use audio & voice recorder. Use it to record meetings, 
+				lectures, and personal notes, without time limits! This is the free, ad-supported version.</p>
+				<p><i>Saves as .wav files. Menu allows Sharing (Bluetooth, Dropbox etc.). €2.99 for the Pro version</i></p>
+				<p><strong>Technical:</strong> <i>Ads appear</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&hl=en' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/primary/EasyVoice.JPG">
+					<p class="text-center">Easy Voice Recorder</p>
+				</div>
+								
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Subject:</strong> English/Music/All Subjects</p>
+				<p><strong>Description:</strong> Hi-Q MP3 Voice Recorder. <i>Saves as .mp3, and you can set a Check that allows you to assign 
+				('rename') a Filename.</p>
+				<p>Limit of 10-minutes per recording in the free version. Its Settings allow you to set the Location of the saved file (defaults 
+				to Recordings folder ...from where file can be Moved etc.). €2.99 for the Pro version</i></p>
+				<p><strong>Technical:</strong> <i>No Ads. appear</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=yuku.mp3recorder.lite&hl=en' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/primary/HiQRecorder.JPG">
+					<p class="text-center">Hi-Q Voice Recorder</p>
+				</div>
+				
+				
+				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Subject:</strong> Music/All Subjects</p>
+				<p><strong>Description:</strong> <i>This is the Pre-installed App. Very simple interface. No option to see where it is being saved 
+				...but the files end up in the Root folder and are called 'Recording-12345' or similar.</i></p>
+				<p><strong>Technical:</strong> <i>No Ads. appear</i></p>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/primary/SoundRecorder.JPG">
+					<p class="text-center">Sound Recorder</p>
+				</div>
+
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
@@ -1111,24 +1244,14 @@
 				Pictures can be Attached. Files can be Shared (Dropbox etc.). A Custom Word/Phrase bank can be used. Doesn't have spell-check nor other
 				word-processing features. Can also display a Note on the desktop as a 'widget' for ease of access (or Reminder). Can change font Size 
 				and Serif; adjust background brightness; swap dark/light foreground/background. Has 'Voice Input' ...start it with a large'V' gesture</i></p>
-				<p><strong>Advertising:</strong> <i>Needs to be online. Ads appear briefly as you dictate but you may not notice these.</i></p>
+				<p><strong>Technical:</strong> <i>Needs to be online. Ads appear briefly as you dictate but you may not notice these.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.khymaera.android.listnotefree&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/SimpleNotepadPrimary.JPG">
 					<p class="text-center">Simple Notepad</p>
 				</div>
 				
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Subject:</strong> Music/All Subjects</p>
-				<p><strong>Description:</strong> <i>This is the Pre-installed App. Very simple interface. No option to see where it is being saved 
-				...but the files end up in the Root folder and are called 'Recording-12345' or similar.</i></p>
-				<p><strong>Advertising:</strong> <i>No Ads. appear</i></p>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/primary/SoundRecorder.jpg">
-					<p class="text-center">Sound Recorder</p>
-				</div>
-
+				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Subject:</strong> English/All Subjects</p>
@@ -1139,7 +1262,7 @@
 				(which you could use as ‘Subjects’), Deleted (and Recovered from the Trashcan), Shared (as a .txt file) into Dropbox, over Bluetooth etc.</p>
 				<p>ListNote makes use of a Voice Recognition app such as <a href='https://play.google.com/store/apps/details?id=com.google.android.voicesearch&hl=en'>
 				Google Voice Search</a></i></p>
-				<p><strong>Advertising:</strong> <i>Runs when Offline. No Ads. 'Voice Input' requires online connection.</i></p>
+				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads. 'Voice Input' requires online connection.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.mightyfrog.android.simplenotepad&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/SpeechText.JPG">
@@ -1154,7 +1277,7 @@
 				Pico Synthesizer. The app also underlines the (very many, initially) unrecognised words and allows you to add them to the Dictionary. 
 				Basic editing (Select to Cut, copy, Paste). ‘Reading’ is from the current cursor position: you cannot highlight a word to have it alone 
 				read out, for example. Many languages are available  - but not Gaeilge :-(</i></p>
-				<p><strong>Advertising:</strong> <i>Ads. For Languages other than English, needs to be online to access 'all' languages</i></p>
+				<p><strong>Technical:</strong> <i>Ads. For Languages other than English, needs to be online to access 'all' languages</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.ktix007.talk&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/primary/TalkTextPrimary.JPG">

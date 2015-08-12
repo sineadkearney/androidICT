@@ -72,7 +72,7 @@
 				
 				<p>
 				<strong>Click on any icon below</strong> to see a description of the app, and a link to the (usually) Google Play Store (for which you will 
-				have previously registered an email account). Click again on the icon to close the description. We have have copied and pasted the description of the apps listed below but the <i>use 
+				have previously registered an email account). Click anywhere on the page to close the description. We have have copied and pasted the description of the apps listed below but the <i>use 
 				of Italics indicates that the App has also been Tested by us </i>
 				</p>
 				
@@ -92,7 +92,7 @@
 									<option value="#publishing">Publishing</option>
 									<option value="#teachingAid">Teaching Aid</option>
 									<option value="#whiteboard">Whiteboard</option>
-									<option value="#schools">Access to Schools</option>
+									<option value="#schools">Apps by Schools</option>
 									
 								</select>
 							</div>
@@ -100,49 +100,20 @@
 					</form>
 				</div>
 				
-				<div class="row col-xs-12 app-header" id="all">
+				<div class="row col-xs-12" id="all">
 				<hr>
 				<p> <h4>All Subjects:</h4>
 				<br>
 				</p></div>
 				
-				
-				
-								
-				
-				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
-				<p><strong>Description:</strong> <i>Create Notes, with multi-media. You need to 'sign in' with an email address. Can type or, when in 
-				typing mode, dictate text; can insert Attachment ( Picture, Audio, Video, File e.g. PDF); you can use tablet's Camera. Pictures etc. 
-				do not get inserted into the 'notebook' document but appear along an 'attachment strip' during the creation stage, but into the 
-				document when saved. 11 Mb download</i></p>
-				<p><strong>Technical:</strong> <i>This free version needs to be online for file storage. No Ads</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.evernote&hl=en' target='_blank'>
+				<p><strong>Description:</strong> <i>Voting App from Promethean. Launch your Poll from ActivInspire (free five-user version available from 
+				Promethean) and collect your students’ responses. Uses Local Wifi</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.promethean.activengage&hl=en' target='_blank'>
 				Google Play Store</a></p>">
-				<img  class="centered" src="images/teacher/Evernote.JPG">
-					<p class="text-center">Evernote</p>
-				</div>
-				
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Description:</strong> <i>Similar to EverNote, this Microsoft option is now available on Android. Create Notes, with multi-media. You need to 'sign in' with an email address. Can type or, when in 
-				typing mode; can insert Attachment ( Picture, Audio, Video, File e.g. PDF); you can use tablet's Camera. Unlike Evernote, Textboxes can be placed anywhere on the canvas. A downside is that there is not a Dictation (Speech to Text) option.</i></p>
-				<p><strong>Technical:</strong> <i>This free version needs to be online for file storage. No Ads</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.microsoft.office.onenote&hl=en' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/teacher/OneNote.JPG">
-					<p class="text-center">OneNote</p>
-				</div>
-				
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Description:</strong> <i>This is a very simple, uncluttered freehand-writing app, with the option to insert Images, Bookmarks and hyperlinks. A useful feature is that objects can be repositioned. Files are saved locally (as .html). Best used with a stylus</i></p>
-				<p><strong>Technical:</strong> <i>Works offline. No Ads</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.styluslabs.write&hl=en' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/teacher/Write.JPG">
-					<p class="text-center">Write</p>
+				<img  class="centered" src="images/teacher/ActivEngage.JPG">
+					<p class="text-center">ActivEngage</p>
 				</div>
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
@@ -152,6 +123,30 @@
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/teacher/Dropbox.JPG">
 					<p class="text-center">Dropbox</p>
+				</div>
+				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> Social Networking for Schools. Edmodo for the Android makes it easy for teachers and students to stay 
+				connected and share information. Use your Android phone to send notes, post replies, and check messages and upcoming events while away 
+				from the classroom.</p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.fusionprojects.edmodo&hl=en' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/teacher/Edmodo.JPG">
+					<p class="text-center">Edmodo</p>
+				</div>
+				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> <i>Create Notes, with multi-media. You need to 'sign in' with an email address. Can type or, when in 
+				typing mode, dictate text; can insert Attachment ( Picture, Audio, Video, File e.g. PDF); you can use tablet's Camera. Pictures etc. 
+				do not get inserted into the 'notebook' document but appear along an 'attachment strip' during the creation stage, but into the 
+				document when saved. 11 Mb download</i></p>
+				<p><strong>Advertising:</strong> <i>This free version needs to be online. No Ads</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.evernote&hl=en' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/teacher/Evernote.JPG">
+					<p class="text-center">Evernote</p>
 				</div>
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
@@ -169,16 +164,7 @@
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
-				<p><strong>Description:</strong> Microsoft's Store, access and share your files ‘in the cloud’ aka 'SkyDrive</p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.microsoft.skydrive' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/teacher/SkyDrive.JPG">
-					<p class="text-center">OneDrive</p>
-				</div>
-				
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Description:</strong> <i>MindBoard adopts a more-tablet based approach to mind-mapping in that the content is created through free-hand 
+				<p><strong>Description:</strong> <i>MindBoard adopts a more-tablet based approach in that the content is created through free-hand 
 				gestures (rather than typed entry). Can export as PDF. Changing ‘Theme’ does help with legibility. The full version cost €4.99</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=jp.osima.android.mindboardfree' target='_blank'>
 				Google Play Store</a></p>">
@@ -188,27 +174,34 @@
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
-				<p><strong>Description:</strong> Standalone mind-mapping App. Also works in the Browser of your PC …30-day trial from the <a href='http://www.mindjet.com' target='_blank'>
+				<p><strong>Description:</strong> Standalone App. Also works in the Browser of your PC …30-day trial from the <a href='http://www.mindjet.com'>
 				MindJet website</a>. Save in Mindjet 'cloud' or locally.<p>
 				</p><i>Log out via Settings. Login Screen is in Portrait Mode but app is in Landscape. Must Login :-( More powerful (insert Images, Links) 
-				than SimpleMind (below). Opens files created in <a href='http://freemind.sourceforge.net/wiki/index.php/Main_Page' target='_blank'>FreeMind</a> (.mm) - 
-				run this on your Desktop. Opens files created online in <a href='http://www.Mind42.com/ target='_blank'>Mind42.com</a> of the .mm type. There is a Video 
+				than SimpleMind (below). Opens files created in <a href='http://freemind.sourceforge.net/wiki/index.php/Main_Page'>FreeMind</a> (.mm) - 
+				run this on your Desktop. Opens files created online in <a href='http://www.Mind42.com/>Mind42.com</a>  of the .mm type. There is a Video 
 				Tutorial on the Google Play download page.</i></p>
-				<p><strong>Technical:</strong> <i>No Ads. Needs to be online.</i></p>
+				<p><strong>Advertising:</strong> <i>No Ads. Needs to be online.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=net.thinkingspace&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/teacher/MindJet.JPG">
 					<p class="text-center">MindJet</p>
 				</div>
 				
-				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				data-content="
+				<p><strong>Description:</strong> Microsoft's Store, access and share your files ‘in the cloud’ aka 'SkyDrive</p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.microsoft.skydrive' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/teacher/SkyDrive.JPG">
+					<p class="text-center">OneDrive</p>
+				</div>
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Description:</strong> SimpleMind Free for Android™ is a mind mapping tool. The Free version comes with basic but powerful Mind 
-				Mapping features. Also available as a <a href='http://www.simpleapps.eu/simplemind/desktop' target='_blank'>Trial Download</a> for Desktops.</p>
+				Mapping features. Also available as a <a href='http://www.simpleapps.eu/simplemind/desktop'>Trial Download</a> for Desktops.</p>
 				<p><i>Very nice, clean interface. Exports in 'SimpleMind Pro' format ..but otherwise can't Share :-(</i></p>
-				<p><strong>Technical:</strong> <i>No Ads. Works offline</i></p>
+				<p><strong>Advertising:</strong> <i>No Ads. Works offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.modelmakertools.simplemindfree&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/teacher/SimpleMind.JPG">
@@ -230,26 +223,6 @@
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/teacher/Socrative.JPG">
 					<p class="text-center">Socrative</p>
-				</div>
-				
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Description:</strong> <i>Voting App from Promethean. Launch your Poll from ActivInspire (free five-user version available from 
-				Promethean) and collect your students’ responses. Uses Local Wifi</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.promethean.activengage&hl=en' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/teacher/ActivEngage.JPG">
-					<p class="text-center">ActivEngage</p>
-				</div>
-				
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Description:</strong> <i>Create Quizzes and Flashcards. Sign in with your gmail address (e.g. the one already used to register your Tablet). Create your own Quizlet or use one of the thousands shared on the web ...such as <a href=http://quizlet.com/David_Kearney6 target=_blank>http://quizlet.com/David_Kearney6</a> (ppli)</i></p>
-				<p><strong>Technical:</strong> <i>Starts in Portrait mode, but can auto-rotate</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid&hl=en&referrer=utm_source%3Dmobilepage' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/teacher/Quizlet.JPG">
-					<p class="text-center">Quizlet</p>
 				</div>
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
@@ -291,32 +264,12 @@
 					<p class="text-center">YouTube</p>
 				</div>
 				
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Description:</strong> Social Networking for Schools. Edmodo for the Android makes it easy for teachers and students to stay 
-				connected and share information. Use your Android phone to send notes, post replies, and check messages and upcoming events while away 
-				from the classroom.</p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.fusionprojects.edmodo&hl=en' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/teacher/Edmodo.JPG">
-					<p class="text-center">Edmodo</p>
-				</div>
-				
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Description:</strong> Classroom is available to anyone with a google apps for education account. Using Google Classroom in school? Get the Android App to use Classroom on the go. Classroom helps teachers save time, keep classes organized, and improve communication with students. It is available to anyone with Google Apps for Education, a free suite of productivity tools including Gmail, Drive and Docs.</p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.google.android.apps.classroom' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/teacher/Classroom.JPG">
-					<p class="text-center">Google Classroom</p>
-				</div>
-				
 				<div class="col-xs-offset-10 col-xs-2">
 					<button type="button" class="btn btn-default" onclick="document.getElementById('jumpToSelection').selectedIndex = 0; location = '#top'">
 					<span class="glyphicon glyphicon-arrow-up"></span></button>
 				</div>
 				
-				<div class="row col-xs-12 app-header" id="coding">
+				<div class="row col-xs-12" id="coding">
 				<hr>
 				<p> <h4>Coding:</h4>
 				<br>
@@ -337,7 +290,7 @@
 				data-content="
 				<p><strong>Description:</strong> Control your Arduino board from your Android device over Bluetooth, Ethernet or USB (Diecimila, Duemilanove, 
 				Uno r1/r2/r3, Mega, Leonardo, Nano) using WYSIWYG interface, Android sensors or JavaScript script.</p>
-				<p><i>I also found other Apps/Projects at <a href='http://blog.arduino.cc/category/languages/android/' target='_blank'>Arduino Blog</a></i></p>
+				<p><i>I also found other Apps/Projects at <a href='http://blog.arduino.cc/category/languages/android/'>here</a></i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=name.antonsmirnov.android.arduinocommander&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/teacher/ArduinoComm.JPG">
@@ -360,7 +313,7 @@
 				'LEGO-style' programming environment. You can develop your own games, animations, interactive art, music videos, and many kinds of 
 				other apps, directly on your phone or tablet. Catrobat is a visual programming language and set of creativity tools for smartphones, 
 				tablets, and mobile browsers. Catrobat and the software developed by the Catrobat team are inspired by the Scratch programming system 
-				developed by the Lifelong Kindergarten Group at the MIT Media Lab. Learn more at <a href='http://www.catrobat.org/' target='_blank'>catrobat.org</a></p>
+				developed by the Lifelong Kindergarten Group at the MIT Media Lab. Learn more at <a href='http://www.catrobat.org/'>catrobat.org</a></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.catrobat.catroid' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/teacher/PocketCode.JPG">
@@ -383,7 +336,7 @@
 				text object) and 'create html'. There is an option to show/hide the html tags. Use 'Create HTML' to generate the .html file (saved 
 				locally in the sd folder) or File can be sent (as a .txt file and then renamed as .html) to Dropbox, LAN etc. Not powerful but a 
 				useful start.</i></p>
-				<p><strong>Technical:</strong> <i>Ads</i></p>
+				<p><strong>Advertising:</strong> <i>Ads</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.lilait.html.speaker.creator.richtext.editor.free' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/teacher/SimpleRTweb.JPG">
@@ -425,7 +378,7 @@
 				data-content="
 				<p><strong>Description:</strong> <i>W3schools.com is the premier website for learners of coding. As of yet, it does not have an App so 
 				below is provided as a link to the website</i></p>
-				<p><strong>Technical:</strong> <i></i></p>
+				<p><strong>Advertising:</strong> <i></i></p>
 				<p><strong>Link:</strong> <a href='http://www.w3schools.com/' target='_blank'>
 				W3Schools.com</a></p>">
 				<img  class="centered" src="images/teacher/w3schools.JPG">
@@ -437,7 +390,7 @@
 					<span class="glyphicon glyphicon-arrow-up"></span></button>
 				</div>
 				
-				<div class="row col-xs-12 app-header" id="creating">
+				<div class="row col-xs-12" id="creating">
 				<hr>
 				<p> <h4>Creating:</h4>
 				</p></div>
@@ -464,42 +417,14 @@
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
-				<p><strong>Description:</strong> <i>As much a Literacy exercise as a Drawing one! Once can even create Gaeilge Speech Bubbles (without the 'fada' unfortunately)</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.nextwave.comicsheadlite&hl=en' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/teacher/ComicHeads.JPG">
-					<p class="text-center">Comic Heads Lite</p>
-				</div>
-				
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Description:</strong> <i>A very attractive looking stop-motion application. Green screening, onion skinning, speech bubbles etc. Currently available on Desktop and iPad, due for Android release Summer 2015. Annual Subscription of around €120 for 1-80 pupils. A single-user, perpetual license is also available for c €50. Website: <a href='http://zu3d.com/' target='_blank'>http://zu3d.com/</a></i></p>
-				<p><strong>Link:</strong> <a href='' target='_blank'>
-				Google Play Store</a> </p>">
-				<img  class="centered" src="images/teacher/Zu3d.JPG">
-					<p class="text-center">Zu3D (pending)</p>
-				</div>
-				
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Description:</strong> <i>At BETT2014, I watched staff of British Museum (at the Samsung Stand) using a Stop Motion app 
+				<p><strong>Description:</strong> <i>At BETT2014, I watched staff of British Museum (at the Samsund Stand) using a Stop Motion app 
 				...I hope I have linked to the correct one below. </i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=us.feras.motion&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/teacher/Motion.JPG">
 					<p class="text-center">Motion - Stop Motion Camera</p>
 				</div>
-
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Description:</strong> <i>At BETT2014, I watched staff of British Museum (at the Samsung Stand) using a Stop Motion app 
-				...instead of 'Motion' listed above it may well have been this 'PicPac' one since recommended to me </i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=tv.picpac' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/teacher/PicPac.JPG">
-					<p class="text-center">PicPac</p>
-				</div>
-				
+=
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Description:</strong> <i>Make Videos using images in Gallery (or from your own My Pictures etc.). Zoom in/out to different 
@@ -516,21 +441,12 @@
 				data-content="
 				<p><strong>Description:</strong> Woices is a FREE service for creating, sharing and listening to audioguides made by [students] for 
 				the [students] ...using the Android GPS feature which allows Woices to know exactly where you are.</p>
-				<p><i>Need to Register. Nice one - in Spanish - regarding Phoenix Park at <a href='http://woices.com/echo/10753' target='_blank'>woices.com</a>. 
-				Education Guide (in Spanish, so use Translate) at <a href='http://www.educacontic.es/blog/mapas-sonoros-educativos-con-woices' target='_blank'>educacontic.es</a>.</i></p>
+				<p><i>Need to Register. Nice one - in Spanish - regarding Phoenix Park at <a href='http://woices.com/echo/10753'>woices.com</a>. 
+				Education Guide (in Spanish, so use Translate) at <a href='http://www.educacontic.es/blog/mapas-sonoros-educativos-con-woices'>educacontic.es</a>.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.woices&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/teacher/Woices.png">
 					<p class="text-center">Woices</p>
-				</div>
-				
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Description:</strong> <i>At BETT2014, the staff of British Museum (at the Samsung Stand) showed some nice 'Virtual/Augmented Reality' ...point your app-enabled phone or Tablet at a picture or document and watch it come alive</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.aurasma.aurasma&feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5hdXJhc21hLmF1cmFzbWEiXQ..' target='_blank'>
-				Google Play Store</a> ...and read about some classroom applications at <a href='http://www.kleinspiration.com/2013/05/using-augmented-reality-via-aurasma-in.html' target='_blank'>kleinspiration.com</a></p>">
-				<img  class="centered" src="images/teacher/Aurasma.JPG">
-					<p class="text-center">Aurasma</p>
 				</div>
 				
 				<div class="col-xs-offset-10 col-xs-2">
@@ -538,7 +454,7 @@
 					<span class="glyphicon glyphicon-arrow-up"></span></button>
 				</div>
 				
-				<div class="row col-xs-12 app-header" id="diagnostic">
+				<div class="row col-xs-12" id="diagnostic">
 				<hr>
 				<p> <h4>Diagnostic:</h4>
 				</p></div>			
@@ -548,7 +464,7 @@
 				data-content="
 				<p><strong>Description:</strong> The 'Ishiahara' Colour Blindness Test.</p>
 				<p><i>A simple but useful diagnostic app (most usually - but not exclusively - for Boys or Mixed classrooms)</i></p>
-				<p><strong>Technical:</strong> <i>No Ads. Runs when offline</i></p>
+				<p><strong>Advertising:</strong> <i>No Ads. Runs when offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=inutilsoft.ColorBlindnessTest&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/teacher/Colour.JPG">
@@ -570,7 +486,7 @@
 					<span class="glyphicon glyphicon-arrow-up"></span></button>
 				</div>
 				
-				<div class="row col-xs-12 app-header" id="editing">
+				<div class="row col-xs-12" id="editing">
 				<hr>
 				<p> <h4>Editing:</h4>
 				</p></div>
@@ -624,7 +540,7 @@
 					<span class="glyphicon glyphicon-arrow-up"></span></button>
 				</div>
 				
-				<div class="row col-xs-12 app-header" id="profDev">
+				<div class="row col-xs-12" id="profDev">
 				<hr>
 				<p> <h4>Professional Development:</h4>
 				<br>
@@ -656,7 +572,7 @@
 					<span class="glyphicon glyphicon-arrow-up"></span></button>
 				</div>
 				
-				<div class="row col-xs-12 app-header" id="publishing">
+				<div class="row col-xs-12" id="publishing">
 				<hr>
 				<p> <h4>Publishing:</h4>
 				</p></div>
@@ -676,7 +592,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Description:</strong> <i>Not just Files in the Cloud, but Applications in the Cloud also. Access all your Clouds (Dropbox, 
-				Box, Drive, OneDrive, Hightail) from one location. Works - without charge - on Desktop (via <a href='http://www.cloudon.com/ target='_blank'>cloudon.com</a>
+				Box, Drive, OneDrive, Hightail) from one location. Works - without charge - on Desktop (via <a href='http://www.cloudon.com/>cloudon.com</a>
 				) also (having downloaded Plugin): you get a simplified Office toollbar. Same interface on App ...use a Long Press for Menu (e.g. to 
 				make a correction to a typo). Automatic Saving and Syncing across devices. Additional features are available for €3 or €4 monthly fee.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/people/details?id=114979229546573125506&hl=en' target='_blank'>
@@ -704,12 +620,12 @@
 				<li>PowerPoint - Can insert Text, with Bullet Points (but these don't animate). Nice Transitions, use Swipe to Navigate. Cannot insert media :-(</li>
 				<li>Excel - has many of the features of the 'real thing'; fairly advanced statistical and financial analysis. Chart Option appeared in Update to 5.3.2. 
 				PDFs can be opened :-)</li></ul>
-				Free Desktop version from <a href='http://www.kingsoftstore.com/software/kingsoft-office-freeware' target='_blank'>kingsoftstore.com</a></i></p>
-				<p><strong>Technical:</strong> <i>No Ads. Works Offline</i></p>
+				Free Desktop version from <a href='http://www.kingsoftstore.com/software/kingsoft-office-freeware'>kingsoftstore.com</a></i></p>
+				<p><strong>Advertising:</strong> <i>No Ads. Works Offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=cn.wps.moffice_eng&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/teacher/Kingsoft.JPG">
-					<p class="text-center">WPS Office</p>
+					<p class="text-center">Kingsoft Office</p>
 				</div>
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
@@ -718,7 +634,7 @@
 				Text-to-Speech (TTS) feature which underlines line-by-line as read, with a ‘human’ voice. Punctuation is good although there are 
 				pauses at the end of line of text, and some contractions are unexpected. The interface is different (but not a problem!). Supports 
 				both .doc and .docx formats</i></p>
-				<p><strong>Technical:</strong> <i>Runs Offline. No ads</i></p>
+				<p><strong>Advertising:</strong> <i>Runs Offline. No ads</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.infraware.polarisoffice4&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/teacher/PolarisOffice.JPG">
@@ -764,7 +680,7 @@
 					<span class="glyphicon glyphicon-arrow-up"></span></button>
 				</div>
 				
-				<div class="row col-xs-12 app-header" id="teachingAid">
+				<div class="row col-xs-12" id="teachingAid">
 				<hr>
 				<p> <h4>Teaching Aid:</h4>
 				</p></div>
@@ -773,7 +689,7 @@
 				data-content="
 				<p><strong>Description:</strong> ClassDojo helps teachers improve behavior in their classrooms quickly and easily. It also captures 
 				and generates data on behavio[u]r that teachers can share with parents and administrators. Teachers can use this app to give students 
-				realtime feedback while in class - it will sync with the main <a href='http://www.classdojo.com/' target='_blank'>ClassDojo website</a></p>
+				realtime feedback while in class - it will sync with the main <a href='http://www.classdojo.com/'>ClassDojo website</a></p>
 				<p><i>I note that it is used by a number of Teachers on the CESI List. Very easy to use app</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.classdojo.android' target='_blank'>
 				Google Play Store</a></p>">
@@ -795,7 +711,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Description:</strong> <i>Whiteboard-style app that allows you (or your students) to create Screencasts. Includes Voice Recorder 
-				as well as drawing tools. Screencasts are published (and stored) on <a href='http://www.lensoo.com/ target='_blank'>Lensoo website</a></i></p>
+				as well as drawing tools. Screencasts are published (and stored) on <a href='http://www.lensoo.com/>Lensoo website</a></i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.lensoo.create' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/teacher/Lensoo.JPG">
@@ -807,7 +723,7 @@
 				<p><strong>Description:</strong> <i>Mathletics is used in a number of Irish schools.</i> Mathletics Teacher is available as a free 
 				download to all mathletics.com subscribers and requires login credentials to access. Mathletics is evolving… right into your hands. 
 				Mathletics Teacher is the dedicated smartphone app for teachers. Simply use your Mathletics Teacher ID to sign in.</p>
-				<p><strong>Technical:</strong> <i></i></p>
+				<p><strong>Advertising:</strong> <i></i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.MTApp&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/teacher/MathleticsTr.JPG">
@@ -831,7 +747,7 @@
 				Russian for now) on a paper to editable digital text on your device. Extracted/converted text can later be edited if required, 
 				selected and saved to a clipboard and/or shared via any application installed on the device (e.g. translated with Google translate).</p>
 				<p><i>Works best on text of same size i.e. don't scan Headings at same time as Body Text</i></p>
-				<p><strong>Technical:</strong> <i>No Ads. Runs offline</i></p>
+				<p><strong>Advertising:</strong> <i>No Ads. Runs offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.andretor.scantotext' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/teacher/ScanTextOCR.png">
@@ -857,7 +773,7 @@
 					<span class="glyphicon glyphicon-arrow-up"></span></button>
 				</div>
 				
-				<div class="row col-xs-12 app-header" id="whiteboard">
+				<div class="row col-xs-12" id="whiteboard">
 				<hr>
 				<p> <h4>Whiteboard:</h4>
 				</p></div>
@@ -880,34 +796,22 @@
 				time with other people anywhere on the internet. Use it for online tutoring, collaborative design, or just for fun! </p>
 				<p>Simple to use - simply start the app and then draw on the screen by dragging your finger. Use two fingers (pinch gesture) to zoom 
 				in or out and scroll. Click the Connect tab to connect with other people.</p>
-				<p><i>Note: also works via their website (as html) at <a href='http://www.groupboard.com/' target='_blank'>groupboard.com</a> (e.g. .../board/268699) 
+				<p><i>Note: also works via their website (as html) at <a href='http://www.groupboard.com/'>groupboard.com</a> (e.g. .../board/268699) 
 				but the app can work as a stand-alone without connection</i></p>
-				<p><strong>Technical:</strong> <i>Needs to be online. Ads in free 5-user version</i></p>
+				<p><strong>Advertising:</strong> <i>Needs to be online. Ads in free 5-user version</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.grouptechnologies.groupboard&hl=en' target='_blank'>
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/teacher/Groupboard.JPG">
 					<p class="text-center">Groupboard</p>
-				
+				</div>
 				</div>
 
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Description:</strong> <i>A really nice IWB app ...with the added bonus of screen/audio recording i.e. great for creating Screencasts</i></p>
-				<p><strong>Technical:</strong> <i>No Ads. There is a fee for this app of $2.99</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.morriscooke.explaineverything' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/teacher/ExplainET.JPG">
-					<p class="text-center">Explain Everything (€)</p>
-				
-				</div>
-				
-				
 				<div class="col-xs-offset-10 col-xs-2">
 					<button type="button" class="btn btn-default" onclick="document.getElementById('jumpToSelection').selectedIndex = 0; location = '#top'">
 					<span class="glyphicon glyphicon-arrow-up"></span></button>
 				</div>
 				
-				<div class="row col-xs-12 app-header" id="schools">
+				<div class="row col-xs-12" id="schools">
 				<hr>
 				<p> <h4>Some of the Schools which provide Android App Access:</h4>
 				<br>
@@ -1079,15 +983,6 @@
 				Google Play Store</a></p>">
 				<img  class="centered" src="images/teacher/mallow.JPG">
 					<p class="text-center">Mallow College</p>
-				</div>
-				
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
-				data-content="
-				<p><strong>Description:</strong> <i>Here is a collection of 220 (second-level) schools, where the app is developed by one company (<a href='http://www.ischool-app.ie/' target='_blank'>http://www.ischool-app.ie/)</a></p>
-								<p><strong>Link:</strong> <a href='https://play.google.com/store/search?q=ischoolapp&c=apps' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/teacher/iSchool.JPG">
-					<p class="text-center">220 Colleges</p>
 				</div>
 				
 				<div class="col-xs-offset-10 col-xs-2">

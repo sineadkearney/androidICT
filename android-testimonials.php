@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Android Tablets in the Classroom</title>
+    <title>Testemonials - Android Tablets in the Classroom</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -62,8 +62,8 @@
 					<h3 class="page-header">Android Testimonials</h3>
 					<hr>
 				
-				<p><i>The following article was written prior to the development of this website ...hoepfully, some of the 'time searching through Play Store' 
-				may be reduced.</i>
+				<p><i>The following article was written prior to the development of this website ...hopefully, some of the 'time searching through Play Store' 
+				may now be reduced.</i>
 				</p>
 				
 				<p>
@@ -100,6 +100,7 @@
 				Overall a 10/10 for the tablets from teacher and pupils alike. 
 				Brian Malone.
 				</p>
+				<p><i>The 'Yarvik' Tablets used in the school above were sourced via Barry Donn of Uptown Computers</i></p>
 
 				</p>
 				

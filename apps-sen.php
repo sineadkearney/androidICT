@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Android Tablets in the Classroom</title>
+    <title>SEN - Android Tablets in the Classroom</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -80,25 +80,26 @@
 				</p>
 				<p>
 				<strong>Click on any icon below</strong> to see a description of the app, and a link to the (usually) Google Play Store (for which you will 
-				have previously registered an email account). Click anywhere on the page to close the description.
+				have previously registered an email account). Click again on the icon to close the description. We have have copied and pasted the description of the apps listed below but <i>the use of Italics indicates that the App has also been Tested by us.</i>
 				</p>
 				
 				<br>
 
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" data-placement="bottom"
 				data-content="
-				<p><strong>Author:</strong> aacspeech.org</p>
-				<p><strong>Description:</strong> An Android application for people with speech disabilities, a generic and easy to learn communication 
-				method for anyone with speech disabilities that forms grammatically correct sentences from a list of pictograms clicked and reads them 
-				(text-to-speech). Because of pictograms it's especially good for children [or those] who have limited reading abilities.
-				It is different from most existing products by being free, by it's grammatically correct natural language-generation features ...
-				<i>Try: I - want -  apple - banana - bread</i></p>
-				<p><strong>Advertising:</strong> <i>No ads. Wifi not needed when running</i></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.epfl.android.aac_speech&hl=en' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/AACspeech.JPG">
-					<p class="text-center">AAC Speech Communicator</p>
+				<p><strong>Description:</strong> This program would display lots of fruit pictures, English words and play the sounds. It supports to 
+				install on SD card.<ol>
+				<li>You also add some pictures to your favorite.</li>
+				<li>You test these words with pictures and sounds.</li></ol></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=nootrecide.mob' target='_blank'>
+				Google Play Store</a></p>"
+				>
+				<img class="centered" src="images/FruitWords.png">
+					<p class="text-center">Fruit Words</p>
 				</div>
+				
+				
+				
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" data-placement="bottom"
 				data-content="
@@ -158,17 +159,19 @@
 					<p class="text-center">FB Reader</p>
 				</div>
 				
-				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" data-placement="bottom"
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
-				<p><strong>Description:</strong> This program would display lots of fruit pictures, English words and play the sounds. It supports to 
-				install on SD card.<ol>
-				<li>You also add some pictures to your favorite.</li>
-				<li>You test these words with pictures and sounds.</li></ol></p>
-				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=nootrecide.mob' target='_blank'>
-				Google Play Store</a></p>"
-				>
-				<img class="centered" src="images/FruitWords.png">
-					<p class="text-center">Fruit Words</p>
+				<p><strong>Author:</strong> aacspeech.org</p>
+				<p><strong>Description:</strong> An Android application for people with speech disabilities, a generic and easy to learn communication 
+				method for anyone with speech disabilities that forms grammatically correct sentences from a list of pictograms clicked and reads them 
+				(text-to-speech). Because of pictograms it's especially good for children [or those] who have limited reading abilities.
+				It is different from most existing products by being free, by it's grammatically correct natural language-generation features ...
+				<i>Try: I - want -  apple - banana - bread</i></p>
+				<p><strong>Advertising:</strong> <i>No ads. Wifi not needed when running</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.epfl.android.aac_speech&hl=en' target='_blank'>
+				Google Play Store</a></p>">
+				<img  class="centered" src="images/AACspeech.JPG">
+					<p class="text-center">AAC Speech Communicator</p>
 				</div>
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" data-placement="bottom"
@@ -276,6 +279,66 @@
 				<img class="centered" src="images/Vizzle.png">
 					<p class="text-center">VizZle Player</p>
 				</div>
+				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" data-placement="bottom"
+				data-content="
+				<p><strong>Description:</strong> </p>
+				<p>ISL Alphabet is a flashcards app intended to help beginners learn the Irish Sign Language alphabet.
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.davidmullis.signlanguagealphabetireland' target='_blank'>
+				Google Play Store</a></p>"
+				>
+				<img class="centered" src="images/SEN/ISL.JPG">
+					<p class="text-center">Sign Language Alphabet Ireland</p>
+				</div>
+				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" data-placement="bottom"
+				data-content="
+				<p><strong>Description:</strong> </p>
+				<p>The Concise Irish Sign Language Dictionary is an Irish Sign Language (ISL) video dictionary, currently containing approximately 1000 signs...Concise ISL has been developed by two young, Irish engineers, one of whom is a life-long practitioner of Irish Sign Language.
+				<p>The cost is €0.79</p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.gmail.dohertkc.conciseisl' target='_blank'>
+				Google Play Store</a></p>"
+				>
+				<img class="centered" src="images/ConciseISL.JPG">
+					<p class="text-center">€ Irish Sign Language</p>
+				</div>
+				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" data-placement="bottom"
+				data-content="
+				<p><strong>Description:</strong> </p>
+				<p><i>Cheked in on this established product at BETT2015 to learn that the Android App is under development</i>
+				<p><strong>Link:</strong> <a href='' target='_blank'>
+				Google Play Store</a></p>"
+				>
+				<img class="centered" src="images/Kurzweil.JPG">
+					<p class="text-center">Kurzweil (pending)</p>
+				</div>
+				
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" data-placement="bottom"
+				data-content="
+				<p><strong>Description:</strong> </p>
+				<p><i>I like this collection of Assistive-Technology Apps developed at a Drumcondra address. The apps present a simplified interface for use with or without a singe Switch device</i>
+				<p><strong>Link:</strong> Touch & Browse (photo viewer and music player) <a href='https://play.google.com/store/apps/details?id=com.gmail.dohertkc.touchbrowse&rdid=com.gmail.dohertkc.touchbrowse' target='_blank'>
+				Google Play Store</a></p>
+				<p><strong>Link:</strong> Touch & Choose (read aloud the text selected) <a href='https://play.google.com/store/apps/details?id=com.gmail.dohertkc.touchchoose' target='_blank'>
+				Google Play Store</a></p>
+				<p><strong>Link:</strong> Touch & View (a simplified interface for youtube) <a href='https://play.google.com/store/apps/details?id=com.gmail.dohertkc.touchview' target='_blank'>
+				Google Play Store</a></p>
+				<p><strong>Link:</strong> Touch & Listen (a simplified interface for a basic streaming radio) <a href='https://play.google.com/store/apps/details?id=com.gmail.dohertkc.touchlisten' target='_blank'>
+				Google Play Store</a></p>
+				"
+				>
+				<img class="centered" src="images/TouchBrowse.JPG">
+					<p class="text-center">Assistive Tech.</p>
+				</div>
+				
+				
+				
+				<div class="col-xs-offset-10 col-xs-2">
+					<button type="button" class="btn btn-default" onclick="document.getElementById('jumpToSelection').selectedIndex = 0; location = '#top'">
+					<span class="glyphicon glyphicon-arrow-up"></span></button>
+				</div>
+				
 				
                 </div>
                 <!-- /.col-lg-12 -->

@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Android Tablets in the Classroom</title>
+    <title>Hardware - Android Tablets in the Classroom</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -78,7 +78,7 @@
 				<h4>Essential</h4>
 				<ul>
 					<li>
-					Projector (to meet NCTE Framework specs)
+					Projector (to meet NCTE/PDST Framework specs)
 					
 					<img  class="centered hardware-image" src="images/hardware/Projector2.jpg">
 					</li>
@@ -147,10 +147,7 @@
 					Keyboard - Bluetooth or USB (with supplied Mini USB Adaptor)
 					<img  class="centered hardware-image" src="images/hardware/KeyboardAdaptor2.jpg">
 				</li>
-				<li>
-					Visualiser
-					<img  class="centered hardware-image" src="images/hardware/Visualiser2.jpg">
-				</li>
+				
 				</ul>
 				
                 </div>
