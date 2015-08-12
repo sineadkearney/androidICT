@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Android Tablets in the Classroom</title>
+    <title>Weblinks - Android Tablets in the Classroom</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -62,33 +62,41 @@
 					<h3 class="page-header">Android Weblinks</h3>
 					<hr>
 				
-				<p>
-				Visit my (separate site) <a href="http://www.ict4schools.ie/websites.html">ict4schools.ie/websites</a> ...On this page, you will find 
-				our list of 150 Education Sites. I have tested these for their Flash content, as Flash has been a major tool in the delivery of 
+				<p><i>I should really call this page 'Education Weblinks' but that would spoil the symmetry of the website Menu!</i></p>
+				<br>
+				<p>Visit my (separate site) <a href="http://www.ict4schools.ie/websites.html">ict4schools.ie/websites</a> ...On this page, you will find 
+				our list of 150 Education Sites.</p>
+
+				<br>
+				<p>I have tested these for their Flash content, as Flash has been a major tool in the delivery of 
 				educational media in the past. 
 				</p>
-				<p>
-				In the event that your particular Android Tablet does not come with Adobe Flash Player ...and Flash Player for Android is no longer 
-				available for download from the Google Play app store ...Android users can still download and install Flash Player from the Archived 
-				Flash Player Versions page on the Adobe website.  To do so, please visit the <a href="http://forums.adobe.com/message/4675670#4675670">Adobe Forum</a>
-				where there are instructions and a video from Adobe.
-				<p>
-				I would add the advice that, when installed, you may want to uncheck the “Unknown sources” option once again to keep your phone or 
-				tablet secure.
-				</p>
-				<p>
-				I have tested this solution - with success - on our Android 4.1 Jelly Bean tablet :-)
-				</p>
+				
 				<p>
 				On November 9, 2011, Adobe announced that it will no longer develop Flash for Mobile Platforms and is planning on developing new 
 				products with more open technologies and standards like HTML5.
 				</p>
+				<br>
 				<p>
-				There is no internal/installable Adobe Flash Player for iOS devices (iPhone, iPad and iPod Touch).
+				My <a href="http://www.ict4schools.ie/websites.html">ict4schools.ie/websites</a> page indicates that there is some (but definitely not rapid) movement toward 
+				html5 as an alternative to Flash. However, Flash is still used on c. 50% of 'education websites'
+				</p>
+				
+				<p>With the advent of Android 4.4 (and the movement away from Flash) I have tested a number of Browsers for 'Flash Compatibility' ...read the separate document <a href='http://android.ict4schools.ie/FlashBrowsers.html' target='_blank'>
+				Flash Browsers</a></p>
+				
+				<br>
+				<p>For Tablets running Android 4.2 or earlier, it was possible to work around the non-availability of Flash:
+				In the event that your particular Android Tablet does not come with Adobe Flash Player ...and Flash Player for Android is no longer 
+				available for download from the Google Play app store ...Android users can still download and install Flash Player from the Archived 
+				Flash Player Versions page on the Adobe website.  To do so, please visit the <a href="http://forums.adobe.com/message/4675670#4675670">Adobe Forum</a>
+				where there are instructions and a video from Adobe.
+				<p><i>
+				I would add the advice that, when installed, you may want to uncheck the “Unknown sources” option once again to keep your phone or 
+				tablet secure.</i>
 				</p>
 				<p>
-				My <a href="http://www.ict4schools.ie/websites.html">ict4schools.ie/websites</a> page indicates that there is some movement toward 
-				html5 as an alternative to Flash. However, Flash is still used on c. 50% of 'education webstes'
+				I have tested this solution - with success - on our Android 4.1 Jelly Bean tablet :-)
 				</p>
 				
                 </div>

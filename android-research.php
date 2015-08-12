@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Android Tablets in the Classroom</title>
+    <title>Research - Android Tablets in the Classroom</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -62,38 +62,38 @@
 					<h3 class="page-header">Android Research</h3>
 					<hr>
 				
-				<p><i>All links working as of October 2014</i></p>
+				<p><i>All links working as of January 2015</i></p>
 
 				<a class="anchor" name="articles"></a>
 				<p class="lead">
 				Research and Media Articles</p>
 				
 				<p>
-				<a href="http://www.learninguntethered.com/wp-content/uploads/2012/08/Learning-is-Personal.pdf">Learning is Personal</a> - Stories of 
+				<a href="http://www.learninguntethered.com/wp-content/uploads/2012/08/Learning-is-Personal.pdf" target="_blank">Learning is Personal</a> - Stories of 
 				Android Tablet Use in the 5th Grade; Marie Bjerede and Tzaddi Bondi;
 				</p>
 				
 				<p>
-				<a href="http://www.edutain.co.za/shop/news/news-letters/how-android-tablets-could-fit-into-your-classroom.html">How Android Tablets Could Fit Into Your Classroom</a>; Justin Craig;
+				<a href="http://www.edutain.co.za/shop/news/news-letters/how-android-tablets-could-fit-into-your-classroom.html" target="_blank">How Android Tablets Could Fit Into Your Classroom</a>; Justin Craig;
 				</p>
 				
 				<p>
-				<a href="http://karenmahon.com/2012/09/18/are-android-tablets-the-next-big-thing-in-education/">Are Android Tablets the Next Big Thing 
+				<a href="http://karenmahon.com/2012/09/18/are-android-tablets-the-next-big-thing-in-education/" target="_blank">Are Android Tablets the Next Big Thing 
 				in Education?</a>; Karen Mahon;
 				</p>
 				
 				<p>
-				<a href="http://karenmahon.com/2013/03/30/android-use-in-u-s-schools-an-update/">Android Tablet Use in U.S. Schools: An Update</a>; 
+				<a href="http://karenmahon.com/2013/03/30/android-use-in-u-s-schools-an-update/" target="_blank">Android Tablet Use in U.S. Schools: An Update</a>; 
 				Karen Mahon;
 				</p>
 				
 				<p>
-				<a href="http://karenmahon.com/2013/04/05/android-tablet-use-in-us-schools-a-response/">Android Tablet Use in U.S. Schools: 
+				<a href="http://karenmahon.com/2013/04/05/android-tablet-use-in-us-schools-a-response/" target="_blank">Android Tablet Use in U.S. Schools: 
 				A Response</a>; Jarrett Volzer via Karen Mahon;
 				</p>
 				
 				<p>
-				<a href="http://www.educ.cam.ac.uk/centres/cce/events/Hennessy_eLA2011_extended_abstract.pdf">Portable Technologies to Support Interactive 
+				<a href="http://www.educ.cam.ac.uk/centres/cce/events/Hennessy_eLA2011_extended_abstract.pdf" target="_blank">Portable Technologies to Support Interactive 
 				Teaching in Zambian Classrooms</a>; Sara Hennessy, Bjoern Hassler, Tom Lord, Alan Jackson and Andrew Cross;
 				</p>
 				
@@ -104,24 +104,24 @@
 				</p>
 				
 				<p>
-				<a href="http://www.experientia.com/blog/recent-studies-on-the-impact-of-tablets-in-schools-an-overview/">Recent studies on the impact 
+				<a href="http://www.experientia.com/blog/recent-studies-on-the-impact-of-tablets-in-schools-an-overview/" target="_blank">Recent studies on the impact 
 				of tablet use in schools – an overview</a>; (I note that a Belfast School is referenced in 
-				<a href="http://www.tabletsforschools.co.uk/wp-content/uploads/2012/12/2011-12-Final-Report.pdf">this report</a>)
+				<a href="http://www.tabletsforschools.co.uk/wp-content/uploads/2012/12/2011-12-Final-Report.pdf" target="_blank">this report</a>)
 				</p>
 				
 				<p>
-				<a href="http://www.royalreports.com/2012/11/19/edgewood-city-schools-go-android-tablet/">Edgewood City Schools Go Android Tablet</a>; Ken Royal;				
-				(article has a link to the <a href="http://professional.us.acer.com/edu/webinar_archives.htm">Acer Webinars</a>)
+				<a href="http://www.royalreports.com/2012/11/19/edgewood-city-schools-go-android-tablet/" target="_blank">Edgewood City Schools Go Android Tablet</a>; Ken Royal;				
+				(article has a link to the <a href="http://professional.us.acer.com/edu/webinar_archives.htm" target="_blank">Acer Webinars</a>)
 				</p>
 				
 				<p>
-				<a href="http://www.samsung.com/ie/business-images/resource/white-paper/2012/11/EBT15_1210_Samsung_Smart_School_WP-0.pdf">The Next-Generation 
+				<a href="http://www.samsung.com/ie/business-images/resource/white-paper/2012/11/EBT15_1210_Samsung_Smart_School_WP-0.pdf" target="_blank">The Next-Generation 
 				Classroom: Smart, Interactive and Connected Learning Environments</a>; WHITE PAPER, Sponsored by: Samsung; Ruthbea Yesner Clarke; 
 				October 2012.
 				</p>
 				
 				<p>
-				Essential Reading is from NCTE/PDST: <a href="http://www.ncte.ie/media/Tablet-PCAdviceSheet(June2012).pdf">NCTE Advice Sheet – Tablet PC or Tablet;</a>
+				Essential Reading is from NCTE/PDST: <a href="http://www.ncte.ie/media/Tablet-PCAdviceSheet(June2012).pdf" target="_blank">NCTE Advice Sheet – Tablet PC or Tablet;</a>
 				</p>
  
 				<hr>
@@ -130,8 +130,8 @@
 				</p>
 				
 				<p>
-				Kathy Shcrock's adaptation of <a href="http://www.schrockguide.net/bloomin-apps.html">Blooms' Taxonomy</a><br>
-				Reg Swanson's <a href="http://appsineducation.blogspot.ie/2012/11/samr-model-apps-poster.html">SAMR Model</a>
+				Kathy Shcrock's adaptation of <a href="http://www.schrockguide.net/bloomin-apps.html" target="_blank">Blooms' Taxonomy</a><br>
+				Reg Swanson's <a href="http://appsineducation.blogspot.ie/2012/11/samr-model-apps-poster.html" target="_blank">SAMR Model</a>
 				</p>
 
 				<div class="col-xs-12 col-md-6">

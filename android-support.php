@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Android Tablets in the Classroom</title>
+    <title>Support - Android Tablets in the Classroom</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -63,7 +63,7 @@
 					<hr>
 				
 				<p>
-				Yarvik Xenta User Manual ...<a href='http://android.ict4schools.ie/files/YarvikXentaTAB10-201_manual_eng.pdf'>download</a> 
+				Yarvik Xenta User Manual ...<a href='http://android.ict4schools.ie/files/YarvikXentaTAB10-201_manual_eng.pdf' target="_blank">download</a> 
 				</p>
 				
 				<p><a class="anchor" name="1"></a>
@@ -76,7 +76,7 @@
 				<p><a class="anchor" name="2"></a>
 				<strong>Q. How do I project my Android Desktop onto the Whiteboard?</strong><br>
 				A. With a direct cable connection to your projector. Some of our Androids use 'HDMI Out', so you will need an HDMI Micro Adaptor (from 
-				the Tablet itself), a HDMI Cable, and an HDMI-enabled Projector.
+				the Tablet itself), a HDMI Cable, and an HDMI-enabled Projector. Our recommendation for a 'Teacher Tablet' is one that supports 'Desktop Mirroring' i.e. using a wireless connection to link up with a HDMI Screen/Projector - using either MiraCast or Chromecast protocols
 				</p>
 				
 				<p><a class="anchor" name="3"></a>
@@ -85,19 +85,7 @@
 				A. At the 'other end' of the HDMI cable, you will need a HDMI-to-VGA convertor.
 				</p>
 				
-				<p><a class="anchor" name="4"></a>
-				<strong>Q. Can I connect my Android to 'Apple TV' so that I can roam around the classroom?</strong><br>
-				A. 'Apple TV' is a branded and iOS-specific protocol which does not provide full desktop mirroring Android. Instead one may use the 
-				iMediaShare app to project images, videos etc. A more recent innovation is that of the MiraCast protocol which does provide full desktop 
-				mirroring on supported devices, using such intermediary hardware as the NetGear PTV3000
-				</p>
-				
-				<p><a class="anchor" name="5"></a>
-				<strong>
-				Q. Can I connect to my non-HDMI Pojector?</strong><br>
-				A. You need an adaptor such as the 'Kanex ATV Pro' to link up with a standard VGA Cable
-				</p>
-				
+							
 				<p><a class="anchor" name="6"></a>
 				<strong>Q. Can I use the Interactive Whiteboard in order to control the Tablet?</strong><br>
 				A. No. The IWB uses Drivers installed on your PC. Your IWB then communicates directly with your PC, via the USB cable. Your Tablet 
