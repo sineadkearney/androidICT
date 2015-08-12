@@ -53,7 +53,6 @@ var xmlString = "<pages>";
 function readTextFile(file)
 {
 	var allText = "";
-	var xmlString = "<pages>";
 	
     var rawFile = new XMLHttpRequest();
     rawFile.open("GET", file, false);
@@ -69,7 +68,12 @@ function readTextFile(file)
 				
 				
 				var el = document.createElement( 'test' );
+				console.log(el);
 				el.innerHTML = allText;
+				
+				var title = el.getElementsByClassName("page-header");
+				title = title[0]; //the above returns an array. Assume that if there is more than one header, we only want the first
+				title = title.innerHTML;
 
 				//var content = el.getElementById( 'page-wrapper' );
 				//console.log(el.children[17]);
@@ -77,31 +81,46 @@ function readTextFile(file)
 				var pageWrapper = el.children[17].children[1];
 				console.log(pageWrapper);
 				
-				//working! find text in all stand-alone paragraphs
-				var allPtags = pageWrapper.getElementsByTagName( 'p' )
-				console.log(allPtags.length);
-				console.log(typeof allPtags[7]);
-				console.log("");
-				for (var i = 0; i < allPtags.length; i++)
-				// for (var i = 5; i < 6; i++)
+				//add all h4 entries
+				var allH4tags = pageWrapper.getElementsByTagName( 'h4' );
+				for (var i = 0; i < allH4tags.length; i++)
 				{
-					// console.log(allPtags[i].innerHTML);
+					var id = allH4tags[i].parentElement.id;
+					var content = allH4tags[i].innerHTML;
+					var arr = SplitStringIntoArray(content);
+					
+					var wordAmountEitherSide = 6;
+					AddParagrphContentToXml(arr, wordAmountEitherSide, title, id);
+				}
+				
+				//find text in all stand-alone paragraphs
+				var allPtags = pageWrapper.getElementsByTagName( 'p' )
+				for (var i = 0; i < allPtags.length; i++)
+				{
 					var parentElementClass = allPtags[i].parentElement.className;
 					if (parentElementClass.indexOf('popover-icon') != -1) //if the parent is in the popover-icon class
 					{
-						console.log("is class");
 						var id = allPtags[i].parentElement.id;
 						console.log("id: " + id);
 						var linkTitle = id.replace(/_/g, " "); //replace all underscores with spaces
 						console.log(linkTitle);
 						
-						resultString = GenerateXmlEntry(linkTitle, linkTitle, linkTitle, id);
+						resultString = GenerateXmlEntry(linkTitle, title, linkTitle, id); //(word, title, string, url)
 						xmlString += resultString + "\n";
-						// console.log(resultString);
 					}
-					// console.log(allPtags[i]);
+					else //it's a normal paragraph
+					{
+						var content = allPtags[i].innerHTML;
+						if (content != "" && content != " ")
+						{
+							var arr = SplitStringIntoArray(content);
+							
+							var id = allPtags[i].id;
+							var wordAmountEitherSide = 6;
+							AddParagrphContentToXml(arr, wordAmountEitherSide, title, id);
+						}
+					}
 				}
-				
 				
 				//parse the data in the data-content section of a .popover-icon div
 				var allPopPverIcons = pageWrapper.getElementsByClassName('popover-icon');
@@ -180,6 +199,51 @@ function readTextFile(file)
 	//return allText;
 }
 
+function SplitStringIntoArray(string)
+{
+	string = string.replace(/[\n\r\t]/g, ''); //remove all newLine and tab characters
+	string = string.replace(/<(?:.|\n)*?>/gm, ''); //remove all html tags
+	string = string.replace(/\//g, ' '); //replace '/' with ' '
+	console.log(string);
+						
+	var arr = string.split(' '); //turn the string into an array, where each element is a word (seperated by ' ');
+	return arr;			
+}
+
+function AddParagrphContentToXml(arr, wordAmountEitherSide, linkTitle, id)
+{
+	for (var n = 0; n < arr.length; n++)
+	{
+		var word = arr[n];
+		if (CheckIfWordIsValid(word))
+		{
+			var resultString = "";
+				
+			var startStringAtWordIndex = n - wordAmountEitherSide;
+			var endStringAtWordIndex = n + wordAmountEitherSide;
+			var searchWordIndex = n;
+								
+			if (startStringAtWordIndex < 0) startStringAtWordIndex = 0;
+			if (endStringAtWordIndex > arr.length-1) endStringAtWordIndex = arr.length-1;
+								
+			//create the results string
+			for (var k = startStringAtWordIndex; k <= endStringAtWordIndex; k++)
+			{
+				if (k == searchWordIndex)
+					resultString += "==b=" + arr[k] + '=b== '; //these will be replaces with "<strong>" and "</strong>" later
+				else
+					resultString += arr[k] + ' ';
+			}
+						
+			//remove all puncutation from the word
+			word = word.replace(/[.,-\/#!$%\^&\*;:{}=\-_`~()?]/g,"")
+								
+			resultString = GenerateXmlEntry(word, linkTitle, resultString, id);
+			xmlString += resultString + "\n";
+		}
+	}
+	//return xmlString;
+}
 
 //return false if the word is one of the words that we are ignoring
 var ignoreTheseWords = ['a', 'the', 'of', 'is', 'an', 'and', '', 'in', 'or', 'to', '...', '-', '--'];
@@ -187,7 +251,7 @@ function CheckIfWordIsValid(word)
 {
 	for (var i = 0; i < ignoreTheseWords.length; i++)
 	{
-		if (word == ignoreTheseWords[i])
+		if (word.toLowerCase() == ignoreTheseWords[i])
 			return false;
 	}
 	return true;

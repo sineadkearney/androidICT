@@ -62,13 +62,13 @@
 					<h3 class="page-header">Apps for Personal Use</h3>
 					<hr>
 				
-				<p class="lead">
+				<p class="lead" id="1">
 				The emphasis in this page is on Apps for use by a Teacher or Other in his/her Personal/Professional Life.</p>
 				
-				<p>Hopefully the range of apps will help to support our view that Android is a perfectly acceptable alternative to 'the other mobile platform'
+				<p id="2">Hopefully the range of apps will help to support our view that Android is a perfectly acceptable alternative to 'the other mobile platform'
 				</p>
 				
-				<p>
+				<p id="3">
 				<strong>Click on any icon below</strong> to see a description of the app, and a link to the (usually) Google Play Store (for which you will 
 				have previously registered an email account). Click again on the icon to close the description. We have have copied and pasted the description of the apps listed below but the <i>use 
 				of Italics indicates that the App has also been Tested by us </i>
@@ -239,9 +239,9 @@
 				data-content="
 				<p><strong>Description:</strong> Ireland's most popular entertainment website brings you the App that you can never be without! 
 				From entertainment.ie, Ireland's most up-to-date and reliable online listings service for over 10 years. Features include:
-				<ul><li>Complete Cinema Guide for Ireland</li>
-				<li>What's on Today for Gigs, Theatre, Events and Festival</li>
-				<li>Maps for venues</li></ul></p>
+				<ul><li>Complete Cinema Guide for Ireland </li>
+				<li>What's on Today for Gigs, Theatre, Events and Festival </li>
+				<li>Maps for venues </li></ul></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.entertainment.ie' target='_blank'>
 				Google Play Store</a></p>" id="Entertainment.ie">
 				<img  class="centered" src="images/personal/Entertainment.jpg">
@@ -716,7 +716,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover"
 				data-content="
 				<p><strong>Description:</strong> Get fantastic vouchers direct to your Android handset - Simply search and save. Vouchercloud is now 
-				available in UK,Ireland, Malta and Netherlands.</p>
+				available in UK, Ireland, Malta and Netherlands.</p>
 				<p>If you love saving money and you love big brands and local businesses then you’ll love vouchercloud. Free to download and use, 
 				vouchercloud has the biggest selection of mobile discount vouchers – an unrivalled mix of High Street giants and carefully selected 
 				local independents.</p>

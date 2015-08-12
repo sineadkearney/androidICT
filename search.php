@@ -98,10 +98,11 @@ $( document ).ready(function() {
         <div id="page-wrapper">
             <div class="row">
                 <div class="col-xs-12">
-                    <h3 class="page-header">Search Results:</h3>
+                    <h3 class="page-header">Results for "<?php echo $_GET["searchTerm"] ?>":</h3>
 					<hr>
 					
 					<div id="search-results">
+						searching...
 					</div>
 				
                 </div>
