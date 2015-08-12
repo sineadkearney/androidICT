@@ -59,6 +59,7 @@
             <div class="row">
                 <div class="col-xs-12">
                     
+				content goes here
 				
                 </div>
                 <!-- /.col-lg-12 -->
