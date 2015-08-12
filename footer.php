@@ -3,11 +3,11 @@
 						<br>
 						<div id="footer-content"class="col-xs-12">
 
-							<p class="footer-entry">	
+							<!--<p class="footer-entry">	
 									Uptown Computers together with ICT4Schools
-								</p>
+								</p>-->
 							<p class="footer-entry">	
-									<span class="glyphicon glyphicon-copyright-mark"></span> David Kearney, 2014
+									<span class="glyphicon glyphicon-copyright-mark"></span> David Kearney, 2015
 								</p>
 						</div>
 

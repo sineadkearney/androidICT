@@ -68,18 +68,21 @@
 					<div class="col-xs-12 col-md-9">
 					<p class="lead">
 					ASP seeks to investigate ways in which the Android Operating System
-					(using the Touch Tablet form factor) can impact on the classroom.
+					(using the Touch Tablet form factor) can impact on the classroom.)
 					</p>
 					
 					<p>
-					<strong>Intended Audience:</strong>
-					Education Professionals supporting Teaching and Learning in Classrooms in Ireland. The site may also prove suitable for independent student-use outside of the classroom.
+					Intended Audience:
+					Education Professionals serving Classrooms in Ireland.
+					</p>
+					<p>
+					We are grateful to Barry Donn of Uptown Computers
+					for his support of this site
 					</p>
 					
-					
 					<p>
-					<strong>Disclaimer:</strong> We generally use the <a href="https://play.google.com/store" target=_blank>Google Play Store</a> as the 'safest' source for most of the listed apps but we cannot be held liable for any loss which may 
-					occur as a result of installation of an app. Occasionally, other sources - or direct installations of "apk" may be used
+					<strong>Disclaimer:</strong> We use Google Store as the 'safest' source for most of the listed app but we cannot be held liable for any loss which may 
+					occur as a result of installation of an app.
 					</p>
 					</div>
 					
