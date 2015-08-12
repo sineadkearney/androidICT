@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Android Tablets in the Classroom</title>
+    <title>Personal Use of Android Tablets</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -70,7 +70,7 @@
 				
 				<p>
 				<strong>Click on any icon below</strong> to see a description of the app, and a link to the (usually) Google Play Store (for which you will 
-				have previously registered an email account). Click anywhere on the page to close the description. We have have copied and pasted the description of the apps listed below but the <i>use 
+				have previously registered an email account). Click again on the icon to close the description. We have have copied and pasted the description of the apps listed below but the <i>use 
 				of Italics indicates that the App has also been Tested by us </i>
 				</p>
 				
@@ -858,6 +858,15 @@
 				Google Play Store</a></p>" id="Your_Passenger_Rights">
 				<img  class="centered" src="images/personal/YourPassenger.png">
 					<p class="text-center">Your Passenger Rights</p>
+				</div>
+
+				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover"
+				data-content="
+				<p><strong>Description:</strong> <i>Display your Boarding Pass on your Android Screen instead of on paper (although I might do the hardcopy printout also, just in case!). Uses .pkpass format files</i></p>
+				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.attidomobile.passwallet&hl=en' target='_blank'>
+				Google Play Store</a></p>" id="PassWallet_-_Passbook_+_NFC">
+				<img  class="centered" src="images/personal/PassWallet.JPG">
+					<p class="text-center">PassWallet - Passbook + NFC</p>
 				</div>
 
 				<div class="col-xs-offset-10 col-xs-2">
