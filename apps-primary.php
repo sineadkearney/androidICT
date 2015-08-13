@@ -61,7 +61,7 @@
 					<h3 class="page-header">Apps for Primary School</h3>
 					<hr>
 				
-				<p class="lead">
+				<p id="1" class="lead">
 				The emphasis in this Resource is on Apps that can be used by the Students. These Apps tend to be of the 'drill and practice' type.
 				</p>
 				
@@ -106,7 +106,7 @@
 				<p><i>Works in Portrait Mode. Guided Mode: trace correctly, get rewarded with a picture</i></p>
 				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.divmob.abchandwrittingactivity' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="ABC_Handwriting">
 				<img  class="centered" src="images/primary/ABCHandwriting.JPG">
 					<p class="text-center">ABC Handwriting</p>
 				</div>
@@ -122,7 +122,7 @@
 				<p>Suitable for UK Key Stage 1, 2, 3, 4 & 5 - USA 1st to 12th Grade (Age 5 - adult)</p>
 				<p><strong>Technical:</strong> <i>Runs when offline. No Ads.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.greyolltwit.alphabetsoup' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Alphabet_Soup">
 				<img  class="centered" src="images/primary/GreyAlphaSoup.JPG">
 					<p class="text-center">Alphabet Soup</p>
 				</div>
@@ -134,7 +134,7 @@
 				onto another screen from, e.g., <a href='http://www.gutenberg.org/'>Project Gutenberg</a>). Portrait Mode.</i></p>
 				<p><strong>Technical:</strong> <i>Ad supported.Wifi is not needed one the Audio has been downloaded.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.crossforward.audiobooks' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Audiobooks">
 				<img  class="centered" src="images/primary/Audiobooks.JPG">
 					<p class="text-center">Audiobooks</p>
 				</div>
@@ -147,7 +147,7 @@
 				<p><i>From the same 'Effective Authors' as WordBot and similar in design and functionality. Portrait Mode</i></p>
 				<p><strong>Technical:</strong> <i>Runs when offline. No Ads.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.effectiveobjects.bspellinglite&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Brilliant_Spelling_Lite">
 				<img  class="centered" src="images/primary/BrillSpell.JPG">
 					<p class="text-center">Brilliant Spelling Lite</p>
 				</div>
@@ -161,7 +161,7 @@
 				on your PC from the <a href='https://www.istorybooks.co/free-books.html'>iStory Books site</a></i></p>
 				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.infomarvel.istorybooks&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="iStoryBooks">
 				<img  class="centered" src="images/primary/iStoryBooks.JPG">
 					<p class="text-center">iStoryBooks</p>
 				</div>
@@ -173,7 +173,7 @@
 				you left off), Letter Blocks/Cubes (drag Pictures onto Sounds)</i></p>
 				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=zok.android.phonics' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Kids_ABC_Phonics">
 				<img class="centered" src="images/primary/ABCphonics.JPG">
 					<p class="text-center">Kids ABC Phonics</p>
 				</div>
@@ -188,7 +188,7 @@
 				<p><i>Three words are used, with the option to purchase another 13 for €1.45</i></p>
 				<p><strong>Technical:</strong> <i>No Ads. Runs when offline.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=lmb.ebooks.CatCatFree' target='_blank'>
-				Google Play Store</a></p>"
+				Google Play Store</a></p>" id="Learn_To_Read_Kids_App"
 				>
 				<img class="centered" src="images/primary/CatCat.JPG">
 					<p class="text-center">Learn To Read Kids App</p>
@@ -200,7 +200,7 @@
 				<p><strong>Technical:</strong> <i>Runs when offline. No Ads. in the A/Z Samples. Runs in Portrait Mode</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.gazoob.letterlanda' target='_blank'>
 				Google Play Store - Letter A</a>  and <a href='https://play.google.com/store/apps/details?id=com.gazoob.letterland.z' target='_blank'>
-				Google Play Store - Letter Z</a></p>">
+				Google Play Store - Letter Z</a></p>" id="Letterland">
 				<img  class="centered" src="images/primary/LetterlandA.JPG">
 					<p class="text-center">Letterland</p>
 				</div>
@@ -211,7 +211,7 @@
 It has been built by a team of teachers and education consultants to make the most of the increasing amount of time children spend using tablets or mobile phones.
 Each episode has a particular learning objective and, because they are fun, your child can continue consolidating their skills by watching them again and again.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.learnwithpip.pipadventures' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Learn_with_Pip">
 				<img  class="centered" src="images/primary/Pip.JPG">
 					<p class="text-center">Learn with Pip</p>
 				</div>
@@ -221,7 +221,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Description:</strong> The Lexia App (free) is available for those with an active account. Lexia Reading UK on Android Tablets 
 				is for students using Lexia Early Reading®, Lexia Primary Reading®, and Lexia Strategies for Older Students</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.lexialearning.lexiareadinguk' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Lexia_Reading_UK">
 				<img  class="centered" src="images/primary/Lexia.JPG">
 					<p class="text-center">Lexia Reading UK</p>
 				</div>
@@ -235,7 +235,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<a href='http://www.meegenius.com/store/books/free/'>here</a>. Skip the part about 'Facebook'!</p>
 				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.meegenius.reader&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="MeeGenius">
 				<img  class="centered" src="images/primary/MeeGenius.JPG">
 					<p class="text-center">MeeGenius</p>
 				</div>
@@ -246,7 +246,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				This is a paid-for app (€1.40) and seems very good value for a comprehensive package. It is written by a phonics expert from the Jolly 
 				Discoveries literacy teaching team</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=au.com.mobiddiction.phonics' target='_blank'>
-				Google Play Store</a></p>"
+				Google Play Store</a></p>" id="Phonics_Under_the_Big_Top"
 				>
 				<img class="centered" src="images/primary/PhonicsBigTop.JPG">
 					<p class="text-center">Phonics Under the Big Top</p>
@@ -257,7 +257,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Description:</strong> sAyBC free - Alphabet Sounds</p>
 				<p><i>This is a very simple Phonic Alphabet. I wonder is it produced here in Ireland? (sounds like an ‘Irish Child’ voice/accent)</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.androidlandscape.saybc.free&hl=en' target='_blank'>
-				Google Play Store</a></p>"
+				Google Play Store</a></p>" id="sAyBC"
 				>
 				<img class="centered" src="images/primary/SayBC.JPG">
 					<p class="text-center">sAyBC</p>
@@ -274,7 +274,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				follow the link</i></p>
 				<p><strong>Technical:</strong> <i>Runs when offline. No Ads.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.fivepumpkins.words&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Sight_Words">
 				<img  class="centered" src="images/primary/SightWords.JPG">
 					<p class="text-center">Sight Words</p>
 				</div>
@@ -285,7 +285,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				has an android app. This has a range of engaging activities. Custom word lists may be entered online by registered parents or teachers 
 				(registration is free) for use in the games and activities on VocabularySpellingCity’s app.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.spellingcity.VocabularySpellingCityAndroid&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Spelling_City">
 				<img  class="centered" src="images/primary/SpellCity.JPG">
 					<p class="text-center">Spelling City</p>
 				</div>
@@ -298,7 +298,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				are being read. $0.99 to purchase individual story without ads</i></p>
 				<p><strong>Technical:</strong> <i>When online, Advertising from booking.com etc., and for their own books. Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.tabtale.goldilocks.google' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="TabTale_Goldilocks">
 				<img  class="centered" src="images/primary/TabGoldilocks.JPG">
 					<p class="text-center">TabTale Goldilocks</p>
 				</div>
@@ -310,7 +310,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<a href='http://www.puzzle-maker.com/WS/index.htm'>puzzle maker</a> for example</i></p>
 				<p><strong>Technical:</strong> Ad supported but paid version (0.99)  available</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.havos.wordsearch' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Word_Search">
 				<img  class="centered" src="images/primary/WordSearchH.JPG">
 					<p class="text-center">Word Search</p>
 				</div>
@@ -320,7 +320,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Description:</strong> <i>A simple Word Search for younger users. Runs in Portrait Mode.</i></p>
 				<p>Suitable for UK Key Stage 1, 2, 3, 4 & 5 - USA 1st to 12th Grade (Age 5 - adult)</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.bluecowgames.wordsearchfun' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Word_Search_Fun">
 				<img  class="centered" src="images/primary/WordSearch.JPG">
 					<p class="text-center">Word Search Fun</p>
 				</div>
@@ -330,7 +330,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Description:</strong> <i>Scrabble cum Countdown game ...make as many words as possible from the available list</i></p>
 				
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.ludomade.chicktionary&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Chicktionary">
 				<img  class="centered" src="images/primary/Chicktionary.JPG">
 					<p class="text-center">Chicktionary</p>
 				</div>
@@ -348,7 +348,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><i>In order to Export a word list, I found I had to firstly create a Folder in SD called 'EffectiveObjects'. A 'Text List' can 
 				be Imported (the structure is Word,WordPhonetic,Sentence ...no space after commas)</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=au.com.mobiddiction.phonics' target='_blank'>
-				Google Play Store</a></p>"
+				Google Play Store</a></p>" id="WordBot_Lite_3D"
 				>
 				<img class="centered" src="images/primary/WordBot.JPG">
 					<p class="text-center">WordBot Lite 3D</p>
@@ -362,7 +362,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				be scrolled. Downloaded Texts – option to ‘continue reading’. Texts can be 'imported from SD'</i></p>
 				<p><strong>Technical:</strong> <i>Online: Advertising from booking.com etc. Runs when offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.graphilos.epub&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="ePub_Reader">
 				<img  class="centered" src="images/primary/ePubPrimary.JPG">
 					<p class="text-center">ePub Reader</p>
 				</div>
@@ -374,7 +374,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				vertically depending on reading mode), search for text, share (via Bluetooth, Dropbox etc.)</i></p>
 				<p><strong>Technical:</strong> <i>No Ads. Runs when offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.adobe.reader&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Adobe_Reader">
 				<img  class="centered" src="images/primary/AdobeReader.JPG">
 					<p class="text-center">Adobe Reader</p>
 				</div>
@@ -387,7 +387,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				</i>Pre-installed but you can also download from...</i></p>
 				<p><strong>Technical:</strong> <i>No Ads. Works offline.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="FBReader">
 				<img  class="centered" src="images/primary/FBReaderP.png">
 					<p class="text-center">FBReader</p>
 				</div>
@@ -402,7 +402,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<a href='http://m.gutenberg.org/'>Project Gutenberg</a> (no reg. needed).</p>
 				<p>Note that the Installed 'FBReader' (below) will also read the Kindle .mobi formats</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.amazon.kindle&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Kindle_Reader">
 				<img  class="centered" src="images/primary/KindleReader.JPG">
 					<p class="text-center">Kindle Reader</p>
 				</div>
@@ -427,7 +427,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Link:</strong> Cúla Caint 1: <a href='https://play.google.com/store/apps/details?id=air.com.opus.culacainte' target='_blank'>
 				Google Play Store</a></p>
 				<p>Cúla Caint 2: <a href='https://play.google.com/store/apps/details?id=air.com.opus.culacaint2' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Cúla_Caint">
 				<img  class="centered" src="images/primary/CulaCaint.JPG">
 					<p class="text-center">Cúla Caint</p>
 				</div>
@@ -437,7 +437,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Description:</strong> Gaeilfón Free Irish Translator is a 2-way English-Irish translator which contains over 13,000 
 				off-line words and terms.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.maithu.android.gaelfonfree&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Gaelfon">
 				<img  class="centered" src="images/primary/GaelfonPrimary.JPG">
 					<p class="text-center">Gaelfon</p>
 				</div>
@@ -450,7 +450,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				option to add a second language that you'd like to see and hear from a choice of English, French, German, Spanish or Chinese.</p>
 				<p><strong>Technical:</strong> <i>Free, Ad.-supported version seems to be gone now (Feb 2015) so I provide the link to the paid version</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.storytoys.myfirstwords.ga.paid.android.googleplay' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Mo_Chéad_Fhocail">
 				<img  class="centered" src="images/primary/MoCheadFhocail.JPG">
 					<p class="text-center">(€) Mo Chéad Fhocail</p>
 				</div>
@@ -471,7 +471,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				into place, learning where they are in relation to each other along with basic information about each.</p>
 				<p>Suitable for UK Key Stage 2, 3, 4 & 5 - USA 2nd to 12th Grade (Age 7 - adult)</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.greyolltwit.eurojigsaw' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="European_Jigsaw">
 				<img  class="centered" src="images/primary/GreyEuroJigsaw.JPG">
 					<p class="text-center">European Jigsaw</p>
 				</div>
@@ -484,7 +484,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				jigsaw or sliding mode; Choose ‘Cancel’ – and ‘Cancel’ - to the ‘Google Sign in’ at the end of the game!</i></p>
 				<p><strong>Technical:</strong> <i>Ad. supported.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.mokoolapps.landmarkspuzzles' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Landmarks_Puzzle">
 				<img  class="centered" src="images/primary/LandmarksPuzzle.JPG">
 					<p class="text-center">Landmarks Puzzle</p>
 				</div>
@@ -496,7 +496,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Technical:</strong> <i>In airplane/no-wifi mode, you will be able to see the last visited location but you need to be 
 				on-line to get the full potential of this app.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Maps">
 				<img  class="centered" src="images/primary/GoogleMaps.JPG">
 					<p class="text-center">Maps</p>
 				</div>
@@ -518,7 +518,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				Clicking on the ‘Map’ option causes app to fail but otherwise no problems. This app is not compatible with my older ‘Neuropad’ 
 				tablet (so would not show up in a Search in the Play Store). 22 Mb. Portrait Mode.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.deisedesign.android' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Dungarvan_Town_Trail">
 				<img  class="centered" src="images/primary/DungarvanJ.JPG">
 					<p class="text-center">Dungarvan Town Trail</p>
 				</div>
@@ -527,7 +527,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				data-content="
 				<p><strong>Description:</strong> <i>A virtual tour of Kilkenny Castle. Designed as a 'Tourist App' but could be useful in classrooms also</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.mobanode.kilkenny_castle' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Kilkenny_Castle">
 				<img  class="centered" src="images/primary/KilkennyCastle.JPG">
 					<p class="text-center">Kilkenny Castle</p>
 				</div>
@@ -547,7 +547,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Description:</strong> <i>(as seen and tested at BETT2014) 10Monkeys offer a range of activities: this starter one allows users 
 				to (rapidly) tap the correct Product on an engaging screen</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.tenmonkeys.multiplication&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="10Monkeys_Multiplication">
 				<img  class="centered" src="images/primary/10monkeys.JPG">
 					<p class="text-center">10Monkeys Multiplication</p>
 				</div>
@@ -559,7 +559,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				provided. Attractive interface. Portrait Mode</i></p>
 				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offline.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=fr.lehovetzki.ABMathlite&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="AB_Math_Lite">
 				<img  class="centered" src="images/primary/ABmathL.JPG">
 					<p class="text-center">AB Math Lite</p>
 				</div>
@@ -571,7 +571,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><i>Great for teaching ‘Horizontal’ or 'Level'! Works very well on my 'phone ; Tablets need to have an Accelerometer Sensor'</i></p>
 				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=zok.android.dots&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Bubble_Level">
 				<img  class="centered" src="images/primary/Bubble.JPG">
 					<p class="text-center">Bubble Level</p>
 				</div>
@@ -582,7 +582,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				Follows the ‘Bodmas’ Rule, thankfully!</i></p>
 				<p><strong>Technical:</strong> <i>Runs when offline. Preinstalled</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=uk.co.bigfishstudios.eduDroid' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Calculator">
 				<img  class="centered" src="images/primary/CalculatorPrimary.JPG">
 					<p class="text-center">Calculator</p>
 				</div>
@@ -592,7 +592,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Description:</strong> <i>Calculator Quest is an Old-World style game that also works as a Calculator. The ‘game’ part is for
 				the student to quickly type in the answer to a given ‘sum’. Portrait Mode.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=jp.co.uraraworks.dq' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Calculator_Quest">
 				<img  class="centered" src="images/primary/CalcQuest.JPG">
 					<p class="text-center">Calculator Quest</p>
 				</div>
@@ -602,7 +602,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Description:</strong> <i>(as seen and tested at BETT2014) Part of a whole suite of apps for younger learners, this (free version) 
 				will cover counting and addition up to 6</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.tribalnova.ilearnwith.ipad.PokoAddEn' target='_blank'>
-				Google Play Store</a> <i>(and look for more from Developer at the bottom of the page)</i></p>">
+				Google Play Store</a> <i>(and look for more from Developer at the bottom of the page)</i></p>" id="Counting_and_Addition_Kids_Games">
 				<img  class="centered" src="images/primary/CountAdd.JPG">
 					<p class="text-center">Counting and Addition Kids Games</p>
 				</div>
@@ -614,7 +614,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				here!</i></p>
 				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.edwinsmath.multiplication' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Edwin’s_Math_–_Multiplication">
 				<img  class="centered" src="images/primary/EdwinMathX.JPG">
 					<p class="text-center">Edwin’s Math – Multiplication</p>
 				</div>
@@ -629,7 +629,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Link:</strong> Addition: <a href='https://play.google.com/store/apps/details?id=com.greyolltwit.addition' target='_blank'>
 				Google Play Store</a></p>
 				<p>Division: <a href='https://play.google.com/store/apps/details?id=com.greyolltwit.division' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Everlasting_Worksheet">
 				<img  class="centered" src="images/primary/GreyAddition.JPG">
 					<p class="text-center">Everlasting Worksheet</p>
 				</div>
@@ -643,7 +643,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><i>Note: 46 MB download file</i></p>
 				<p><strong>Technical:</strong> <i>No Ads (just invite to upgrade). Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.giggleup.ITTAFree&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Interactive_Telling_Time">
 				<img  class="centered" src="images/primary/TellingTime.JPG">
 					<p class="text-center">Interactive Telling Time</p>
 				</div>
@@ -660,7 +660,8 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p>3rd: <a href='https://play.google.com/store/apps/details?id=com.edupad.app.grade3.math' target='_blank'>Google Play Store</a></p>
 				<p>4th: <a href='https://play.google.com/store/apps/details?id=com.edupad.app.grade4.math' target='_blank'>Google Play Store</a></p>
 				<p>5th: <a href='https://play.google.com/store/apps/details?id=com.edupad.app.grade5.math' target='_blank'>Google Play Store</a></p>
-				<p>6th: <a href='https://play.google.com/store/apps/details?id=com.edupad.app.grade6.math' target='_blank'>Google Play Store</a></p>">
+				<p>6th: <a href='https://play.google.com/store/apps/details?id=com.edupad.app.grade6.math' target='_blank'>Google Play Store</a></p>"
+				id="iTooch_Math">
 				<img  class="centered" src="images/primary/iToochMaths1.JPG">
 					<p class="text-center">iTooch Math</p>
 				</div>
@@ -671,7 +672,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				you can rotate yoru Tablet in order to steer the rocket! 'Arithmetic' exercises are available in the 'free' version</i></p>
 				<p><strong>Technical:</strong> <i>Runs when Offline. Ads for more games appear when online. Advise students to skip the 'Store' part</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.KnowledgeAdventure.HyperBlast2HDFree' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Maths_Blaster">
 				<img  class="centered" src="images/primary/MathsBlaster.JPG">
 					<p class="text-center">Maths Blaster</p>
 				</div>
@@ -681,7 +682,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Description:</strong> <i>Simple Addition Sums. Tap on the Bubbles to indicate answer. Keeps offering new sums as long as you are 
 				getting them right. Portrait Mode.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.ditiva.MathInMotion&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Math_in_Motion">
 				<img  class="centered" src="images/primary/MathMotion.JPG">
 					<p class="text-center">Math in Motion</p>
 				</div>
@@ -692,7 +693,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				Does seek to access ’phone state and identity’ but should be fine on a Tablet.</i></p>
 				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offline but they appear when Online.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.akbur.mathsworkout&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Math_Workout">
 				<img  class="centered" src="images/primary/MathWorkout.JPG">
 					<p class="text-center">Math Workout</p>
 				</div>
@@ -702,7 +703,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Description:</strong> <i>Practise addition, subtraction, multiplication and division as you travel through the three levels in this 'asteroid' type game. I can just about manage the 'Beginner' Profile! students will need to be alert!</i></p>
 				<p><strong>Technical:</strong> <i>43 Mb file</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.InterActionEducation.MathEvolveLite' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Math_Evolve">
 				<img  class="centered" src="images/primary/MathEvolve.JPG">
 					<p class="text-center">Math Evolve</p>
 				</div>
@@ -712,7 +713,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Description:</strong> <i>Practise addition, subtraction, multiplication and division ...as two students go head-to-head</i></p>
 				<p><strong>Technical:</strong> <i>Some advertising at beginning and end of game</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.mathduel2playersgame.mathgame' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Math_Duel">
 				<img  class="centered" src="images/primary/MathDuel.JPG">
 					<p class="text-center">Math Duel</p>
 				</div>
@@ -722,7 +723,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Description:</strong> <i>Mathletics is used a number of Irish Classrooms.<i> 
 				Mathletics Student is available as a free download to all mathletics.com subscribers and requires login credentials to access.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.mathletics.android.samsung&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Mathletics_Student">
 				<img  class="centered" src="images/primary/MathleticsS.JPG">
 					<p class="text-center">Mathletics Student</p>
 				</div>
@@ -737,7 +738,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				Simply Fractions 2: <a href='https://play.google.com/store/apps/details?id=com.SimplyLearningAid.SimplyFrac2Lite' target='_blank'>
 				Google Play Store</a></p>
 				Simply Fractions 3: <a href='https://play.google.com/store/apps/details?id=com.SimplyLearningAid.SimplyFrac3Lite' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Simplify_Fractions">
 				<img  class="centered" src="images/primary/SimplifyFractions.JPG">
 					<p class="text-center">Simplify Fractions</p>
 				</div>
@@ -747,7 +748,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Description:</strong> <i>Place shape onscreen in order to measure angles. Can also be used as a Clinometer. Accurate to 0.1 of a Degree</i></p>
 				<p><strong>Technical:</strong> <i>Ads. If online. Runs when Offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=kr.sira.protractor&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Smart_Protractor">
 				<img  class="centered" src="images/primary/SmartPro.JPG">
 					<p class="text-center">Smart Protractor</p>
 				</div>
@@ -758,7 +759,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				millimetre – a good exercise in ‘rounding to one place of decimals.</i></p>
 				<p><strong>Technical:</strong> <i>Ads. If online. Runs when Offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=kr.sira.ruler&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Smart_Ruler">
 				<img  class="centered" src="images/primary/SmartRuler.JPG">
 					<p class="text-center">Smart Ruler</p>
 				</div>
@@ -769,7 +770,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				User can Rotate and Flip pieces. Very good for developing spatial awareness.</i></p>
 				<p><strong>Technical:</strong> <i>Ads. if online. Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.jin.games.tangram&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Tangram_HD">
 				<img  class="centered" src="images/primary/Tangrams.JPG">
 					<p class="text-center">Tangram HD</p>
 				</div>
@@ -779,7 +780,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Description:</strong> A personalized learning system for math with proven results. <i> The UK's #1 Primary Maths App, previously on iPad but released for Android at BETT2015. Teacher Dashboard also available. Currency (coins) is UK</i></p>
 				<p><strong>Technical:</strong> <i>in-app purchasing; It is a 226 MB file</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.ezeducation.doodlemaths.ks2' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Doodle_Maths">
 				<img  class="centered" src="images/primary/Doodle.JPG">
 					<p class="text-center">Doodle Maths</p>
 				</div>
@@ -789,7 +790,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Description:</strong> <i>An interesting way to learn about solving equations ...but using Pictures rather than algebra. Students learn the concepts of 'additive inverse' and 'balancing equations'. Very nice visuals </i></p>
 				<p><strong>Technical:</strong> <i>Finishing this Level 1 provides the option of purchasing the additional levels; It is a 38 MB file</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.wewanttoknow.DragonBoxLite' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="DragonBox_Lite">
 				<img  class="centered" src="images/primary/DragonBox.JPG">
 					<p class="text-center">DragonBox Lite</p>
 				</div>
@@ -810,7 +811,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				also use Steel Drums, Bells etc.</i></p>
 				<p><strong>Technical:</strong> <i>Runs when Offline.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=souvey.musical&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Musical_Lite">
 				<img  class="centered" src="images/primary/Musical.JPG">
 					<p class="text-center">Musical Lite</p>
 				</div>
@@ -821,7 +822,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				(but you can add a second via the Settings). Can Play, Record and Save. Choose from Piano, Organ, Synth, Guitar, Saxophone etc.</i></p>
 				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.bti.myPiano&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="My_Piano">
 				<img  class="centered" src="images/primary/MyPiano.JPG">
 					<p class="text-center">My Piano</p>
 				</div>
@@ -832,7 +833,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				'Learn to Play' Mode has lots of familiar tunes. Music files can be saved (using own format) or 'Audio' can be saved as .aac</i></p>
 				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.gamestar.perfectpiano' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Perfect_Piano">
 				<img  class="centered" src="images/primary/PerfectPiano.JPG">
 					<p class="text-center">Perfect Piano</p>
 				</div>
@@ -842,7 +843,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Description:</strong> <i>Virtual Drum Kit. Very realistic sound effects. Option to Record and Playback</i></p>
 				<p><strong>Technical:</strong> <i>Runs when Offline.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=br.com.rodrigokolb.realdrum&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Real_Drum">
 				<img  class="centered" src="images/primary/RealDrum.JPG">
 					<p class="text-center">Real Drum</p>
 				</div>
@@ -854,7 +855,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				really but it might encourage the ‘reluctant reader’ to hear his/her story or poem in this medium</i></p>
 				<p><strong>Technical:</strong> <i>Runs when Offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.smule.songify&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Songify">
 				<img  class="centered" src="images/primary/Songify.JPG">
 					<p class="text-center">Songify</p>
 				</div>
@@ -877,7 +878,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				as you go. The game involves searching photographs of locations around the world for dinosaur remains and then correctly identifying your
 				finds using the reference section. Best played on a Tablet.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.greyolltwit.dinohunt' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Dinosaur_Hunt">
 				<img  class="centered" src="images/primary/GreyDino.JPG">
 					<p class="text-center">Dinosaur Hunt</p>
 				</div>
@@ -893,7 +894,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				</p><p>Use it in conjunction with the <a href='http://www.seomraranga.com/2011/03/life-cycle-of-a-frog/'>PowerPoint</a> on Seomra Ranga .
 				Apart from the Frog App, Designmate do a whole <a href='https://play.google.com/store/apps/developer?id=Designmate'>range of (often) free apps</a></i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.dm.frog' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Frog">
 				<img  class="centered" src="images/primary/frog.png">
 					<p class="text-center">Frog</p>
 				</div>
@@ -907,7 +908,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><i>This app didn't work on my first Tablet but delighted to now have access to this visual and useful resource.
 				While you are there (on the Play Store) you might also wish to download the Author's 'Irish Land Mammals' and 'Irish Bumblebees'</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.biodiversityireland.butterfly&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Irish_Butterflies">
 				<img  class="centered" src="images/primary/IrishButterfly.JPG">
 					<p class="text-center">Irish Butterflies</p>
 				</div>
@@ -922,7 +923,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				Primary School). On the Home Screen, apart from Barn Owl (above), are Mooney Docs (mp3 files), Mooneys Mag (Articles, with Text/Pictures)
 				and Garden Birds (Articles, Text/Pictures) ..pity Font Size can't be increased in latter. The Twitter link is for RTE Tweets (so not 
 				specific to 'Mooney').</i></p>
-				<p><strong>Link:</strong> App currently not available... Nov 2014</p>">
+				<p><strong>Link:</strong> App currently not available... Nov 2014</p>" id="RTE's_Mooney_App">
 				<img  class="centered" src="images/primary/Mooney.png">
 					<p class="text-center">RTE's Mooney App</p>
 				</div>
@@ -934,7 +935,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><i>Not sure about its accuracy, but it is at least a useful tool for comparing graph of differing volume levels</i></p>
 				<p><strong>Technical:</strong> <i>Runs when Offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=kr.sira.sound&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Sound_Meter">
 				<img  class="centered" src="images/primary/SmartSound.JPG">
 					<p class="text-center">Sound Meter</p>
 				</div>
@@ -956,7 +957,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				Lifejackets etc.</p>
 				<p><i>Simple, information rich. Some of the text may be too difficult for younger readers</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=ie.iwsapp&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Irish_Water_Safety">
 				<img  class="centered" src="images/primary/IrishWater.JPG">
 					<p class="text-center">Irish Water Safety</p>
 				</div>
@@ -967,7 +968,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				The story features two children and their adventures with Fred, a well educated Frog who teaches them the error of their (and their parents' ways). [] There are some challenging sections where the reader learns about the hydrological cycle and how water treatment works.
 				<i>Very nice visuals</i>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.inuistudio.zoemakesasplash' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Zoe_makes_a_splash!">
 				<img  class="centered" src="images/primary/EUZoeSplash.JPG">
 					<p class="text-center">Zoe makes a splash!</p>
 				</div>
@@ -987,7 +988,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Description:</strong> <i>This may be aimed at a younger audience. User is asked to type the words that appear on-screen. 
 				The software is produced (and used) as part of PhD thesis. Have a look also at the 'SpeedTest' app in the Post-Primary App page</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=net.nhenze.game.typeit' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Type_It!">
 				<img  class="centered" src="images/primary/TypeIt.JPG">
 					<p class="text-center">Type It!</p>
 				</div>
@@ -1011,7 +1012,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				Shake to Clear; can turn your drawing into a Jigsaw; can set Background Colour (239, 228, 176 for a Pale Yellow)</i></p>
 				<p><strong>Technical:</strong> <i>Ads. when online. Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.android.thewongandonly.QuickDraw&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Draw">
 				<img  class="centered" src="images/primary/Draw.JPG">
 					<p class="text-center">Draw</p>
 				</div>
@@ -1021,7 +1022,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Description:</strong> <i>(as seen and tested at BETT2014) This painting app is simple and rewarding to use. It lacks a 
 				Save feature so use your Tablet's capture option. Brought to you by Inclusive Technology</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.inclusive.fingerpaint' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Finger_Paint">
 				<img  class="centered" src="images/primary/FingerPaint.JPG">
 					<p class="text-center">Finger Paint</p>
 				</div>
@@ -1035,7 +1036,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				accessible utility.</i></p>
 				<p><strong>Technical:</strong> <i>Works without Wifi.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.vblast.flipaclip' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Flip_A_Clip">
 				<img  class="centered" src="images/primary/FlipaClip.JPG">
 					<p class="text-center">Flip A Clip</p>
 				</div>
@@ -1051,7 +1052,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				aimed more for age 4 than age 7.</i></p>
 				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.lego.bricksmore' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Lego">
 				<img  class="centered" src="images/primary/Lego.JPG">
 					<p class="text-center">Lego</p>
 				</div>
@@ -1064,7 +1065,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				online as these may not be appropriate for classroom - use with wifi turned off.</i></p>
 				<p><strong>Technical:</strong> <i>Works without Wifi. Ads. will appear when online</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.doodlejoy.studio.doodleworld&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="PaintJoy">
 				<img  class="centered" src="images/primary/PaintJoyN.JPG">
 					<p class="text-center">PaintJoy</p>
 				</div>
@@ -1074,7 +1075,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Description:</strong> <i>High-end drawing app; Can Save and Load</i></p>
 				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.adsk.sketchbookhdexpress&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Sketchbook_Express">
 				<img  class="centered" src="images/primary/Sketchbook.JPG">
 					<p class="text-center">Sketchbook Express</p>
 				</div>
@@ -1084,7 +1085,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Description:</strong> <i>For Junior Infants. Paint (Tap to Fill) the provided pictures: simple but effective.</i></p>
 				<p><strong>Technical:</strong> <i>Runs when offline.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.dornbachs.zebra&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Zebra_Paint">
 				<img  class="centered" src="images/primary/ZebraPaint.JPG">
 					<p class="text-center">Zebra Paint</p>
 				</div>
@@ -1096,7 +1097,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><i>Another App that I saw used at BETT2015 ...this one by students at Woodlands Junior</i></p>
 				<p><strong>Technical:</strong> <i></i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.cardinalblue.piccollage.google&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Pic_Collage">
 				<img  class="centered" src="images/primary/Collage.JPG">
 					<p class="text-center">Pic Collage</p>
 				</div>
@@ -1122,7 +1123,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><i>Without a Login, I am unable to test this app; nor is there a Demo Mode that I can try :-(</i></p>
 				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.yudu.ReaderAIR4800455&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Mentor">
 				<img  class="centered" src="images/primary/MentorPrimary.JPG">
 					<p class="text-center">Mentor</p>
 				</div>
@@ -1135,7 +1136,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				devices. Our secure cloud-based platform means that if your device is lost or broken your eBook and notes are backed up.</p>
 				<p><i>Options for Thumbnails, Bookmark, Add Note, Highlight and Change Zoom. Samples for 'Cracking Maths'</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.yudu.ReaderAIR3458192&hl=en_GB' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Gill_and_Macmillan">
 				<img  class="centered" src="images/primary/GillMacP.JPG">
 					<p class="text-center">Gill & Macmillan</p>
 				</div>
@@ -1150,7 +1151,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				accessed relevant to a particular page; at all Levels, Student can enter and save Notes; Pinch to Zoom, Pan left-right or Type 
 				Page Number or use Scroll to navigate through pages.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=IPI.cjfallon.ereader&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="CJ_Fallons">
 				<img  class="centered" src="images/primary/FallonsPrimary.JPG">
 					<p class="text-center">CJ Fallons</p>
 				</div>
@@ -1164,7 +1165,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				Simple but effective. When sequence is complete, a graphic is presented</i></p>
 				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=zok.android.dots&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Connect_the_Dots_-_Junior_Infants">
 				<img  class="centered" src="images/primary/connect.JPG">
 					<p class="text-center">Connect the Dots - Junior Infants</p>
 				</div>
@@ -1176,7 +1177,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				more than that. The initial offering (Numercy) uses UK coins but it and the other numeracy activities are still very relevant in Irish 
 				(junior) classrooms</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=uk.co.bigfishstudios.eduDroid' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="EduDroid">
 				<img  class="centered" src="images/primary/EduDroid.JPG">
 					<p class="text-center">EduDroid</p>
 				</div>
@@ -1191,7 +1192,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				Access to ‘Sleeping’ Mode on Tablet. Also Requires installation of <a href='https://play.google.com/store/apps/details?id=com.adobe.air&hl=en'>
 				Adobe Air</a> app. Very visually appealing</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.cengage.mobile.android.natgeoexplorer&hl=en ' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="National_Geographic">
 				<img  class="centered" src="images/primary/NatGeographic.JPG">
 					<p class="text-center">National Geographic</p>
 				</div>
@@ -1204,7 +1205,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><i>Saves as .wav files. Menu allows Sharing (Bluetooth, Dropbox etc.). €2.99 for the Pro version</i></p>
 				<p><strong>Technical:</strong> <i>Ads appear</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Easy_Voice_Recorder">
 				<img  class="centered" src="images/primary/EasyVoice.JPG">
 					<p class="text-center">Easy Voice Recorder</p>
 				</div>
@@ -1218,7 +1219,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				to Recordings folder ...from where file can be Moved etc.). €2.99 for the Pro version</i></p>
 				<p><strong>Technical:</strong> <i>No Ads. appear</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=yuku.mp3recorder.lite&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Hi-Q_Voice_Recorder">
 				<img  class="centered" src="images/primary/HiQRecorder.JPG">
 					<p class="text-center">Hi-Q Voice Recorder</p>
 				</div>
@@ -1231,7 +1232,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				<p><strong>Description:</strong> <i>This is the Pre-installed App. Very simple interface. No option to see where it is being saved 
 				...but the files end up in the Root folder and are called 'Recording-12345' or similar.</i></p>
 				<p><strong>Technical:</strong> <i>No Ads. appear</i></p>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Sound_Recorder">
 				<img  class="centered" src="images/primary/SoundRecorder.JPG">
 					<p class="text-center">Sound Recorder</p>
 				</div>
@@ -1246,7 +1247,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				and Serif; adjust background brightness; swap dark/light foreground/background. Has 'Voice Input' ...start it with a large'V' gesture</i></p>
 				<p><strong>Technical:</strong> <i>Needs to be online. Ads appear briefly as you dictate but you may not notice these.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.khymaera.android.listnotefree&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Simple_Notepad">
 				<img  class="centered" src="images/primary/SimpleNotepadPrimary.JPG">
 					<p class="text-center">Simple Notepad</p>
 				</div>
@@ -1264,7 +1265,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				Google Voice Search</a></i></p>
 				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads. 'Voice Input' requires online connection.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.mightyfrog.android.simplenotepad&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Speech_to_Text">
 				<img  class="centered" src="images/primary/SpeechText.JPG">
 					<p class="text-center">Speech to Text</p>
 				</div>
@@ -1279,7 +1280,7 @@ Each episode has a particular learning objective and, because they are fun, your
 				read out, for example. Many languages are available  - but not Gaeilge :-(</i></p>
 				<p><strong>Technical:</strong> <i>Ads. For Languages other than English, needs to be online to access 'all' languages</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.ktix007.talk&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Text_to_Speech">
 				<img  class="centered" src="images/primary/TalkTextPrimary.JPG">
 					<p class="text-center">Text to Speech</p>
 				</div>

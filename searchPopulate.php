@@ -78,7 +78,15 @@ function readTextFile(file)
 				//var content = el.getElementById( 'page-wrapper' );
 				//console.log(el.children[17]);
 				//console.log(el.firstElementChild);
-				var pageWrapper = el.children[17].children[1];
+				
+				var pageWrapper = "";
+				for (var i = 0; i < el.children.length; i++)
+				{
+					if (el.children[i].id == "wrapper")
+					{
+						pageWrapper = el.children[i].children[1];
+					}
+				}
 				console.log(pageWrapper);
 				
 				//add all h4 entries
@@ -107,6 +115,7 @@ function readTextFile(file)
 						var id = allPtags[i].parentElement.id;
 						console.log("id: " + id);
 						var linkTitle = id.replace(/_/g, " "); //replace all underscores with spaces
+						linkTitle = RemoveSpecialChars(linkTitle);
 						console.log(linkTitle);
 						
 						resultString = GenerateXmlEntry(linkTitle, title, linkTitle, id); //(word, title, string, url)
@@ -133,25 +142,24 @@ function readTextFile(file)
 				//parse the data in the data-content section of a .popover-icon div
 				var allPopPverIcons = pageWrapper.getElementsByClassName('popover-icon');
 				
-				// for (var i = 6; i < 7; i++)
 				for (var i = 0; i < allPopPverIcons.length; i++)
 				{
 					var id = allPopPverIcons[i].attributes['id'].value;
 					console.log("id: " + id);
 					var linkTitle = id.replace(/_/g, " "); //replace all underscores with spaces
+					linkTitle = RemoveSpecialChars(linkTitle);
 					console.log(linkTitle);
 					
 					var dataContent = allPopPverIcons[i].attributes['data-content'];
-					console.log(dataContent);
+					//console.log(dataContent);
 					dataContent = dataContent.value;
 					if (dataContent.indexOf("Description:") != -1) //if it contains "Description:"
 					{
 						
-						console.log(dataContent);
+						//console.log(dataContent);
 						dataContent = dataContent.substr(dataContent.indexOf('</strong>')+9);
 						var desc = dataContent.substr(0, dataContent.indexOf('</p>'));
-						desc = desc.replace(/[\n\r\t]/g, ''); //remove all newLine and tab characters
-						desc = desc.replace(/<(?:.|\n)*?>/gm, ''); //remove all html tags
+						desc = RemoveSpecialChars(desc);
 						console.log(desc);
 						
 						var descArr = desc.split(' '); //turn the string into an array, where each element is a word (seperated by ' ');
@@ -207,13 +215,25 @@ function readTextFile(file)
 
 function SplitStringIntoArray(string)
 {
-	string = string.replace(/[\n\r\t]/g, ''); //remove all newLine and tab characters
-	string = string.replace(/<(?:.|\n)*?>/gm, ''); //remove all html tags
-	string = string.replace(/\//g, ' '); //replace '/' with ' '
+	string = RemoveSpecialChars(string);
 	console.log(string);
 						
 	var arr = string.split(' '); //turn the string into an array, where each element is a word (seperated by ' ');
 	return arr;			
+}
+
+function RemoveSpecialChars(string)
+{
+	if (string.indexOf(" & ") != -1)
+	{
+		var test = ""; //for debugging
+	}
+	string = string.replace(/[\n\r\t]/g, ''); //remove all newLine and tab characters
+	string = string.replace(/<(?:.|\n)*?>/gm, ''); //remove all html tags
+	string = string.replace(/&/g, 'and'); //replace '&' with 'and' ('&' is invalid in xml)
+	string = string.replace(/\//g, ' '); //replace '/' with ' '
+	
+	return string;
 }
 
 function AddParagrphContentToXml(arr, wordAmountEitherSide, linkTitle, id)
@@ -251,7 +271,7 @@ function AddParagrphContentToXml(arr, wordAmountEitherSide, linkTitle, id)
 }
 
 //return false if the word is one of the words that we are ignoring
-var ignoreTheseWords = ['a', 'the', 'of', 'is', 'an', 'and', '', 'in', 'or', 'to', '...', '-', '--', '.....', 'q.', 'a.', ':-)'];
+var ignoreTheseWords = ['a', 'the', 'of', 'is', 'an', 'and', '', 'in', 'or', 'to', '...', '-', '--', '.....', 'q.', 'a.', ':-)', '*'];
 function CheckIfWordIsValid(word)
 {
 	for (var i = 0; i < ignoreTheseWords.length; i++)
@@ -290,7 +310,11 @@ function GenerateXmlEntry(word, title, string, url)
 // var fileName = "android-research.php";
 // var fileName = "android-support.php"; 
 // var fileName = "android-testimonials.php"; //TODO: support lists
-var fileName = "android-weblinks.php";
+// var fileName = "android-weblinks.php";
+// var fileName = "apps-postprimary.php";
+// var fileName = "apps-primary.php";
+// var fileName = "apps-sen.php";
+var fileName = "apps-teacher.php";
 
 //to check
 // var fileName = "android-hardware.php";

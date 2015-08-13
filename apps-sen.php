@@ -68,13 +68,13 @@
 					<h3 class="page-header">Apps for SEN Students</h3>
 					<hr>
 				
-				<p>
+				<p id="1">
 				The emphasis in this Resource is on Apps that can be used by Special Education Needs (SEN) Students. Please also visit the Primary 
 				and Post-Primary pages for non-SEN-specific apps, some of which (such as Kindle Reader;Text to/from Speech; mind mapping etc.) are 
 				also very valuable resources. I am indebted to inspiration for some of the apps below by 
 				<a href="http://www.iautism.info/en/2011/03/25/list-of-apps-for-android/">iAutism</a>
 				</p>
-				<p>				
+				<p id="2">				
 				Presentation at ILSA, Irish Learning Support Association, 2013 (Android Tablets for Learning Support) available ...
 				<a href="http://android.ict4schools.ie/files/Android_ILSA2013.pdf" target="_blank">ILSA2013</a>
 				</p>
@@ -92,7 +92,7 @@
 				<li>You also add some pictures to your favorite.</li>
 				<li>You test these words with pictures and sounds.</li></ol></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=nootrecide.mob' target='_blank'>
-				Google Play Store</a></p>"
+				Google Play Store</a></p>" id="Fruit_Words"
 				>
 				<img class="centered" src="images/FruitWords.png">
 					<p class="text-center">Fruit Words</p>
@@ -106,7 +106,7 @@
 				<p><strong>Description:</strong> This app shows many animal pictures and words. It can play the sounds of this pictures. 
 				It has picture test and speak test functions.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.nootapp.animalwords' target='_blank'>
-				Google Play Store</a></p>"
+				Google Play Store</a></p>" id="Animal_Words"
 				>
 				<img class="centered" src="images/AnimalWords.JPG">
 					<p class="text-center">Animal Words</p>
@@ -122,7 +122,7 @@
 				<p><i>Runs in Portrait Mode.</i></p>
 				<p><strong>Advertising:</strong> <i>Advertising supported. Wifi needed for 'Speak Test'</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.easyapp.clothesword' target='_blank'>
-				Google Play Store</a></p>"
+				Google Play Store</a></p>" id="Clothes_Words"
 				>
 				<img class="centered" src="images/ClothesWords.png">
 					<p class="text-center">Clothes Words</p>
@@ -136,7 +136,7 @@
 				<p><i>Designed for an individual (rather than the ClassDojo referenced on our 'Teacher Page').</i></p>
 				<p><strong>Advertising:</strong> <i>Runs Offline. No Ads. when offline.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.goodbehaviortools.tokens' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Easy_Kid_Tokens">
 				<img class="centered" src="images/Tokens.png">
 					<p class="text-center">Easy Kid Tokens</p>
 				</div>
@@ -153,7 +153,7 @@
 				Doesn't have Text to Speech :-(
 				Pre-installed but you can also download from...</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android&hl=en' target='_blank'>
-				Google Play Store</a></p>"
+				Google Play Store</a></p>" id="FB_Reader"
 				>
 				<img class="centered" src="images/FBReaderSEN.png">
 					<p class="text-center">FB Reader</p>
@@ -169,7 +169,7 @@
 				<i>Try: I - want -  apple - banana - bread</i></p>
 				<p><strong>Advertising:</strong> <i>No ads. Wifi not needed when running</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.epfl.android.aac_speech&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="AAC_Speech_Communicator">
 				<img  class="centered" src="images/AACspeech.JPG">
 					<p class="text-center">AAC Speech Communicator</p>
 				</div>
@@ -180,7 +180,7 @@
 				filing, signatures, bcc-self, PGP, mail on SD & more! K-9 supports IMAP, POP3 and Exchange 2003/2007 (with WebDAV).</p>
 				<p><i>K-9 works in conjunction with TalkBack (above) whereas the in-built Gmail does not :-(</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.fsck.k9' target='_blank'>
-				Google Play Store</a></p>"
+				Google Play Store</a></p>" id="K-9_Mail"
 				>
 				<img class="centered" src="images/K9email.png">
 					<p class="text-center">K-9 Mail</p>
@@ -194,7 +194,7 @@
 				</p><p>The app encourages development and basic awareness of touches and gestures through open-ended exploration and play.</p>
 				<p><strong>Price:</strong> €1.46</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.cognable.lightbox' target='_blank'>
-				Google Play Store</a></p>"
+				Google Play Store</a></p>" id="LightBox"
 				>
 				<img class="centered" src="images/LightBox.png">
 					<p class="text-center">LightBox</p>
@@ -207,7 +207,7 @@
 				and builds on established models of paper based communication boards and books.
 				Not very extensive vocabulary; doesn't show sentence construction but supports communication for those who really need it.</p>
 				<p><strong>Advertising:</strong> <i>Runs Offline. No Ads when offline.</i></p>
-				<p><strong>Link:</strong> New version due on Play Store, late May 2014</p>">
+				<p><strong>Link:</strong> New version due on Play Store, late May 2014</p>" id="PhotoVoca">
 				<img class="centered" src="images/PhotoVoca.png">
 					<p class="text-center">PhotoVoca</p>
 				</div>
@@ -220,7 +220,7 @@
 				<p><i>A number of Alarm/Reminders can be set - these may be recurring or not</i></p>
 				<p><strong>Advertising:</strong> <i>Runs Offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.appestry.pic_alarms' target='_blank'>
-				Google Play Store</a></p>"
+				Google Play Store</a></p>" id="PicAlarms"
 				>
 				<img class="centered" src="images/PicAlarms.png">
 					<p class="text-center">PicAlarms</p>
@@ -231,7 +231,7 @@
 				<p><strong>Description:</strong> PictogramAgenda is a software application that facilitates the generation and use of visual schedules 
 				...PictogramAgenda allows to set up and order a sequence of images (maximum 12) to form the visual schedule (agenda).</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.lorenzomoreno.pictogramagenda' target='_blank'>
-				Google Play Store</a></p>"
+				Google Play Store</a></p>" id="Pictogram_Agenda"
 				>
 				<img class="centered" src="images/PictoAgenda.png">
 					<p class="text-center">Pictogram Agenda</p>
@@ -243,10 +243,10 @@
 				Visit the link to learn more. There is a free trial so that you can test before you purchase. Works best with a reasonable rear-facing 
 				camera (such as on our Toshiba offering)</i></p>
 				<p><strong>Link:</strong> <a href='http://www.capturatalk.com/' target='_blank'>
-				Captura Talk</a></p>"
+				Captura Talk</a></p>" id="Captura_Talk"
 				>
 				<img class="centered" height="75px" width="75px" src="images/capLogo.png">
-					<p class="text-center">Pictogram Agenda</p>
+					<p class="text-center">Captura Talk</p>
 				</div>
 				
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" data-placement="bottom"
@@ -257,7 +257,7 @@
 				that was pre-installed</strong> on most devices and is updated when the accessibility service is improved. This app is only activated if you 
 				explicitly turn on Accessibility.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback' target='_blank'>
-				Google Play Store</a></p>"
+				Google Play Store</a></p>" id="Talk_Back"
 				>
 				<img class="centered" src="images/TalkBack.png">
 					<p class="text-center">Talk Back</p>
@@ -274,7 +274,7 @@
 				could pay $940 per year for each teacher using the software, although that price varies based on the number of students.'. 
 				Visit <a href='http://www.monarchteachtech.com/'>monarchteachtech.com</a> for a free trial</i>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.mtt.universalplayer' target='_blank'>
-				Google Play Store</a></p>"
+				Google Play Store</a></p>" id="VizZle_Player"
 				>
 				<img class="centered" src="images/Vizzle.png">
 					<p class="text-center">VizZle Player</p>
@@ -285,7 +285,7 @@
 				<p><strong>Description:</strong> </p>
 				<p>ISL Alphabet is a flashcards app intended to help beginners learn the Irish Sign Language alphabet.
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.davidmullis.signlanguagealphabetireland' target='_blank'>
-				Google Play Store</a></p>"
+				Google Play Store</a></p>" id="Sign_Language_Alphabet_Ireland"
 				>
 				<img class="centered" src="images/SEN/ISL.JPG">
 					<p class="text-center">Sign Language Alphabet Ireland</p>
@@ -297,7 +297,7 @@
 				<p>The Concise Irish Sign Language Dictionary is an Irish Sign Language (ISL) video dictionary, currently containing approximately 1000 signs...Concise ISL has been developed by two young, Irish engineers, one of whom is a life-long practitioner of Irish Sign Language.
 				<p>The cost is €0.79</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.gmail.dohertkc.conciseisl' target='_blank'>
-				Google Play Store</a></p>"
+				Google Play Store</a></p>" id="Irish_Sign_Language"
 				>
 				<img class="centered" src="images/ConciseISL.JPG">
 					<p class="text-center">€ Irish Sign Language</p>
@@ -308,7 +308,7 @@
 				<p><strong>Description:</strong> </p>
 				<p><i>Cheked in on this established product at BETT2015 to learn that the Android App is under development</i>
 				<p><strong>Link:</strong> <a href='' target='_blank'>
-				Google Play Store</a></p>"
+				Google Play Store</a></p>" id="Kurzweil"
 				>
 				<img class="centered" src="images/Kurzweil.JPG">
 					<p class="text-center">Kurzweil (pending)</p>
@@ -325,8 +325,7 @@
 				<p><strong>Link:</strong> Touch & View (a simplified interface for youtube) <a href='https://play.google.com/store/apps/details?id=com.gmail.dohertkc.touchview' target='_blank'>
 				Google Play Store</a></p>
 				<p><strong>Link:</strong> Touch & Listen (a simplified interface for a basic streaming radio) <a href='https://play.google.com/store/apps/details?id=com.gmail.dohertkc.touchlisten' target='_blank'>
-				Google Play Store</a></p>
-				"
+				Google Play Store</a></p>" id="Assistive_Tech"
 				>
 				<img class="centered" src="images/TouchBrowse.JPG">
 					<p class="text-center">Assistive Tech.</p>

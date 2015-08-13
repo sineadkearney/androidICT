@@ -62,7 +62,7 @@
 					<h3 class="page-header">Apps for Post-Primary School</h3>
 					<hr>
 				
-				<p class="lead">
+				<p id="1" class="lead">
 				The emphasis in this Resource is on Apps that can be used by the Students. These Apps tend to be of the 'drill and practice' type.
 				</p>
 				
@@ -92,7 +92,7 @@
 									<option value="#maths">Maths</option>
 									<option value="#music">Music</option>
 									<option value="#pe">PE/Health</option>
-									<option value="#religion">Religion</option>
+									<option value="#religionSection">Religion</option>
 									<option value="#science">Science</option>
 									<option value="#all">eBooks/All Subjects</option>
 								</select>
@@ -116,7 +116,7 @@
 				€2.95 for Full Version but Free works well.</i></p>
 				<p><strong>Technical:</strong> <i>Online - Ads.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.kdanmobile.android.animationdesk' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Animation_Desk">
 				<img  class="centered" src="images/postprimary/AnimDesk.JPG">
 					<p class="text-center">Animation Desk</p>
 				</div>
@@ -131,7 +131,7 @@
 				additional info.</i></p>
 				<p><strong>Technical:</strong> <i>Ads appear ...App needs to be online</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.merdroid.artyfarty&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Art_Academy">
 				<img  class="centered" src="images/postprimary/ArtAcademy.JPG">
 					<p class="text-center">Art Academy</p>
 				</div>
@@ -143,7 +143,7 @@
 				pens (like Samsung's S Pen) you device will be changed into real canvas.</p>
 				<p><i>I have tested the pressure-sensitive aspect - it works very nicely!</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.bytestorm.artflow&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="ArtFlow">
 				<img  class="centered" src="images/postprimary/ArtFlow.JPG">
 					<p class="text-center">ArtFlow</p>
 				</div>
@@ -155,7 +155,7 @@
 					be re-opened and re-played at leisure</i></p>
 				<p><strong>Technical:</strong> <i>Ads appear, even when offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.doodlejoy.studio.doodleworld' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Paint_Joy">
 				<img  class="centered" src="images/postprimary/PaintJoy.JPG">
 					<p class="text-center">Paint Joy</p>
 				</div>
@@ -165,7 +165,7 @@
 				<p><strong>Description:</strong> <i>High-end drawing app; Can Save and Load</i></p>
 				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.adsk.sketchbookhdexpress&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Sketchbook_Express">
 				<img  class="centered" src="images/primary/Sketchbook.JPG">
 					<p class="text-center">Sketchbook Express</p>
 				</div>
@@ -183,10 +183,10 @@
 				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Author:</strong> Zingy Minds</p>
-				<p><strong>Description:</strong> Accounting Basics informations. Accounting & Financial Formula. Accounting & Financial Terms 
+				<p><strong>Description:</strong> Accounting Basics informations. Accounting and Financial Formula. Accounting and Financial Terms 
 				and Abbreviation.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=me.jakir.accounting' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Basic_Accounting">
 				<img  class="centered" src="images/postprimary/BasicAccounting.JPG">
 					<p class="text-center">Basic Accounting</p>
 				</div>
@@ -198,7 +198,7 @@
 				(files is stored at external storage: Daily Accounting/Reports directory). It is suitable for small business and people studying 
 				accounting.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=me.sory.countriesinfo&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Daily_Accounting">
 				<img  class="centered" src="images/postprimary/DailyAccounting.JPG">
 					<p class="text-center">Daily Accounting</p>
 				</div>
@@ -207,7 +207,8 @@
 				data-content="
 				<p><strong>Description:</strong> The Eurostat Country Profiles application gives mobile access to the main statistical data for the EU and its Member States, the euro area, EFTA countries, EU candidate countries and a few other countries. The update function allows the downloading of the freshest data from the Eurostat data server. For more information and other data see also Eurostat's website at <a href='http://ec.europa.eu/eurostat' target='_blank'>http://ec.europa.eu/eurostat</a></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=eurostat.ec.europa.eu.country.profils' target='_blank'>
-				Google Play Store</a> ...and try the Eurostat Quiz App at <a href='https://play.google.com/store/apps/details?id=com.estat.eurostatquizz' target='_blank'>Eurostat Quiz</a></p>">
+				Google Play Store</a> ...and try the Eurostat Quiz App at <a href='https://play.google.com/store/apps/details?id=com.estat.eurostatquizz' target='_blank'>Eurostat Quiz</a></p>"
+				id="Eurostat">
 				<img  class="centered" src="images/postprimary/Eurostat.JPG">
 					<p class="text-center">Eurostat</p>
 				</div>
@@ -226,7 +227,7 @@
 				data-content="
 				<p><strong>Description:</strong> This simple app from <a href='http://www.careersportal.ie/' target='_blank'>CareersPortal.ie</a> allows the user to calculate CAO Points based on their Leaving Cert results. The app has an easy to use interface, allowing the user to obtain their total points quickly and efficiently. The app then provides easy access to the Course Search Wizard on the CareersPortal website, for detailed course and related points information.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=ie.careersportal.caocalc' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="CAO_Points">
 				<img  class="centered" src="images/postprimary/CAO.JPG">
 					<p class="text-center">CAO Points</p>
 				</div>
@@ -235,7 +236,7 @@
 				data-content="
 				<p><strong>Description:</strong> TalktoEU's extensive guide to working and studying in Europe. Includes country guides for the 27 EU member states advising users on topics such as accommodation, financial matters, mobile networks, healthcare, job guides, studying and national registration.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=zoo.talktoeuapp' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="EU_Work/Study">
 				<img  class="centered" src="images/postprimary/EUwork.JPG">
 					<p class="text-center">EU Work/Study</p>
 				</div>
@@ -255,7 +256,7 @@
 				data-content="
 				<p><strong>Description:</strong> <i>Text can be in English or ‘as Gaeilge’. Font size can be set; content can be Black on White, or vice versa. Click on an ‘Article’ and read its details. Unfortunately, text cannot be Copied from the app.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.al.icfinal&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Irish_Constitution">
 				<img  class="centered" src="images/postprimary/IrishConst.JPG">
 					<p class="text-center">Irish Constitution</p>
 				</div>
@@ -266,7 +267,7 @@
 Launched by the European Commission in 2013, the app now covers all modes of transport in the EU – air, rail, bus and boat.
 Your Passenger Rights gives clear and concise information on travel rights in the European Union.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.mobility.dg.android' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="European_Passenger_Rights">
 				<img  class="centered" src="images/postprimary/EUpassenger.JPG">
 					<p class="text-center">European Passenger Rights</p>
 				</div>
@@ -276,7 +277,7 @@ Your Passenger Rights gives clear and concise information on travel rights in th
 				<p><strong>Description:</strong> Use the European Road Safety App to find all important road safety rules before going abroad or while on the road in Europe. Entertain your passenger(s) with two fun games about road safety.
 Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.emakina.roadsafety' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="European_Driving">
 				<img  class="centered" src="images/postprimary/EUdriving.JPG">
 					<p class="text-center">European Driving</p>
 				</div>
@@ -285,7 +286,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				data-content="
 				<p><strong>Description:</strong> Guide on how to use the European Health Insurance Card in the 28 EU countries, Iceland, Lichtenstein, Norway and Switzerland. It includes general information about the card, emergency phone numbers, covered treatments and costs, how to claim reimbursement and who to contact in case you have lost your card. Available in 25 languages with easy option to switch from one language to another.)</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=eu.europa.ec.ehic' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="European_Health_Guide">
 				<img  class="centered" src="images/postprimary/EUhealth.JPG">
 					<p class="text-center">European Health Guide</p>
 				</div>
@@ -306,7 +307,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				be scrolled. Downloaded Texts – option to ‘continue reading’. Texts can be 'imported from SD'</i></p>
 				<p><strong>Technical:</strong> <i>Online: Advertising from booking.com etc. Runs when offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.graphilos.epub&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="ePub_Reader">
 				<img  class="centered" src="images/primary/ePubPrimary.JPG">
 					<p class="text-center">ePub Reader</p>
 				</div>
@@ -319,7 +320,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				</i>Pre-installed but you can also download from...</i></p>
 				<p><strong>Technical:</strong> <i>No Ads. Works offline.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="FBReader">
 				<img  class="centered" src="images/primary/FBReaderP.png">
 					<p class="text-center">FBReader</p>
 				</div>
@@ -339,7 +340,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				NCCA.</a></i></p>
 				<p><strong>Technical:</strong> <i>No Ads.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.org.reading.haiku' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Haiku_Poem">
 				<img class="centered" src="images/postprimary/Haiku.JPG">
 					<p class="text-center">Haiku Poem</p>
 				</div>
@@ -352,8 +353,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><i>In the Word Bank, one can use two-finger gesturing to resize and rotate the words. App contains Shakepeare's Sonnet 18, Gettysburg Address, I have a Dream, America the Beautiful ...and allows user to create ab initio. A 'word' can be a phrase up to 23 characters in length. Files are saved as Images (so cannot be shared for editing within the App)</i></p>
 				<p><strong>Technical:</strong> <i>No Ads.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.reading.wordmover' target='_blank'>
-				Google Play Store</a></p>"
-				>
+				Google Play Store</a></p>" id="Word_Mover"				>
 				<img class="centered" src="images/postprimary/WordMover.JPG">
 					<p class="text-center">Word Mover</p>
 				</div>
@@ -376,7 +376,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><i>Use as a stand-alone app and/or in conjunction with the <a href='http://lurgan.biz/oide-2015/'>website</a></i></p>
 				<p><strong>Technical:</strong> <i>Needs to be online</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.AbairleatOideMobile' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Abair_Leat_Oide">
 				<img  class="centered" src="images/postprimary/AbairLeat.JPG">
 					<p class="text-center">Abair Leat Oide</p>
 				</div>
@@ -386,7 +386,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><strong>Description:</strong> Gaeilfón Free Irish Translator is a 2-way English-Irish translator which contains over 13,000 
 				off-line words and terms.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.maithu.android.gaelfonfree&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Gaelfon">
 				<img  class="centered" src="images/primary/GaelfonPrimary.JPG">
 					<p class="text-center">Gaelfon</p>
 				</div>
@@ -397,7 +397,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><strong>Description:</strong> 'Get the Focal' is a 2 way English-Irish translator with 13,000 words and terms. Get the Focal is an 
 				English/Irish and Irish/English Translator with over 13,000 translations all checked by Irish language body Foras na Gaeilge.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.maithu.android.getthefocalfree&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Get_the_Focal">
 				<img class="centered" src="images/postprimary/GetFocal.JPG">
 					<p class="text-center">Get the Focal</p>
 				</div>
@@ -410,7 +410,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><i>'Use the Slider to move along the list of Topics: Animals, Colours, Days, Months, Numbers, St Patrick. Hear and see the words</i></p>
 				<p><strong>Technical:</strong> <i>Ads appear</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.numbersfree&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Learn_Irish_Lite">
 				<img class="centered" src="images/postprimary/LearnIrishLite.JPG">
 					<p class="text-center">Learn Irish Lite</p>
 				</div>
@@ -422,7 +422,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				for every sraith, this app will help you practice your pronunciation to prepare you for your leaving cert oral Irish exam. Includes 
 				translations for all vocabulary and phrases. Designed for students studying for the ordinary level exam.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.apierian.spol2014Free' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Sraith_Pictiúr"> <!-- TODO: will this work? -->
 				<img  class="centered" src="images/postprimary/SraithPictiur.JPG">
 					<p class="text-center">Sraith Pictiúr</p>
 				</div>
@@ -434,7 +434,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				first class entertainment they are also an excellent vehicle for language learning. </p>
 				<p><i>Lots of songs with lyrics 'as Gaeilge'</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=ie.lurgan.android&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="TG_Lurgan">
 				<img class="centered" src="images/postprimary/TGLurgan.JPG">
 					<p class="text-center">TG Lurgan</p>
 				</div>
@@ -445,7 +445,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><strong>Description:</strong> Irish Grammar-Gramadach na Gaeilge is the Irish language app that Irish teachers, students and enthusiasts have been waiting for. It is a must have app for Leaving and Junior cert students to master their grammar in the run up to exams ... At the end of each quiz students will be given a summary and explanation of their answers.</p>
 				<p><i>There is a cost of €3.59</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.irishapps.irishgrammar&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Irish_Grammar">
 				<img class="centered" src="images/postprimary/Gramadach.JPG">
 					<p class="text-center">Irish Grammar (€)</p>
 				</div>
@@ -453,7 +453,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Description:</strong> Learn <i>(among others)</i> ... Irish, ... Totally fun and 100% free. Google Play's 'Best of the Best' of 2013 and 2014!</p><p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.duolingo&hl=en' target='_blank'>
-				Google Play Store </a></p>">
+				Google Play Store </a></p>" id="Duolingo">
 				<img  class="centered" src="images/postprimary/Duolingo.JPG">
 					<p class="text-center">Duolingo</p>
 				</div>
@@ -475,7 +475,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				international organizations, languages, and about many other things. Does not require Internet connection.</p>
 				<p><i>During its first Run, it Imports data ...thereafter runs offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=me.sory.countriesinfo&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Countries_Info">
 				<img  class="centered" src="images/postprimary/CountriesInfo.JPG">
 					<p class="text-center">Countries Info</p>
 				</div>
@@ -488,7 +488,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><i>Runs in Portrait orientation. Two Modes: Study and Test. Simple 'point and click' interface</i></p>
 				<p><strong>Technical:</strong> <i>Ads appear.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=orimar.politicalMap' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Political_Map">
 				<img  class="centered" src="images/postprimary/PoliticalMap.JPG">
 					<p class="text-center">Political Map</p>
 				</div>
@@ -500,7 +500,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><strong>Technical:</strong> <i>In airplane/no-wifi mode, you will be able to see the last visited location but you need to be 
 				on-line to get the full potential of this app.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Maps">
 				<img  class="centered" src="images/primary/GoogleMaps.JPG">
 					<p class="text-center">Maps</p>
 				</div>
@@ -509,7 +509,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				data-content="
 				<p><strong>Description:</strong> Used in conjunction with Maps (previous), this app allows you to measure Distance and Area</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=de.j4velin.mapsmeasure' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Maps_Measure">
 				<img  class="centered" src="images/postprimary/MapsMeasure.JPG">
 					<p class="text-center">Maps Measure</p>
 				</div>
@@ -533,7 +533,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				content may be to visit <a href='http://en.wikipedia.org/wiki/History_timeline'>History Timeline</a> on wikipedia in order to 'triangulate 
 				the data' ...or use the Wikipedia app below …or ask your Teacher!</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=code.alphonso.android.bookviewer.books.europeanhistory' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="European_History">
 				<img  class="centered" src="images/postprimary/EuroHistory.JPG">
 					<p class="text-center">European History</p>
 				</div>
@@ -544,7 +544,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><strong>Description:</strong> <i>A fascinating trip through Ireland's history as told through its historial treasure troves.
 				App was free when I first accessed it but now costs €2.33</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.ie.ria.A100objects1' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Ireland_in_100_Objects">
 				<img  class="centered" src="images/postprimary/Ireland100.JPG">
 					<p class="text-center">Ireland in 100 Objects</p>
 				</div>
@@ -556,7 +556,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><i>Comes with 20-30 images and more are downloaded during Wifi-connected use. Stick with 'Gallery' and Quiz' options and avoid the 
 				other download links!</i></p>
 				<p><strong>Link:</strong> 1st: <a href='https://play.google.com/store/apps/details?id=com.edupad.app.grade1.math' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Name_that_20th_Century_Figure">
 				<img  class="centered" src="images/postprimary/Name20Figure.jpg">
 					<p class="text-center">Name that 20th Century Figure</p>
 				</div>
@@ -569,7 +569,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><i>Information provided via links to Wikipedia</i></p>
 				<p><strong>Technical:</strong> <i>Ads appear</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=ta.namethathistoricalfigure' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Name_that_Historical_Figure">
 				<img  class="centered" src="images/postprimary/NameHistFigure.jpg">
 					<p class="text-center">Name that Historical Figure</p>
 				</div>
@@ -581,7 +581,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				about 7 clicks on ‘load more’, St Patrick in 456. There are major gaps: there is, for example, no reference to the Famine of 1845</i></p>
 				<p><strong>Technical:</strong> <i>Ads. if online. Runs when Offline. No Ads when Offine.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.downshift.android.tih&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Today_in_History">
 				<img  class="centered" src="images/postprimary/TodayHistory.JPG">
 					<p class="text-center">Today in History</p>
 				</div>
@@ -594,7 +594,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				download links!</i></p>
 				<p><strong>Technical:</strong> <i>Ads appear</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.wwiiquiz' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="WWII_Quiz">
 				<img  class="centered" src="images/postprimary/WW2.JPG">
 					<p class="text-center">WWII Quiz</p>
 				</div>
@@ -615,7 +615,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				In order to save your work (as a File or as a Screenshot), you have to upgrade to the Pro version for €4.26 …you could use another 
 				Tablet to take a snap!</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.leonid.myroom' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="BuildApp">
 				<img  class="centered" src="images/postprimary/BuildApp.JPG">
 					<p class="text-center">BuildApp</p>
 				</div>
@@ -627,7 +627,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				Remember to deselect your previous choices: otherwise you will be searching within a search. I had to change my Play Store ‘ratings 
 				filter’ to a ‘higher maturity’ setting to download this. Portrait mode.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.epicurious&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Epicurious_Recipe_App">
 				<img  class="centered" src="images/postprimary/Epi.JPG">
 					<p class="text-center">Epicurious Recipe App</p>
 				</div>
@@ -642,7 +642,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><i>Leans towards US/Mexican recipes but others (e.g. French) available via the online search. Chef Giada De Laurentiis has her 
 				'Everyday Italian' Show.  Shareable, can add Notes. U.S. measurements given (but Conversion tool included). Landscape (Tablet) Mode</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.scripps.android.foodnetwork' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Food_Network_in_the_Kitchen">
 				<img  class="centered" src="images/postprimary/CountriesInfo.JPG">
 					<p class="text-center">Food Network in the Kitchen</p>
 				</div>
@@ -665,7 +665,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><strong>Description:</strong> <i>Babbel does a preliminary test/taster, the invites one to Register …this then allows you to download Lesson 1. Further Lessons available at a cost (c. €60 p.a.). App has Speech Recognition. Activities include Listening, Writing (via DnD), Matching and Spelling. App runs in Landscape mode. This App requires online access.</i></p>
 				
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/developer?id=Babbel' target='_blank'>
-				Google Play Store</a> ...and then choose your specific language(s)</p>">
+				Google Play Store</a> ...and then choose your specific language(s)</p>" id="Babbel">
 								<img  class="centered" src="images/postprimary/BabbelFrench.JPG">
 					<p class="text-center">Babbel</p>
 				</div>
@@ -674,7 +674,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				data-content="
 				<p><strong>Description:</strong> <i>(following Registration) Lingua.ly starts with a user profiling. It does state that it uses images sourced via Bing (so may not always be appropriate for 'under 13s'). You can browser to find your own 'best' flashcard (and then share it via Facebook – but don't choose this option in school!). According as you add your learned vocabulary, the App then locates articles from the Web using some/all of your vocab. Again, this opens up content from the Web (so possible issues with suitability). App runs in Portrait mode. This App requires online access.<i></i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.lingualy.lingualymobile' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Lingua.ly">
 				<img  class="centered" src="images/postprimary/LinguaLy.JPG">
 					<p class="text-center">Lingua.ly</p>
 				</div>
@@ -683,7 +683,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				data-content="
 				<p><strong>Description:</strong> <i>Duolingo places the emphasis on daily practice. Activities including Reading, Writing (Keyboard and DnD), Speaking, Spelling. One can log in in order to save a Profile; also one can sign in to the web-based version at <a href='http://www.duolingo.com' target=_blank>duolingo.com</a> …and via <a href=https://schools.duolingo.com/ target=_blank>schools.duolingo.com</a> - with the latter, create an account and login to the teacher Dashboard. Invite students to, for example, <a href='https://www.duolingo.com/o$o=davidk@ict4schools.ie&s=Italian%20Fruit' target='_blank'>duolingo.com/davidk</a>. Once Students have enrolled, they can allow Teacher to track their progress. Very suitable app for classroom use. App runs in Portrait or Landscape mode. This App requires online access.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.duolingo&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Duolingo (languages)">
 				<img  class="centered" src="images/postprimary/Duolingo.JPG">
 					<p class="text-center">Duolingo</p>
 				</div>
@@ -693,8 +693,8 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><strong>Description:</strong> * English * French * Spanish * German * Italian * Japanese * Chinese * Portuguese * Polish * Russian * Turkish. <i>First 11 lessons are free; thereafter €9 pm or €49 pa. Formats used are Flashcards, Dialogue, Quiz - but not 'dictation'. For the 'writing' component, what you write is then sent to the online community (this is not age-limited!); you also have the option (and earn more 'berries') by correcting the work of others</i></p>
 				<p><strong>Technical:</strong> <i>Free but with in-app purchases. Registration required</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/developer?id=busuu+Limited' target='_blank'>
-				Google Play Store</a> (you can choose from the General or Language-specific apps)</p>">
-				<img  class="centered" src="images/postprimary/Busuu.JPG">
+				Google Play Store</a> (you can choose from the General or Language-specific apps)</p>" id="Busuu">
+				<img  class="centered" src="images/postprimary/Busuu.JPG" >
 					<p class="text-center">Busuu</p>
 				</div>
 				
@@ -703,7 +703,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><strong>Description:</strong> <i>Use it to learn a Language (and other topics). Log in to the App as a Learner - on the web version <a href='http://www.memrise.com' target='_blank'>memrise.com</a>, you can be a Teacher (create a course). 300+ languages. Uses 'mems' (silly sentences/images!) to help you memorise. Plenty of repetition</i></p>
 				<p><strong>Technical:</strong> <i>Registration required. Volume of Audio varies a little. Runs in Portrait mode.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion' target='_blank'>
-				Google Play Store</a> </p>">
+				Google Play Store</a> </p>" id="Memrise">
 				<img  class="centered" src="images/postprimary/Memrise.JPG">
 					<p class="text-center">Memrise</p>
 				</div>
@@ -715,7 +715,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p>Many of the activities are also available on desktop/laptop/tablet browser via <a href='http://50languages.com/' target='_blank'>http://50languages.com/</a></p>
 				<p><strong>Technical:</strong> <i>30 of the 100 Lessons are free: Single language purchase c. €2.50, All languages c. €9. Registration not required for Trial. No 'online community'.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/developer?id=50languages' target='_blank'>
-				Google Play Store</a> (you can choose from the General or Language-specific apps)</p>">
+				Google Play Store</a> (you can choose from the General or Language-specific apps)</p>" id="50Languages">
 				<img  class="centered" src="images/postprimary/50langs.JPG">
 					<p class="text-center">50Languages</p>
 				</div>
@@ -726,7 +726,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				data-content="
 				<p><strong>Description:</strong> Not always a perfect translation ...but a useful exercise even (especially?) when wrong. Translate typed text, speech input, freehand input, large text (e.g. Menus or Signs)</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Google_Translate">
 				<img  class="centered" src="images/postprimary/GoogleTranslate.JPG">
 					<p class="text-center">Google Translate</p>
 				</div>
@@ -736,7 +736,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><strong>Description:</strong> <i>Text to Speech: Type or Paste the story, then hear it played back in French, German, Italian, Spanish and many more. Finally, export what you hear as an Audio (.wav) file. Each Sentence is highlighted as it is spoken. As an extra bonus, select any text in another application (e.g. a web page like euronews.com) and choose to Share it back into Talk.</i></p>
 				<p><strong>Technical:</strong> <i>Advertising (remove ads for €1.99). Many languages still run when Offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.ktix007.talk' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Talk">
 				<img  class="centered" src="images/postprimary/Talk.JPG">
 					<p class="text-center">Talk</p>
 				</div>
@@ -745,7 +745,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				data-content="
 				<p><strong>Description:</strong><i>This is a series of Offline Dictionaries. They are Monolingual, taken from the relevant 'Wiktionary'</i></p>
 				<a href='https://play.google.com/store/apps/developer?id=Livio&hl=en' target='_blank'>
-				Google Play Store</a> ...and pick the language of your choice</p>">
+				Google Play Store</a> ...and pick the language of your choice</p>" id="Offline_Dictionary_(MonoL)">
 				<img  class="centered" src="images/postprimary/ItalianDict.JPG">
 					<p class="text-center">Offline Dictionary (MonoL)</p>
 				</div>
@@ -755,7 +755,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><strong>Description:</strong><i>This is a series of Offline Dictionaries. They are Bilingual. Very simple searching in both languages. No conjugation/gender information</i></p>
 				
 				<a href='https://play.google.com/store/apps/developer?id=DIC-o' target='_blank'>
-				Google Play Store</a> ...and pick the language of your choice</p>">
+				Google Play Store</a> ...and pick the language of your choice</p>" id="Offline_Dictionary_(BiL)">
 				<img  class="centered" src="images/postprimary/Dico.JPG">
 					<p class="text-center">Offline Dictionary (BiL)</p>
 				</div>
@@ -764,7 +764,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				data-content="
 				<p><strong>Description:</strong><i>WordReference is a very useful resource, giving Translations and Conjugations. Works with French, German, Italian, Spanish and many others. I also use its online web version at <a href='http://www.wordreference.com/' target='_blank'</a>www.wordreference.com</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.wordreference' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Online_Reference">
 				<img  class="centered" src="images/postprimary/WordReference.JPG">
 					<p class="text-center">Online Reference</p>
 				</div>
@@ -773,7 +773,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				data-content="
 				<p><strong>Description:</strong> <i> A very simple App to use. Having registered the App and having bought the 'Post-Its', launch the App and point the camera. The relevant video appears on screen. There is also the option to play back the previously viewed videos. 'Post-It' Packs cost around €6. You could also use the App in conjunction with the sample digital notes on their website <a href=http://flashsticks.com/download/free-flashsticks-notes-try-app-right-now/ target=_blank>flashsticks.com/notes</a> (give your email in order to download the .pdf file).</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.creativeexample.FlashSticks' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Flashsticks">
 				<img  class="centered" src="images/postprimary/FlashSticksPP.JPG">
 					<p class="text-center">Flashsticks</p>
 				</div>
@@ -782,7 +782,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				data-content="
 				<p><strong>Description:</strong> ReLANpro Language Lab combines all the features of the ReLANpro CCM with advanced language laboratory functionality. There are dual tracks: one for Teacher, one for Student. Teacher records/creates the content; Student listens and speaks. A Language Lab 'in the cloud'. Distributed in Ireland cf. <a href=http://www.ambassadorlanguages.ie/ReLANPro_Cloud__Class/Default.1118.html target=blank>http://www.ambassadorlanguages.ie/ReLANPro_Cloud__Class/Default.1118.html</a>  </i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.relanpro.mobile&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="ReLanPro">
 				<img  class="centered" src="images/postprimary/ReLanPro.JPG">
 					<p class="text-center">ReLanPro</p>
 				</div>
@@ -799,8 +799,8 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p>German: <a href='https://play.google.com/store/apps/details?id=com.berniiiiiiii.kreuzwortratsel' target='_blank'>
 				Google Play Store</a></p>
 				<p>Italian: <a href='https://play.google.com/store/apps/details?id=com.berniiiiiiii.cruciverba' target='_blank'>
-				Google Play Store</a></p>">
-				<img  class="centered" src="images/postprimary/CrossItalian.JPG">
+				Google Play Store</a></p>" id="Crosswords">
+				<img  class="centered" src="images/postprimary/CrossItalian.JPG" >
 					<p class="text-center">Crosswords</p>
 				</div>
 				
@@ -818,7 +818,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				data-content="
 				<p><strong>Description:</strong> <i>This is the official AutoCAD mobile app. 21 MB. Need to register for an account. Opens .dwg files.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.autodesk.autocadws' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="AutoCAD_360">
 				<img  class="centered" src="images/postprimary/AutoCAD.JPG">
 					<p class="text-center">AutoCAD 360</p>
 				</div>
@@ -834,7 +834,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				Case' ...Long Press and Open ...with ES Downloader (I use ES File Manager on my tablets) ...Long Press ...More ...Extract ...with 
 				ES again.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.conduit.app_b81b2aee33bd4b2191c160263f2776d7.app' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Solidworks_Tips_Daily">
 				<img  class="centered" src="images/postprimary/SolidWorksTips.JPG">
 					<p class="text-center">Solidworks Tips Daily</p>
 				</div>
@@ -847,7 +847,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				device with TFTPad, create your free account at <a href='http://json3d.tftlabs.com'>TFT Lab</a></p>
 				<p><i>Also designed as a SolidWorks (.SLDDRW) viewer app but I have not yet succeeded in so doing; it is fine with .JSON files.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=tftlabs.web.mobile&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="TFT_Pad">
 				<img  class="centered" src="images/postprimary/TFTPad.JPG">
 					<p class="text-center">TFT Pad</p>
 				</div>
@@ -868,7 +868,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><strong>Description:</strong> Mobile app for viewing Junior and Leaving Certificate maths theorems.</p>
 				<p><i>Provides the information ...in a non-interactive way, but useful to have at hand</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.apptheorems' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="App_Theorems">
 				<img  class="centered" src="images/postprimary/AppTheorems.png">
 					<p class="text-center">App Theorems</p>
 				</div>
@@ -879,7 +879,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				Follows the ‘Bodmas’ Rule, thankfully!</i></p>
 				<p><strong>Technical:</strong> <i>Runs when offline. Preinstalled</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=uk.co.bigfishstudios.eduDroid' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Calculator">
 				<img  class="centered" src="images/primary/CalculatorPrimary.JPG">
 					<p class="text-center">Calculator</p>
 				</div>
@@ -894,18 +894,18 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<li>Use the result to do more calculations and chain more equations.</li>
 				<li>Use math functions as part of your equations and even nest them within other functions.</li>
 				<li>Override the operator precedence using brackets</li>
-				<li>Some examples:<ul>
-					<li>5.79 + 3.87 = 9.66 / 3.42 = 2.82456</li>
-					<li>(146 - 34) * 84 = 9408</li>
-					<li>146 - 34 * 84 = -2710 * cos(1.025) = -1406.75798</li>
-					<li>abs(tan(6)) = 0.29101</li>
-					<li>15.35 * 4 = 61.40 inches of plywood, need to confirm</li>
-					<li>$5.75 * 7 = 40.25 total expense</li>
-					<li>850000 - ¥784253 = 65747</li>
-					<li>73 / 0 = ∞</li></ul></li>
+				<li>Some examples: <ul>
+					<li>5.79 + 3.87 = 9.66 / 3.42 = 2.82456 </li>
+					<li>(146 - 34) * 84 = 9408 </li>
+					<li>146 - 34 * 84 = -2710 * cos(1.025) = -1406.75798 </li>
+					<li>abs(tan(6)) = 0.29101 </li>
+					<li>15.35 * 4 = 61.40 inches of plywood, need to confirm </li>
+					<li>$5.75 * 7 = 40.25 total expense </li>
+					<li>850000 - ¥784253 = 65747 </li>
+					<li>73 / 0 = ∞ </li></ul></li>
 				<i>Results appear in the Calculator; the work can later be opened in a Word Document as a text file from the CalPad_Notes folder</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.appestry.calpad' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="CalPad">
 				<img  class="centered" src="images/postprimary/CalPad.png">
 					<p class="text-center">CalPad</p>
 				</div>
@@ -917,7 +917,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				A Abbott.</p>
 				<p><i>Having read this book many years ago, I was delighted to see it listed on the Play Store</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.aoandroid.jiuboo.edwinabbott' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Edwin_Abbott's_Flatland">
 				<img  class="centered" src="images/postprimary/Flatland.JPG">
 					<p class="text-center">Edwin Abbott's Flatland</p>
 				</div>
@@ -927,7 +927,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><strong>Description:</strong> GeoGebra: <i>it's here at last: the wonderful (and free) dynamic software, previously available on 
 				desktops. The app does not yet have the full funtionality of its desktop cousin but it's a great start.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.geogebra' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="GeoGebra">
 				<img  class="centered" src="images/postprimary/GeoGebra.JPG">
 					<p class="text-center">GeoGebra</p>
 				</div>
@@ -936,7 +936,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				data-content="
 				<p><strong>Description:</strong> <i>Whilst I have been a long-time fan of GeoGebra, I love what Sketchometry has brought to the table: freehand drawing and shape recognition</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.sketchometry&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Sketchometry">
 				<img  class="centered" src="images/postprimary/Sketchometry.JPG">
 					<p class="text-center">Sketchometry</p>
 				</div>
@@ -951,7 +951,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				during State Examinations, only the Formulae and Tables booklet supplied by the examiner can be used.</p>
 				<p><i>Appears to be Scans of the Booklet</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.duck.log&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Log_Tables">
 				<img  class="centered" src="images/postprimary/LogTables.JPG">
 					<p class="text-center">Log Tables</p>
 				</div>
@@ -964,7 +964,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				Calculations/Functions in the Pro version:  $5 for unlimited offline mode and no ads</i></p>
 				<p><strong>Technical:</strong> Free Version needs to be online</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=us.mathlab.android' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Mathlab_Graphing_Calculator">
 				<img  class="centered" src="images/postprimary/MathLab.JPG">
 					<p class="text-center">Mathlab Graphing Calculator</p>
 				</div>
@@ -974,7 +974,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><strong>Author:</strong> Paul Cullen</p>
 				<p><strong>Description:</strong> Exclusively designed to assist students studying for the Junior Certificate Honours Mathamatics syllabus.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.list.ListView' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Maths_Recall">
 				<img  class="centered" src="images/postprimary/MathsRecall.png">
 					<p class="text-center">Maths Recall</p>
 				</div>
@@ -987,7 +987,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><i>Very effective use of the technology!</i></p>
 				<p><strong>Technical:</strong> <i>No Ads. Works offline ...although useful for Sharing</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.visionobjects.calculator&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="MyScript_Calculator">
 				<img  class="centered" src="images/postprimary/MyScriptCalc.JPG">
 					<p class="text-center">MyScript Calculator</p>
 				</div>
@@ -996,16 +996,16 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				data-content="
 				<p><strong>Author:</strong> Moletag</p>
 				<p><strong>Description:</strong> Features:
-				<ul><li>Random integer numbers (can contain duplicates or not); Random real numbers (decimal places of your choice)</li>
-				<li>American) Coin Flipper</li>
+				<ul><li>Random integer numbers (can contain duplicates or not); Random real numbers (decimal places of your choice) </li>
+				<li>American) Coin Flipper </li>
 				<li>Dice Roller </li>
-				<li>Random Strings (characters and length of your choice / can be used as password generator - nice example!)</li>
-				<li>Random Cards (useful to do a 'Tally Count' of the result)</li>
-				<li>Copy results to clipboard</li></ul>
+				<li>Random Strings (characters and length of your choice / can be used as password generator - nice example!) </li>
+				<li>Random Cards (useful to do a 'Tally Count' of the result) </li>
+				<li>Copy results to clipboard </li></ul>
 				App can be installed to SD or to memory</p>
 				<p><strong>Technical:</strong> <i>Annoying Ads when online. App does not to be online</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.moletag.random.allinone' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Random_All-in-One_Generator">
 				<img  class="centered" src="images/postprimary/RandomGenerator.JPG">
 					<p class="text-center">Random All-in-One Generator</p>
 				</div>
@@ -1023,7 +1023,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<i>Tests can be '10 Selected' or '5 Random'</i></p>
 				<p><strong>Technical:</strong> <i>Ads appear</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=net.iBs.freejc2013' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Junior_Cert_Maths_and_Science">
 				<img  class="centered" src="images/postprimary/JunMathsScience.png">
 					<p class="text-center">Junior Cert Maths & Science</p>
 				</div>
@@ -1048,7 +1048,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><i>NOTE: This application is designed and optimized for 7-inch and larger tablets. Full version costs €6.99 and there is 
 				a <a href='http://www.zubersoft.com/mobilesheets/about.html' target=_blank>pc companion app</a></i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.zubersoft.mobilesheetsfree' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Maestro">
 				<img  class="centered" src="images/postprimary/Maestro.png">
 					<p class="text-center">Maestro</p>
 				</div>
@@ -1064,7 +1064,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				Files are exported to the 'Music' folder</i></p>
 				<p><strong>Technical:</strong> No Ads</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.igoweb.bleep' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="MiniSeq">
 				<img  class="centered" src="images/postprimary/Miniseq.png">
 					<p class="text-center">MiniSeq</p>
 				</div>
@@ -1080,7 +1080,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<i>Saves .ay file in MusicComposition/Workspace folder; Exports .midi to MusicComposition folder; .midi can then be Shared via Dropbox or Bluetooth</i></p>
 				<p><strong>Technical:</strong> Ads</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.ayelectronics.MusicComposition' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Music_Composition">
 				<img  class="centered" src="images/postprimary/MusicComp.png">
 					<p class="text-center">Music Composition</p>
 				</div>
@@ -1095,7 +1095,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				in the PocketBand/Saved folder</i></p>
 				<p><strong>Technical:</strong> No Ads</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=net.uloops.android' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="PocketBand">
 				<img  class="centered" src="images/postprimary/PocketBand.png">
 					<p class="text-center">PocketBand</p>
 				</div>
@@ -1116,7 +1116,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				will be shown... This is the same technique that medical pulse oximeters use.</p>
 				<p><i>You have to wait a while for the countdown to finish but seems accurate</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=si.modula.android.instantheartrate' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Instant_Heart_Rate_Monitor">
 				<img  class="centered" src="images/postprimary/InstHeart.JPG">
 					<p class="text-center">Instant Heart Rate Monitor</p>
 				</div>
@@ -1129,7 +1129,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><i>Nice One! Useful to have on all Student and Teacher tablets/phones</i></p>
 				<p><strong>Technical:</strong> <i>Does not need wifi. No Ads.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.cube.gdpc.ire' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Irish_Red_Cross">
 				<img  class="centered" src="images/postprimary/IrishRedCross.JPG">
 					<p class="text-center">Irish Red Cross</p>
 				</div>
@@ -1140,7 +1140,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				log in (use 'Manual option'). If logged in and online, you can see scores for other 'Noom Walkers' around the world. Otherwise, it keeps your Step record for the day, for the week, and the Total. Portrait Mode.</i></p>
 				<p><strong>Technical:</strong> <i>Doesn't need wifi. No Ads.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.noom.walk' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Noom_Walk">
 				<img  class="centered" src="images/postprimary/NoomWalk.JPG">
 					<p class="text-center">Noom Walk</p>
 				</div>
@@ -1154,7 +1154,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				'Run on Track' is a virtual race that uses tablet well - Swipe and Tilt. Your progress through the lessons is recorded online. Also 
 				available to download for Desktop from <a href='http://ericshs.com/' target=_blank>ericshs.com</a></i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.gen4web.vsb.physicaleducations' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="VSB_Physical_Education">
 				<img  class="centered" src="images/postprimary/VSBpe.JPG">
 					<p class="text-center">VSB Physical Education</p>
 				</div>
@@ -1165,7 +1165,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				Coach's Eye</a> seems to be the professional tool, I prefer the video-analysis simplicity of Ubersense - that and no need for in-app purchases. 'Sharing ' is done via email but you could also just do a screengrab</i></p>
 				
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.ubersense.app.production' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Ubersense_Coach">
 				<img  class="centered" src="images/postprimary/Ubersense.JPG">
 					<p class="text-center">Ubersense Coach</p>
 				</div>
@@ -1175,7 +1175,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 					<span class="glyphicon glyphicon-arrow-up"></span></button>
 				</div>
 				
-				<div class="row col-xs-12" id="religion">
+				<div class="row col-xs-12" id="religionSection">
 				<hr>
 				<p> <h4>Religion:</h4>
 				</p></div>
@@ -1184,7 +1184,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				data-content="
 				<p><strong>Description:</strong> <i>Listen to Gregorian Chant. Read the text of ‘Daily Prayer’. See what Events are upcoming</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.glenstal.app&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Glenstal_Abbey">
 				<img  class="centered" src="images/postprimary/Glenstal.JPG">
 					<p class="text-center">Glenstal Abbey</p>
 				</div>
@@ -1194,7 +1194,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><strong>Description:</strong> <i>I don't have the 'cultural knowledge' to be able to recommend an RE App. I can only point you 
 				in the direction of a range of Apps and let you make your choice. Head over to ....(you might get back to with suggestions for Irsih Schools)</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/search?q=religion+free&c=apps' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Religion">
 				<img  class="centered" src="images/postprimary/ReligionWikipediaImage.JPG">
 					<p class="text-center">Religion</p>
 				</div>
@@ -1215,7 +1215,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				The free version is available as 'Flower', which presents the characteristics and structure of flowers.</p>
 				<p><i>The full version also offers Leaves and Fruits (around €6.99)</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.intergraphics.plantmorphology.demo' target='_blank'>
-				Google Play Store</a> </p>">
+				Google Play Store</a> </p>" id="Plant_Morphology">
 				<img  class="centered" src="images/postprimary/PlantMorph.JPG">
 					<p class="text-center">Plant Morphology</p>
 				</div>
@@ -1232,7 +1232,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<i>Pinch To Zoom.</i></p>
 				<p><strong>Technical:</strong> <i>No Ads. when offline. Runs offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.hudsonalpha.icell&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="iCell">
 				<img  class="centered" src="images/postprimary/iCell.JPG">
 					<p class="text-center">iCell</p>
 				</div>
@@ -1246,7 +1246,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><i>Note: view is Portrait Mode only</i></p>
 				<p><strong>Technical:</strong> <i>No Ads. when offline. Runs offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.dnalc.threedbrain&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="3D_Brain">
 				<img  class="centered" src="images/postprimary/3Dbrain.JPG">
 					<p class="text-center">3D Brain</p>
 				</div>
@@ -1260,7 +1260,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p>This app was created with the Alimentary Pharmabiotic Centre (APC). The APC is a research centre located in Cork, Ireland, that 
 				aims to link Irish science with industry and society through excellence in research, education and outreach in gastrointestinal health.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.jamesfinnmedia.alimentaryassault3d&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Alimentary_Assault"> 
 				<img  class="centered" src="images/postprimary/Alimentary.JPG">
 					<p class="text-center">Alimentary Assault</p>
 				</div>
@@ -1275,7 +1275,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><i>A bit advanced for Leaving Cert. but still useful.</i></p>
 				<p><strong>Technical:</strong> <i>No Ads. when offline. Runs offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=net.instantanatomy.heart&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Anatomy_Heart_Lecture">
 				<img  class="centered" src="images/postprimary/Anatomy.JPG">
 					<p class="text-center">Anatomy Heart Lecture</p>
 				</div>
@@ -1289,7 +1289,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				Note that if you Download (such as Ethanol, Benzene etc.), the files will go into /mnt/sdcard/org.atomdroid/Library/Public</i></p>
 				<p><strong>Technical:</strong> <i>Runs Offline (but useful to have access to online Databses)</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.atomdroid' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Atomdroid">
 				<img  class="centered" src="images/postprimary/AtomDroid.JPG">
 					<p class="text-center">Atomdroid</p>
 				</div>
@@ -1304,7 +1304,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				Balance Chemical Equations</a></p>
 				<p><strong>Technical:</strong> <i>No Ads.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=ru.handapps.chemistrysolverreactions' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Chemistry_Solver">
 				<img  class="centered" src="images/postprimary/ChemistrySolver.JPG">
 					<p class="text-center">Chemistry Solver</p>
 				</div>
@@ -1321,7 +1321,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<li>Temperatures are shown in Kelvin, Celsius, and Fahrenheit scales.</li>
 				<li>The table includes the newly named elements Darmstadtium (110), Roentgenium (111), Copernicium (112), and Ununhexium (116).</li></ul></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.k12.periodictablev2&feature=also_installed' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="K12_Periodic_Table">
 				<img  class="centered" src="images/postprimary/PeriodicK12.JPG">
 					<p class="text-center">K12 Periodic Table</p>
 				</div>
@@ -1335,7 +1335,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				(with a Long Tap) before you draw the Shape around them</i></p>
 				<p><strong>Technical:</strong> No Ads. when offline. Runs Offline</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=doodle.physics.lite' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Doodle_Physics">
 				<img  class="centered" src="images/postprimary/PhysDoodle.JPG">
 					<p class="text-center">Doodle Physics</p>
 				</div>
@@ -1349,7 +1349,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><i>There is a suite of Physics Apps – at a small price – available from this Author</i></p>
 				<p><strong>Technical:</strong> No Ads. when offline. Runs Offline (but the ‘Get Help’ option won’t then work)</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/developer?id=PhysicsOne&hl=en' target='_blank'>
-				Google Play Store</a> …'Electricity' is one of the Apps</p>">
+				Google Play Store</a> …'Electricity' is one of the Apps</p>" id="Electricity">
 				<img  class="centered" src="images/postprimary/Electricity.JPG">
 					<p class="text-center">Electricity</p>
 				</div>
@@ -1364,7 +1364,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				but this latter does not have a Free version to try</i></p>
 				<p><strong>Technical:</strong> <i>No Ads. Runs when Offline (although extra Examples are available from the Online Community)</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.everycircuit.free&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="EveryCircuit Free">
 				<img  class="centered" src="images/postprimary/EveryCircuit.JPG">
 					<p class="text-center">EveryCircuit Free</p>
 				</div>
@@ -1380,7 +1380,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<li>Graphs for all the formulae</li>
 				<li>Clipboard support for all the Equations and Results</p></li></ol>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.asb.full.highschoolphysics' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="High_School_Physics">
 				<img  class="centered" src="images/postprimary/HighSchoolPhysics.JPG">
 					<p class="text-center">High School Physics</p>
 				</div>
@@ -1393,7 +1393,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><strong>Description:</strong> (Physics) The standard model of particle physics reference app. The most complete Standard Model reference 
 				on the market!</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=standardmodel.namespace' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Particle_Physics">
 				<img  class="centered" src="images/postprimary/ParticlePhysics.jpg">
 					<p class="text-center">Particle Physics</p>
 				</div>
@@ -1405,7 +1405,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><i>Does seek to access ’phone state and identity’ but should be fine on a Tablet. ‘Profile’ part can be skipped</i></p>
 				<p><strong>Technical:</strong> No Ads. when offline. Runs Offline</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.alaskajim.physics&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Physics_Quiz">
 				<img  class="centered" src="images/postprimary/PhysQuiz.JPG">
 					<p class="text-center">Physics Quiz</p>
 				</div>
@@ -1421,7 +1421,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<li>Drag/Acceleration: none, drag, or acceleration with adjustable strength</p></li></ul></p>
 				<p><strong>Technical:</strong> No Ads. when offline. Runs Offline</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.egansoft.physics.sketchpad&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Physics_Sketchpad_Beta">
 				<img  class="centered" src="images/postprimary/PhysSketch.JPG">
 					<p class="text-center">Physics Sketchpad Beta</p>
 				</div>
@@ -1431,7 +1431,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><strong>Description:</strong> (Physics) Pocket Physics is an easy-to-use, free app that covers most of physical formulas with descriptions 
 				and images.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=Gecko.Droid.PhysicsHelper&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Pocket_Physics">
 				<img  class="centered" src="images/postprimary/PocketPhys.png">
 					<p class="text-center">Pocket Physics</p>
 				</div>
@@ -1444,7 +1444,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><i>Only one (Accelerometer) works on Yarvik …whereas all of the others are rated as ‘not available’ on Neuropad. …and most are 
 				available on Samsung. Physics Teachers may wish to choose platform carefully. Remember to Suspend Activity to save on battery consumption.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.innoventions.sensorkinetics&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Sensor_Kinetics">
 				<img  class="centered" src="images/postprimary/Sensor.JPG">
 					<p class="text-center">Sensor Kinetics</p>
 				</div>
@@ -1456,7 +1456,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p>Not sure about its accuracy, but it is at least a useful tool for comparing graph of differing volume levels</i></p>
 				<p><strong>Technical:</strong> <i>Runs when Offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=kr.sira.sound&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Sound_Meter">
 				<img  class="centered" src="images/postprimary/SmartSound.JPG">
 					<p class="text-center">Sound Meter</p>
 				</div>
@@ -1466,7 +1466,8 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><strong>Description:</strong></p>
 				<p><i>A Fourier product. Plug in the LabMate unit via USB and use the six built-in sensors. The MiLab App itself is free and - without the LabMate - allows you to use the Tablet's Camera as a Light Sensor. There is an extensive range of sensors available to purchase ...e.g. via <a href='http://www.shawscientific.com/Catalogue/ProductList/fourier?catalogueLevelItemID=54333629-c60e-499a-9a45-1986623d7059' target='_blank'>ShawScientific.ie</a> </i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=fourier.milab' target='_blank'>
-				Google Play Store</a> ...with a complimentary Activity App at <a href='https://play.google.com/store/apps/details?id=com.fourier.einsteindesktop' target='_blank'> einstein World</a></p>">
+				Google Play Store</a> ...with a complimentary Activity App at <a href='https://play.google.com/store/apps/details?id=com.fourier.einsteindesktop' target='_blank'> einstein World</a></p>"
+				id="MiLab">
 				<img  class="centered" src="images/postprimary/MiLab.JPG">
 					<p class="text-center">MiLab</p>
 				</div>
@@ -1476,7 +1477,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><strong>Description:</strong></p>
 				<p><i>A Pasco product. I didn't get to try this as much as MiLab so quoting  here 'New! SPARKvue 2.2.0 now brings live data sharing to our popular sensor-based data collection, visualization and analysis application for STEM learning. In addition to collecting data on your own Android tablet, SPARKvue now supports live sharing of sensor data with anyone else--on any other Android tablet, iPad, Mac or Windows computer.' ...available e.g. via <a href='http://www.lennox.ie/suppliers/pasco/' target='_blank'>Lennox.ie</a> </i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.isbx.pasco.Spark' target='_blank'>
-				Google Play Store</a> </p>">
+				Google Play Store</a> </p>" id="SPARKvue">
 				<img  class="centered" src="images/postprimary/Spark.JPG">
 					<p class="text-center">SPARKvue</p>
 				</div>
@@ -1494,7 +1495,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<i>Tests can be '10 Selected' or '5 Random'</i></p>
 				<p><strong>Technical:</strong> <i>Ads appear</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=net.iBs.freejc2013' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Junior_Cert_Maths_and_Science">
 				<img  class="centered" src="images/postprimary/JunMathsScience.png">
 					<p class="text-center">Junior Cert Maths & Science</p>
 				</div>
@@ -1506,7 +1507,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				The size of the objects varies from the smallest particles and atoms to protons, neutrons and quarks.</p>
 				<p><i>6 objects avaialble in the free version, 20 more available with upgrade (around €1.50)</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.OSC.scale.micro' target='_blank'>
-				Google Play Store</a> </p>">
+				Google Play Store</a> </p>" id="Microcosm_3D">
 				<img  class="centered" src="images/postprimary/Microcosm3D.JPG">
 					<p class="text-center">Microcosm 3D</p>
 				</div>
@@ -1530,7 +1531,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				these seem to point to 'real world' resources rather than embedded multimedia clips. A Search Feature brings you to the relevant 
 				page(s). Pages must be Panned to (or using Thumbnails) but there is no option to Type a Page Number.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.edcolearning' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Edco_Digital">
 				<img  class="centered" src="images/postprimary/EdcoEbook.JPG">
 					<p class="text-center">Edco Digital</p>
 				</div>
@@ -1545,7 +1546,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				an excellent eTextbook experience with smooth performance, reliability and high-quality graphics.</p>
 				<p><i>13 Text Samples are provided. Press the Menu icon in order to see Thumbnails, add Bookmarks, Add Notes, Highlight and Change Zoom.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.yudu.ReaderAIR3355817' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Educate.ie">
 				<img  class="centered" src="images/postprimary/EducateIE.JPG">
 					<p class="text-center">Educate.ie</p>
 				</div>
@@ -1563,7 +1564,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				Language Texts, multimedia (audio clips) can be accessed relevant to a particular page; at all Levels, Student can enter and save 
 				Notes; Pinch to Zoom, Pan left-right or Type Page Number or use Scroll to navigate through pages.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=IPI.cjfallon.ereader' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Fallons">
 				<img  class="centered" src="images/postprimary/Fallons.JPG">
 					<p class="text-center">Fallons</p>
 				</div>
@@ -1580,7 +1581,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				relevant to a particular page ....these are indicated within the text; there may be relevant Video resources also; Hyperlinks are 
 				provided which link to external websites; Pinch to Zoom, Pan left-right or Type Page Number or use Scroll to naviigate through pages.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.yudu.ReaderAIR3172025&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Folens_eBooks_for_Leaving_Cert">
 				<img  class="centered" src="images/postprimary/Folens.JPG">
 					<p class="text-center">Folens eBooks for Leaving Cert</p>
 				</div>
@@ -1593,7 +1594,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				devices. Our secure cloud-based platform means that if your device is lost or broken your eBook and notes are backed up.</p>
 				<p><i>Options for Thumbnails, Bookmark, Add Note, Highlight and Change Zoom. Samples for 'Cracking Maths'</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.yudu.ReaderAIR3458192&hl=en_GB' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Gill_and_Macmillan">
 				<img  class="centered" src="images/primary/GillMacP.JPG">
 					<p class="text-center">Gill & Macmillan</p>
 				</div>
@@ -1606,7 +1607,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				experience on their Samsung Galaxy Note 10.1 or Galaxy Tab 10.1. Designed for 10.1 inch tablets only.</p>
 				<p><i>Without a Login, I am unable to test this app; nor is there a Demo Mode that I can try :-(</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.yudu.ReaderAIR4800455&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Mentor">
 				<img  class="centered" src="images/postprimary/Mentor.JPG">
 					<p class="text-center">Mentor</p>
 				</div>
@@ -1619,7 +1620,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				vertically depending on reading mode), search for text, share (via Bluetooth, Dropbox etc.)</i></p>
 				<p><strong>Technical:</strong> <i>No Ads. Runs when offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.adobe.reader&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Adobe_Reader">
 				<img  class="centered" src="images/primary/AdobeReader.JPG">
 					<p class="text-center">Adobe Reader</p>
 				</div>
@@ -1627,13 +1628,13 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<div class="col-md-4 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Subject:</strong> English/All Subjects</p>
-				<p><strong>Description:</strong> Top-rated #1 Android dictionary app, with trusted reference content from Dictionary.com & Thesaurus.com!
+				<p><strong>Description:</strong> Top-rated #1 Android dictionary app, with trusted reference content from Dictionary.com and Thesaurus.com!
 				Time Magazine ‘Top 10 Back-To-School App’, ‘Top 10 App’ High School Survival Guide, Winner: CNET Top 100 Mobile App Award</p>
 				<p><i>Switch between Dictionary and Thesaurus mode (icon top right). Uses American and British spelling ('color' as well as'colour'). 
 				Displays Synonyms and Antonyms; says Word.</i></p>
 				<p><strong>Technical:</strong> <i>Ads. in Free Version displayed if online</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.dictionary' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Dictionary.com">
 				<img  class="centered" src="images/postprimary/Dictionary.png">
 					<p class="text-center">Dictionary.com</p>
 				</div>
@@ -1652,7 +1653,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<a href='http://m.gutenberg.org/'>Project Gutenberg</a> (no reg. needed).</p>
 				<p>Note that the Installed 'FBReader' (below) will also read the Kindle .mobi formats</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.amazon.kindle&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Kindle_Reader">
 				<img  class="centered" src="images/primary/KindleReader.JPG">
 					<p class="text-center">Kindle Reader</p>
 				</div>
@@ -1668,7 +1669,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<li>Give you a Leaving Cert Countdown Timer</li>
 				<li>Let you follow on twitter and Facebook</p></li></ul></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=cacafogo.software.lc.dog' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="LC_Dog">
 				<img  class="centered" src="images/postprimary/LCdog.png">
 					<p class="text-center">LC Dog</p>
 				</div>
@@ -1681,7 +1682,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				you want when you want them. Won't take up storage on your device by filling it with papers you don't need. All Free. Also plays the 
 				aural audio file</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.acet.leavingCertPapers&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Leaving_Cert_Past_Papers">
 				<img  class="centered" src="images/postprimary/LCPastPapers.JPG">
 					<p class="text-center">Leaving Cert Past Papers</p>
 				</div>
@@ -1701,7 +1702,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				<p><strong>Link:</strong> Junior Cert: <a href='https://play.google.com/store/apps/details?id=ie.mocks.juniorcert' target='_blank'>
 				Google Play Store</a></p>
 				<p>Leaving Cert: <a href='https://play.google.com/store/apps/details?id=ie.mocks.leavingcert' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id=">Mocks.ie">
 				<img  class="centered" src="images/postprimary/MocksIE.JPG">
 					<p class="text-center">Mocks.ie</p>
 				</div>
@@ -1714,7 +1715,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				is its timetable that shows your schedule for any particular day or week.</p>
 				<p><strong>Technical:</strong> Ad Supported. Pro version also available</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=de.rakuun.MyClassSchedule.free&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="My_Class_Schedule">
 				<img  class="centered" src="images/postprimary/ClassSchedule.JPG">
 					<p class="text-center">My Class Schedule</p>
 				</div>
@@ -1728,7 +1729,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				Ebbinghaus. He believed when you revise something at intervals of a day, a week and a month after you first study it that it 
 				creates pathways in your brain. These pathways are reinforced every time you study it.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=appinventor.ai_francesmosullivan.Revision_Precision_f' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Revision_Precision">
 				<img  class="centered" src="images/postprimary/RevisionPP.JPG">
 					<p class="text-center">Revision Precision</p>
 				</div>
@@ -1742,7 +1743,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				and Serif; adjust background brightness; swap dark/light foreground/background. Has 'Voice Input' ...start it with a large'V' gesture</i></p>
 				<p><strong>Technical:</strong> <i>Needs to be online. Ads appear briefly as you dictate but you may not notice these.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.khymaera.android.listnotefree&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Simple_Notepad">
 				<img  class="centered" src="images/primary/SimpleNotepadPrimary.JPG">
 					<p class="text-center">Simple Notepad</p>
 				</div>
@@ -1759,7 +1760,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				Google Voice Search</a></i></p>
 				<p><strong>Technical:</strong> <i>Runs when Offline. No Ads. 'Voice Input' requires online connection.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.mightyfrog.android.simplenotepad&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Speech_to_Text">
 				<img  class="centered" src="images/primary/SpeechText.JPG">
 					<p class="text-center">Speech to Text</p>
 				</div>
@@ -1774,7 +1775,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				read out, for example. Many languages are available  - but not Gaeilge :-(</i></p>
 				<p><strong>Technical:</strong> <i>Ads. For Languages other than English, needs to be online to access 'all' languages</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.ktix007.talk&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Text_to_Speech">
 				<img  class="centered" src="images/primary/TalkTextPrimary.JPG">
 					<p class="text-center">Text to Speech</p>
 				</div>
@@ -1790,7 +1791,7 @@ Road traffic rules in the EU (as compiled by the European Commission)</p>
 				viewing (I am unable to locate this as a stand-alone file). No ‘pinch to zoom’ but Font Size may be adjusted in the Settings. 
 				Note: Encyclopaedia Britannica is also available on Play Store, at a cost of €15.99</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.wikipedia' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Wikipedia">
 				<img  class="centered" src="images/postprimary/Wikipedia.JPG">
 					<p class="text-center">Wikipedia</p>
 				</div>
