@@ -87,7 +87,6 @@ function readTextFile(file)
 					{
 						var content = allUltags[i].innerHTML;
 						var arr = SplitStringIntoArray(content);
-						// console.log(arr);
 						
 						var wordAmountEitherSide = 6;
 						AddParagrphContentToXml(arr, wordAmountEitherSide, title, id);
@@ -118,10 +117,8 @@ function readTextFile(file)
 					if (parentElementClass.indexOf('popover-icon') != -1) //if the parent is in the popover-icon class
 					{
 						var id = allPtags[i].parentElement.id;
-						console.log("id: " + id);
 						var linkTitle = id.replace(/_/g, " "); //replace all underscores with spaces
 						linkTitle = RemoveSpecialChars(linkTitle);
-						console.log("linkTitle: " + linkTitle);
 						
 						if (CheckIfWordIsValid(linkTitle))
 						{
@@ -153,21 +150,16 @@ function readTextFile(file)
 				for (var i = 0; i < allPopPverIcons.length; i++)
 				{
 					var id = allPopPverIcons[i].attributes['id'].value;
-					console.log("id: " + id);
 					var linkTitle = id.replace(/_/g, " "); //replace all underscores with spaces
 					linkTitle = RemoveSpecialChars(linkTitle);
-					// console.log("linkTitle: " + linkTitle);
 					
 					var dataContent = allPopPverIcons[i].attributes['data-content'];
 					dataContent = dataContent.value;
 					if (dataContent.indexOf("Description:") != -1) //if it contains "Description:"
 					{
-						
-						//console.log(dataContent);
 						dataContent = dataContent.substr(dataContent.indexOf('</strong>')+9);
 						var desc = dataContent.substr(0, dataContent.indexOf('</p>'));
 						desc = RemoveSpecialChars(desc);
-						// console.log(desc);
 						
 						var descArr = desc.split(' '); //turn the string into an array, where each element is a word (seperated by ' ');
 						var wordAmountEitherSide = 6;
@@ -203,18 +195,6 @@ function readTextFile(file)
 						}
 					}
 				}
-				
-				// xmlString += "</pages>";
-				// console.log(xmlString);
-				
-				// save xml string to links.xml
-				// var data = new FormData();
-				// data.append("data" , xmlString);
-				// var xhr = (window.XMLHttpRequest) ? new XMLHttpRequest() : new activeXObject("Microsoft.XMLHTTP");
-				// xhr.open( 'post', 'saveToFile.php', true );
-				// xhr.send(data);
-				// console.log("sent");
-
             }
         }
     }
@@ -224,7 +204,6 @@ function readTextFile(file)
 function SplitStringIntoArray(string)
 {
 	string = RemoveSpecialChars(string);
-	console.log(string);
 						
 	var arr = string.split(' '); //turn the string into an array, where each element is a word (seperated by ' ');
 	return arr;			
@@ -317,22 +296,6 @@ function GenerateXmlEntry(word, title, string, url)
 	return str;
 }
 
-//Done
-// var fileName = "apps-personal.php";
-// var fileName = "index.php";
-// var fileName = "contact.php";
-// var fileName = "android-classroom.php";
-// var fileName = "android-os.php";
-// var fileName = "android-research.php";
-// var fileName = "android-support.php"; 
-// var fileName = "android-testimonials.php";
-// var fileName = "android-weblinks.php";
-// var fileName = "apps-postprimary.php";
-// var fileName = "apps-primary.php";
-// var fileName = "apps-sen.php";
-// var fileName = "apps-teacher.php";
-// var fileName = "apps-technical.php";
-
 //to check
 // var fileName = "android-hardware.php";
 var fileName = "";
@@ -346,9 +309,9 @@ $( document ).ready(function() {
 	{
 		xmlString = "<pages>";
 	
-	
+		
 		fileName = files[i];
-		console.log(fileName);
+		document.getElementById("search-results").innerHTML += fileName + "<br>";
 		readTextFile(fileName);
 		
 		xmlString += "</pages>";
@@ -361,6 +324,7 @@ $( document ).ready(function() {
 		xhr.send(data);
 	
 	}
+	document.getElementById("search-results").innerHTML +=  "finished!<br>";
 });
 	</script>
 </head>
