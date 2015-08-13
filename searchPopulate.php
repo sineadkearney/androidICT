@@ -271,7 +271,8 @@ function AddParagrphContentToXml(arr, wordAmountEitherSide, linkTitle, id)
 }
 
 //return false if the word is one of the words that we are ignoring
-var ignoreTheseWords = ['a', 'the', 'of', 'is', 'an', 'and', '', 'in', 'or', 'to', '...', '-', '--', '.....', 'q.', 'a.', ':-)', '*'];
+var ignoreTheseWords = ['a', 'the', 'of', 'is', 'an', 'and', '', 'in', 'or', 'to', '...', '-', '--', '.....', 'q.', 'a.', ':-)', ':-(', '*', ')', '('];
+//TODO: all puncutation should be ignored, without having to check ignoreTheseWords
 function CheckIfWordIsValid(word)
 {
 	for (var i = 0; i < ignoreTheseWords.length; i++)

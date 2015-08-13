@@ -62,11 +62,11 @@
 					<h3 class="page-header">Apps for Teachers</h3>
 					<hr>
 				
-				<p class="lead">
+				<p id="1" class="lead">
 				The emphasis in this Resource is on Free Apps that can be used by the Teacher and/or that the Teacher may recommend to be used by the 
 				Students - with the Student as Active Collaborator/Contributor/Producer.</p>
 				
-				<p>These Apps try to move beyond the 'drill and practice' type - they are, hopefully, less of the 'student as consumer' type and aim 
+				<p id="2">These Apps try to move beyond the 'drill and practice' type - they are, hopefully, less of the 'student as consumer' type and aim 
 				to support collaborative, managed learning.
 				</p>
 				
@@ -119,7 +119,7 @@
 				document when saved. 11 Mb download</i></p>
 				<p><strong>Technical:</strong> <i>This free version needs to be online for file storage. No Ads</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.evernote&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Evernote">
 				<img  class="centered" src="images/teacher/Evernote.JPG">
 					<p class="text-center">Evernote</p>
 				</div>
@@ -130,7 +130,7 @@
 				typing mode; can insert Attachment ( Picture, Audio, Video, File e.g. PDF); you can use tablet's Camera. Unlike Evernote, Textboxes can be placed anywhere on the canvas. A downside is that there is not a Dictation (Speech to Text) option.</i></p>
 				<p><strong>Technical:</strong> <i>This free version needs to be online for file storage. No Ads</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.microsoft.office.onenote&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="OneNote">
 				<img  class="centered" src="images/teacher/OneNote.JPG">
 					<p class="text-center">OneNote</p>
 				</div>
@@ -140,7 +140,7 @@
 				<p><strong>Description:</strong> <i>This is a very simple, uncluttered freehand-writing app, with the option to insert Images, Bookmarks and hyperlinks. A useful feature is that objects can be repositioned. Files are saved locally (as .html). Best used with a stylus</i></p>
 				<p><strong>Technical:</strong> <i>Works offline. No Ads</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.styluslabs.write&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Write">
 				<img  class="centered" src="images/teacher/Write.JPG">
 					<p class="text-center">Write</p>
 				</div>
@@ -149,7 +149,7 @@
 				data-content="
 				<p><strong>Description:</strong> <i>Store, access and share your files ‘in the cloud’</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Dropbox">
 				<img  class="centered" src="images/teacher/Dropbox.JPG">
 					<p class="text-center">Dropbox</p>
 				</div>
@@ -162,7 +162,7 @@
 				<li>Upload files to Google Drive directly from your Android device</li>
 				<li>Share any file with your contacts ...</li></ul></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.google.android.apps.docs' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Google_Drive">
 				<img  class="centered" src="images/teacher/GoogleDriveTr.png">
 					<p class="text-center">Google Drive</p>
 				</div>
@@ -171,7 +171,7 @@
 				data-content="
 				<p><strong>Description:</strong> Microsoft's Store, access and share your files ‘in the cloud’ aka 'SkyDrive</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.microsoft.skydrive' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="OneDrive">
 				<img  class="centered" src="images/teacher/SkyDrive.JPG">
 					<p class="text-center">OneDrive</p>
 				</div>
@@ -181,7 +181,7 @@
 				<p><strong>Description:</strong> <i>MindBoard adopts a more-tablet based approach to mind-mapping in that the content is created through free-hand 
 				gestures (rather than typed entry). Can export as PDF. Changing ‘Theme’ does help with legibility. The full version cost €4.99</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=jp.osima.android.mindboardfree' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="MindBoard_Free">
 				<img  class="centered" src="images/teacher/MindBoard.JPG">
 					<p class="text-center">MindBoard Free</p>
 				</div>
@@ -196,7 +196,7 @@
 				Tutorial on the Google Play download page.</i></p>
 				<p><strong>Technical:</strong> <i>No Ads. Needs to be online.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=net.thinkingspace&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="MindJet">
 				<img  class="centered" src="images/teacher/MindJet.JPG">
 					<p class="text-center">MindJet</p>
 				</div>
@@ -210,7 +210,7 @@
 				<p><i>Very nice, clean interface. Exports in 'SimpleMind Pro' format ..but otherwise can't Share :-(</i></p>
 				<p><strong>Technical:</strong> <i>No Ads. Works offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.modelmakertools.simplemindfree&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="SimpleMind">
 				<img  class="centered" src="images/teacher/SimpleMind.JPG">
 					<p class="text-center">SimpleMind</p>
 				</div>
@@ -227,7 +227,7 @@
 				<p><strong>Link:</strong> Student: <a href='https://play.google.com/store/apps/details?id=com.socrative.student&hl=en' target='_blank'>
 				Google Play Store</a></p>
 				<p>Teacher: <a href='https://play.google.com/store/apps/details?id=com.socrative.teacher&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Socrative">
 				<img  class="centered" src="images/teacher/Socrative.JPG">
 					<p class="text-center">Socrative</p>
 				</div>
@@ -237,7 +237,7 @@
 				<p><strong>Description:</strong> <i>Voting App from Promethean. Launch your Poll from ActivInspire (free five-user version available from 
 				Promethean) and collect your students’ responses. Uses Local Wifi</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.promethean.activengage&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="ActivEngage">
 				<img  class="centered" src="images/teacher/ActivEngage.JPG">
 					<p class="text-center">ActivEngage</p>
 				</div>
@@ -247,7 +247,7 @@
 				<p><strong>Description:</strong> <i>Create Quizzes and Flashcards. Sign in with your gmail address (e.g. the one already used to register your Tablet). Create your own Quizlet or use one of the thousands shared on the web ...such as <a href=http://quizlet.com/David_Kearney6 target=_blank>http://quizlet.com/David_Kearney6</a> (ppli)</i></p>
 				<p><strong>Technical:</strong> <i>Starts in Portrait mode, but can auto-rotate</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid&hl=en&referrer=utm_source%3Dmobilepage' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Quizlet">
 				<img  class="centered" src="images/teacher/Quizlet.JPG">
 					<p class="text-center">Quizlet</p>
 				</div>
@@ -256,7 +256,7 @@
 				data-content="
 				<p><strong>Description:</strong> <i>Inter-student/classroom/school conferencing</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.skype.raider&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Skype">
 				<img  class="centered" src="images/teacher/Skype.JPG">
 					<p class="text-center">Skype</p>
 				</div>
@@ -267,7 +267,7 @@
 				it, and what's coming up next. Plus, everything you do is synced and saved instantly to the cloud, so that all your devices are always 
 				up to date. With Trello, you can create boards to organize anything you're working on. Use them solo, or invite <i>[students]</i> to work together</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.trello&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Trello">
 				<img  class="centered" src="images/teacher/Trello.JPG">
 					<p class="text-center">Trello</p>
 				</div>
@@ -276,7 +276,7 @@
 				data-content="
 				<p><strong>Description:</strong> Used by many Teachers and a number of classes</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.twitter.android&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Twitter">
 				<img  class="centered" src="images/teacher/Twitter.JPG">
 					<p class="text-center">Twitter</p>
 				</div>
@@ -286,7 +286,7 @@
 				<p><strong>Description:</strong> The latest version of the official YouTube app. Keep up with your favourite YouTube channels and 
 				access the world’s videos anywhere with the official YouTube app for Android.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="YouTube">
 				<img  class="centered" src="images/teacher/YouTube.JPG">
 					<p class="text-center">YouTube</p>
 				</div>
@@ -297,7 +297,7 @@
 				connected and share information. Use your Android phone to send notes, post replies, and check messages and upcoming events while away 
 				from the classroom.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.fusionprojects.edmodo&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Edmodo">
 				<img  class="centered" src="images/teacher/Edmodo.JPG">
 					<p class="text-center">Edmodo</p>
 				</div>
@@ -306,7 +306,7 @@
 				data-content="
 				<p><strong>Description:</strong> Classroom is available to anyone with a google apps for education account. Using Google Classroom in school? Get the Android App to use Classroom on the go. Classroom helps teachers save time, keep classes organized, and improve communication with students. It is available to anyone with Google Apps for Education, a free suite of productivity tools including Gmail, Drive and Docs.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.google.android.apps.classroom' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Google_Classroom">
 				<img  class="centered" src="images/teacher/Classroom.JPG">
 					<p class="text-center">Google Classroom</p>
 				</div>
@@ -328,7 +328,7 @@
 				scripting language is not unlike Java/Python. Programmes can be Saved and/or Shared. Some serious programming is possible! And there 
 				is still a Turtle option for the younger audience</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=fr.cyann.algoid' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Algoid">
 				<img  class="centered" src="images/teacher/Algoid.JPG">
 					<p class="text-center">Algoid</p>
 				</div>
@@ -339,7 +339,7 @@
 				Uno r1/r2/r3, Mega, Leonardo, Nano) using WYSIWYG interface, Android sensors or JavaScript script.</p>
 				<p><i>I also found other Apps/Projects at <a href='http://blog.arduino.cc/category/languages/android/' target='_blank'>Arduino Blog</a></i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=name.antonsmirnov.android.arduinocommander&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="ArduinoCommander">
 				<img  class="centered" src="images/teacher/ArduinoComm.JPG">
 					<p class="text-center">ArduinoCommander</p>
 				</div>
@@ -349,7 +349,7 @@
 				<p><strong>Description:</strong> <i>LightBot: a useful, visual way to introduce coding. User chooses 'coding buttons' (equivalent to 
 				Forward, Jump, Switch, Procedure) in order to control an on-screen robot</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.lightbot.lightbothoc' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="LightBot">
 				<img  class="centered" src="images/teacher/LightBot.JPG">
 					<p class="text-center">LightBot</p>
 				</div>
@@ -362,7 +362,7 @@
 				tablets, and mobile browsers. Catrobat and the software developed by the Catrobat team are inspired by the Scratch programming system 
 				developed by the Lifelong Kindergarten Group at the MIT Media Lab. Learn more at <a href='http://www.catrobat.org/' target='_blank'>catrobat.org</a></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.catrobat.catroid' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Pocket_Code">
 				<img  class="centered" src="images/teacher/PocketCode.JPG">
 					<p class="text-center">Pocket Code</p>
 				</div>
@@ -372,7 +372,7 @@
 				<p><strong>Description:</strong> <i>QuckHTML may have been designed for phones but it gives a clean interface on tablets. User 
 				types/creates the raw html code and saves (locally). There is a Run button to generate a Preview</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.vinay.QuickHTML' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="QuickHtml">
 				<img  class="centered" src="images/teacher/QuickHtml.JPG">
 					<p class="text-center">QuickHtml</p>
 				</div>
@@ -385,7 +385,7 @@
 				useful start.</i></p>
 				<p><strong>Technical:</strong> <i>Ads</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.lilait.html.speaker.creator.richtext.editor.free' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Simple_RT_Web_Editor">
 				<img  class="centered" src="images/teacher/SimpleRTweb.JPG">
 					<p class="text-center">Simple RT Web Editor</p>
 				</div>
@@ -396,7 +396,7 @@
 				CSS and Javascript). It has a Preview pane. Menus can be dragged from either side of the screen. There is also a FTP facility (but 
 				you can just save locally)</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.aesop.systems.htmlx_free' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Spark_Lite">
 				<img  class="centered" src="images/teacher/sparklite.JPG">
 					<p class="text-center">Spark Lite</p>
 				</div>
@@ -406,7 +406,7 @@
 				<p><strong>Description:</strong> <i>Much better than Turtle Graphics, Turtle Draw does have Pen Up/Down ...as well as background-colour 
 				changer. Cons: Portrait Mode only, can't see a Turtle :-(</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.alimuzaffar.turtledraw' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Turtle_Draw">
 				<img  class="centered" src="images/teacher/TurtleDraw.JPG">
 					<p class="text-center">Turtle Draw</p>
 				</div>
@@ -416,7 +416,7 @@
 				<p><strong>Description:</strong> <i>Turtle Graphics: this app will be familiar to users of Logo from the 1980s! Use commands (such as 
 				Repeat, Move, Left and Right) in order to generate a shape. Cons: Portrait Mode only; lacks PenUp/Down commands; can't see a Turtle :-(</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.darkgadgeteer.turtlegraphics' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Turtle_Graphics">
 				<img  class="centered" src="images/teacher/TurtleGraphics.JPG">
 					<p class="text-center">Turtle Graphics</p>
 				</div>
@@ -427,7 +427,7 @@
 				below is provided as a link to the website</i></p>
 				<p><strong>Technical:</strong> <i></i></p>
 				<p><strong>Link:</strong> <a href='http://www.w3schools.com/' target='_blank'>
-				W3Schools.com</a></p>">
+				W3Schools.com</a></p>" id="W3Schools">
 				<img  class="centered" src="images/teacher/w3schools.JPG">
 					<p class="text-center">W3Schools</p>
 				</div>
@@ -447,7 +447,7 @@
 				<p><strong>Description:</strong> <i>Clayframes Lite, might be a more school-appropriate app than Motion. This will, in the paid-for version 
 				(€1.89), let you Export etc.; does not have audio</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=jal.clickstudiofree.mainpack' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Clayframes_Lite">
 				<img  class="centered" src="images/teacher/ClayFrames.JPG">
 					<p class="text-center">Clayframes Lite</p>
 				</div>
@@ -457,7 +457,7 @@
 				<p><strong>Description:</strong> Animating Touch: <i>cartoon animation with 'tweening' and 'pivot points'. Can also export to .mp4. 
 				Very useful! I think I just might have to buy the full version!</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=ru.jecklandin.stickman' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Drawing_Cartoons">
 				<img  class="centered" src="images/teacher/Cartoon.png">
 					<p class="text-center">Drawing Cartoons</p>
 				</div>
@@ -466,7 +466,7 @@
 				data-content="
 				<p><strong>Description:</strong> <i>As much a Literacy exercise as a Drawing one! Once can even create Gaeilge Speech Bubbles (without the 'fada' unfortunately)</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.nextwave.comicsheadlite&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Comic_Heads_Lite">
 				<img  class="centered" src="images/teacher/ComicHeads.JPG">
 					<p class="text-center">Comic Heads Lite</p>
 				</div>
@@ -475,7 +475,7 @@
 				data-content="
 				<p><strong>Description:</strong> <i>A very attractive looking stop-motion application. Green screening, onion skinning, speech bubbles etc. Currently available on Desktop and iPad, due for Android release Summer 2015. Annual Subscription of around €120 for 1-80 pupils. A single-user, perpetual license is also available for c €50. Website: <a href='http://zu3d.com/' target='_blank'>http://zu3d.com/</a></i></p>
 				<p><strong>Link:</strong> <a href='' target='_blank'>
-				Google Play Store</a> </p>">
+				Google Play Store</a> </p>" id="Zu3D">
 				<img  class="centered" src="images/teacher/Zu3d.JPG">
 					<p class="text-center">Zu3D (pending)</p>
 				</div>
@@ -485,7 +485,7 @@
 				<p><strong>Description:</strong> <i>At BETT2014, I watched staff of British Museum (at the Samsung Stand) using a Stop Motion app 
 				...I hope I have linked to the correct one below. </i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=us.feras.motion&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Motion_-_Stop_Motion_Camera">
 				<img  class="centered" src="images/teacher/Motion.JPG">
 					<p class="text-center">Motion - Stop Motion Camera</p>
 				</div>
@@ -495,7 +495,7 @@
 				<p><strong>Description:</strong> <i>At BETT2014, I watched staff of British Museum (at the Samsung Stand) using a Stop Motion app 
 				...instead of 'Motion' listed above it may well have been this 'PicPac' one since recommended to me </i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=tv.picpac' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="PicPac">
 				<img  class="centered" src="images/teacher/PicPac.JPG">
 					<p class="text-center">PicPac</p>
 				</div>
@@ -507,7 +507,7 @@
 				insertion points should be. Available as an app (below, €2.49) but I used the seven-day trial from <a href='http://www.sparkol.com/home'>
 				sparkol.com</a></i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.sparkol.videoscribetv' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="VideoScribe">
 				<img  class="centered" src="images/teacher/videoscribeJ.JPG">
 					<p class="text-center">VideoScribe</p>
 				</div>
@@ -519,7 +519,7 @@
 				<p><i>Need to Register. Nice one - in Spanish - regarding Phoenix Park at <a href='http://woices.com/echo/10753' target='_blank'>woices.com</a>. 
 				Education Guide (in Spanish, so use Translate) at <a href='http://www.educacontic.es/blog/mapas-sonoros-educativos-con-woices' target='_blank'>educacontic.es</a>.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.woices&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Woices">
 				<img  class="centered" src="images/teacher/Woices.png">
 					<p class="text-center">Woices</p>
 				</div>
@@ -528,7 +528,8 @@
 				data-content="
 				<p><strong>Description:</strong> <i>At BETT2014, the staff of British Museum (at the Samsung Stand) showed some nice 'Virtual/Augmented Reality' ...point your app-enabled phone or Tablet at a picture or document and watch it come alive</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.aurasma.aurasma&feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5hdXJhc21hLmF1cmFzbWEiXQ..' target='_blank'>
-				Google Play Store</a> ...and read about some classroom applications at <a href='http://www.kleinspiration.com/2013/05/using-augmented-reality-via-aurasma-in.html' target='_blank'>kleinspiration.com</a></p>">
+				Google Play Store</a> ...and read about some classroom applications at <a href='http://www.kleinspiration.com/2013/05/using-augmented-reality-via-aurasma-in.html' target='_blank'>kleinspiration.com</a></p>"
+				id="Aurasma">
 				<img  class="centered" src="images/teacher/Aurasma.JPG">
 					<p class="text-center">Aurasma</p>
 				</div>
@@ -550,7 +551,7 @@
 				<p><i>A simple but useful diagnostic app (most usually - but not exclusively - for Boys or Mixed classrooms)</i></p>
 				<p><strong>Technical:</strong> <i>No Ads. Runs when offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=inutilsoft.ColorBlindnessTest&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Colour_Blindness">
 				<img  class="centered" src="images/teacher/Colour.JPG">
 					<p class="text-center">Colour Blindness</p>
 				</div>
@@ -560,7 +561,7 @@
 				<p><strong>Description:</strong> This add free app uses latest research on the transtheoretical model of physical activity participation 
 				to help you assess your PE students quickly. Note: The research in this app was done across 6 secondary schools in the Republic of Ireland.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=appinventor.ai_garyjokeeffe.PETEACHERTOOL' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="PE_Teacher_Assessment_Tool">
 				<img  class="centered" src="images/teacher/PEassess.JPG">
 					<p class="text-center">PE Teacher Assessment Tool</p>
 				</div>
@@ -579,7 +580,7 @@
 				data-content="
 				<p><strong>Description:</strong> <i>Google provides its own Image Takers and Editing app. Panaroma Mode looks interesting</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Google_Camera">
 				<img  class="centered" src="images/teacher/GoogleCam.JPG">
 					<p class="text-center">Google Camera</p>
 				</div>
@@ -591,7 +592,7 @@
 				<p><i>This well-known brand is now available on your Tablet: Choose pictures in your Gallery and make all(?) the edits you want. Save 
 				the changes (and your Original stays intact). Options to Upload to Facebook or Twitpic (but you can just save locally).</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.adobe.psmobile' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Photoshop">
 				<img  class="centered" src="images/teacher/Photoshop.png">
 					<p class="text-center">Photoshop</p>
 				</div>
@@ -601,7 +602,7 @@
 				<p><strong>Description:</strong> Skitch: <i>edit, modify and share images. Annotate over Images and Web Shots ...and over a blank screen 
 				(whiteboard type)</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.evernote.skitch&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Skitch">
 				<img  class="centered" src="images/teacher/Skitch.png">
 					<p class="text-center">Skitch</p>
 				</div>
@@ -614,7 +615,7 @@
 				<p><i>I really like the way this app works on the Tablet: the abilty to slide to change the various effects is very user-friendly. 
 				'Crop' option even shows 'Rule of Thirds' gridlines.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Snapseed">
 				<img  class="centered" src="images/teacher/Snapseed.png">
 					<p class="text-center">Snapseed</p>
 				</div>
@@ -634,7 +635,7 @@
 				data-content="
 				<p><strong>Description:</strong> <i>The first(?) 'Education Centre' on Android. :-)</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.ogxapps.ecdrumcondra&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Drumcondra_Education_Centre">
 				<img  class="centered" src="images/teacher/DEC.JPG">
 					<p class="text-center">Drumcondra Education Centre</p>
 				</div>
@@ -645,7 +646,7 @@
 				radicals, tech geniuses, medical mavericks, business gurus, and music legends. Find more than 1200 TEDTalk videos and audios (with more 
 				added each week) on the official TED app -- now for tablets and smartphones. This app is made possible with the generous support of Sony.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.ted.android&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="TED">
 				<img  class="centered" src="images/teacher/TED.JPG">
 					<p class="text-center">TED</p>
 				</div>
@@ -668,7 +669,7 @@
 				<p><i>Quote from CESI List 'I really can't recommend the book creator app enough. 
 				It's such a user friendly app.'. Cost €2.50</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=net.redjumper.bookcreator' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Book_Creator">
 				<img  class="centered" src="images/teacher/BookCreator.JPG">
 					<p class="text-center">Book Creator</p>
 				</div>
@@ -680,7 +681,7 @@
 				) also (having downloaded Plugin): you get a simplified Office toollbar. Same interface on App ...use a Long Press for Menu (e.g. to 
 				make a correction to a typo). Automatic Saving and Syncing across devices. Additional features are available for €3 or €4 monthly fee.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/people/details?id=114979229546573125506&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="CloudOn">
 				<img  class="centered" src="images/teacher/CloudOn.JPG">
 					<p class="text-center">CloudOn</p>
 				</div>
@@ -690,7 +691,7 @@
 				<p><strong>Description:</strong> Creative Book Builder for Android enables everyone to create, edit and publish ebooks in a few minutes on the go. 
 				All published ebooks can be read by any ePub readers. <i>Cost €3.05</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.tigernghk.android.cbb' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Creative_Book_Builder">
 				<img  class="centered" src="images/teacher/CBB.JPG">
 					<p class="text-center">Creative Book Builder</p>
 				</div>
@@ -707,7 +708,7 @@
 				Free Desktop version from <a href='http://www.kingsoftstore.com/software/kingsoft-office-freeware' target='_blank'>kingsoftstore.com</a></i></p>
 				<p><strong>Technical:</strong> <i>No Ads. Works Offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=cn.wps.moffice_eng&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="WPS_Office">
 				<img  class="centered" src="images/teacher/Kingsoft.JPG">
 					<p class="text-center">WPS Office</p>
 				</div>
@@ -720,7 +721,7 @@
 				both .doc and .docx formats</i></p>
 				<p><strong>Technical:</strong> <i>Runs Offline. No ads</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.infraware.polarisoffice4&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Polaris_Office">
 				<img  class="centered" src="images/teacher/PolarisOffice.JPG">
 					<p class="text-center">Polaris Office</p>
 				</div>
@@ -730,7 +731,7 @@
 				<p><strong>Description:</strong> <i>Designed for 'budding Journalists' this app combines Text with Video Editing, Image Capture, 
 				Voice Recording ....could be interesting</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=info.guardianproject.mrapp' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="StoryMaker">
 				<img  class="centered" src="images/teacher/StoryMaker.JPG">
 					<p class="text-center">StoryMaker</p>
 				</div>
@@ -744,7 +745,7 @@
 				<li>Receive push notifications for blog comments and form entries</li>
 				<li>Instantly respond to blog comments & form entries etc.</li></ul></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.weebly.android' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Weebly">
 				<img  class="centered" src="images/teacher/weebly.JPG">
 					<p class="text-center">Weebly</p>
 				</div>
@@ -754,7 +755,7 @@
 				<p><strong>Description:</strong> WordPress for Android puts the power of publishing in your hands, making it easy to create and consume 
 				content. Write, edit, and publish posts to your site, check stats, and get inspired with great posts in the Reader</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.wordpress.android&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Wordpress">
 				<img  class="centered" src="images/teacher/Wordpress.JPG">
 					<p class="text-center">Wordpress</p>
 				</div>
@@ -776,7 +777,7 @@
 				realtime feedback while in class - it will sync with the main <a href='http://www.classdojo.com/' target='_blank'>ClassDojo website</a></p>
 				<p><i>I note that it is used by a number of Teachers on the CESI List. Very easy to use app</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.classdojo.android' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Class_Dojo">
 				<img  class="centered" src="images/teacher/ClassDojo.png">
 					<p class="text-center">Class Dojo</p>
 				</div>
@@ -787,7 +788,7 @@
 				It is 100% free and is used by over 500,000 teachers, students and parents to send millions of messages every month.</p>
 				<p><i>Need to test this for Ireland!</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.remind101' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Free_Teacher_Text_Messaging">
 				<img  class="centered" src="images/teacher/Remind101.png">
 					<p class="text-center">Free Teacher Text Messaging</p>
 				</div>
@@ -797,7 +798,7 @@
 				<p><strong>Description:</strong> <i>Whiteboard-style app that allows you (or your students) to create Screencasts. Includes Voice Recorder 
 				as well as drawing tools. Screencasts are published (and stored) on <a href='http://www.lensoo.com/ target='_blank'>Lensoo website</a></i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.lensoo.create' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Lensoo_Create">
 				<img  class="centered" src="images/teacher/Lensoo.JPG">
 					<p class="text-center">Lensoo Create</p>
 				</div>
@@ -809,7 +810,7 @@
 				Mathletics Teacher is the dedicated smartphone app for teachers. Simply use your Mathletics Teacher ID to sign in.</p>
 				<p><strong>Technical:</strong> <i></i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.MTApp&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Mathletics_Teacher">
 				<img  class="centered" src="images/teacher/MathleticsTr.JPG">
 					<p class="text-center">Mathletics Teacher</p>
 				</div>
@@ -820,7 +821,7 @@
 				your device camera on the document. If lighting is bad in your room, tap on the light bulb icon to turn on your device camera flash. 
 				Then tap on the save icon. The document will be converted to a PDF file and stored on your SD card.</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.ape.camera.docscan' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="PDF_Document_Scanner">
 				<img  class="centered" src="images/teacher/DocScan.JPG">
 					<p class="text-center">PDF Document Scanner</p>
 				</div>
@@ -833,7 +834,7 @@
 				<p><i>Works best on text of same size i.e. don't scan Headings at same time as Body Text</i></p>
 				<p><strong>Technical:</strong> <i>No Ads. Runs offline</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.andretor.scantotext' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="ScanToText">
 				<img  class="centered" src="images/teacher/ScanTextOCR.png">
 					<p class="text-center">ScanToText (OCR)</p>
 				</div>
@@ -847,7 +848,7 @@
 				<p>Ver 1 €7.99: <a href='https://play.google.com/store/apps/details?id=com.glen.apps.TeacherAidePro' target='_blank'>
 				Google Play Store</a></p>
 				<p>Ver 2 €9.99: <a href='https://play.google.com/store/apps/details?id=com.apps.ips.TeacherAidePro2' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Teaching_Aide">
 				<img  class="centered" src="images/teacher/TeacherAide.JPG">
 					<p class="text-center">Teaching Aide</p>
 				</div>
@@ -869,7 +870,7 @@
 				Clent App is free (but a fee for Host version). Client App may also be be used for free as a stand-alone IWB app. Pros: Different Backgrounds; 
 				Pinch to Rotate or Zoom; Shapes, Colours, Pens, Fill</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.displaynote.app&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="DisplayNote">
 				<img  class="centered" src="images/teacher/DisplayNote.JPG">
 					<p class="text-center">DisplayNote</p>
 				</div>
@@ -884,7 +885,7 @@
 				but the app can work as a stand-alone without connection</i></p>
 				<p><strong>Technical:</strong> <i>Needs to be online. Ads in free 5-user version</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.grouptechnologies.groupboard&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Groupboard">
 				<img  class="centered" src="images/teacher/Groupboard.JPG">
 					<p class="text-center">Groupboard</p>
 				
@@ -895,7 +896,7 @@
 				<p><strong>Description:</strong> <i>A really nice IWB app ...with the added bonus of screen/audio recording i.e. great for creating Screencasts</i></p>
 				<p><strong>Technical:</strong> <i>No Ads. There is a fee for this app of $2.99</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.morriscooke.explaineverything' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Explain_Everything">
 				<img  class="centered" src="images/teacher/ExplainET.JPG">
 					<p class="text-center">Explain Everything (€)</p>
 				
@@ -916,7 +917,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.appmakr.app494277' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="St_Geralds_College_Castlebar">
 				<img  class="centered" src="images/teacher/StGeralds.JPG">
 					<p class="text-center">St Gerald's College, Castlebar</p>
 				</div>
@@ -924,7 +925,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.uniquepublishing.schoolmounttemple&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Mount_Temple_Dublin">
 				<img  class="centered" src="images/teacher/mountTemple.JPG">
 					<p class="text-center">Mount Temple, Dublin</p>
 				</div>
@@ -932,7 +933,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.uniquepublishing.holychildschool' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Holy_Child_Killiney">
 				<img  class="centered" src="images/teacher/holyChild.JPG">
 					<p class="text-center">Holy Child, Killiney</p>
 				</div>
@@ -940,7 +941,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.app_stfinians.layout' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="St_Finians_CC_Swords">
 				<img  class="centered" src="images/teacher/finians.JPG">
 					<p class="text-center">St. Finian's CC, Swords</p>
 				</div>
@@ -948,7 +949,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.app_donabatecc.layout&hl=fr_CA' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Donabate_CC">
 				<img  class="centered" src="images/teacher/donabate.JPG">
 					<p class="text-center">Donabate CC</p>
 				</div>
@@ -956,7 +957,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.uniquepublishing.stpeterscollegewexford&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="St_Peters_College_Wexford">
 				<img  class="centered" src="images/teacher/stpeters.JPG">
 					<p class="text-center">St. Peter's College, Wexford</p>
 				</div>
@@ -964,7 +965,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.schoolspace.athlonecc&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Athlone_CC">
 				<img  class="centered" src="images/teacher/athlone.JPG">
 					<p class="text-center">Athlone CC</p>
 				</div>
@@ -972,7 +973,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.app_deelecollege.layout&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Deele_CC_Raphoe">
 				<img  class="centered" src="images/teacher/deele.JPG">
 					<p class="text-center">Deele CC, Raphoe</p>
 				</div>
@@ -980,7 +981,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.schoolspace.staidanscbs' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="St_Aidans_CBS_D9">
 				<img  class="centered" src="images/teacher/aidans.JPG">
 					<p class="text-center">St. Aidan's CBS, D9</p>
 				</div>
@@ -988,7 +989,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.schoolspace.stmarysch' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="St_Marys_Charleville">
 				<img  class="centered" src="images/teacher/marys.JPG">
 					<p class="text-center">St. Mary’s, Charleville</p>
 				</div>
@@ -996,7 +997,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.schoolspace.davis' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Davis_College_Mallow">
 				<img  class="centered" src="images/teacher/davis.JPG">
 					<p class="text-center">Davis College, Mallow</p>
 				</div>
@@ -1004,7 +1005,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.schoolspace.loreto' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Loreto_College_Kilkenny">
 				<img  class="centered" src="images/teacher/loreto.JPG">
 					<p class="text-center">Loreto College, Kilkenny</p>
 				</div>
@@ -1012,7 +1013,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.schoolspace.cbccork2' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="CBS_Cork">
 				<img  class="centered" src="images/teacher/cbsCork.JPG">
 					<p class="text-center">CBS, Cork</p>
 				</div>
@@ -1020,7 +1021,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.schoolspace.liberties' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Liberties_College">
 				<img  class="centered" src="images/teacher/liberties.JPG">
 					<p class="text-center">Liberties College</p>
 				</div>
@@ -1028,7 +1029,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.schoolspace.causeway' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Causeway_Comp_Kerry">
 				<img  class="centered" src="images/teacher/causeway.JPG">
 					<p class="text-center">Causeway Comp, Kerry</p>
 				</div>
@@ -1036,7 +1037,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.schoolspace.pearse' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Pearse_College_Crumlin">
 				<img  class="centered" src="images/teacher/pearse.JPG">
 					<p class="text-center">Pearse College, Crumlin</p>
 				</div>
@@ -1044,7 +1045,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.schoolspace.mountmercy2' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Mount_Mercy_Cork">
 				<img  class="centered" src="images/teacher/mountMercy.JPG">
 					<p class="text-center">Mount Mercy, Cork</p>
 				</div>
@@ -1052,7 +1053,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.schoolspace.kildareplace' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Kildare_Place_Dublin">
 				<img  class="centered" src="images/teacher/kildarePlace.JPG">
 					<p class="text-center">Kildare Place, Dublin</p>
 				</div>
@@ -1060,7 +1061,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.schoolspace.colaistetreasa' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Col_Treasa_Kanturk">
 				<img  class="centered" src="images/teacher/treasa.JPG">
 					<p class="text-center">Col. Treasa, Kanturk</p>
 				</div>
@@ -1068,7 +1069,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.schoolspace.sjsb' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="St_Josephs_Ballybunion">
 				<img  class="centered" src="images/teacher/ballybunion.JPG">
 					<p class="text-center">St Joseph’s, Ballybunion</p>
 				</div>
@@ -1076,7 +1077,7 @@
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" 
 				data-content="
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.schoolspace.mallow' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Mallow_College">
 				<img  class="centered" src="images/teacher/mallow.JPG">
 					<p class="text-center">Mallow College</p>
 				</div>
@@ -1085,7 +1086,7 @@
 				data-content="
 				<p><strong>Description:</strong> <i>Here is a collection of 220 (second-level) schools, where the app is developed by one company (<a href='http://www.ischool-app.ie/' target='_blank'>http://www.ischool-app.ie/)</a></p>
 								<p><strong>Link:</strong> <a href='https://play.google.com/store/search?q=ischoolapp&c=apps' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="220_Colleges">
 				<img  class="centered" src="images/teacher/iSchool.JPG">
 					<p class="text-center">220 Colleges</p>
 				</div>
