@@ -50,6 +50,8 @@
 
 
 /**************** for search only ************************/
+var n = 0;
+var maxN = 14; //we are searching through 14 files. 14 files listed in searchPopulate, links0.xml to links13.xml generated
 function showResult(str) {
 	
 
@@ -66,15 +68,57 @@ function showResult(str) {
   xmlhttp.onreadystatechange=function() {
     if (xmlhttp.readyState==4 && xmlhttp.status==200) {
 
-	var response = xmlhttp.responseText;
-	response = response.replace(/==b=/g, '<strong>');
-	response = response.replace(/=b==/g, '</strong>');
-	document.getElementById("search-results").innerHTML = response;
-
+		var response = xmlhttp.responseText;
+		
+		response = response.replace(/==b=/g, '<strong>');
+		response = response.replace(/=b==/g, '</strong>');
+		
+		console.log(response == "")
+		console.log("response: '" + response +"'");
+		if (document.getElementById("search-results").innerHTML == "searching...")
+		{
+			// if (response != "")
+				document.getElementById("search-results").innerHTML = response;
+			
+			//search the next file
+			n += 1; 
+			if (n < maxN)
+			{
+				document.getElementById("finished").innerHTML = "finding more results...";
+				xmlhttp.open("GET","livesearch.php?q="+str+"&n="+n,true);
+				xmlhttp.send();
+			}
+			else
+				document.getElementById("finished").innerHTML = "finished searching";
+		}
+		else
+		{
+			// if (response != "")
+				document.getElementById("search-results").innerHTML += response;
+			
+			//search the next file
+			n += 1; 
+			if (n < maxN)
+			{
+				document.getElementById("finished").innerHTML = "finding more results...";
+				xmlhttp.open("GET","livesearch.php?q="+str+"&n="+n,true);
+				xmlhttp.send();
+			}
+			else
+				document.getElementById("finished").innerHTML = "finished searching";
+				
+			
+			}
     }
   }
-  xmlhttp.open("GET","livesearch.php?q="+str,true);
-  xmlhttp.send();
+  
+  
+  // for (var n = 0; n < 2; n++)
+  // {
+	console.log("n: " + n);
+	  xmlhttp.open("GET","livesearch.php?q="+str+"&n="+n,true);
+	  xmlhttp.send();
+  // }
 }
 
 $( document ).ready(function() {
@@ -101,10 +145,9 @@ $( document ).ready(function() {
                     <h3 class="page-header">Results for "<?php echo $_GET["searchTerm"] ?>":</h3>
 					<hr>
 					
-					<div id="search-results">
-						searching...
-					</div>
+					<div id="search-results">searching...</div>
 				
+					<div id="finished"></div>
                 </div>
                 <!-- /.col-lg-12 -->
             </div>

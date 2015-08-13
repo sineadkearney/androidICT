@@ -1,0 +1,1254 @@
+<pages>
+	<link>
+		<term>Cupcake</term>
+		<title>What is 'Android'?</title>
+		<string>==b=Cupcake=b== (1.5) Doughnut (1.6) Eclair (2.0–2.1) Froyo </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>Doughnut</term>
+		<title>What is 'Android'?</title>
+		<string>Cupcake (1.5) ==b=Doughnut=b== (1.6) Eclair (2.0–2.1) Froyo (2.2–2.2.3) Gingerbread </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>Eclair</term>
+		<title>What is 'Android'?</title>
+		<string>Cupcake (1.5) Doughnut (1.6) ==b=Eclair=b== (2.0–2.1) Froyo (2.2–2.2.3) Gingerbread (2.3–2.3.7) Honeycomb </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>20–21</term>
+		<title>What is 'Android'?</title>
+		<string>Cupcake (1.5) Doughnut (1.6) Eclair ==b=(2.0–2.1)=b== Froyo (2.2–2.2.3) Gingerbread (2.3–2.3.7) Honeycomb (3.0–3.2.6) </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>Froyo</term>
+		<title>What is 'Android'?</title>
+		<string>Cupcake (1.5) Doughnut (1.6) Eclair (2.0–2.1) ==b=Froyo=b== (2.2–2.2.3) Gingerbread (2.3–2.3.7) Honeycomb (3.0–3.2.6) Ice </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>22–223</term>
+		<title>What is 'Android'?</title>
+		<string>(1.5) Doughnut (1.6) Eclair (2.0–2.1) Froyo ==b=(2.2–2.2.3)=b== Gingerbread (2.3–2.3.7) Honeycomb (3.0–3.2.6) Ice Cream </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>Gingerbread</term>
+		<title>What is 'Android'?</title>
+		<string>Doughnut (1.6) Eclair (2.0–2.1) Froyo (2.2–2.2.3) ==b=Gingerbread=b== (2.3–2.3.7) Honeycomb (3.0–3.2.6) Ice Cream Sandwich </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>23–237</term>
+		<title>What is 'Android'?</title>
+		<string>(1.6) Eclair (2.0–2.1) Froyo (2.2–2.2.3) Gingerbread ==b=(2.3–2.3.7)=b== Honeycomb (3.0–3.2.6) Ice Cream Sandwich (4.0–4.0.4) </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>Honeycomb</term>
+		<title>What is 'Android'?</title>
+		<string>Eclair (2.0–2.1) Froyo (2.2–2.2.3) Gingerbread (2.3–2.3.7) ==b=Honeycomb=b== (3.0–3.2.6) Ice Cream Sandwich (4.0–4.0.4) Jelly </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>30–326</term>
+		<title>What is 'Android'?</title>
+		<string>(2.0–2.1) Froyo (2.2–2.2.3) Gingerbread (2.3–2.3.7) Honeycomb ==b=(3.0–3.2.6)=b== Ice Cream Sandwich (4.0–4.0.4) Jelly Bean </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>Ice</term>
+		<title>What is 'Android'?</title>
+		<string>Froyo (2.2–2.2.3) Gingerbread (2.3–2.3.7) Honeycomb (3.0–3.2.6) ==b=Ice=b== Cream Sandwich (4.0–4.0.4) Jelly Bean (4.1–4.3) </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>Cream</term>
+		<title>What is 'Android'?</title>
+		<string>(2.2–2.2.3) Gingerbread (2.3–2.3.7) Honeycomb (3.0–3.2.6) Ice ==b=Cream=b== Sandwich (4.0–4.0.4) Jelly Bean (4.1–4.3) ...4.2 </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>Sandwich</term>
+		<title>What is 'Android'?</title>
+		<string>Gingerbread (2.3–2.3.7) Honeycomb (3.0–3.2.6) Ice Cream ==b=Sandwich=b== (4.0–4.0.4) Jelly Bean (4.1–4.3) ...4.2 added </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>40–404</term>
+		<title>What is 'Android'?</title>
+		<string>(2.3–2.3.7) Honeycomb (3.0–3.2.6) Ice Cream Sandwich ==b=(4.0–4.0.4)=b== Jelly Bean (4.1–4.3) ...4.2 added multi-user </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>Jelly</term>
+		<title>What is 'Android'?</title>
+		<string>Honeycomb (3.0–3.2.6) Ice Cream Sandwich (4.0–4.0.4) ==b=Jelly=b== Bean (4.1–4.3) ...4.2 added multi-user support, </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>Bean</term>
+		<title>What is 'Android'?</title>
+		<string>(3.0–3.2.6) Ice Cream Sandwich (4.0–4.0.4) Jelly ==b=Bean=b== (4.1–4.3) ...4.2 added multi-user support, as </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>41–43</term>
+		<title>What is 'Android'?</title>
+		<string>Ice Cream Sandwich (4.0–4.0.4) Jelly Bean ==b=(4.1–4.3)=b== ...4.2 added multi-user support, as well </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>added</term>
+		<title>What is 'Android'?</title>
+		<string>Sandwich (4.0–4.0.4) Jelly Bean (4.1–4.3) ...4.2 ==b=added=b== multi-user support, as well as MiraCast </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>multiuser</term>
+		<title>What is 'Android'?</title>
+		<string>(4.0–4.0.4) Jelly Bean (4.1–4.3) ...4.2 added ==b=multi-user=b== support, as well as MiraCast KitKat </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>support</term>
+		<title>What is 'Android'?</title>
+		<string>Jelly Bean (4.1–4.3) ...4.2 added multi-user ==b=support,=b== as well as MiraCast KitKat (4.4–4.4.2) </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>as</term>
+		<title>What is 'Android'?</title>
+		<string>Bean (4.1–4.3) ...4.2 added multi-user support, ==b=as=b== well as MiraCast KitKat (4.4–4.4.2) ... </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>well</term>
+		<title>What is 'Android'?</title>
+		<string>(4.1–4.3) ...4.2 added multi-user support, as ==b=well=b== as MiraCast KitKat (4.4–4.4.2) ... released </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>as</term>
+		<title>What is 'Android'?</title>
+		<string>...4.2 added multi-user support, as well ==b=as=b== MiraCast KitKat (4.4–4.4.2) ... released to </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>MiraCast</term>
+		<title>What is 'Android'?</title>
+		<string>added multi-user support, as well as ==b=MiraCast=b== KitKat (4.4–4.4.2) ... released to commercial </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>KitKat</term>
+		<title>What is 'Android'?</title>
+		<string>multi-user support, as well as MiraCast ==b=KitKat=b== (4.4–4.4.2) ... released to commercial devices </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>44–442</term>
+		<title>What is 'Android'?</title>
+		<string>support, as well as MiraCast KitKat ==b=(4.4–4.4.2)=b== ... released to commercial devices on </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>released</term>
+		<title>What is 'Android'?</title>
+		<string>well as MiraCast KitKat (4.4–4.4.2) ... ==b=released=b== to commercial devices on 22 November </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>commercial</term>
+		<title>What is 'Android'?</title>
+		<string>MiraCast KitKat (4.4–4.4.2) ... released to ==b=commercial=b== devices on 22 November 2013  </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>devices</term>
+		<title>What is 'Android'?</title>
+		<string>KitKat (4.4–4.4.2) ... released to commercial ==b=devices=b== on 22 November 2013  </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>November</term>
+		<title>What is 'Android'?</title>
+		<string>released to commercial devices on 22 ==b=November=b== 2013  </string>
+		<url>android-os.php#list</url>
+	</link>
+
+	<link>
+		<term>Android</term>
+		<title>What is 'Android'?</title>
+		<string>==b=Android=b== is a Linux-based operating system designed </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>Linuxbased</term>
+		<title>What is 'Android'?</title>
+		<string>Android is a ==b=Linux-based=b== operating system designed primarily for touchscreen </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>operating</term>
+		<title>What is 'Android'?</title>
+		<string>Android is a Linux-based ==b=operating=b== system designed primarily for touchscreen mobile </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>system</term>
+		<title>What is 'Android'?</title>
+		<string>Android is a Linux-based operating ==b=system=b== designed primarily for touchscreen mobile devices </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>designed</term>
+		<title>What is 'Android'?</title>
+		<string>Android is a Linux-based operating system ==b=designed=b== primarily for touchscreen mobile devices such </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>primarily</term>
+		<title>What is 'Android'?</title>
+		<string>is a Linux-based operating system designed ==b=primarily=b== for touchscreen mobile devices such as </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>touchscreen</term>
+		<title>What is 'Android'?</title>
+		<string>Linux-based operating system designed primarily for ==b=touchscreen=b== mobile devices such as smartphones and </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>mobile</term>
+		<title>What is 'Android'?</title>
+		<string>operating system designed primarily for touchscreen ==b=mobile=b== devices such as smartphones and tablet </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>devices</term>
+		<title>What is 'Android'?</title>
+		<string>system designed primarily for touchscreen mobile ==b=devices=b== such as smartphones and tablet computers. </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>such</term>
+		<title>What is 'Android'?</title>
+		<string>designed primarily for touchscreen mobile devices ==b=such=b== as smartphones and tablet computers. Initially </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>as</term>
+		<title>What is 'Android'?</title>
+		<string>primarily for touchscreen mobile devices such ==b=as=b== smartphones and tablet computers. Initially developed </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>smartphones</term>
+		<title>What is 'Android'?</title>
+		<string>for touchscreen mobile devices such as ==b=smartphones=b== and tablet computers. Initially developed by </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>tablet</term>
+		<title>What is 'Android'?</title>
+		<string>mobile devices such as smartphones and ==b=tablet=b== computers. Initially developed by Android, Inc., </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>computers</term>
+		<title>What is 'Android'?</title>
+		<string>devices such as smartphones and tablet ==b=computers.=b== Initially developed by Android, Inc., whom </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>Initially</term>
+		<title>What is 'Android'?</title>
+		<string>such as smartphones and tablet computers. ==b=Initially=b== developed by Android, Inc., whom Google </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>developed</term>
+		<title>What is 'Android'?</title>
+		<string>as smartphones and tablet computers. Initially ==b=developed=b== by Android, Inc., whom Google financially </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>by</term>
+		<title>What is 'Android'?</title>
+		<string>smartphones and tablet computers. Initially developed ==b=by=b== Android, Inc., whom Google financially backed </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>Android</term>
+		<title>What is 'Android'?</title>
+		<string>and tablet computers. Initially developed by ==b=Android,=b== Inc., whom Google financially backed and </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>Inc</term>
+		<title>What is 'Android'?</title>
+		<string>tablet computers. Initially developed by Android, ==b=Inc.,=b== whom Google financially backed and later </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>whom</term>
+		<title>What is 'Android'?</title>
+		<string>computers. Initially developed by Android, Inc., ==b=whom=b== Google financially backed and later purchased </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>Google</term>
+		<title>What is 'Android'?</title>
+		<string>Initially developed by Android, Inc., whom ==b=Google=b== financially backed and later purchased in </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>financially</term>
+		<title>What is 'Android'?</title>
+		<string>developed by Android, Inc., whom Google ==b=financially=b== backed and later purchased in 2005, </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>backed</term>
+		<title>What is 'Android'?</title>
+		<string>by Android, Inc., whom Google financially ==b=backed=b== and later purchased in 2005, Android </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>later</term>
+		<title>What is 'Android'?</title>
+		<string>Inc., whom Google financially backed and ==b=later=b== purchased in 2005, Android was unveiled </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>purchased</term>
+		<title>What is 'Android'?</title>
+		<string>whom Google financially backed and later ==b=purchased=b== in 2005, Android was unveiled in </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>Android</term>
+		<title>What is 'Android'?</title>
+		<string>backed and later purchased in 2005, ==b=Android=b== was unveiled in 2007.  </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>was</term>
+		<title>What is 'Android'?</title>
+		<string>and later purchased in 2005, Android ==b=was=b== unveiled in 2007.  </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>unveiled</term>
+		<title>What is 'Android'?</title>
+		<string>later purchased in 2005, Android was ==b=unveiled=b== in 2007.  </string>
+		<url>android-os.php#1</url>
+	</link>
+
+	<link>
+		<term>October</term>
+		<title>What is 'Android'?</title>
+		<string>In ==b=October=b== 2012, there were approximately 700,000 apps </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>there</term>
+		<title>What is 'Android'?</title>
+		<string>In October 2012, ==b=there=b== were approximately 700,000 apps available for </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>were</term>
+		<title>What is 'Android'?</title>
+		<string>In October 2012, there ==b=were=b== approximately 700,000 apps available for Android, </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>approximately</term>
+		<title>What is 'Android'?</title>
+		<string>In October 2012, there were ==b=approximately=b== 700,000 apps available for Android, and </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>apps</term>
+		<title>What is 'Android'?</title>
+		<string>October 2012, there were approximately 700,000 ==b=apps=b== available for Android, and the estimated </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>available</term>
+		<title>What is 'Android'?</title>
+		<string>2012, there were approximately 700,000 apps ==b=available=b== for Android, and the estimated number </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>Android</term>
+		<title>What is 'Android'?</title>
+		<string>were approximately 700,000 apps available for ==b=Android,=b== and the estimated number of applications </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>estimated</term>
+		<title>What is 'Android'?</title>
+		<string>apps available for Android, and the ==b=estimated=b== number of applications downloaded from Google </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>number</term>
+		<title>What is 'Android'?</title>
+		<string>available for Android, and the estimated ==b=number=b== of applications downloaded from Google Play, </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>applications</term>
+		<title>What is 'Android'?</title>
+		<string>Android, and the estimated number of ==b=applications=b== downloaded from Google Play, Android's primary </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>downloaded</term>
+		<title>What is 'Android'?</title>
+		<string>and the estimated number of applications ==b=downloaded=b== from Google Play, Android's primary app </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>from</term>
+		<title>What is 'Android'?</title>
+		<string>the estimated number of applications downloaded ==b=from=b== Google Play, Android's primary app store, </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>Google</term>
+		<title>What is 'Android'?</title>
+		<string>estimated number of applications downloaded from ==b=Google=b== Play, Android's primary app store, was </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>Play</term>
+		<title>What is 'Android'?</title>
+		<string>number of applications downloaded from Google ==b=Play,=b== Android's primary app store, was 25 </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>Android's</term>
+		<title>What is 'Android'?</title>
+		<string>of applications downloaded from Google Play, ==b=Android's=b== primary app store, was 25 billion. </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>primary</term>
+		<title>What is 'Android'?</title>
+		<string>applications downloaded from Google Play, Android's ==b=primary=b== app store, was 25 billion. Taken </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>app</term>
+		<title>What is 'Android'?</title>
+		<string>downloaded from Google Play, Android's primary ==b=app=b== store, was 25 billion. Taken from, </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>store</term>
+		<title>What is 'Android'?</title>
+		<string>from Google Play, Android's primary app ==b=store,=b== was 25 billion. Taken from, and </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>was</term>
+		<title>What is 'Android'?</title>
+		<string>Google Play, Android's primary app store, ==b=was=b== 25 billion. Taken from, and you </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>billion</term>
+		<title>What is 'Android'?</title>
+		<string>Android's primary app store, was 25 ==b=billion.=b== Taken from, and you can read </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>Taken</term>
+		<title>What is 'Android'?</title>
+		<string>primary app store, was 25 billion. ==b=Taken=b== from, and you can read more </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>from</term>
+		<title>What is 'Android'?</title>
+		<string>app store, was 25 billion. Taken ==b=from,=b== and you can read more on </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>read</term>
+		<title>What is 'Android'?</title>
+		<string>billion. Taken from, and you can ==b=read=b== more on the Android OS on </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>more</term>
+		<title>What is 'Android'?</title>
+		<string>Taken from, and you can read ==b=more=b== on the Android OS on wikipedia. </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>Android</term>
+		<title>What is 'Android'?</title>
+		<string>you can read more on the ==b=Android=b== OS on wikipedia. As of July </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>OS</term>
+		<title>What is 'Android'?</title>
+		<string>can read more on the Android ==b=OS=b== on wikipedia. As of July 2013, </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>wikipedia</term>
+		<title>What is 'Android'?</title>
+		<string>more on the Android OS on ==b=wikipedia.=b== As of July 2013, the Google </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>As</term>
+		<title>What is 'Android'?</title>
+		<string>on the Android OS on wikipedia. ==b=As=b== of July 2013, the Google Play </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>July</term>
+		<title>What is 'Android'?</title>
+		<string>Android OS on wikipedia. As of ==b=July=b== 2013, the Google Play store officially </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>Google</term>
+		<title>What is 'Android'?</title>
+		<string>wikipedia. As of July 2013, the ==b=Google=b== Play store officially reached over 1 </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>Play</term>
+		<title>What is 'Android'?</title>
+		<string>As of July 2013, the Google ==b=Play=b== store officially reached over 1 million </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>store</term>
+		<title>What is 'Android'?</title>
+		<string>of July 2013, the Google Play ==b=store=b== officially reached over 1 million apps </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>officially</term>
+		<title>What is 'Android'?</title>
+		<string>July 2013, the Google Play store ==b=officially=b== reached over 1 million apps published </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>reached</term>
+		<title>What is 'Android'?</title>
+		<string>2013, the Google Play store officially ==b=reached=b== over 1 million apps published and </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>over</term>
+		<title>What is 'Android'?</title>
+		<string>the Google Play store officially reached ==b=over=b== 1 million apps published and over </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>million</term>
+		<title>What is 'Android'?</title>
+		<string>Play store officially reached over 1 ==b=million=b== apps published and over 50 billion </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>apps</term>
+		<title>What is 'Android'?</title>
+		<string>store officially reached over 1 million ==b=apps=b== published and over 50 billion downloads </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>published</term>
+		<title>What is 'Android'?</title>
+		<string>officially reached over 1 million apps ==b=published=b== and over 50 billion downloads (source: </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>over</term>
+		<title>What is 'Android'?</title>
+		<string>over 1 million apps published and ==b=over=b== 50 billion downloads (source: Google Play </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>billion</term>
+		<title>What is 'Android'?</title>
+		<string>million apps published and over 50 ==b=billion=b== downloads (source: Google Play on wikipedia </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>downloads</term>
+		<title>What is 'Android'?</title>
+		<string>apps published and over 50 billion ==b=downloads=b== (source: Google Play on wikipedia ... </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>source</term>
+		<title>What is 'Android'?</title>
+		<string>published and over 50 billion downloads ==b=(source:=b== Google Play on wikipedia ... accessed </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>Google</term>
+		<title>What is 'Android'?</title>
+		<string>and over 50 billion downloads (source: ==b=Google=b== Play on wikipedia ... accessed May </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>Play</term>
+		<title>What is 'Android'?</title>
+		<string>over 50 billion downloads (source: Google ==b=Play=b== on wikipedia ... accessed May 2014) </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>wikipedia</term>
+		<title>What is 'Android'?</title>
+		<string>billion downloads (source: Google Play on ==b=wikipedia=b== ... accessed May 2014) </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>accessed</term>
+		<title>What is 'Android'?</title>
+		<string>(source: Google Play on wikipedia ... ==b=accessed=b== May 2014) </string>
+		<url>android-os.php#2</url>
+	</link>
+
+	<link>
+		<term>there</term>
+		<title>What is 'Android'?</title>
+		<string>In 2012, ==b=there=b== were 400 Million Activations of the </string>
+		<url>android-os.php#3</url>
+	</link>
+
+	<link>
+		<term>were</term>
+		<title>What is 'Android'?</title>
+		<string>In 2012, there ==b=were=b== 400 Million Activations of the Android </string>
+		<url>android-os.php#3</url>
+	</link>
+
+	<link>
+		<term>Million</term>
+		<title>What is 'Android'?</title>
+		<string>In 2012, there were 400 ==b=Million=b== Activations of the Android OS: see </string>
+		<url>android-os.php#3</url>
+	</link>
+
+	<link>
+		<term>Activations</term>
+		<title>What is 'Android'?</title>
+		<string>In 2012, there were 400 Million ==b=Activations=b== of the Android OS: see  </string>
+		<url>android-os.php#3</url>
+	</link>
+
+	<link>
+		<term>Android</term>
+		<title>What is 'Android'?</title>
+		<string>were 400 Million Activations of the ==b=Android=b== OS: see  YouTube clip...that number </string>
+		<url>android-os.php#3</url>
+	</link>
+
+	<link>
+		<term>OS</term>
+		<title>What is 'Android'?</title>
+		<string>400 Million Activations of the Android ==b=OS:=b== see  YouTube clip...that number had </string>
+		<url>android-os.php#3</url>
+	</link>
+
+	<link>
+		<term>see</term>
+		<title>What is 'Android'?</title>
+		<string>Million Activations of the Android OS: ==b=see=b==  YouTube clip...that number had risen </string>
+		<url>android-os.php#3</url>
+	</link>
+
+	<link>
+		<term>YouTube</term>
+		<title>What is 'Android'?</title>
+		<string>of the Android OS: see  ==b=YouTube=b== clip...that number had risen to 900 </string>
+		<url>android-os.php#3</url>
+	</link>
+
+	<link>
+		<term>clipthat</term>
+		<title>What is 'Android'?</title>
+		<string>the Android OS: see  YouTube ==b=clip...that=b== number had risen to 900 Million, </string>
+		<url>android-os.php#3</url>
+	</link>
+
+	<link>
+		<term>number</term>
+		<title>What is 'Android'?</title>
+		<string>Android OS: see  YouTube clip...that ==b=number=b== had risen to 900 Million, May </string>
+		<url>android-os.php#3</url>
+	</link>
+
+	<link>
+		<term>had</term>
+		<title>What is 'Android'?</title>
+		<string>OS: see  YouTube clip...that number ==b=had=b== risen to 900 Million, May 2013 </string>
+		<url>android-os.php#3</url>
+	</link>
+
+	<link>
+		<term>risen</term>
+		<title>What is 'Android'?</title>
+		<string>see  YouTube clip...that number had ==b=risen=b== to 900 Million, May 2013 (source </string>
+		<url>android-os.php#3</url>
+	</link>
+
+	<link>
+		<term>Million</term>
+		<title>What is 'Android'?</title>
+		<string>clip...that number had risen to 900 ==b=Million,=b== May 2013 (source YouTube clip...accessed May </string>
+		<url>android-os.php#3</url>
+	</link>
+
+	<link>
+		<term>source</term>
+		<title>What is 'Android'?</title>
+		<string>risen to 900 Million, May 2013 ==b=(source=b== YouTube clip...accessed May 2014) </string>
+		<url>android-os.php#3</url>
+	</link>
+
+	<link>
+		<term>YouTube</term>
+		<title>What is 'Android'?</title>
+		<string>to 900 Million, May 2013 (source ==b=YouTube=b== clip...accessed May 2014) </string>
+		<url>android-os.php#3</url>
+	</link>
+
+	<link>
+		<term>clipaccessed</term>
+		<title>What is 'Android'?</title>
+		<string>900 Million, May 2013 (source YouTube ==b=clip...accessed=b== May 2014) </string>
+		<url>android-os.php#3</url>
+	</link>
+
+	<link>
+		<term>history</term>
+		<title>What is 'Android'?</title>
+		<string>The ==b=history=b== of the Android Operating System comes </string>
+		<url>android-os.php#4</url>
+	</link>
+
+	<link>
+		<term>Android</term>
+		<title>What is 'Android'?</title>
+		<string>The history of the ==b=Android=b== Operating System comes in a number </string>
+		<url>android-os.php#4</url>
+	</link>
+
+	<link>
+		<term>Operating</term>
+		<title>What is 'Android'?</title>
+		<string>The history of the Android ==b=Operating=b== System comes in a number of </string>
+		<url>android-os.php#4</url>
+	</link>
+
+	<link>
+		<term>System</term>
+		<title>What is 'Android'?</title>
+		<string>The history of the Android Operating ==b=System=b== comes in a number of (literally!) </string>
+		<url>android-os.php#4</url>
+	</link>
+
+	<link>
+		<term>comes</term>
+		<title>What is 'Android'?</title>
+		<string>history of the Android Operating System ==b=comes=b== in a number of (literally!) flavours: </string>
+		<url>android-os.php#4</url>
+	</link>
+
+	<link>
+		<term>number</term>
+		<title>What is 'Android'?</title>
+		<string>Android Operating System comes in a ==b=number=b== of (literally!) flavours:  </string>
+		<url>android-os.php#4</url>
+	</link>
+
+	<link>
+		<term>literally</term>
+		<title>What is 'Android'?</title>
+		<string>System comes in a number of ==b=(literally!)=b== flavours:  </string>
+		<url>android-os.php#4</url>
+	</link>
+
+	<link>
+		<term>flavours</term>
+		<title>What is 'Android'?</title>
+		<string>comes in a number of (literally!) ==b=flavours:=b==  </string>
+		<url>android-os.php#4</url>
+	</link>
+
+	<link>
+		<term>Read</term>
+		<title>What is 'Android'?</title>
+		<string>==b=Read=b== the 'Tablet PC_Android 4.0_User Manual.pdf' (in </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>'Tablet</term>
+		<title>What is 'Android'?</title>
+		<string>Read the ==b='Tablet=b== PC_Android 4.0_User Manual.pdf' (in a 'Google </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>PCAndroid</term>
+		<title>What is 'Android'?</title>
+		<string>Read the 'Tablet ==b=PC_Android=b== 4.0_User Manual.pdf' (in a 'Google Doc' </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>40User</term>
+		<title>What is 'Android'?</title>
+		<string>Read the 'Tablet PC_Android ==b=4.0_User=b== Manual.pdf' (in a 'Google Doc' of </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>Manualpdf'</term>
+		<title>What is 'Android'?</title>
+		<string>Read the 'Tablet PC_Android 4.0_User ==b=Manual.pdf'=b== (in a 'Google Doc' of course!). </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>'Google</term>
+		<title>What is 'Android'?</title>
+		<string>'Tablet PC_Android 4.0_User Manual.pdf' (in a ==b='Google=b== Doc' of course!). This is a </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>Doc'</term>
+		<title>What is 'Android'?</title>
+		<string>PC_Android 4.0_User Manual.pdf' (in a 'Google ==b=Doc'=b== of course!). This is a good </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>course</term>
+		<title>What is 'Android'?</title>
+		<string>Manual.pdf' (in a 'Google Doc' of ==b=course!).=b== This is a good general starting </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>This</term>
+		<title>What is 'Android'?</title>
+		<string>(in a 'Google Doc' of course!). ==b=This=b== is a good general starting point </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>good</term>
+		<title>What is 'Android'?</title>
+		<string>Doc' of course!). This is a ==b=good=b== general starting point as later versons </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>general</term>
+		<title>What is 'Android'?</title>
+		<string>of course!). This is a good ==b=general=b== starting point as later versons of </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>starting</term>
+		<title>What is 'Android'?</title>
+		<string>course!). This is a good general ==b=starting=b== point as later versons of Android </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>point</term>
+		<title>What is 'Android'?</title>
+		<string>This is a good general starting ==b=point=b== as later versons of Android 'user </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>as</term>
+		<title>What is 'Android'?</title>
+		<string>is a good general starting point ==b=as=b== later versons of Android 'user guides'seem </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>later</term>
+		<title>What is 'Android'?</title>
+		<string>a good general starting point as ==b=later=b== versons of Android 'user guides'seem to </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>versons</term>
+		<title>What is 'Android'?</title>
+		<string>good general starting point as later ==b=versons=b== of Android 'user guides'seem to refer </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>Android</term>
+		<title>What is 'Android'?</title>
+		<string>starting point as later versons of ==b=Android=b== 'user guides'seem to refer to specific </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>'user</term>
+		<title>What is 'Android'?</title>
+		<string>point as later versons of Android ==b='user=b== guides'seem to refer to specific hardware </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>guides'seem</term>
+		<title>What is 'Android'?</title>
+		<string>as later versons of Android 'user ==b=guides'seem=b== to refer to specific hardware models. </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>refer</term>
+		<title>What is 'Android'?</title>
+		<string>versons of Android 'user guides'seem to ==b=refer=b== to specific hardware models. </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>specific</term>
+		<title>What is 'Android'?</title>
+		<string>Android 'user guides'seem to refer to ==b=specific=b== hardware models. </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>hardware</term>
+		<title>What is 'Android'?</title>
+		<string>'user guides'seem to refer to specific ==b=hardware=b== models. </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>models</term>
+		<title>What is 'Android'?</title>
+		<string>guides'seem to refer to specific hardware ==b=models.=b== </string>
+		<url>android-os.php#5</url>
+	</link>
+
+	<link>
+		<term>We</term>
+		<title>What is 'Android'?</title>
+		<string>==b=We=b== provide a series of 'How To' </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>provide</term>
+		<title>What is 'Android'?</title>
+		<string>We ==b=provide=b== a series of 'How To' video </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>series</term>
+		<title>What is 'Android'?</title>
+		<string>We provide a ==b=series=b== of 'How To' video clips below. </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>'How</term>
+		<title>What is 'Android'?</title>
+		<string>We provide a series of ==b='How=b== To' video clips below. These are </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>To'</term>
+		<title>What is 'Android'?</title>
+		<string>We provide a series of 'How ==b=To'=b== video clips below. These are best </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>video</term>
+		<title>What is 'Android'?</title>
+		<string>provide a series of 'How To' ==b=video=b== clips below. These are best used </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>clips</term>
+		<title>What is 'Android'?</title>
+		<string>a series of 'How To' video ==b=clips=b== below. These are best used on </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>below</term>
+		<title>What is 'Android'?</title>
+		<string>series of 'How To' video clips ==b=below.=b== These are best used on your </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>These</term>
+		<title>What is 'Android'?</title>
+		<string>of 'How To' video clips below. ==b=These=b== are best used on your PC, </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>are</term>
+		<title>What is 'Android'?</title>
+		<string>'How To' video clips below. These ==b=are=b== best used on your PC, in </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>best</term>
+		<title>What is 'Android'?</title>
+		<string>To' video clips below. These are ==b=best=b== used on your PC, in the </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>used</term>
+		<title>What is 'Android'?</title>
+		<string>video clips below. These are best ==b=used=b== on your PC, in the Chrome </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>your</term>
+		<title>What is 'Android'?</title>
+		<string>below. These are best used on ==b=your=b== PC, in the Chrome Browser ...while </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>PC</term>
+		<title>What is 'Android'?</title>
+		<string>These are best used on your ==b=PC,=b== in the Chrome Browser ...while watching </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>Chrome</term>
+		<title>What is 'Android'?</title>
+		<string>used on your PC, in the ==b=Chrome=b== Browser ...while watching them on your </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>Browser</term>
+		<title>What is 'Android'?</title>
+		<string>on your PC, in the Chrome ==b=Browser=b== ...while watching them on your PC </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>while</term>
+		<title>What is 'Android'?</title>
+		<string>your PC, in the Chrome Browser ==b=...while=b== watching them on your PC you </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>watching</term>
+		<title>What is 'Android'?</title>
+		<string>PC, in the Chrome Browser ...while ==b=watching=b== them on your PC you can </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>them</term>
+		<title>What is 'Android'?</title>
+		<string>in the Chrome Browser ...while watching ==b=them=b== on your PC you can then </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>your</term>
+		<title>What is 'Android'?</title>
+		<string>Chrome Browser ...while watching them on ==b=your=b== PC you can then try out </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>PC</term>
+		<title>What is 'Android'?</title>
+		<string>Browser ...while watching them on your ==b=PC=b== you can then try out the </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>then</term>
+		<title>What is 'Android'?</title>
+		<string>them on your PC you can ==b=then=b== try out the tips on your </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>try</term>
+		<title>What is 'Android'?</title>
+		<string>on your PC you can then ==b=try=b== out the tips on your Android </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>out</term>
+		<title>What is 'Android'?</title>
+		<string>your PC you can then try ==b=out=b== the tips on your Android Tablet </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>tips</term>
+		<title>What is 'Android'?</title>
+		<string>you can then try out the ==b=tips=b== on your Android Tablet </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>your</term>
+		<title>What is 'Android'?</title>
+		<string>then try out the tips on ==b=your=b== Android Tablet </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>Android</term>
+		<title>What is 'Android'?</title>
+		<string>try out the tips on your ==b=Android=b== Tablet </string>
+		<url>android-os.php#6</url>
+	</link>
+
+	<link>
+		<term>Tablet</term>
+		<title>What is 'Android'?</title>
+		<string>out the tips on your Android ==b=Tablet=b== </string>
+		<url>android-os.php#6</url>
+	</link>
+</pages>

@@ -90,11 +90,11 @@
 				<p>
 				<a class="anchor" name="pupils"></a>
 				Pupils comments:
-				<ul>
-				<li>'It is better than using copies and writing all the time'</li>
-				<li>'It’s great fun to do maths challenges on the tablet, and it saves on waste paper'</li>
-				<li>'The screens are easy to work with and the games make you want to be competitive and work faster'</li>
-				<li>'The tablets would be great to use for projects in class'</li>
+				<ul id="list">
+				<li>'It is better than using copies and writing all the time' </li>
+				<li>'It’s great fun to do maths challenges on the tablet, and it saves on waste paper' </li>
+				<li>'The screens are easy to work with and the games make you want to be competitive and work faster' </li>
+				<li>'The tablets would be great to use for projects in class' </li>
 				</ul>
 				<p>
 				Overall a 10/10 for the tablets from teacher and pupils alike. 

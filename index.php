@@ -67,8 +67,7 @@
 					
 					<div class="col-xs-12 col-md-9">
 					<p class="lead" id="1">
-					ASP seeks to investigate ways in which the Android Operating System
-					(using the Touch Tablet form factor) can impact on the classroom.
+					ASP seeks to investigate ways in which the Android Operating System (using the Touch Tablet form factor) can impact on the classroom.
 					</p>
 					
 					<p id="2">

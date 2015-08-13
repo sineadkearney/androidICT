@@ -1,0 +1,1366 @@
+<pages>
+	<link>
+		<term>should</term>
+		<title>Android Weblinks</title>
+		<string>I ==b=should=b== really call this page 'Education Weblinks' </string>
+		<url>android-weblinks.php#1</url>
+	</link>
+
+	<link>
+		<term>really</term>
+		<title>Android Weblinks</title>
+		<string>I should ==b=really=b== call this page 'Education Weblinks' but </string>
+		<url>android-weblinks.php#1</url>
+	</link>
+
+	<link>
+		<term>call</term>
+		<title>Android Weblinks</title>
+		<string>I should really ==b=call=b== this page 'Education Weblinks' but that </string>
+		<url>android-weblinks.php#1</url>
+	</link>
+
+	<link>
+		<term>this</term>
+		<title>Android Weblinks</title>
+		<string>I should really call ==b=this=b== page 'Education Weblinks' but that would </string>
+		<url>android-weblinks.php#1</url>
+	</link>
+
+	<link>
+		<term>page</term>
+		<title>Android Weblinks</title>
+		<string>I should really call this ==b=page=b== 'Education Weblinks' but that would spoil </string>
+		<url>android-weblinks.php#1</url>
+	</link>
+
+	<link>
+		<term>'Education</term>
+		<title>Android Weblinks</title>
+		<string>I should really call this page ==b='Education=b== Weblinks' but that would spoil the </string>
+		<url>android-weblinks.php#1</url>
+	</link>
+
+	<link>
+		<term>Weblinks'</term>
+		<title>Android Weblinks</title>
+		<string>should really call this page 'Education ==b=Weblinks'=b== but that would spoil the symmetry </string>
+		<url>android-weblinks.php#1</url>
+	</link>
+
+	<link>
+		<term>but</term>
+		<title>Android Weblinks</title>
+		<string>really call this page 'Education Weblinks' ==b=but=b== that would spoil the symmetry of </string>
+		<url>android-weblinks.php#1</url>
+	</link>
+
+	<link>
+		<term>would</term>
+		<title>Android Weblinks</title>
+		<string>this page 'Education Weblinks' but that ==b=would=b== spoil the symmetry of the website </string>
+		<url>android-weblinks.php#1</url>
+	</link>
+
+	<link>
+		<term>spoil</term>
+		<title>Android Weblinks</title>
+		<string>page 'Education Weblinks' but that would ==b=spoil=b== the symmetry of the website Menu! </string>
+		<url>android-weblinks.php#1</url>
+	</link>
+
+	<link>
+		<term>symmetry</term>
+		<title>Android Weblinks</title>
+		<string>Weblinks' but that would spoil the ==b=symmetry=b== of the website Menu! </string>
+		<url>android-weblinks.php#1</url>
+	</link>
+
+	<link>
+		<term>website</term>
+		<title>Android Weblinks</title>
+		<string>would spoil the symmetry of the ==b=website=b== Menu! </string>
+		<url>android-weblinks.php#1</url>
+	</link>
+
+	<link>
+		<term>Menu</term>
+		<title>Android Weblinks</title>
+		<string>spoil the symmetry of the website ==b=Menu!=b== </string>
+		<url>android-weblinks.php#1</url>
+	</link>
+
+	<link>
+		<term>Visit</term>
+		<title>Android Weblinks</title>
+		<string>==b=Visit=b== my (separate site) ict4schools.ie websites ...On </string>
+		<url>android-weblinks.php#2</url>
+	</link>
+
+	<link>
+		<term>my</term>
+		<title>Android Weblinks</title>
+		<string>Visit ==b=my=b== (separate site) ict4schools.ie websites ...On this </string>
+		<url>android-weblinks.php#2</url>
+	</link>
+
+	<link>
+		<term>separate</term>
+		<title>Android Weblinks</title>
+		<string>Visit my ==b=(separate=b== site) ict4schools.ie websites ...On this page, </string>
+		<url>android-weblinks.php#2</url>
+	</link>
+
+	<link>
+		<term>site</term>
+		<title>Android Weblinks</title>
+		<string>Visit my (separate ==b=site)=b== ict4schools.ie websites ...On this page, you </string>
+		<url>android-weblinks.php#2</url>
+	</link>
+
+	<link>
+		<term>ict4schoolsie</term>
+		<title>Android Weblinks</title>
+		<string>Visit my (separate site) ==b=ict4schools.ie=b== websites ...On this page, you will </string>
+		<url>android-weblinks.php#2</url>
+	</link>
+
+	<link>
+		<term>websites</term>
+		<title>Android Weblinks</title>
+		<string>Visit my (separate site) ict4schools.ie ==b=websites=b== ...On this page, you will find </string>
+		<url>android-weblinks.php#2</url>
+	</link>
+
+	<link>
+		<term>this</term>
+		<title>Android Weblinks</title>
+		<string>my (separate site) ict4schools.ie websites ...On ==b=this=b== page, you will find our list </string>
+		<url>android-weblinks.php#2</url>
+	</link>
+
+	<link>
+		<term>page</term>
+		<title>Android Weblinks</title>
+		<string>(separate site) ict4schools.ie websites ...On this ==b=page,=b== you will find our list of </string>
+		<url>android-weblinks.php#2</url>
+	</link>
+
+	<link>
+		<term>will</term>
+		<title>Android Weblinks</title>
+		<string>ict4schools.ie websites ...On this page, you ==b=will=b== find our list of 150 Education </string>
+		<url>android-weblinks.php#2</url>
+	</link>
+
+	<link>
+		<term>find</term>
+		<title>Android Weblinks</title>
+		<string>websites ...On this page, you will ==b=find=b== our list of 150 Education Sites. </string>
+		<url>android-weblinks.php#2</url>
+	</link>
+
+	<link>
+		<term>our</term>
+		<title>Android Weblinks</title>
+		<string>...On this page, you will find ==b=our=b== list of 150 Education Sites. </string>
+		<url>android-weblinks.php#2</url>
+	</link>
+
+	<link>
+		<term>list</term>
+		<title>Android Weblinks</title>
+		<string>this page, you will find our ==b=list=b== of 150 Education Sites. </string>
+		<url>android-weblinks.php#2</url>
+	</link>
+
+	<link>
+		<term>Education</term>
+		<title>Android Weblinks</title>
+		<string>will find our list of 150 ==b=Education=b== Sites. </string>
+		<url>android-weblinks.php#2</url>
+	</link>
+
+	<link>
+		<term>Sites</term>
+		<title>Android Weblinks</title>
+		<string>find our list of 150 Education ==b=Sites.=b== </string>
+		<url>android-weblinks.php#2</url>
+	</link>
+
+	<link>
+		<term>have</term>
+		<title>Android Weblinks</title>
+		<string>I ==b=have=b== tested these for their Flash content, </string>
+		<url>android-weblinks.php#3</url>
+	</link>
+
+	<link>
+		<term>tested</term>
+		<title>Android Weblinks</title>
+		<string>I have ==b=tested=b== these for their Flash content, as </string>
+		<url>android-weblinks.php#3</url>
+	</link>
+
+	<link>
+		<term>these</term>
+		<title>Android Weblinks</title>
+		<string>I have tested ==b=these=b== for their Flash content, as Flash </string>
+		<url>android-weblinks.php#3</url>
+	</link>
+
+	<link>
+		<term>their</term>
+		<title>Android Weblinks</title>
+		<string>I have tested these for ==b=their=b== Flash content, as Flash has been </string>
+		<url>android-weblinks.php#3</url>
+	</link>
+
+	<link>
+		<term>Flash</term>
+		<title>Android Weblinks</title>
+		<string>I have tested these for their ==b=Flash=b== content, as Flash has been a </string>
+		<url>android-weblinks.php#3</url>
+	</link>
+
+	<link>
+		<term>content</term>
+		<title>Android Weblinks</title>
+		<string>have tested these for their Flash ==b=content,=b== as Flash has been a major </string>
+		<url>android-weblinks.php#3</url>
+	</link>
+
+	<link>
+		<term>as</term>
+		<title>Android Weblinks</title>
+		<string>tested these for their Flash content, ==b=as=b== Flash has been a major tool </string>
+		<url>android-weblinks.php#3</url>
+	</link>
+
+	<link>
+		<term>Flash</term>
+		<title>Android Weblinks</title>
+		<string>these for their Flash content, as ==b=Flash=b== has been a major tool in </string>
+		<url>android-weblinks.php#3</url>
+	</link>
+
+	<link>
+		<term>has</term>
+		<title>Android Weblinks</title>
+		<string>for their Flash content, as Flash ==b=has=b== been a major tool in the </string>
+		<url>android-weblinks.php#3</url>
+	</link>
+
+	<link>
+		<term>been</term>
+		<title>Android Weblinks</title>
+		<string>their Flash content, as Flash has ==b=been=b== a major tool in the delivery </string>
+		<url>android-weblinks.php#3</url>
+	</link>
+
+	<link>
+		<term>major</term>
+		<title>Android Weblinks</title>
+		<string>content, as Flash has been a ==b=major=b== tool in the delivery of educational </string>
+		<url>android-weblinks.php#3</url>
+	</link>
+
+	<link>
+		<term>tool</term>
+		<title>Android Weblinks</title>
+		<string>as Flash has been a major ==b=tool=b== in the delivery of educational media </string>
+		<url>android-weblinks.php#3</url>
+	</link>
+
+	<link>
+		<term>delivery</term>
+		<title>Android Weblinks</title>
+		<string>been a major tool in the ==b=delivery=b== of educational media in the past. </string>
+		<url>android-weblinks.php#3</url>
+	</link>
+
+	<link>
+		<term>educational</term>
+		<title>Android Weblinks</title>
+		<string>major tool in the delivery of ==b=educational=b== media in the past.  </string>
+		<url>android-weblinks.php#3</url>
+	</link>
+
+	<link>
+		<term>media</term>
+		<title>Android Weblinks</title>
+		<string>tool in the delivery of educational ==b=media=b== in the past.  </string>
+		<url>android-weblinks.php#3</url>
+	</link>
+
+	<link>
+		<term>past</term>
+		<title>Android Weblinks</title>
+		<string>delivery of educational media in the ==b=past.=b==  </string>
+		<url>android-weblinks.php#3</url>
+	</link>
+
+	<link>
+		<term>November</term>
+		<title>Android Weblinks</title>
+		<string>On ==b=November=b== 9, 2011, Adobe announced that it </string>
+		<url>android-weblinks.php#4</url>
+	</link>
+
+	<link>
+		<term>Adobe</term>
+		<title>Android Weblinks</title>
+		<string>On November 9, 2011, ==b=Adobe=b== announced that it will no longer </string>
+		<url>android-weblinks.php#4</url>
+	</link>
+
+	<link>
+		<term>announced</term>
+		<title>Android Weblinks</title>
+		<string>On November 9, 2011, Adobe ==b=announced=b== that it will no longer develop </string>
+		<url>android-weblinks.php#4</url>
+	</link>
+
+	<link>
+		<term>will</term>
+		<title>Android Weblinks</title>
+		<string>9, 2011, Adobe announced that it ==b=will=b== no longer develop Flash for Mobile </string>
+		<url>android-weblinks.php#4</url>
+	</link>
+
+	<link>
+		<term>no</term>
+		<title>Android Weblinks</title>
+		<string>2011, Adobe announced that it will ==b=no=b== longer develop Flash for Mobile Platforms </string>
+		<url>android-weblinks.php#4</url>
+	</link>
+
+	<link>
+		<term>longer</term>
+		<title>Android Weblinks</title>
+		<string>Adobe announced that it will no ==b=longer=b== develop Flash for Mobile Platforms and </string>
+		<url>android-weblinks.php#4</url>
+	</link>
+
+	<link>
+		<term>develop</term>
+		<title>Android Weblinks</title>
+		<string>announced that it will no longer ==b=develop=b== Flash for Mobile Platforms and is </string>
+		<url>android-weblinks.php#4</url>
+	</link>
+
+	<link>
+		<term>Flash</term>
+		<title>Android Weblinks</title>
+		<string>that it will no longer develop ==b=Flash=b== for Mobile Platforms and is planning </string>
+		<url>android-weblinks.php#4</url>
+	</link>
+
+	<link>
+		<term>Mobile</term>
+		<title>Android Weblinks</title>
+		<string>will no longer develop Flash for ==b=Mobile=b== Platforms and is planning on developing </string>
+		<url>android-weblinks.php#4</url>
+	</link>
+
+	<link>
+		<term>Platforms</term>
+		<title>Android Weblinks</title>
+		<string>no longer develop Flash for Mobile ==b=Platforms=b== and is planning on developing new </string>
+		<url>android-weblinks.php#4</url>
+	</link>
+
+	<link>
+		<term>planning</term>
+		<title>Android Weblinks</title>
+		<string>Flash for Mobile Platforms and is ==b=planning=b== on developing new products with more </string>
+		<url>android-weblinks.php#4</url>
+	</link>
+
+	<link>
+		<term>developing</term>
+		<title>Android Weblinks</title>
+		<string>Mobile Platforms and is planning on ==b=developing=b== new products with more open technologies </string>
+		<url>android-weblinks.php#4</url>
+	</link>
+
+	<link>
+		<term>new</term>
+		<title>Android Weblinks</title>
+		<string>Platforms and is planning on developing ==b=new=b== products with more open technologies and </string>
+		<url>android-weblinks.php#4</url>
+	</link>
+
+	<link>
+		<term>products</term>
+		<title>Android Weblinks</title>
+		<string>and is planning on developing new ==b=products=b== with more open technologies and standards </string>
+		<url>android-weblinks.php#4</url>
+	</link>
+
+	<link>
+		<term>with</term>
+		<title>Android Weblinks</title>
+		<string>is planning on developing new products ==b=with=b== more open technologies and standards like </string>
+		<url>android-weblinks.php#4</url>
+	</link>
+
+	<link>
+		<term>more</term>
+		<title>Android Weblinks</title>
+		<string>planning on developing new products with ==b=more=b== open technologies and standards like HTML5. </string>
+		<url>android-weblinks.php#4</url>
+	</link>
+
+	<link>
+		<term>open</term>
+		<title>Android Weblinks</title>
+		<string>on developing new products with more ==b=open=b== technologies and standards like HTML5. </string>
+		<url>android-weblinks.php#4</url>
+	</link>
+
+	<link>
+		<term>technologies</term>
+		<title>Android Weblinks</title>
+		<string>developing new products with more open ==b=technologies=b== and standards like HTML5. </string>
+		<url>android-weblinks.php#4</url>
+	</link>
+
+	<link>
+		<term>standards</term>
+		<title>Android Weblinks</title>
+		<string>products with more open technologies and ==b=standards=b== like HTML5. </string>
+		<url>android-weblinks.php#4</url>
+	</link>
+
+	<link>
+		<term>like</term>
+		<title>Android Weblinks</title>
+		<string>with more open technologies and standards ==b=like=b== HTML5. </string>
+		<url>android-weblinks.php#4</url>
+	</link>
+
+	<link>
+		<term>HTML5</term>
+		<title>Android Weblinks</title>
+		<string>more open technologies and standards like ==b=HTML5.=b== </string>
+		<url>android-weblinks.php#4</url>
+	</link>
+
+	<link>
+		<term>My</term>
+		<title>Android Weblinks</title>
+		<string>==b=My=b== ict4schools.ie websites page indicates that there </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>ict4schoolsie</term>
+		<title>Android Weblinks</title>
+		<string>My ==b=ict4schools.ie=b== websites page indicates that there is </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>websites</term>
+		<title>Android Weblinks</title>
+		<string>My ict4schools.ie ==b=websites=b== page indicates that there is some </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>page</term>
+		<title>Android Weblinks</title>
+		<string>My ict4schools.ie websites ==b=page=b== indicates that there is some (but </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>indicates</term>
+		<title>Android Weblinks</title>
+		<string>My ict4schools.ie websites page ==b=indicates=b== that there is some (but definitely </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>there</term>
+		<title>Android Weblinks</title>
+		<string>My ict4schools.ie websites page indicates that ==b=there=b== is some (but definitely not rapid) </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>some</term>
+		<title>Android Weblinks</title>
+		<string>websites page indicates that there is ==b=some=b== (but definitely not rapid) movement toward </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>but</term>
+		<title>Android Weblinks</title>
+		<string>page indicates that there is some ==b=(but=b== definitely not rapid) movement toward html5 </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>definitely</term>
+		<title>Android Weblinks</title>
+		<string>indicates that there is some (but ==b=definitely=b== not rapid) movement toward html5 as </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>not</term>
+		<title>Android Weblinks</title>
+		<string>that there is some (but definitely ==b=not=b== rapid) movement toward html5 as an </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>rapid</term>
+		<title>Android Weblinks</title>
+		<string>there is some (but definitely not ==b=rapid)=b== movement toward html5 as an alternative </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>movement</term>
+		<title>Android Weblinks</title>
+		<string>is some (but definitely not rapid) ==b=movement=b== toward html5 as an alternative to </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>toward</term>
+		<title>Android Weblinks</title>
+		<string>some (but definitely not rapid) movement ==b=toward=b== html5 as an alternative to Flash. </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>html5</term>
+		<title>Android Weblinks</title>
+		<string>(but definitely not rapid) movement toward ==b=html5=b== as an alternative to Flash. However, </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>as</term>
+		<title>Android Weblinks</title>
+		<string>definitely not rapid) movement toward html5 ==b=as=b== an alternative to Flash. However, Flash </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>alternative</term>
+		<title>Android Weblinks</title>
+		<string>rapid) movement toward html5 as an ==b=alternative=b== to Flash. However, Flash is still </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>Flash</term>
+		<title>Android Weblinks</title>
+		<string>toward html5 as an alternative to ==b=Flash.=b== However, Flash is still used on </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>However</term>
+		<title>Android Weblinks</title>
+		<string>html5 as an alternative to Flash. ==b=However,=b== Flash is still used on c. </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>Flash</term>
+		<title>Android Weblinks</title>
+		<string>as an alternative to Flash. However, ==b=Flash=b== is still used on c. 50% </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>still</term>
+		<title>Android Weblinks</title>
+		<string>alternative to Flash. However, Flash is ==b=still=b== used on c. 50% of 'education </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>used</term>
+		<title>Android Weblinks</title>
+		<string>to Flash. However, Flash is still ==b=used=b== on c. 50% of 'education websites' </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>c</term>
+		<title>Android Weblinks</title>
+		<string>However, Flash is still used on ==b=c.=b== 50% of 'education websites' </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>'education</term>
+		<title>Android Weblinks</title>
+		<string>still used on c. 50% of ==b='education=b== websites' </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>websites'</term>
+		<title>Android Weblinks</title>
+		<string>used on c. 50% of 'education ==b=websites'=b== </string>
+		<url>android-weblinks.php#5</url>
+	</link>
+
+	<link>
+		<term>With</term>
+		<title>Android Weblinks</title>
+		<string>==b=With=b== the advent of Android 4.4 (and </string>
+		<url>android-weblinks.php#6</url>
+	</link>
+
+	<link>
+		<term>advent</term>
+		<title>Android Weblinks</title>
+		<string>With the ==b=advent=b== of Android 4.4 (and the movement </string>
+		<url>android-weblinks.php#6</url>
+	</link>
+
+	<link>
+		<term>Android</term>
+		<title>Android Weblinks</title>
+		<string>With the advent of ==b=Android=b== 4.4 (and the movement away from </string>
+		<url>android-weblinks.php#6</url>
+	</link>
+
+	<link>
+		<term>movement</term>
+		<title>Android Weblinks</title>
+		<string>advent of Android 4.4 (and the ==b=movement=b== away from Flash) I have tested </string>
+		<url>android-weblinks.php#6</url>
+	</link>
+
+	<link>
+		<term>away</term>
+		<title>Android Weblinks</title>
+		<string>of Android 4.4 (and the movement ==b=away=b== from Flash) I have tested a </string>
+		<url>android-weblinks.php#6</url>
+	</link>
+
+	<link>
+		<term>from</term>
+		<title>Android Weblinks</title>
+		<string>Android 4.4 (and the movement away ==b=from=b== Flash) I have tested a number </string>
+		<url>android-weblinks.php#6</url>
+	</link>
+
+	<link>
+		<term>Flash</term>
+		<title>Android Weblinks</title>
+		<string>4.4 (and the movement away from ==b=Flash)=b== I have tested a number of </string>
+		<url>android-weblinks.php#6</url>
+	</link>
+
+	<link>
+		<term>have</term>
+		<title>Android Weblinks</title>
+		<string>the movement away from Flash) I ==b=have=b== tested a number of Browsers for </string>
+		<url>android-weblinks.php#6</url>
+	</link>
+
+	<link>
+		<term>tested</term>
+		<title>Android Weblinks</title>
+		<string>movement away from Flash) I have ==b=tested=b== a number of Browsers for 'Flash </string>
+		<url>android-weblinks.php#6</url>
+	</link>
+
+	<link>
+		<term>number</term>
+		<title>Android Weblinks</title>
+		<string>from Flash) I have tested a ==b=number=b== of Browsers for 'Flash Compatibility' ...read </string>
+		<url>android-weblinks.php#6</url>
+	</link>
+
+	<link>
+		<term>Browsers</term>
+		<title>Android Weblinks</title>
+		<string>I have tested a number of ==b=Browsers=b== for 'Flash Compatibility' ...read the separate </string>
+		<url>android-weblinks.php#6</url>
+	</link>
+
+	<link>
+		<term>'Flash</term>
+		<title>Android Weblinks</title>
+		<string>tested a number of Browsers for ==b='Flash=b== Compatibility' ...read the separate document Flash </string>
+		<url>android-weblinks.php#6</url>
+	</link>
+
+	<link>
+		<term>Compatibility'</term>
+		<title>Android Weblinks</title>
+		<string>a number of Browsers for 'Flash ==b=Compatibility'=b== ...read the separate document Flash Browsers </string>
+		<url>android-weblinks.php#6</url>
+	</link>
+
+	<link>
+		<term>read</term>
+		<title>Android Weblinks</title>
+		<string>number of Browsers for 'Flash Compatibility' ==b=...read=b== the separate document Flash Browsers </string>
+		<url>android-weblinks.php#6</url>
+	</link>
+
+	<link>
+		<term>separate</term>
+		<title>Android Weblinks</title>
+		<string>Browsers for 'Flash Compatibility' ...read the ==b=separate=b== document Flash Browsers </string>
+		<url>android-weblinks.php#6</url>
+	</link>
+
+	<link>
+		<term>document</term>
+		<title>Android Weblinks</title>
+		<string>for 'Flash Compatibility' ...read the separate ==b=document=b== Flash Browsers </string>
+		<url>android-weblinks.php#6</url>
+	</link>
+
+	<link>
+		<term>Flash</term>
+		<title>Android Weblinks</title>
+		<string>'Flash Compatibility' ...read the separate document ==b=Flash=b== Browsers </string>
+		<url>android-weblinks.php#6</url>
+	</link>
+
+	<link>
+		<term>Browsers</term>
+		<title>Android Weblinks</title>
+		<string>Compatibility' ...read the separate document Flash ==b=Browsers=b== </string>
+		<url>android-weblinks.php#6</url>
+	</link>
+
+	<link>
+		<term>Tablets</term>
+		<title>Android Weblinks</title>
+		<string>For ==b=Tablets=b== running Android 4.2 or earlier, it </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>running</term>
+		<title>Android Weblinks</title>
+		<string>For Tablets ==b=running=b== Android 4.2 or earlier, it was </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>Android</term>
+		<title>Android Weblinks</title>
+		<string>For Tablets running ==b=Android=b== 4.2 or earlier, it was possible </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>earlier</term>
+		<title>Android Weblinks</title>
+		<string>For Tablets running Android 4.2 or ==b=earlier,=b== it was possible to work around </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>was</term>
+		<title>Android Weblinks</title>
+		<string>running Android 4.2 or earlier, it ==b=was=b== possible to work around the non-availability </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>possible</term>
+		<title>Android Weblinks</title>
+		<string>Android 4.2 or earlier, it was ==b=possible=b== to work around the non-availability of </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>work</term>
+		<title>Android Weblinks</title>
+		<string>or earlier, it was possible to ==b=work=b== around the non-availability of Flash:In the </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>around</term>
+		<title>Android Weblinks</title>
+		<string>earlier, it was possible to work ==b=around=b== the non-availability of Flash:In the event </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>nonavailability</term>
+		<title>Android Weblinks</title>
+		<string>was possible to work around the ==b=non-availability=b== of Flash:In the event that your </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>FlashIn</term>
+		<title>Android Weblinks</title>
+		<string>to work around the non-availability of ==b=Flash:In=b== the event that your particular Android </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>event</term>
+		<title>Android Weblinks</title>
+		<string>around the non-availability of Flash:In the ==b=event=b== that your particular Android Tablet does </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>your</term>
+		<title>Android Weblinks</title>
+		<string>non-availability of Flash:In the event that ==b=your=b== particular Android Tablet does not come </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>particular</term>
+		<title>Android Weblinks</title>
+		<string>of Flash:In the event that your ==b=particular=b== Android Tablet does not come with </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>Android</term>
+		<title>Android Weblinks</title>
+		<string>Flash:In the event that your particular ==b=Android=b== Tablet does not come with Adobe </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>Tablet</term>
+		<title>Android Weblinks</title>
+		<string>the event that your particular Android ==b=Tablet=b== does not come with Adobe Flash </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>does</term>
+		<title>Android Weblinks</title>
+		<string>event that your particular Android Tablet ==b=does=b== not come with Adobe Flash Player </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>not</term>
+		<title>Android Weblinks</title>
+		<string>that your particular Android Tablet does ==b=not=b== come with Adobe Flash Player ...and </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>come</term>
+		<title>Android Weblinks</title>
+		<string>your particular Android Tablet does not ==b=come=b== with Adobe Flash Player ...and Flash </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>with</term>
+		<title>Android Weblinks</title>
+		<string>particular Android Tablet does not come ==b=with=b== Adobe Flash Player ...and Flash Player </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>Adobe</term>
+		<title>Android Weblinks</title>
+		<string>Android Tablet does not come with ==b=Adobe=b== Flash Player ...and Flash Player for </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>Flash</term>
+		<title>Android Weblinks</title>
+		<string>Tablet does not come with Adobe ==b=Flash=b== Player ...and Flash Player for Android </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>Player</term>
+		<title>Android Weblinks</title>
+		<string>does not come with Adobe Flash ==b=Player=b== ...and Flash Player for Android is </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>Flash</term>
+		<title>Android Weblinks</title>
+		<string>come with Adobe Flash Player ...and ==b=Flash=b== Player for Android is no longer </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>Player</term>
+		<title>Android Weblinks</title>
+		<string>with Adobe Flash Player ...and Flash ==b=Player=b== for Android is no longer available </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>Android</term>
+		<title>Android Weblinks</title>
+		<string>Flash Player ...and Flash Player for ==b=Android=b== is no longer available for download </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>no</term>
+		<title>Android Weblinks</title>
+		<string>...and Flash Player for Android is ==b=no=b== longer available for download from the </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>longer</term>
+		<title>Android Weblinks</title>
+		<string>Flash Player for Android is no ==b=longer=b== available for download from the Google </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>available</term>
+		<title>Android Weblinks</title>
+		<string>Player for Android is no longer ==b=available=b== for download from the Google Play </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>download</term>
+		<title>Android Weblinks</title>
+		<string>Android is no longer available for ==b=download=b== from the Google Play app store </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>from</term>
+		<title>Android Weblinks</title>
+		<string>is no longer available for download ==b=from=b== the Google Play app store ...Android </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>Google</term>
+		<title>Android Weblinks</title>
+		<string>longer available for download from the ==b=Google=b== Play app store ...Android users can </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>Play</term>
+		<title>Android Weblinks</title>
+		<string>available for download from the Google ==b=Play=b== app store ...Android users can still </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>app</term>
+		<title>Android Weblinks</title>
+		<string>for download from the Google Play ==b=app=b== store ...Android users can still download </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>store</term>
+		<title>Android Weblinks</title>
+		<string>download from the Google Play app ==b=store=b== ...Android users can still download and </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>Android</term>
+		<title>Android Weblinks</title>
+		<string>from the Google Play app store ==b=...Android=b== users can still download and install </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>users</term>
+		<title>Android Weblinks</title>
+		<string>the Google Play app store ...Android ==b=users=b== can still download and install Flash </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>still</term>
+		<title>Android Weblinks</title>
+		<string>Play app store ...Android users can ==b=still=b== download and install Flash Player from </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>download</term>
+		<title>Android Weblinks</title>
+		<string>app store ...Android users can still ==b=download=b== and install Flash Player from the </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>install</term>
+		<title>Android Weblinks</title>
+		<string>...Android users can still download and ==b=install=b== Flash Player from the Archived Flash </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>Flash</term>
+		<title>Android Weblinks</title>
+		<string>users can still download and install ==b=Flash=b== Player from the Archived Flash Player </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>Player</term>
+		<title>Android Weblinks</title>
+		<string>can still download and install Flash ==b=Player=b== from the Archived Flash Player Versions </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>from</term>
+		<title>Android Weblinks</title>
+		<string>still download and install Flash Player ==b=from=b== the Archived Flash Player Versions page </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>Archived</term>
+		<title>Android Weblinks</title>
+		<string>and install Flash Player from the ==b=Archived=b== Flash Player Versions page on the </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>Flash</term>
+		<title>Android Weblinks</title>
+		<string>install Flash Player from the Archived ==b=Flash=b== Player Versions page on the Adobe </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>Player</term>
+		<title>Android Weblinks</title>
+		<string>Flash Player from the Archived Flash ==b=Player=b== Versions page on the Adobe website. </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>Versions</term>
+		<title>Android Weblinks</title>
+		<string>Player from the Archived Flash Player ==b=Versions=b== page on the Adobe website.  </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>page</term>
+		<title>Android Weblinks</title>
+		<string>from the Archived Flash Player Versions ==b=page=b== on the Adobe website.  To </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>Adobe</term>
+		<title>Android Weblinks</title>
+		<string>Flash Player Versions page on the ==b=Adobe=b== website.  To do so, please </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>website</term>
+		<title>Android Weblinks</title>
+		<string>Player Versions page on the Adobe ==b=website.=b==  To do so, please visit </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>do</term>
+		<title>Android Weblinks</title>
+		<string>on the Adobe website.  To ==b=do=b== so, please visit the Adobe Forumwhere </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>so</term>
+		<title>Android Weblinks</title>
+		<string>the Adobe website.  To do ==b=so,=b== please visit the Adobe Forumwhere there </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>please</term>
+		<title>Android Weblinks</title>
+		<string>Adobe website.  To do so, ==b=please=b== visit the Adobe Forumwhere there are </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>visit</term>
+		<title>Android Weblinks</title>
+		<string>website.  To do so, please ==b=visit=b== the Adobe Forumwhere there are instructions </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>Adobe</term>
+		<title>Android Weblinks</title>
+		<string>To do so, please visit the ==b=Adobe=b== Forumwhere there are instructions and a </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>Forumwhere</term>
+		<title>Android Weblinks</title>
+		<string>do so, please visit the Adobe ==b=Forumwhere=b== there are instructions and a video </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>there</term>
+		<title>Android Weblinks</title>
+		<string>so, please visit the Adobe Forumwhere ==b=there=b== are instructions and a video from </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>are</term>
+		<title>Android Weblinks</title>
+		<string>please visit the Adobe Forumwhere there ==b=are=b== instructions and a video from Adobe. </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>instructions</term>
+		<title>Android Weblinks</title>
+		<string>visit the Adobe Forumwhere there are ==b=instructions=b== and a video from Adobe. </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>video</term>
+		<title>Android Weblinks</title>
+		<string>Forumwhere there are instructions and a ==b=video=b== from Adobe. </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>from</term>
+		<title>Android Weblinks</title>
+		<string>there are instructions and a video ==b=from=b== Adobe. </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>Adobe</term>
+		<title>Android Weblinks</title>
+		<string>are instructions and a video from ==b=Adobe.=b== </string>
+		<url>android-weblinks.php#7</url>
+	</link>
+
+	<link>
+		<term>would</term>
+		<title>Android Weblinks</title>
+		<string>I ==b=would=b== add the advice that, when installed, </string>
+		<url>android-weblinks.php#8</url>
+	</link>
+
+	<link>
+		<term>add</term>
+		<title>Android Weblinks</title>
+		<string>I would ==b=add=b== the advice that, when installed, you </string>
+		<url>android-weblinks.php#8</url>
+	</link>
+
+	<link>
+		<term>advice</term>
+		<title>Android Weblinks</title>
+		<string>I would add the ==b=advice=b== that, when installed, you may want </string>
+		<url>android-weblinks.php#8</url>
+	</link>
+
+	<link>
+		<term>when</term>
+		<title>Android Weblinks</title>
+		<string>I would add the advice that, ==b=when=b== installed, you may want to uncheck </string>
+		<url>android-weblinks.php#8</url>
+	</link>
+
+	<link>
+		<term>installed</term>
+		<title>Android Weblinks</title>
+		<string>would add the advice that, when ==b=installed,=b== you may want to uncheck the </string>
+		<url>android-weblinks.php#8</url>
+	</link>
+
+	<link>
+		<term>want</term>
+		<title>Android Weblinks</title>
+		<string>advice that, when installed, you may ==b=want=b== to uncheck the “Unknown sources” option </string>
+		<url>android-weblinks.php#8</url>
+	</link>
+
+	<link>
+		<term>uncheck</term>
+		<title>Android Weblinks</title>
+		<string>when installed, you may want to ==b=uncheck=b== the “Unknown sources” option once again </string>
+		<url>android-weblinks.php#8</url>
+	</link>
+
+	<link>
+		<term>“Unknown</term>
+		<title>Android Weblinks</title>
+		<string>you may want to uncheck the ==b=“Unknown=b== sources” option once again to keep </string>
+		<url>android-weblinks.php#8</url>
+	</link>
+
+	<link>
+		<term>sources”</term>
+		<title>Android Weblinks</title>
+		<string>may want to uncheck the “Unknown ==b=sources”=b== option once again to keep your </string>
+		<url>android-weblinks.php#8</url>
+	</link>
+
+	<link>
+		<term>option</term>
+		<title>Android Weblinks</title>
+		<string>want to uncheck the “Unknown sources” ==b=option=b== once again to keep your phone </string>
+		<url>android-weblinks.php#8</url>
+	</link>
+
+	<link>
+		<term>once</term>
+		<title>Android Weblinks</title>
+		<string>to uncheck the “Unknown sources” option ==b=once=b== again to keep your phone or </string>
+		<url>android-weblinks.php#8</url>
+	</link>
+
+	<link>
+		<term>again</term>
+		<title>Android Weblinks</title>
+		<string>uncheck the “Unknown sources” option once ==b=again=b== to keep your phone or tablet </string>
+		<url>android-weblinks.php#8</url>
+	</link>
+
+	<link>
+		<term>keep</term>
+		<title>Android Weblinks</title>
+		<string>“Unknown sources” option once again to ==b=keep=b== your phone or tablet secure. </string>
+		<url>android-weblinks.php#8</url>
+	</link>
+
+	<link>
+		<term>your</term>
+		<title>Android Weblinks</title>
+		<string>sources” option once again to keep ==b=your=b== phone or tablet secure. </string>
+		<url>android-weblinks.php#8</url>
+	</link>
+
+	<link>
+		<term>phone</term>
+		<title>Android Weblinks</title>
+		<string>option once again to keep your ==b=phone=b== or tablet secure. </string>
+		<url>android-weblinks.php#8</url>
+	</link>
+
+	<link>
+		<term>tablet</term>
+		<title>Android Weblinks</title>
+		<string>again to keep your phone or ==b=tablet=b== secure. </string>
+		<url>android-weblinks.php#8</url>
+	</link>
+
+	<link>
+		<term>secure</term>
+		<title>Android Weblinks</title>
+		<string>to keep your phone or tablet ==b=secure.=b== </string>
+		<url>android-weblinks.php#8</url>
+	</link>
+
+	<link>
+		<term>have</term>
+		<title>Android Weblinks</title>
+		<string>I ==b=have=b== tested this solution - with success </string>
+		<url>android-weblinks.php#9</url>
+	</link>
+
+	<link>
+		<term>tested</term>
+		<title>Android Weblinks</title>
+		<string>I have ==b=tested=b== this solution - with success - </string>
+		<url>android-weblinks.php#9</url>
+	</link>
+
+	<link>
+		<term>this</term>
+		<title>Android Weblinks</title>
+		<string>I have tested ==b=this=b== solution - with success - on </string>
+		<url>android-weblinks.php#9</url>
+	</link>
+
+	<link>
+		<term>solution</term>
+		<title>Android Weblinks</title>
+		<string>I have tested this ==b=solution=b== - with success - on our </string>
+		<url>android-weblinks.php#9</url>
+	</link>
+
+	<link>
+		<term>with</term>
+		<title>Android Weblinks</title>
+		<string>I have tested this solution - ==b=with=b== success - on our Android 4.1 </string>
+		<url>android-weblinks.php#9</url>
+	</link>
+
+	<link>
+		<term>success</term>
+		<title>Android Weblinks</title>
+		<string>have tested this solution - with ==b=success=b== - on our Android 4.1 Jelly </string>
+		<url>android-weblinks.php#9</url>
+	</link>
+
+	<link>
+		<term>our</term>
+		<title>Android Weblinks</title>
+		<string>solution - with success - on ==b=our=b== Android 4.1 Jelly Bean tablet :-) </string>
+		<url>android-weblinks.php#9</url>
+	</link>
+
+	<link>
+		<term>Android</term>
+		<title>Android Weblinks</title>
+		<string>- with success - on our ==b=Android=b== 4.1 Jelly Bean tablet :-) </string>
+		<url>android-weblinks.php#9</url>
+	</link>
+
+	<link>
+		<term>Jelly</term>
+		<title>Android Weblinks</title>
+		<string>success - on our Android 4.1 ==b=Jelly=b== Bean tablet :-) </string>
+		<url>android-weblinks.php#9</url>
+	</link>
+
+	<link>
+		<term>Bean</term>
+		<title>Android Weblinks</title>
+		<string>- on our Android 4.1 Jelly ==b=Bean=b== tablet :-) </string>
+		<url>android-weblinks.php#9</url>
+	</link>
+
+	<link>
+		<term>tablet</term>
+		<title>Android Weblinks</title>
+		<string>on our Android 4.1 Jelly Bean ==b=tablet=b== :-) </string>
+		<url>android-weblinks.php#9</url>
+	</link>
+</pages>

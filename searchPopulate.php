@@ -62,23 +62,13 @@ function readTextFile(file)
         {
             if(rawFile.status === 200 || rawFile.status == 0)
             {
-                var allText = rawFile.responseText;
-				//document.getElementById("search-results").innerHTML = allText;
-               // console.log(allText);
-				
-				
 				var el = document.createElement( 'test' );
-				console.log(el);
-				el.innerHTML = allText;
+				el.innerHTML = rawFile.responseText;
 				
 				var title = el.getElementsByClassName("page-header");
 				title = title[0]; //the above returns an array. Assume that if there is more than one header, we only want the first
 				title = title.innerHTML;
 
-				//var content = el.getElementById( 'page-wrapper' );
-				//console.log(el.children[17]);
-				//console.log(el.firstElementChild);
-				
 				var pageWrapper = "";
 				for (var i = 0; i < el.children.length; i++)
 				{
@@ -87,9 +77,24 @@ function readTextFile(file)
 						pageWrapper = el.children[i].children[1];
 					}
 				}
-				console.log(pageWrapper);
 				
-				//add all h4 entries
+				//add all lists with IDs
+				var allUltags = pageWrapper.getElementsByTagName( 'ul' );
+				for (var i = 0; i < allUltags.length; i++)
+				{
+					var id = allUltags[i].id;
+					if (id != "")
+					{
+						var content = allUltags[i].innerHTML;
+						var arr = SplitStringIntoArray(content);
+						// console.log(arr);
+						
+						var wordAmountEitherSide = 6;
+						AddParagrphContentToXml(arr, wordAmountEitherSide, title, id);
+					}
+				}
+				
+				//add all h4 entries with IDs
 				var allH4tags = pageWrapper.getElementsByTagName( 'h4' );
 				for (var i = 0; i < allH4tags.length; i++)
 				{
@@ -116,10 +121,13 @@ function readTextFile(file)
 						console.log("id: " + id);
 						var linkTitle = id.replace(/_/g, " "); //replace all underscores with spaces
 						linkTitle = RemoveSpecialChars(linkTitle);
-						console.log(linkTitle);
+						console.log("linkTitle: " + linkTitle);
 						
-						resultString = GenerateXmlEntry(linkTitle, title, linkTitle, id); //(word, title, string, url)
-						xmlString += resultString + "\n";
+						if (CheckIfWordIsValid(linkTitle))
+						{
+							resultString = GenerateXmlEntry(linkTitle, title, linkTitle, id); //(word, title, string, url)
+							xmlString += resultString + "\n";
+						}
 					}
 					else //it's a normal paragraph
 					{
@@ -148,10 +156,9 @@ function readTextFile(file)
 					console.log("id: " + id);
 					var linkTitle = id.replace(/_/g, " "); //replace all underscores with spaces
 					linkTitle = RemoveSpecialChars(linkTitle);
-					console.log(linkTitle);
+					// console.log("linkTitle: " + linkTitle);
 					
 					var dataContent = allPopPverIcons[i].attributes['data-content'];
-					//console.log(dataContent);
 					dataContent = dataContent.value;
 					if (dataContent.indexOf("Description:") != -1) //if it contains "Description:"
 					{
@@ -160,13 +167,14 @@ function readTextFile(file)
 						dataContent = dataContent.substr(dataContent.indexOf('</strong>')+9);
 						var desc = dataContent.substr(0, dataContent.indexOf('</p>'));
 						desc = RemoveSpecialChars(desc);
-						console.log(desc);
+						// console.log(desc);
 						
 						var descArr = desc.split(' '); //turn the string into an array, where each element is a word (seperated by ' ');
 						var wordAmountEitherSide = 6;
 						for (var n = 0; n < descArr.length; n++)
 						{
 							var word = descArr[n];
+							
 							if (CheckIfWordIsValid(word))
 							{
 								var resultString = "";
@@ -189,7 +197,6 @@ function readTextFile(file)
 									
 								//remove all puncutation from the word
 								word = word.replace(/[.,-\/#!$%\^&\*;:{}=\-_`~()?]/g,"")
-								
 								resultString = GenerateXmlEntry(word, linkTitle, resultString, id);
 								xmlString += resultString + "\n";
 							}
@@ -197,15 +204,16 @@ function readTextFile(file)
 					}
 				}
 				
-				xmlString += "</pages>";
+				// xmlString += "</pages>";
+				// console.log(xmlString);
 				
 				// save xml string to links.xml
-				var data = new FormData();
-				data.append("data" , xmlString);
-				var xhr = (window.XMLHttpRequest) ? new XMLHttpRequest() : new activeXObject("Microsoft.XMLHTTP");
-				xhr.open( 'post', 'saveToFile.php', true );
-				xhr.send(data);
-				console.log("sent");
+				// var data = new FormData();
+				// data.append("data" , xmlString);
+				// var xhr = (window.XMLHttpRequest) ? new XMLHttpRequest() : new activeXObject("Microsoft.XMLHTTP");
+				// xhr.open( 'post', 'saveToFile.php', true );
+				// xhr.send(data);
+				// console.log("sent");
 
             }
         }
@@ -261,7 +269,7 @@ function AddParagrphContentToXml(arr, wordAmountEitherSide, linkTitle, id)
 					resultString += arr[k] + ' ';
 			}
 						
-			//remove all puncutation from the word
+			//remove all punctuation from the word
 			word = word.replace(/[.,-\/#!$%\^&\*;:{}=\-_`~()?]/g,"")
 								
 			resultString = GenerateXmlEntry(word, linkTitle, resultString, id);
@@ -271,15 +279,22 @@ function AddParagrphContentToXml(arr, wordAmountEitherSide, linkTitle, id)
 }
 
 //return false if the word is one of the words that we are ignoring
-var ignoreTheseWords = ['a', 'the', 'of', 'is', 'an', 'and', '', 'in', 'or', 'to', '...', '-', '--', '.....', 'q.', 'a.', ':-)', ':-(', '*', ')', '('];
+// var ignoreTheseWords = ['a', 'the', 'of', 'is', 'an', 'and', '', 'in', 'or', 'to', '...', '-', '--', '.....', 'q.', 'a.', ':-)', ':-(', '*', ')', '('];
+var ignoreTheseWords = ['a', 'the', 'of', 'is', 'an', 'and', '', 'in', 'or', 'to', 'q', 'i', 'you', 'be', 'can', 'on', 'it', 'that', 'which', 'may', 'for'];
 //TODO: all puncutation should be ignored, without having to check ignoreTheseWords
 function CheckIfWordIsValid(word)
 {
-	for (var i = 0; i < ignoreTheseWords.length; i++)
-	{
-		if (word.toLowerCase() == ignoreTheseWords[i])
-			return false;
-	}
+	word = word.replace(/[.,-\/#!$%\^&\*;:{}=\-_`~()?€£$]/g,"") //remove all punctuation from the word
+	
+	if (!isNaN(word) || word == '' || word == " ") //if the word IS a number.
+		return false; //only add words that are not numbers (eg, '100' will return false, but 'hundred' will be true)
+
+		for (var i = 0; i < ignoreTheseWords.length; i++)
+		{
+			if (word.toLowerCase() == ignoreTheseWords[i])
+				return false;
+		}
+
 	return true;
 }
 
@@ -307,26 +322,45 @@ function GenerateXmlEntry(word, title, string, url)
 // var fileName = "index.php";
 // var fileName = "contact.php";
 // var fileName = "android-classroom.php";
-// var fileName = "android-os.php"; //TODO: support lists
+// var fileName = "android-os.php";
 // var fileName = "android-research.php";
 // var fileName = "android-support.php"; 
-// var fileName = "android-testimonials.php"; //TODO: support lists
+// var fileName = "android-testimonials.php";
 // var fileName = "android-weblinks.php";
 // var fileName = "apps-postprimary.php";
 // var fileName = "apps-primary.php";
 // var fileName = "apps-sen.php";
-var fileName = "apps-teacher.php";
+// var fileName = "apps-teacher.php";
+// var fileName = "apps-technical.php";
 
 //to check
 // var fileName = "android-hardware.php";
+var fileName = "";
 $( document ).ready(function() {
 
+	var files = ["index.php", "contact.php", "android-classroom.php", "android-os.php", "android-research.php", "android-support.php", 
+	"android-testimonials.php", "android-weblinks.php", "apps-personal.php", "apps-postprimary.php", "apps-primary.php", "apps-sen.php", 
+	"apps-teacher.php", "apps-technical.php"];
 	
-	var text = readTextFile(fileName);
+	for (var i = 0; i < files.length; i++)
+	{
+		xmlString = "<pages>";
 	
-
 	
-	//document.getElementById("search-results").innerHTML = text;
+		fileName = files[i];
+		console.log(fileName);
+		readTextFile(fileName);
+		
+		xmlString += "</pages>";
+	
+		// save xml string to links<i>.xml
+		var data = new FormData();
+		data.append("data" , xmlString);
+		var xhr = (window.XMLHttpRequest) ? new XMLHttpRequest() : new activeXObject("Microsoft.XMLHTTP");
+		xhr.open( 'post', 'saveToFile.php?q='+i, true );
+		xhr.send(data);
+	
+	}
 });
 	</script>
 </head>

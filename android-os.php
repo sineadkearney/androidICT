@@ -80,7 +80,7 @@
 				</p>
 				<p id="4">
 				The history of the Android Operating System comes in a number of (literally!) flavours: 
-				<ul>
+				<ul id="list">
 				<li>Cupcake (1.5) 
 				</li>
 				<li>Doughnut (1.6) 

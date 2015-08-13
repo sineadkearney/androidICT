@@ -61,7 +61,7 @@
                     
 					<h3 class="page-header">Apps for Technical Use</h3>
 				
-				<p class="lead">
+				<p id="1" class="lead">
 				The emphasis in this Resource is on Free Apps that can be used by the Teacher in a more Technical Role (or can be used by a supporting 
 				Tech. Company)</p>
 
@@ -99,7 +99,7 @@
 				<p>Allows you to, for example, take a Screenshot onto your PC of the work done by your Student/Tablet</i></p>
 				<p><strong>Advertising:</strong> Needs Wifi</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.sand.airdroid' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="AirDroid">
 				<img  class="centered" src="images/technical/AirDroid.JPG">
 					<p class="text-center">AirDroid</p>
 				</div>
@@ -111,7 +111,7 @@
 				App then brings you into the afore-mentined Settings. With the App (and Settings) you can always move the individual apps back into main 
 				(SD Card) memory.</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.a0soft.gphone.app2sd&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="App_2_CD">
 				<img  class="centered" src="images/technical/App2CD.JPG">
 					<p class="text-center">App 2 CD</p>
 				</div>
@@ -124,7 +124,7 @@
 				<p><i>Very useful way to lock prevent access to Settings (including Camera) and to Play Store. Well worth considering as one of your initial 
 				installations (although 'profiles' in Android 4.2 may address some Policy issues)</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.domobile.applock' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="AppLock">
 				<img  class="centered" src="images/technical/AppLock.JPG">
 					<p class="text-center">AppLock</p>
 				</div>	
@@ -137,7 +137,7 @@
 				distances and areas of interest and share maps with others.</p>
 				<p><strong>Advertising:</strong> <i>Need to be online when viewing Maps</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.esri.android.client&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="ArcGis">
 				<img  class="centered" src="images/technical/ArcGisT.JPG">
 					<p class="text-center">ArcGis</p>
 				</div>
@@ -151,7 +151,7 @@
 				<li>In some browsers and file managers you will be able to move quickly to the process of unpacking.</li>
 				<li>Can create simple or encrypted ZIP archives</li></ol></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.ais.archidroid' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="ArchiDroid_Archive_Manager">
 				<img  class="centered" src="images/technical/Archidroid.png">
 					<p class="text-center">ArchiDroid Archive Manager</p>
 				</div>
@@ -163,7 +163,7 @@
 				from harmful viruses, malware, spyware and text messages and helps keep your personal data safe.</p>
 				<p><i>Option to upgrade to Pro version for €7.50</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=org.antivirus.tablet&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="AVG_Anti-Virus">
 				<img  class="centered" src="images/technical/AVG_bwh67308.JPG">
 					<p class="text-center">AVG Anti-Virus</p>
 				</div>
@@ -179,7 +179,7 @@
 				<p><strong>Link:</strong> On your PC, installl from<a href='http://bluestacks.com/ ' target='_blank'>
 				bluestacks.com</a></p>
 				<p>Optionally, you can also install on your Android 'Cloud Connect' from the <a href='https://play.google.com/store/apps/details?id=com.bluestacks.appsyncer&hl=en' target='_blank'>
-				Google Play Store</a> in order to run (sync) your Android Installed Apps on your PC</p>">
+				Google Play Store</a> in order to run (sync) your Android Installed Apps on your PC</p>" id="BlueStacks">
 				<img  class="centered" src="images/technical/BlueStacks.JPG">
 					<p class="text-center">BlueStacks</p>
 				</div>	
@@ -188,7 +188,7 @@
 				data-content="
 				<p><strong>Description:</strong> Move your files between Tablets and/or PC</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=it.medieval.blueftp&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Bluetooth_File_Transfer">
 				<img  class="centered" src="images/technical/BlueToothFile.JPG">
 					<p class="text-center">Bluetooth File Transfer</p>
 				</div>
@@ -197,7 +197,7 @@
 				data-content="
 				<p><strong>Description:</strong> <i>Works well ...as an alternative to the Android 'Browser'</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.android.chrome&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Chrome">
 				<img  class="centered" src="images/technical/Chrome.JPG">
 					<p class="text-center">Chrome</p>
 				</div>	
@@ -207,7 +207,7 @@
 				<p><strong>Description:</strong> From Google: On each of your computers, set up remote access using the 
 				<a href='https://chrome.google.com/remotedesktop'>Chrome Remote Desktop app</a> from Chrome Web Store  ...and then control via this app</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.google.chromeremotedesktop' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Chrome_Remote_Desktop">
 				<img  class="centered" src="images/technical/ChromeRemote.JPG">
 					<p class="text-center">Chrome Remote Desktop</p>
 				</div>
@@ -217,7 +217,7 @@
 				<p><strong>Description:</strong> Dolphin for Tablets. <i>Another 'Browser' alternative. It has Voice Input to open a particular site 
 				directly (if recognised ...'Irish Times') or a Google Search listing (...'Irish Independent')</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=mobi.mgeek.TunnyBrowser' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Dolphin_Pad">
 				<img  class="centered" src="images/technical/DolphinPad.JPG">
 					<p class="text-center">Dolphin Pad</p>
 				</div>
@@ -232,7 +232,7 @@
 				<p>Note: you could also use TeamViewer (below) or 'android-vnc-viewer' to see the Desktop but without a 'capture' feature</i></p>
 				<p><strong>Advertising:</strong> Needs Wifi</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=air.com.kenavision.app001' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="EduCam_Classroom_Viewer">
 				<img  class="centered" src="images/technical/EduCam.JPG">
 					<p class="text-center">EduCam Classroom Viewer</p>
 				</div>
@@ -243,7 +243,7 @@
 				such as Archiving and Extracting</i></p>
 				<p><strong>Advertising:</strong> <i></i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.estrongs.android.pop' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="ES_File_Manager">
 				<img  class="centered" src="images/technical/ESfile.JPG">
 					<p class="text-center">ES File Manager</p>
 				</div>
@@ -255,7 +255,7 @@
 				you will have to reset your Desktop Wallpaper as Espier creates the iOS 'bubble' one. <strong>Note:</strong> some alterations in the App 
 				due to possible copyright infringements!</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=mobi.espier.launcheri' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Espier_Studio">
 				<img  class="centered" src="images/technical/EspierIOS.png">
 					<p class="text-center">Espier Studio</p>
 				</div>	
@@ -267,7 +267,7 @@
 				are the right way around. Desktop connects/sees in a Browser Window via a given IP Address</i></p>
 				<p><strong>Advertising:</strong> <i>Needs Wifi</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="IP_Webcam">
 				<img  class="centered" src="images/technical/IPwebcam.JPG">
 					<p class="text-center">IP Webcam</p>
 				</div>
@@ -281,7 +281,7 @@
 				<p><strong>Link:</strong> Free Student App: <a href='https://play.google.com/store/apps/details?id=com.lanschool.student&feature=nav_result#?t=W251bGwsMSwyLDNd' target='_blank'>
 				Google Play Store</a></p>
 				<p>Free Teacher Version: <a href='http://www.lanschool.com/lanschool_lite/download' target='_blank'>
-				lanschool.com</a></p>">
+				lanschool.com</a></p>" id="LanSchool">
 				<img  class="centered" src="images/technical/LanSchool.JPG">
 					<p class="text-center">LanSchool</p>
 				</div>
@@ -294,7 +294,7 @@
 				<a href='http://meraki.cisco.com/'>meraki.cisco.com</a></i></p>
 				<p><strong>Advertising:</strong> Defintely needs Wifi!</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.meraki.sm' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Meraki">
 				<img  class="centered" src="images/technical/Meraki.png">
 					<p class="text-center">Meraki</p>
 				</div>
@@ -304,7 +304,7 @@
 				<p><strong>Description:</strong> <i>MX Player: for playing a number of formats of downloaded video. Useful, for example, for SolidWorks 
 				AVIs …these latter don’t seem to play in the pre-installed 2160P VideoPlayer</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="MX_Player">
 				<img  class="centered" src="images/technical/MXPlayer.JPG">
 					<p class="text-center">MX Player</p>
 				</div>
@@ -316,7 +316,7 @@
 				one, via Long Press - Properties, to 'copy fullpath' which does help). This 'open' in browser' function is useful, for example, if you 
 				want to open a 'geogebra html export' app</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=ru.gelin.android.browser.open&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Open_in_Broswer">
 				<img  class="centered" src="images/technical/OpenInBrowser.png">
 					<p class="text-center">Open in Broswer</p>
 				</div>
@@ -327,7 +327,7 @@
 				<p><strong>Description:</strong> <i>Print via Wifi, Bletooth, USB or Remotely. Some Printer brands have their own specific apps. Also, 
 				Google's CloudPrint is an option. In addition, you might want to try this PrinterShare App (9.95 to upgrade to the Premium version)</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.dynamixsoftware.printershare' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="PrinterShare">
 				<img  class="centered" src="images/technical/PrinterShare.png">
 					<p class="text-center">PrinterShare</p>
 				</div>
@@ -338,7 +338,7 @@
 				...although some experimentation needed to get the Pointer in the right place!</i></p>
 				<p><strong>Advertising:</strong> Needs Wifi</p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile&hl=en' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="TeamViewer">
 				<img  class="centered" src="images/technical/TeamView.JPG">
 					<p class="text-center">TeamViewer</p>
 				</div>
@@ -348,7 +348,7 @@
 				<p><strong>Description:</strong> <i>A handy toggle switch to have on your Home Screen ...so that you can switch Wifi on/off without 
 				having to go into Settings</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=com.hs.wifionoff' target='_blank'>
-				Google Play Store</a></p>">
+				Google Play Store</a></p>" id="Wifi_On_or_Off">
 				<img  class="centered" src="images/technical/WifiOnOff.JPG">
 					<p class="text-center">Wifi On/Off</p>
 				</div>	
@@ -357,7 +357,7 @@
 				data-content="
 				<p><strong>Description:</strong> <i>I have tested quite a number of Browsers to see which one would offer continued access to Flash content</i></p>
 				<p><strong>Link:</strong> <a href='http://android.ict4schools.ie/FlashBrowsers.html' target='_blank'>
-				Flash Browsers</a></p>">
+				Flash Browsers</a></p>" id="Flash">
 				<img  class="centered" src="images/technical/Flash.JPG">
 					<p class="text-center">Flash</p>
 				</div>	

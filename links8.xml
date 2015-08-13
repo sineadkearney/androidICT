@@ -133,23 +133,9 @@
 	</link>
 
 	<link>
-		<term>on</term>
-		<title>Apps for Personal Use</title>
-		<string>The emphasis in this page is ==b=on=b== Apps for use by a Teacher </string>
-		<url>apps-personal.php#1</url>
-	</link>
-
-	<link>
 		<term>Apps</term>
 		<title>Apps for Personal Use</title>
 		<string>emphasis in this page is on ==b=Apps=b== for use by a Teacher or </string>
-		<url>apps-personal.php#1</url>
-	</link>
-
-	<link>
-		<term>for</term>
-		<title>Apps for Personal Use</title>
-		<string>in this page is on Apps ==b=for=b== use by a Teacher or Other </string>
 		<url>apps-personal.php#1</url>
 	</link>
 
@@ -273,13 +259,6 @@
 	</link>
 
 	<link>
-		<term>that</term>
-		<title>Apps for Personal Use</title>
-		<string>will help to support our view ==b=that=b== Android is a perfectly acceptable alternative </string>
-		<url>apps-personal.php#2</url>
-	</link>
-
-	<link>
 		<term>Android</term>
 		<title>Apps for Personal Use</title>
 		<string>help to support our view that ==b=Android=b== is a perfectly acceptable alternative to </string>
@@ -339,13 +318,6 @@
 		<term>Click</term>
 		<title>Apps for Personal Use</title>
 		<string>==b=Click=b== on any icon below to see </string>
-		<url>apps-personal.php#3</url>
-	</link>
-
-	<link>
-		<term>on</term>
-		<title>Apps for Personal Use</title>
-		<string>Click ==b=on=b== any icon below to see a </string>
 		<url>apps-personal.php#3</url>
 	</link>
 
@@ -427,27 +399,6 @@
 	</link>
 
 	<link>
-		<term>for</term>
-		<title>Apps for Personal Use</title>
-		<string>to the (usually) Google Play Store ==b=(for=b== which you will have previously registered </string>
-		<url>apps-personal.php#3</url>
-	</link>
-
-	<link>
-		<term>which</term>
-		<title>Apps for Personal Use</title>
-		<string>the (usually) Google Play Store (for ==b=which=b== you will have previously registered an </string>
-		<url>apps-personal.php#3</url>
-	</link>
-
-	<link>
-		<term>you</term>
-		<title>Apps for Personal Use</title>
-		<string>(usually) Google Play Store (for which ==b=you=b== will have previously registered an email </string>
-		<url>apps-personal.php#3</url>
-	</link>
-
-	<link>
 		<term>will</term>
 		<title>Apps for Personal Use</title>
 		<string>Google Play Store (for which you ==b=will=b== have previously registered an email account). </string>
@@ -500,13 +451,6 @@
 		<term>again</term>
 		<title>Apps for Personal Use</title>
 		<string>previously registered an email account). Click ==b=again=b== on the icon to close the </string>
-		<url>apps-personal.php#3</url>
-	</link>
-
-	<link>
-		<term>on</term>
-		<title>Apps for Personal Use</title>
-		<string>registered an email account). Click again ==b=on=b== the icon to close the description. </string>
 		<url>apps-personal.php#3</url>
 	</link>
 
@@ -619,13 +563,6 @@
 		<term>indicates</term>
 		<title>Apps for Personal Use</title>
 		<string>below but the use of Italics ==b=indicates=b== that the App has also been </string>
-		<url>apps-personal.php#3</url>
-	</link>
-
-	<link>
-		<term>that</term>
-		<title>Apps for Personal Use</title>
-		<string>but the use of Italics indicates ==b=that=b== the App has also been Tested </string>
 		<url>apps-personal.php#3</url>
 	</link>
 
@@ -1246,23 +1183,9 @@
 	</link>
 
 	<link>
-		<term>that</term>
-		<title>Credit Union</title>
-		<string>MyBudgetBuddy is an easy-to-use budgeting application ==b=that=b== helps you understand and manage your </string>
-		<url>apps-personal.php#Credit_Union</url>
-	</link>
-
-	<link>
 		<term>helps</term>
 		<title>Credit Union</title>
 		<string>is an easy-to-use budgeting application that ==b=helps=b== you understand and manage your income </string>
-		<url>apps-personal.php#Credit_Union</url>
-	</link>
-
-	<link>
-		<term>you</term>
-		<title>Credit Union</title>
-		<string>an easy-to-use budgeting application that helps ==b=you=b== understand and manage your income and </string>
 		<url>apps-personal.php#Credit_Union</url>
 	</link>
 
@@ -1344,20 +1267,6 @@
 	</link>
 
 	<link>
-		<term>you</term>
-		<title>Credit Union</title>
-		<string>expenses are grouped into categories and ==b=you=b== can display all income and expenses </string>
-		<url>apps-personal.php#Credit_Union</url>
-	</link>
-
-	<link>
-		<term>can</term>
-		<title>Credit Union</title>
-		<string>are grouped into categories and you ==b=can=b== display all income and expenses in </string>
-		<url>apps-personal.php#Credit_Union</url>
-	</link>
-
-	<link>
 		<term>display</term>
 		<title>Credit Union</title>
 		<string>grouped into categories and you can ==b=display=b== all income and expenses in a </string>
@@ -1403,20 +1312,6 @@
 		<term>view</term>
 		<title>Credit Union</title>
 		<string>in a list or in graph ==b=view.=b== You can also use the interactive </string>
-		<url>apps-personal.php#Credit_Union</url>
-	</link>
-
-	<link>
-		<term>You</term>
-		<title>Credit Union</title>
-		<string>a list or in graph view. ==b=You=b== can also use the interactive Credit </string>
-		<url>apps-personal.php#Credit_Union</url>
-	</link>
-
-	<link>
-		<term>can</term>
-		<title>Credit Union</title>
-		<string>list or in graph view. You ==b=can=b== also use the interactive Credit Union </string>
 		<url>apps-personal.php#Credit_Union</url>
 	</link>
 
@@ -1470,13 +1365,6 @@
 	</link>
 
 	<link>
-		<term>you</term>
-		<title>Credit Union</title>
-		<string>interactive Credit Union Locator to help ==b=you=b== find a credit union in Ireland </string>
-		<url>apps-personal.php#Credit_Union</url>
-	</link>
-
-	<link>
 		<term>find</term>
 		<title>Credit Union</title>
 		<string>Credit Union Locator to help you ==b=find=b== a credit union in Ireland close </string>
@@ -1508,13 +1396,6 @@
 		<term>close</term>
 		<title>Credit Union</title>
 		<string>find a credit union in Ireland ==b=close=b== to you. Keep up to date </string>
-		<url>apps-personal.php#Credit_Union</url>
-	</link>
-
-	<link>
-		<term>you</term>
-		<title>Credit Union</title>
-		<string>credit union in Ireland close to ==b=you.=b== Keep up to date with the </string>
 		<url>apps-personal.php#Credit_Union</url>
 	</link>
 
@@ -1750,20 +1631,6 @@
 	</link>
 
 	<link>
-		<term>you</term>
-		<title>Google Drive</title>
-		<string> With Google Drive, ==b=you=b== can store all your files in </string>
-		<url>apps-personal.php#Google_Drive</url>
-	</link>
-
-	<link>
-		<term>can</term>
-		<title>Google Drive</title>
-		<string> With Google Drive, you ==b=can=b== store all your files in one </string>
-		<url>apps-personal.php#Google_Drive</url>
-	</link>
-
-	<link>
 		<term>store</term>
 		<title>Google Drive</title>
 		<string> With Google Drive, you can ==b=store=b== all your files in one place, </string>
@@ -1809,20 +1676,6 @@
 		<term>so</term>
 		<title>Google Drive</title>
 		<string>all your files in one place, ==b=so=b== you can access them from anywhere </string>
-		<url>apps-personal.php#Google_Drive</url>
-	</link>
-
-	<link>
-		<term>you</term>
-		<title>Google Drive</title>
-		<string>your files in one place, so ==b=you=b== can access them from anywhere and </string>
-		<url>apps-personal.php#Google_Drive</url>
-	</link>
-
-	<link>
-		<term>can</term>
-		<title>Google Drive</title>
-		<string>files in one place, so you ==b=can=b== access them from anywhere and share </string>
 		<url>apps-personal.php#Google_Drive</url>
 	</link>
 
@@ -1970,13 +1823,6 @@
 		<term>stored</term>
 		<title>Google Drive</title>
 		<string>photos, documents, videos and other files ==b=stored=b== on your Google Drive Upload files </string>
-		<url>apps-personal.php#Google_Drive</url>
-	</link>
-
-	<link>
-		<term>on</term>
-		<title>Google Drive</title>
-		<string>documents, videos and other files stored ==b=on=b== your Google Drive Upload files to </string>
 		<url>apps-personal.php#Google_Drive</url>
 	</link>
 
@@ -2198,13 +2044,6 @@
 	</link>
 
 	<link>
-		<term>be</term>
-		<title>Art Academy</title>
-		<string> Art Academy aims to ==b=be=b== an art reference app for modern </string>
-		<url>apps-personal.php#Art_Academy</url>
-	</link>
-
-	<link>
 		<term>art</term>
 		<title>Art Academy</title>
 		<string>Art Academy aims to be an ==b=art=b== reference app for modern and classic </string>
@@ -2222,13 +2061,6 @@
 		<term>app</term>
 		<title>Art Academy</title>
 		<string>aims to be an art reference ==b=app=b== for modern and classic art. This </string>
-		<url>apps-personal.php#Art_Academy</url>
-	</link>
-
-	<link>
-		<term>for</term>
-		<title>Art Academy</title>
-		<string>to be an art reference app ==b=for=b== modern and classic art. This virtual </string>
 		<url>apps-personal.php#Art_Academy</url>
 	</link>
 
@@ -2429,13 +2261,6 @@
 	</link>
 
 	<link>
-		<term>can</term>
-		<title>Art Academy</title>
-		<string>Additionally, using this art guide they ==b=can=b== also browse the painting collections of </string>
-		<url>apps-personal.php#Art_Academy</url>
-	</link>
-
-	<link>
 		<term>also</term>
 		<title>Art Academy</title>
 		<string>using this art guide they can ==b=also=b== browse the painting collections of the </string>
@@ -2499,13 +2324,6 @@
 	</link>
 
 	<link>
-		<term>on</term>
-		<title>Art Academy</title>
-		<string>in the world and locate them ==b=on=b== a map.Supposed to be heavy on </string>
-		<url>apps-personal.php#Art_Academy</url>
-	</link>
-
-	<link>
 		<term>mapSupposed</term>
 		<title>Art Academy</title>
 		<string>world and locate them on a ==b=map.Supposed=b== to be heavy on resources so </string>
@@ -2513,23 +2331,9 @@
 	</link>
 
 	<link>
-		<term>be</term>
-		<title>Art Academy</title>
-		<string>locate them on a map.Supposed to ==b=be=b== heavy on resources so check that </string>
-		<url>apps-personal.php#Art_Academy</url>
-	</link>
-
-	<link>
 		<term>heavy</term>
 		<title>Art Academy</title>
 		<string>them on a map.Supposed to be ==b=heavy=b== on resources so check that you </string>
-		<url>apps-personal.php#Art_Academy</url>
-	</link>
-
-	<link>
-		<term>on</term>
-		<title>Art Academy</title>
-		<string>on a map.Supposed to be heavy ==b=on=b== resources so check that you Quit </string>
 		<url>apps-personal.php#Art_Academy</url>
 	</link>
 
@@ -2551,20 +2355,6 @@
 		<term>check</term>
 		<title>Art Academy</title>
 		<string>to be heavy on resources so ==b=check=b== that you Quit when finished! Works </string>
-		<url>apps-personal.php#Art_Academy</url>
-	</link>
-
-	<link>
-		<term>that</term>
-		<title>Art Academy</title>
-		<string>be heavy on resources so check ==b=that=b== you Quit when finished! Works in </string>
-		<url>apps-personal.php#Art_Academy</url>
-	</link>
-
-	<link>
-		<term>you</term>
-		<title>Art Academy</title>
-		<string>heavy on resources so check that ==b=you=b== Quit when finished! Works in Portrait </string>
 		<url>apps-personal.php#Art_Academy</url>
 	</link>
 
@@ -2702,20 +2492,6 @@
 	</link>
 
 	<link>
-		<term>can</term>
-		<title>Art Academy</title>
-		<string>listed from Aachen to Zwart. Images ==b=can=b== be shared, saved, used as Wallpaper. </string>
-		<url>apps-personal.php#Art_Academy</url>
-	</link>
-
-	<link>
-		<term>be</term>
-		<title>Art Academy</title>
-		<string>from Aachen to Zwart. Images can ==b=be=b== shared, saved, used as Wallpaper. Uses </string>
-		<url>apps-personal.php#Art_Academy</url>
-	</link>
-
-	<link>
 		<term>shared</term>
 		<title>Art Academy</title>
 		<string>Aachen to Zwart. Images can be ==b=shared,=b== saved, used as Wallpaper. Uses Wikipedia </string>
@@ -2761,13 +2537,6 @@
 		<term>Wikipedia</term>
 		<title>Art Academy</title>
 		<string>shared, saved, used as Wallpaper. Uses ==b=Wikipedia=b== for additional info. </string>
-		<url>apps-personal.php#Art_Academy</url>
-	</link>
-
-	<link>
-		<term>for</term>
-		<title>Art Academy</title>
-		<string>saved, used as Wallpaper. Uses Wikipedia ==b=for=b== additional info. </string>
 		<url>apps-personal.php#Art_Academy</url>
 	</link>
 
@@ -2838,13 +2607,6 @@
 		<term>project</term>
 		<title>Dublin Zoo</title>
 		<string>zoo visitor app, developed as a ==b=project=b== for an Android programming course at </string>
-		<url>apps-personal.php#Dublin_Zoo</url>
-	</link>
-
-	<link>
-		<term>for</term>
-		<title>Dublin Zoo</title>
-		<string>visitor app, developed as a project ==b=for=b== an Android programming course at UCD. </string>
 		<url>apps-personal.php#Dublin_Zoo</url>
 	</link>
 
@@ -2926,13 +2688,6 @@
 	</link>
 
 	<link>
-		<term>you</term>
-		<title>Entertainment.ie</title>
-		<string>Ireland's most popular entertainment website brings ==b=you=b== the App that you can never </string>
-		<url>apps-personal.php#Entertainment.ie</url>
-	</link>
-
-	<link>
 		<term>App</term>
 		<title>Entertainment.ie</title>
 		<string>popular entertainment website brings you the ==b=App=b== that you can never be without! </string>
@@ -2940,37 +2695,9 @@
 	</link>
 
 	<link>
-		<term>that</term>
-		<title>Entertainment.ie</title>
-		<string>entertainment website brings you the App ==b=that=b== you can never be without! From </string>
-		<url>apps-personal.php#Entertainment.ie</url>
-	</link>
-
-	<link>
-		<term>you</term>
-		<title>Entertainment.ie</title>
-		<string>website brings you the App that ==b=you=b== can never be without! From entertainment.ie, </string>
-		<url>apps-personal.php#Entertainment.ie</url>
-	</link>
-
-	<link>
-		<term>can</term>
-		<title>Entertainment.ie</title>
-		<string>brings you the App that you ==b=can=b== never be without! From entertainment.ie, Ireland's </string>
-		<url>apps-personal.php#Entertainment.ie</url>
-	</link>
-
-	<link>
 		<term>never</term>
 		<title>Entertainment.ie</title>
 		<string>you the App that you can ==b=never=b== be without! From entertainment.ie, Ireland's most </string>
-		<url>apps-personal.php#Entertainment.ie</url>
-	</link>
-
-	<link>
-		<term>be</term>
-		<title>Entertainment.ie</title>
-		<string>the App that you can never ==b=be=b== without! From entertainment.ie, Ireland's most up-to-date </string>
 		<url>apps-personal.php#Entertainment.ie</url>
 	</link>
 
@@ -3045,23 +2772,9 @@
 	</link>
 
 	<link>
-		<term>for</term>
-		<title>Entertainment.ie</title>
-		<string>up-to-date and reliable online listings service ==b=for=b== over 10 years. Features include:Complete Cinema </string>
-		<url>apps-personal.php#Entertainment.ie</url>
-	</link>
-
-	<link>
 		<term>over</term>
 		<title>Entertainment.ie</title>
 		<string>and reliable online listings service for ==b=over=b== 10 years. Features include:Complete Cinema Guide </string>
-		<url>apps-personal.php#Entertainment.ie</url>
-	</link>
-
-	<link>
-		<term>10</term>
-		<title>Entertainment.ie</title>
-		<string>reliable online listings service for over ==b=10=b== years. Features include:Complete Cinema Guide for </string>
 		<url>apps-personal.php#Entertainment.ie</url>
 	</link>
 
@@ -3101,13 +2814,6 @@
 	</link>
 
 	<link>
-		<term>for</term>
-		<title>Entertainment.ie</title>
-		<string>10 years. Features include:Complete Cinema Guide ==b=for=b== Ireland What's on Today for Gigs, </string>
-		<url>apps-personal.php#Entertainment.ie</url>
-	</link>
-
-	<link>
 		<term>Ireland</term>
 		<title>Entertainment.ie</title>
 		<string>years. Features include:Complete Cinema Guide for ==b=Ireland=b== What's on Today for Gigs, Theatre, </string>
@@ -3122,23 +2828,9 @@
 	</link>
 
 	<link>
-		<term>on</term>
-		<title>Entertainment.ie</title>
-		<string>include:Complete Cinema Guide for Ireland What's ==b=on=b== Today for Gigs, Theatre, Events and </string>
-		<url>apps-personal.php#Entertainment.ie</url>
-	</link>
-
-	<link>
 		<term>Today</term>
 		<title>Entertainment.ie</title>
 		<string>Cinema Guide for Ireland What's on ==b=Today=b== for Gigs, Theatre, Events and Festival </string>
-		<url>apps-personal.php#Entertainment.ie</url>
-	</link>
-
-	<link>
-		<term>for</term>
-		<title>Entertainment.ie</title>
-		<string>Guide for Ireland What's on Today ==b=for=b== Gigs, Theatre, Events and Festival Maps </string>
 		<url>apps-personal.php#Entertainment.ie</url>
 	</link>
 
@@ -3174,13 +2866,6 @@
 		<term>Maps</term>
 		<title>Entertainment.ie</title>
 		<string>for Gigs, Theatre, Events and Festival ==b=Maps=b== for venues  </string>
-		<url>apps-personal.php#Entertainment.ie</url>
-	</link>
-
-	<link>
-		<term>for</term>
-		<title>Entertainment.ie</title>
-		<string>Gigs, Theatre, Events and Festival Maps ==b=for=b== venues  </string>
 		<url>apps-personal.php#Entertainment.ie</url>
 	</link>
 
@@ -3230,13 +2915,6 @@
 		<term>Resort</term>
 		<title>Fota</title>
 		<string>Explore the renowned, idyllic Fota Island ==b=Resort=b== on your Android phone. </string>
-		<url>apps-personal.php#Fota</url>
-	</link>
-
-	<link>
-		<term>on</term>
-		<title>Fota</title>
-		<string>the renowned, idyllic Fota Island Resort ==b=on=b== your Android phone. </string>
 		<url>apps-personal.php#Fota</url>
 	</link>
 
@@ -3451,13 +3129,6 @@
 	</link>
 
 	<link>
-		<term>on</term>
-		<title>Kindle Reader</title>
-		<string> Read ‘kindle-type’ eBooks ==b=on=b== your Android. Text can be Pinched </string>
-		<url>apps-personal.php#Kindle_Reader</url>
-	</link>
-
-	<link>
 		<term>your</term>
 		<title>Kindle Reader</title>
 		<string> Read ‘kindle-type’ eBooks on ==b=your=b== Android. Text can be Pinched to </string>
@@ -3479,20 +3150,6 @@
 	</link>
 
 	<link>
-		<term>can</term>
-		<title>Kindle Reader</title>
-		<string>‘kindle-type’ eBooks on your Android. Text ==b=can=b== be Pinched to Zoom (to quite </string>
-		<url>apps-personal.php#Kindle_Reader</url>
-	</link>
-
-	<link>
-		<term>be</term>
-		<title>Kindle Reader</title>
-		<string>eBooks on your Android. Text can ==b=be=b== Pinched to Zoom (to quite a </string>
-		<url>apps-personal.php#Kindle_Reader</url>
-	</link>
-
-	<link>
 		<term>Pinched</term>
 		<title>Kindle Reader</title>
 		<string>on your Android. Text can be ==b=Pinched=b== to Zoom (to quite a large </string>
@@ -3503,13 +3160,6 @@
 		<term>Zoom</term>
 		<title>Kindle Reader</title>
 		<string>Android. Text can be Pinched to ==b=Zoom=b== (to quite a large font size). </string>
-		<url>apps-personal.php#Kindle_Reader</url>
-	</link>
-
-	<link>
-		<term>to</term>
-		<title>Kindle Reader</title>
-		<string>Text can be Pinched to Zoom ==b=(to=b== quite a large font size). Long </string>
 		<url>apps-personal.php#Kindle_Reader</url>
 	</link>
 
@@ -3552,13 +3202,6 @@
 		<term>Click</term>
 		<title>Kindle Reader</title>
 		<string>quite a large font size). Long ==b=Click=b== on a word to see its </string>
-		<url>apps-personal.php#Kindle_Reader</url>
-	</link>
-
-	<link>
-		<term>on</term>
-		<title>Kindle Reader</title>
-		<string>a large font size). Long Click ==b=on=b== a word to see its definition </string>
 		<url>apps-personal.php#Kindle_Reader</url>
 	</link>
 
@@ -3647,13 +3290,6 @@
 	</link>
 
 	<link>
-		<term>or</term>
-		<title>Kindle Reader</title>
-		<string>Dictionary). Stroke sideways to turn pages ==b=(or=b== tap bottom corner). User Notes can </string>
-		<url>apps-personal.php#Kindle_Reader</url>
-	</link>
-
-	<link>
 		<term>tap</term>
 		<title>Kindle Reader</title>
 		<string>Stroke sideways to turn pages (or ==b=tap=b== bottom corner). User Notes can be </string>
@@ -3689,20 +3325,6 @@
 	</link>
 
 	<link>
-		<term>can</term>
-		<title>Kindle Reader</title>
-		<string>(or tap bottom corner). User Notes ==b=can=b== be inserted. Background Colour can be </string>
-		<url>apps-personal.php#Kindle_Reader</url>
-	</link>
-
-	<link>
-		<term>be</term>
-		<title>Kindle Reader</title>
-		<string>tap bottom corner). User Notes can ==b=be=b== inserted. Background Colour can be set, </string>
-		<url>apps-personal.php#Kindle_Reader</url>
-	</link>
-
-	<link>
 		<term>inserted</term>
 		<title>Kindle Reader</title>
 		<string>bottom corner). User Notes can be ==b=inserted.=b== Background Colour can be set, as </string>
@@ -3724,20 +3346,6 @@
 	</link>
 
 	<link>
-		<term>can</term>
-		<title>Kindle Reader</title>
-		<string>Notes can be inserted. Background Colour ==b=can=b== be set, as can Line Spacing, </string>
-		<url>apps-personal.php#Kindle_Reader</url>
-	</link>
-
-	<link>
-		<term>be</term>
-		<title>Kindle Reader</title>
-		<string>can be inserted. Background Colour can ==b=be=b== set, as can Line Spacing, Number </string>
-		<url>apps-personal.php#Kindle_Reader</url>
-	</link>
-
-	<link>
 		<term>set</term>
 		<title>Kindle Reader</title>
 		<string>be inserted. Background Colour can be ==b=set,=b== as can Line Spacing, Number of </string>
@@ -3748,13 +3356,6 @@
 		<term>as</term>
 		<title>Kindle Reader</title>
 		<string>inserted. Background Colour can be set, ==b=as=b== can Line Spacing, Number of Columns </string>
-		<url>apps-personal.php#Kindle_Reader</url>
-	</link>
-
-	<link>
-		<term>can</term>
-		<title>Kindle Reader</title>
-		<string>Background Colour can be set, as ==b=can=b== Line Spacing, Number of Columns and </string>
 		<url>apps-personal.php#Kindle_Reader</url>
 	</link>
 
@@ -3811,13 +3412,6 @@
 		<term>good</term>
 		<title>Kindle Reader</title>
 		<string>of Columns and Margin Size (very ==b=good=b== for Dyslexia). Some free titles (Alice </string>
-		<url>apps-personal.php#Kindle_Reader</url>
-	</link>
-
-	<link>
-		<term>for</term>
-		<title>Kindle Reader</title>
-		<string>Columns and Margin Size (very good ==b=for=b== Dyslexia). Some free titles (Alice in </string>
 		<url>apps-personal.php#Kindle_Reader</url>
 	</link>
 
@@ -3885,20 +3479,6 @@
 	</link>
 
 	<link>
-		<term>can</term>
-		<title>Kindle Reader</title>
-		<string>in Wonderland, Pride and Prejudice etc.) ==b=can=b== be downloaded from Amazon needed) ...or </string>
-		<url>apps-personal.php#Kindle_Reader</url>
-	</link>
-
-	<link>
-		<term>be</term>
-		<title>Kindle Reader</title>
-		<string>Wonderland, Pride and Prejudice etc.) can ==b=be=b== downloaded from Amazon needed) ...or from </string>
-		<url>apps-personal.php#Kindle_Reader</url>
-	</link>
-
-	<link>
 		<term>downloaded</term>
 		<title>Kindle Reader</title>
 		<string>Pride and Prejudice etc.) can be ==b=downloaded=b== from Amazon needed) ...or from Project </string>
@@ -3923,13 +3503,6 @@
 		<term>needed</term>
 		<title>Kindle Reader</title>
 		<string>etc.) can be downloaded from Amazon ==b=needed)=b== ...or from Project Gutenberg (no reg. </string>
-		<url>apps-personal.php#Kindle_Reader</url>
-	</link>
-
-	<link>
-		<term>or</term>
-		<title>Kindle Reader</title>
-		<string>can be downloaded from Amazon needed) ==b=...or=b== from Project Gutenberg (no reg. needed). </string>
 		<url>apps-personal.php#Kindle_Reader</url>
 	</link>
 
@@ -4116,13 +3689,6 @@
 	</link>
 
 	<link>
-		<term>for</term>
-		<title>YouTube</title>
-		<string>anywhere with the official YouTube app ==b=for=b== Android. </string>
-		<url>apps-personal.php#YouTube</url>
-	</link>
-
-	<link>
 		<term>Android</term>
 		<title>YouTube</title>
 		<string>with the official YouTube app for ==b=Android.=b== </string>
@@ -4203,13 +3769,6 @@
 		<term>play</term>
 		<title>Hangman</title>
 		<string>with huge options of categories to ==b=play=b== on. </string>
-		<url>apps-personal.php#Hangman</url>
-	</link>
-
-	<link>
-		<term>on</term>
-		<title>Hangman</title>
-		<string>huge options of categories to play ==b=on.=b== </string>
 		<url>apps-personal.php#Hangman</url>
 	</link>
 
@@ -4354,44 +3913,9 @@
 	</link>
 
 	<link>
-		<term>for</term>
-		<title>Tic Tac Toe HD</title>
-		<string>simple, free, fun and addictive game ==b=for=b== 1 or 2 players. You can </string>
-		<url>apps-personal.php#Tic_Tac_Toe_HD</url>
-	</link>
-
-	<link>
-		<term>1</term>
-		<title>Tic Tac Toe HD</title>
-		<string>free, fun and addictive game for ==b=1=b== or 2 players. You can play </string>
-		<url>apps-personal.php#Tic_Tac_Toe_HD</url>
-	</link>
-
-	<link>
-		<term>2</term>
-		<title>Tic Tac Toe HD</title>
-		<string>and addictive game for 1 or ==b=2=b== players. You can play as single </string>
-		<url>apps-personal.php#Tic_Tac_Toe_HD</url>
-	</link>
-
-	<link>
 		<term>players</term>
 		<title>Tic Tac Toe HD</title>
 		<string>addictive game for 1 or 2 ==b=players.=b== You can play as single player </string>
-		<url>apps-personal.php#Tic_Tac_Toe_HD</url>
-	</link>
-
-	<link>
-		<term>You</term>
-		<title>Tic Tac Toe HD</title>
-		<string>game for 1 or 2 players. ==b=You=b== can play as single player against </string>
-		<url>apps-personal.php#Tic_Tac_Toe_HD</url>
-	</link>
-
-	<link>
-		<term>can</term>
-		<title>Tic Tac Toe HD</title>
-		<string>for 1 or 2 players. You ==b=can=b== play as single player against Android </string>
 		<url>apps-personal.php#Tic_Tac_Toe_HD</url>
 	</link>
 
@@ -4494,13 +4018,6 @@
 	</link>
 
 	<link>
-		<term>200</term>
-		<title>Instagram</title>
-		<string> Over ==b=200=b== million users love Instagram! It's a </string>
-		<url>apps-personal.php#Instagram</url>
-	</link>
-
-	<link>
 		<term>million</term>
 		<title>Instagram</title>
 		<string> Over 200 ==b=million=b== users love Instagram! It's a simple </string>
@@ -4574,13 +4091,6 @@
 		<term>moments</term>
 		<title>Instagram</title>
 		<string>to capture and share the world's ==b=moments=b== on your Android. Customize your photos </string>
-		<url>apps-personal.php#Instagram</url>
-	</link>
-
-	<link>
-		<term>on</term>
-		<title>Instagram</title>
-		<string>capture and share the world's moments ==b=on=b== your Android. Customize your photos and </string>
 		<url>apps-personal.php#Instagram</url>
 	</link>
 
@@ -4697,13 +4207,6 @@
 	</link>
 
 	<link>
-		<term>for</term>
-		<title>LinkedIn</title>
-		<string> Social Networking ==b=for=b== Professionals </string>
-		<url>apps-personal.php#LinkedIn</url>
-	</link>
-
-	<link>
 		<term>Professionals</term>
 		<title>LinkedIn</title>
 		<string> Social Networking for ==b=Professionals=b== </string>
@@ -4753,13 +4256,6 @@
 	</link>
 
 	<link>
-		<term>it</term>
-		<title>Pinterest</title>
-		<string>to find your inspiration and share ==b=it=b== with others. Use it to collect </string>
-		<url>apps-personal.php#Pinterest</url>
-	</link>
-
-	<link>
 		<term>with</term>
 		<title>Pinterest</title>
 		<string>find your inspiration and share it ==b=with=b== others. Use it to collect things </string>
@@ -4781,13 +4277,6 @@
 	</link>
 
 	<link>
-		<term>it</term>
-		<title>Pinterest</title>
-		<string>and share it with others. Use ==b=it=b== to collect things you love, organize </string>
-		<url>apps-personal.php#Pinterest</url>
-	</link>
-
-	<link>
 		<term>collect</term>
 		<title>Pinterest</title>
 		<string>it with others. Use it to ==b=collect=b== things you love, organize and plan </string>
@@ -4798,13 +4287,6 @@
 		<term>things</term>
 		<title>Pinterest</title>
 		<string>with others. Use it to collect ==b=things=b== you love, organize and plan important </string>
-		<url>apps-personal.php#Pinterest</url>
-	</link>
-
-	<link>
-		<term>you</term>
-		<title>Pinterest</title>
-		<string>others. Use it to collect things ==b=you=b== love, organize and plan important projects, </string>
 		<url>apps-personal.php#Pinterest</url>
 	</link>
 
@@ -4886,13 +4368,6 @@
 	</link>
 
 	<link>
-		<term>For</term>
-		<title>Twitter</title>
-		<string> ==b=For=b== Tweets and Retweets </string>
-		<url>apps-personal.php#Twitter</url>
-	</link>
-
-	<link>
 		<term>Tweets</term>
 		<title>Twitter</title>
 		<string> For ==b=Tweets=b== and Retweets </string>
@@ -4938,13 +4413,6 @@
 		<term>available</term>
 		<title>Whats App</title>
 		<string>WhatsApp Messenger is a smartphone messenger ==b=available=b== for Android and other smartphones. WhatsApp </string>
-		<url>apps-personal.php#Whats_App</url>
-	</link>
-
-	<link>
-		<term>for</term>
-		<title>Whats App</title>
-		<string>Messenger is a smartphone messenger available ==b=for=b== Android and other smartphones. WhatsApp uses </string>
 		<url>apps-personal.php#Whats_App</url>
 	</link>
 
@@ -5119,56 +4587,56 @@
 	<link>
 		<term>video</term>
 		<title>Whats App</title>
-		<string>receive messages, pictures, audio notes, and ==b=video=b== messages. First year FREE! ($0.99 USD/year </string>
+		<string>receive messages, pictures, audio notes, and ==b=video=b== messages. First year FREE! ($0.99 USD </string>
 		<url>apps-personal.php#Whats_App</url>
 	</link>
 
 	<link>
 		<term>messages</term>
 		<title>Whats App</title>
-		<string>messages, pictures, audio notes, and video ==b=messages.=b== First year FREE! ($0.99 USD/year after) </string>
+		<string>messages, pictures, audio notes, and video ==b=messages.=b== First year FREE! ($0.99 USD year </string>
 		<url>apps-personal.php#Whats_App</url>
 	</link>
 
 	<link>
 		<term>First</term>
 		<title>Whats App</title>
-		<string>pictures, audio notes, and video messages. ==b=First=b== year FREE! ($0.99 USD/year after) </string>
+		<string>pictures, audio notes, and video messages. ==b=First=b== year FREE! ($0.99 USD year after) </string>
 		<url>apps-personal.php#Whats_App</url>
 	</link>
 
 	<link>
 		<term>year</term>
 		<title>Whats App</title>
-		<string>audio notes, and video messages. First ==b=year=b== FREE! ($0.99 USD/year after) </string>
+		<string>audio notes, and video messages. First ==b=year=b== FREE! ($0.99 USD year after) </string>
 		<url>apps-personal.php#Whats_App</url>
 	</link>
 
 	<link>
 		<term>FREE</term>
 		<title>Whats App</title>
-		<string>notes, and video messages. First year ==b=FREE!=b== ($0.99 USD/year after) </string>
+		<string>notes, and video messages. First year ==b=FREE!=b== ($0.99 USD year after) </string>
 		<url>apps-personal.php#Whats_App</url>
 	</link>
 
 	<link>
-		<term>099</term>
+		<term>USD</term>
 		<title>Whats App</title>
-		<string>and video messages. First year FREE! ==b=($0.99=b== USD/year after) </string>
+		<string>video messages. First year FREE! ($0.99 ==b=USD=b== year after) </string>
 		<url>apps-personal.php#Whats_App</url>
 	</link>
 
 	<link>
-		<term>USDyear</term>
+		<term>year</term>
 		<title>Whats App</title>
-		<string>video messages. First year FREE! ($0.99 ==b=USD/year=b== after) </string>
+		<string>messages. First year FREE! ($0.99 USD ==b=year=b== after) </string>
 		<url>apps-personal.php#Whats_App</url>
 	</link>
 
 	<link>
 		<term>after</term>
 		<title>Whats App</title>
-		<string>messages. First year FREE! ($0.99 USD/year ==b=after)=b== </string>
+		<string>First year FREE! ($0.99 USD year ==b=after)=b== </string>
 		<url>apps-personal.php#Whats_App</url>
 	</link>
 
@@ -5183,13 +4651,6 @@
 		<term>allows</term>
 		<title>Viber</title>
 		<string> Viber ==b=allows=b== you to call, text, and send </string>
-		<url>apps-personal.php#Viber</url>
-	</link>
-
-	<link>
-		<term>you</term>
-		<title>Viber</title>
-		<string> Viber allows ==b=you=b== to call, text, and send photos </string>
 		<url>apps-personal.php#Viber</url>
 	</link>
 
@@ -5229,13 +4690,6 @@
 	</link>
 
 	<link>
-		<term>for</term>
-		<title>Viber</title>
-		<string>call, text, and send photos worldwide ==b=for=b== free to over 175 million users.Free </string>
-		<url>apps-personal.php#Viber</url>
-	</link>
-
-	<link>
 		<term>free</term>
 		<title>Viber</title>
 		<string>text, and send photos worldwide for ==b=free=b== to over 175 million users.Free calls </string>
@@ -5246,13 +4700,6 @@
 		<term>over</term>
 		<title>Viber</title>
 		<string>send photos worldwide for free to ==b=over=b== 175 million users.Free calls with HD </string>
-		<url>apps-personal.php#Viber</url>
-	</link>
-
-	<link>
-		<term>175</term>
-		<title>Viber</title>
-		<string>photos worldwide for free to over ==b=175=b== million users.Free calls with HD sound </string>
 		<url>apps-personal.php#Viber</url>
 	</link>
 
@@ -5383,13 +4830,6 @@
 	</link>
 
 	<link>
-		<term>may</term>
-		<title>Viber</title>
-		<string>onAd free100% free (Network data charges ==b=may=b== apply) </string>
-		<url>apps-personal.php#Viber</url>
-	</link>
-
-	<link>
 		<term>apply</term>
 		<title>Viber</title>
 		<string>free100% free (Network data charges may ==b=apply)=b== </string>
@@ -5397,58 +4837,37 @@
 	</link>
 
 	<link>
-		<term>I</term>
-		<title>Irish Independent</title>
-		<string> ==b=I=b== like that you can Increase/Decrease the </string>
-		<url>apps-personal.php#Irish_Independent</url>
-	</link>
-
-	<link>
 		<term>like</term>
 		<title>Irish Independent</title>
-		<string> I ==b=like=b== that you can Increase/Decrease the Font </string>
+		<string> I ==b=like=b== that you can Increase Decrease the </string>
 		<url>apps-personal.php#Irish_Independent</url>
 	</link>
 
 	<link>
-		<term>that</term>
+		<term>Increase</term>
 		<title>Irish Independent</title>
-		<string> I like ==b=that=b== you can Increase/Decrease the Font Size </string>
+		<string> I like that you can ==b=Increase=b== Decrease the Font Size </string>
 		<url>apps-personal.php#Irish_Independent</url>
 	</link>
 
 	<link>
-		<term>you</term>
+		<term>Decrease</term>
 		<title>Irish Independent</title>
-		<string> I like that ==b=you=b== can Increase/Decrease the Font Size </string>
-		<url>apps-personal.php#Irish_Independent</url>
-	</link>
-
-	<link>
-		<term>can</term>
-		<title>Irish Independent</title>
-		<string> I like that you ==b=can=b== Increase/Decrease the Font Size </string>
-		<url>apps-personal.php#Irish_Independent</url>
-	</link>
-
-	<link>
-		<term>IncreaseDecrease</term>
-		<title>Irish Independent</title>
-		<string> I like that you can ==b=Increase/Decrease=b== the Font Size </string>
+		<string>I like that you can Increase ==b=Decrease=b== the Font Size </string>
 		<url>apps-personal.php#Irish_Independent</url>
 	</link>
 
 	<link>
 		<term>Font</term>
 		<title>Irish Independent</title>
-		<string>like that you can Increase/Decrease the ==b=Font=b== Size </string>
+		<string>that you can Increase Decrease the ==b=Font=b== Size </string>
 		<url>apps-personal.php#Irish_Independent</url>
 	</link>
 
 	<link>
 		<term>Size</term>
 		<title>Irish Independent</title>
-		<string>that you can Increase/Decrease the Font ==b=Size=b== </string>
+		<string>you can Increase Decrease the Font ==b=Size=b== </string>
 		<url>apps-personal.php#Irish_Independent</url>
 	</link>
 
@@ -5607,13 +5026,6 @@
 	</link>
 
 	<link>
-		<term>for</term>
-		<title>Kingsoft Office</title>
-		<string> 'Office Compatible' Editor and Saver ==b=for=b== 'Word, Excel and PowerPoint'. Can 'Pinch </string>
-		<url>apps-personal.php#Kingsoft_Office</url>
-	</link>
-
-	<link>
 		<term>'Word</term>
 		<title>Kingsoft Office</title>
 		<string>'Office Compatible' Editor and Saver for ==b='Word,=b== Excel and PowerPoint'. Can 'Pinch and </string>
@@ -5635,72 +5047,58 @@
 	</link>
 
 	<link>
-		<term>Can</term>
-		<title>Kingsoft Office</title>
-		<string>Saver for 'Word, Excel and PowerPoint'. ==b=Can=b== 'Pinch and Zoom' document, Save and/or </string>
-		<url>apps-personal.php#Kingsoft_Office</url>
-	</link>
-
-	<link>
 		<term>'Pinch</term>
 		<title>Kingsoft Office</title>
-		<string>for 'Word, Excel and PowerPoint'. Can ==b='Pinch=b== and Zoom' document, Save and/or Print </string>
+		<string>for 'Word, Excel and PowerPoint'. Can ==b='Pinch=b== and Zoom' document, Save and or </string>
 		<url>apps-personal.php#Kingsoft_Office</url>
 	</link>
 
 	<link>
 		<term>Zoom'</term>
 		<title>Kingsoft Office</title>
-		<string>Excel and PowerPoint'. Can 'Pinch and ==b=Zoom'=b== document, Save and/or Print to CloudWord </string>
+		<string>Excel and PowerPoint'. Can 'Pinch and ==b=Zoom'=b== document, Save and or Print to </string>
 		<url>apps-personal.php#Kingsoft_Office</url>
 	</link>
 
 	<link>
 		<term>document</term>
 		<title>Kingsoft Office</title>
-		<string>and PowerPoint'. Can 'Pinch and Zoom' ==b=document,=b== Save and/or Print to CloudWord - </string>
+		<string>and PowerPoint'. Can 'Pinch and Zoom' ==b=document,=b== Save and or Print to CloudWord </string>
 		<url>apps-personal.php#Kingsoft_Office</url>
 	</link>
 
 	<link>
 		<term>Save</term>
 		<title>Kingsoft Office</title>
-		<string>PowerPoint'. Can 'Pinch and Zoom' document, ==b=Save=b== and/or Print to CloudWord - nice </string>
-		<url>apps-personal.php#Kingsoft_Office</url>
-	</link>
-
-	<link>
-		<term>andor</term>
-		<title>Kingsoft Office</title>
-		<string>Can 'Pinch and Zoom' document, Save ==b=and/or=b== Print to CloudWord - nice style </string>
+		<string>PowerPoint'. Can 'Pinch and Zoom' document, ==b=Save=b== and or Print to CloudWord - </string>
 		<url>apps-personal.php#Kingsoft_Office</url>
 	</link>
 
 	<link>
 		<term>Print</term>
 		<title>Kingsoft Office</title>
-		<string>'Pinch and Zoom' document, Save and/or ==b=Print=b== to CloudWord - nice style of </string>
+		<string>and Zoom' document, Save and or ==b=Print=b== to CloudWord - nice style of </string>
 		<url>apps-personal.php#Kingsoft_Office</url>
 	</link>
 
 	<link>
 		<term>CloudWord</term>
 		<title>Kingsoft Office</title>
-		<string>Zoom' document, Save and/or Print to ==b=CloudWord=b== - nice style of Menu buttons; </string>
+		<string>document, Save and or Print to ==b=CloudWord=b== - nice style of Menu buttons; </string>
 		<url>apps-personal.php#Kingsoft_Office</url>
 	</link>
 
 	<link>
 		<term>nice</term>
 		<title>Kingsoft Office</title>
-		<string>Save and/or Print to CloudWord - ==b=nice=b== style of Menu buttons; can Insert </string>
+		<string>and or Print to CloudWord - ==b=nice=b== style of Menu buttons; can Insert </string>
 		<url>apps-personal.php#Kingsoft_Office</url>
 	</link>
 
 	<link>
 		<term>style</term>
 		<title>Kingsoft Office</title>
-		<string>and/or Print to CloudWord - nice ==b=style=b== of Menu buttons; can Insert Bookmarks, </string>
+		<string>or Print to CloudWord - nice ==b=style=b== of Menu buttons; can Insert Bookmarks, </string>
 		<url>apps-personal.php#Kingsoft_Office</url>
 	</link>
 
@@ -5715,13 +5113,6 @@
 		<term>buttons</term>
 		<title>Kingsoft Office</title>
 		<string>CloudWord - nice style of Menu ==b=buttons;=b== can Insert Bookmarks, Comments; Word Count; </string>
-		<url>apps-personal.php#Kingsoft_Office</url>
-	</link>
-
-	<link>
-		<term>can</term>
-		<title>Kingsoft Office</title>
-		<string>- nice style of Menu buttons; ==b=can=b== Insert Bookmarks, Comments; Word Count; Encrypt; </string>
 		<url>apps-personal.php#Kingsoft_Office</url>
 	</link>
 
@@ -5831,13 +5222,6 @@
 	</link>
 
 	<link>
-		<term>or</term>
-		<title>Kingsoft Office</title>
-		<string>Undo and Redo; Pinch to Zoom ==b=(or=b== use a Slider); Landscape format only </string>
-		<url>apps-personal.php#Kingsoft_Office</url>
-	</link>
-
-	<link>
 		<term>use</term>
 		<title>Kingsoft Office</title>
 		<string>and Redo; Pinch to Zoom (or ==b=use=b== a Slider); Landscape format only (although </string>
@@ -5887,13 +5271,6 @@
 	</link>
 
 	<link>
-		<term>can</term>
-		<title>Kingsoft Office</title>
-		<string>Slider); Landscape format only (although one ==b=can=b== scroll, of course)PowerPoint - Can insert </string>
-		<url>apps-personal.php#Kingsoft_Office</url>
-	</link>
-
-	<link>
 		<term>scroll</term>
 		<title>Kingsoft Office</title>
 		<string>Landscape format only (although one can ==b=scroll,=b== of course)PowerPoint - Can insert Text, </string>
@@ -5904,13 +5281,6 @@
 		<term>coursePowerPoint</term>
 		<title>Kingsoft Office</title>
 		<string>only (although one can scroll, of ==b=course)PowerPoint=b== - Can insert Text, with Bullet </string>
-		<url>apps-personal.php#Kingsoft_Office</url>
-	</link>
-
-	<link>
-		<term>Can</term>
-		<title>Kingsoft Office</title>
-		<string>one can scroll, of course)PowerPoint - ==b=Can=b== insert Text, with Bullet Points (but </string>
 		<url>apps-personal.php#Kingsoft_Office</url>
 	</link>
 
@@ -6139,30 +5509,9 @@
 	</link>
 
 	<link>
-		<term>532</term>
-		<title>Kingsoft Office</title>
-		<string>Chart Option appeared in Update to ==b=5.3.2.=b== PDFs can be opened :-)Free Desktop </string>
-		<url>apps-personal.php#Kingsoft_Office</url>
-	</link>
-
-	<link>
 		<term>PDFs</term>
 		<title>Kingsoft Office</title>
 		<string>Option appeared in Update to 5.3.2. ==b=PDFs=b== can be opened :-)Free Desktop version </string>
-		<url>apps-personal.php#Kingsoft_Office</url>
-	</link>
-
-	<link>
-		<term>can</term>
-		<title>Kingsoft Office</title>
-		<string>appeared in Update to 5.3.2. PDFs ==b=can=b== be opened :-)Free Desktop version from </string>
-		<url>apps-personal.php#Kingsoft_Office</url>
-	</link>
-
-	<link>
-		<term>be</term>
-		<title>Kingsoft Office</title>
-		<string>in Update to 5.3.2. PDFs can ==b=be=b== opened :-)Free Desktop version from kingsoftstore.com </string>
 		<url>apps-personal.php#Kingsoft_Office</url>
 	</link>
 
@@ -6237,13 +5586,6 @@
 	</link>
 
 	<link>
-		<term>on</term>
-		<title>Polaris Office</title>
-		<string> 'Office' App as used ==b=on=b== Samsung Galaxy Tab but available for </string>
-		<url>apps-personal.php#Polaris_Office</url>
-	</link>
-
-	<link>
 		<term>Samsung</term>
 		<title>Polaris Office</title>
 		<string> 'Office' App as used on ==b=Samsung=b== Galaxy Tab but available for other </string>
@@ -6275,13 +5617,6 @@
 		<term>available</term>
 		<title>Polaris Office</title>
 		<string>used on Samsung Galaxy Tab but ==b=available=b== for other tablets also. This come </string>
-		<url>apps-personal.php#Polaris_Office</url>
-	</link>
-
-	<link>
-		<term>for</term>
-		<title>Polaris Office</title>
-		<string>on Samsung Galaxy Tab but available ==b=for=b== other tablets also. This come with </string>
 		<url>apps-personal.php#Polaris_Office</url>
 	</link>
 
@@ -6345,13 +5680,6 @@
 		<term>feature</term>
 		<title>Polaris Office</title>
 		<string>This come with a Text-to-Speech (TTS) ==b=feature=b== which underlines line-by-line as read, with </string>
-		<url>apps-personal.php#Polaris_Office</url>
-	</link>
-
-	<link>
-		<term>which</term>
-		<title>Polaris Office</title>
-		<string>come with a Text-to-Speech (TTS) feature ==b=which=b== underlines line-by-line as read, with a </string>
 		<url>apps-personal.php#Polaris_Office</url>
 	</link>
 
@@ -6650,13 +5978,6 @@
 	</link>
 
 	<link>
-		<term>100000</term>
-		<title>Daft.ie</title>
-		<string>free Daft.ie Android app - over ==b=100,000=b== properties right at your finger tips. </string>
-		<url>apps-personal.php#Daft.ie</url>
-	</link>
-
-	<link>
 		<term>properties</term>
 		<title>Daft.ie</title>
 		<string>Daft.ie Android app - over 100,000 ==b=properties=b== right at your finger tips. </string>
@@ -6720,34 +6041,6 @@
 	</link>
 
 	<link>
-		<term>for</term>
-		<title>Bar-code Scanner</title>
-		<string> Used to identify a Product, ==b=for=b== which you can then Search on </string>
-		<url>apps-personal.php#Bar-code_Scanner</url>
-	</link>
-
-	<link>
-		<term>which</term>
-		<title>Bar-code Scanner</title>
-		<string>Used to identify a Product, for ==b=which=b== you can then Search on the </string>
-		<url>apps-personal.php#Bar-code_Scanner</url>
-	</link>
-
-	<link>
-		<term>you</term>
-		<title>Bar-code Scanner</title>
-		<string>to identify a Product, for which ==b=you=b== can then Search on the 'net. </string>
-		<url>apps-personal.php#Bar-code_Scanner</url>
-	</link>
-
-	<link>
-		<term>can</term>
-		<title>Bar-code Scanner</title>
-		<string>identify a Product, for which you ==b=can=b== then Search on the 'net. Scanning </string>
-		<url>apps-personal.php#Bar-code_Scanner</url>
-	</link>
-
-	<link>
 		<term>then</term>
 		<title>Bar-code Scanner</title>
 		<string>a Product, for which you can ==b=then=b== Search on the 'net. Scanning is </string>
@@ -6762,51 +6055,51 @@
 	</link>
 
 	<link>
-		<term>on</term>
-		<title>Bar-code Scanner</title>
-		<string>for which you can then Search ==b=on=b== the 'net. Scanning is done via </string>
-		<url>apps-personal.php#Bar-code_Scanner</url>
-	</link>
-
-	<link>
 		<term>'net</term>
 		<title>Bar-code Scanner</title>
-		<string>you can then Search on the ==b='net.=b== Scanning is done via Tablet/Phone's Camera </string>
+		<string>you can then Search on the ==b='net.=b== Scanning is done via Tablet Phone's </string>
 		<url>apps-personal.php#Bar-code_Scanner</url>
 	</link>
 
 	<link>
 		<term>Scanning</term>
 		<title>Bar-code Scanner</title>
-		<string>can then Search on the 'net. ==b=Scanning=b== is done via Tablet/Phone's Camera </string>
+		<string>can then Search on the 'net. ==b=Scanning=b== is done via Tablet Phone's Camera </string>
 		<url>apps-personal.php#Bar-code_Scanner</url>
 	</link>
 
 	<link>
 		<term>done</term>
 		<title>Bar-code Scanner</title>
-		<string>Search on the 'net. Scanning is ==b=done=b== via Tablet/Phone's Camera </string>
+		<string>Search on the 'net. Scanning is ==b=done=b== via Tablet Phone's Camera </string>
 		<url>apps-personal.php#Bar-code_Scanner</url>
 	</link>
 
 	<link>
 		<term>via</term>
 		<title>Bar-code Scanner</title>
-		<string>on the 'net. Scanning is done ==b=via=b== Tablet/Phone's Camera </string>
+		<string>on the 'net. Scanning is done ==b=via=b== Tablet Phone's Camera </string>
 		<url>apps-personal.php#Bar-code_Scanner</url>
 	</link>
 
 	<link>
-		<term>TabletPhone's</term>
+		<term>Tablet</term>
 		<title>Bar-code Scanner</title>
-		<string>the 'net. Scanning is done via ==b=Tablet/Phone's=b== Camera </string>
+		<string>the 'net. Scanning is done via ==b=Tablet=b== Phone's Camera </string>
+		<url>apps-personal.php#Bar-code_Scanner</url>
+	</link>
+
+	<link>
+		<term>Phone's</term>
+		<title>Bar-code Scanner</title>
+		<string>'net. Scanning is done via Tablet ==b=Phone's=b== Camera </string>
 		<url>apps-personal.php#Bar-code_Scanner</url>
 	</link>
 
 	<link>
 		<term>Camera</term>
 		<title>Bar-code Scanner</title>
-		<string>'net. Scanning is done via Tablet/Phone's ==b=Camera=b== </string>
+		<string>Scanning is done via Tablet Phone's ==b=Camera=b== </string>
 		<url>apps-personal.php#Bar-code_Scanner</url>
 	</link>
 
@@ -6877,13 +6170,6 @@
 		<term>linking</term>
 		<title>QR Scanner</title>
 		<string>are a a qucik way of ==b=linking=b== you to websites with further information, </string>
-		<url>apps-personal.php#QR_Scanner</url>
-	</link>
-
-	<link>
-		<term>you</term>
-		<title>QR Scanner</title>
-		<string>a a qucik way of linking ==b=you=b== to websites with further information, images, </string>
 		<url>apps-personal.php#QR_Scanner</url>
 	</link>
 
@@ -6986,13 +6272,6 @@
 	</link>
 
 	<link>
-		<term>for</term>
-		<title>QR Scanner</title>
-		<string>will also create a QR Code ==b=for=b== your own use. Scanning is done </string>
-		<url>apps-personal.php#QR_Scanner</url>
-	</link>
-
-	<link>
 		<term>your</term>
 		<title>QR Scanner</title>
 		<string>also create a QR Code for ==b=your=b== own use. Scanning is done via </string>
@@ -7002,49 +6281,56 @@
 	<link>
 		<term>own</term>
 		<title>QR Scanner</title>
-		<string>create a QR Code for your ==b=own=b== use. Scanning is done via Tablet/Phone's </string>
+		<string>create a QR Code for your ==b=own=b== use. Scanning is done via Tablet </string>
 		<url>apps-personal.php#QR_Scanner</url>
 	</link>
 
 	<link>
 		<term>use</term>
 		<title>QR Scanner</title>
-		<string>a QR Code for your own ==b=use.=b== Scanning is done via Tablet/Phone's Camera </string>
+		<string>a QR Code for your own ==b=use.=b== Scanning is done via Tablet Phone's </string>
 		<url>apps-personal.php#QR_Scanner</url>
 	</link>
 
 	<link>
 		<term>Scanning</term>
 		<title>QR Scanner</title>
-		<string>QR Code for your own use. ==b=Scanning=b== is done via Tablet/Phone's Camera </string>
+		<string>QR Code for your own use. ==b=Scanning=b== is done via Tablet Phone's Camera </string>
 		<url>apps-personal.php#QR_Scanner</url>
 	</link>
 
 	<link>
 		<term>done</term>
 		<title>QR Scanner</title>
-		<string>for your own use. Scanning is ==b=done=b== via Tablet/Phone's Camera </string>
+		<string>for your own use. Scanning is ==b=done=b== via Tablet Phone's Camera </string>
 		<url>apps-personal.php#QR_Scanner</url>
 	</link>
 
 	<link>
 		<term>via</term>
 		<title>QR Scanner</title>
-		<string>your own use. Scanning is done ==b=via=b== Tablet/Phone's Camera </string>
+		<string>your own use. Scanning is done ==b=via=b== Tablet Phone's Camera </string>
 		<url>apps-personal.php#QR_Scanner</url>
 	</link>
 
 	<link>
-		<term>TabletPhone's</term>
+		<term>Tablet</term>
 		<title>QR Scanner</title>
-		<string>own use. Scanning is done via ==b=Tablet/Phone's=b== Camera </string>
+		<string>own use. Scanning is done via ==b=Tablet=b== Phone's Camera </string>
+		<url>apps-personal.php#QR_Scanner</url>
+	</link>
+
+	<link>
+		<term>Phone's</term>
+		<title>QR Scanner</title>
+		<string>use. Scanning is done via Tablet ==b=Phone's=b== Camera </string>
 		<url>apps-personal.php#QR_Scanner</url>
 	</link>
 
 	<link>
 		<term>Camera</term>
 		<title>QR Scanner</title>
-		<string>use. Scanning is done via Tablet/Phone's ==b=Camera=b== </string>
+		<string>Scanning is done via Tablet Phone's ==b=Camera=b== </string>
 		<url>apps-personal.php#QR_Scanner</url>
 	</link>
 
@@ -7077,13 +6363,6 @@
 	</link>
 
 	<link>
-		<term>I</term>
-		<title>Tesco</title>
-		<string>This is the Tesco UK app ==b=(I=b== couldn't yet locate one for Ireland) </string>
-		<url>apps-personal.php#Tesco</url>
-	</link>
-
-	<link>
 		<term>couldn't</term>
 		<title>Tesco</title>
 		<string>is the Tesco UK app (I ==b=couldn't=b== yet locate one for Ireland) ...but </string>
@@ -7112,13 +6391,6 @@
 	</link>
 
 	<link>
-		<term>for</term>
-		<title>Tesco</title>
-		<string>app (I couldn't yet locate one ==b=for=b== Ireland) ...but useful for its Recipes, </string>
-		<url>apps-personal.php#Tesco</url>
-	</link>
-
-	<link>
 		<term>Ireland</term>
 		<title>Tesco</title>
 		<string>(I couldn't yet locate one for ==b=Ireland)=b== ...but useful for its Recipes, Bar </string>
@@ -7136,13 +6408,6 @@
 		<term>useful</term>
 		<title>Tesco</title>
 		<string>yet locate one for Ireland) ...but ==b=useful=b== for its Recipes, Bar Code Scanner </string>
-		<url>apps-personal.php#Tesco</url>
-	</link>
-
-	<link>
-		<term>for</term>
-		<title>Tesco</title>
-		<string>locate one for Ireland) ...but useful ==b=for=b== its Recipes, Bar Code Scanner - </string>
 		<url>apps-personal.php#Tesco</url>
 	</link>
 
@@ -7455,13 +6720,6 @@
 	</link>
 
 	<link>
-		<term>you</term>
-		<title>Dublin City Guide</title>
-		<string>restaurants, attractions, hotels and TripAdvisor reviews ==b=you=b== love, stored in the app, all </string>
-		<url>apps-personal.php#Dublin_City_Guide</url>
-	</link>
-
-	<link>
 		<term>love</term>
 		<title>Dublin City Guide</title>
 		<string>attractions, hotels and TripAdvisor reviews you ==b=love,=b== stored in the app, all available </string>
@@ -7770,13 +7028,6 @@
 	</link>
 
 	<link>
-		<term>it</term>
-		<title>Dungarvan Town Trail</title>
-		<string>the town as our ancestors saw ==b=it.=b== Contains an interactive map, 38 photos </string>
-		<url>apps-personal.php#Dungarvan_Town_Trail</url>
-	</link>
-
-	<link>
 		<term>Contains</term>
 		<title>Dungarvan Town Trail</title>
 		<string>town as our ancestors saw it. ==b=Contains=b== an interactive map, 38 photos (most </string>
@@ -7794,13 +7045,6 @@
 		<term>map</term>
 		<title>Dungarvan Town Trail</title>
 		<string>ancestors saw it. Contains an interactive ==b=map,=b== 38 photos (most over 100 years </string>
-		<url>apps-personal.php#Dungarvan_Town_Trail</url>
-	</link>
-
-	<link>
-		<term>38</term>
-		<title>Dungarvan Town Trail</title>
-		<string>saw it. Contains an interactive map, ==b=38=b== photos (most over 100 years old), </string>
 		<url>apps-personal.php#Dungarvan_Town_Trail</url>
 	</link>
 
@@ -7826,13 +7070,6 @@
 	</link>
 
 	<link>
-		<term>100</term>
-		<title>Dungarvan Town Trail</title>
-		<string>interactive map, 38 photos (most over ==b=100=b== years old), a cast of 9 </string>
-		<url>apps-personal.php#Dungarvan_Town_Trail</url>
-	</link>
-
-	<link>
 		<term>years</term>
 		<title>Dungarvan Town Trail</title>
 		<string>map, 38 photos (most over 100 ==b=years=b== old), a cast of 9 actors, </string>
@@ -7850,13 +7087,6 @@
 		<term>cast</term>
 		<title>Dungarvan Town Trail</title>
 		<string>(most over 100 years old), a ==b=cast=b== of 9 actors, sound effects and </string>
-		<url>apps-personal.php#Dungarvan_Town_Trail</url>
-	</link>
-
-	<link>
-		<term>9</term>
-		<title>Dungarvan Town Trail</title>
-		<string>100 years old), a cast of ==b=9=b== actors, sound effects and a script </string>
 		<url>apps-personal.php#Dungarvan_Town_Trail</url>
 	</link>
 
@@ -7945,13 +7175,6 @@
 	</link>
 
 	<link>
-		<term>on</term>
-		<title>European Health Insurance Card</title>
-		<string> Guide ==b=on=b== how to use the European Health </string>
-		<url>apps-personal.php#European_Health_Insurance_Card</url>
-	</link>
-
-	<link>
 		<term>how</term>
 		<title>European Health Insurance Card</title>
 		<string> Guide on ==b=how=b== to use the European Health Insurance </string>
@@ -7994,13 +7217,6 @@
 	</link>
 
 	<link>
-		<term>27</term>
-		<title>European Health Insurance Card</title>
-		<string>European Health Insurance Card in the ==b=27=b== EU countries, Iceland, Lichtenstein, Norway and </string>
-		<url>apps-personal.php#European_Health_Insurance_Card</url>
-	</link>
-
-	<link>
 		<term>EU</term>
 		<title>European Health Insurance Card</title>
 		<string>Health Insurance Card in the 27 ==b=EU=b== countries, Iceland, Lichtenstein, Norway and Switzerland. </string>
@@ -8039,13 +7255,6 @@
 		<term>Switzerland</term>
 		<title>European Health Insurance Card</title>
 		<string>EU countries, Iceland, Lichtenstein, Norway and ==b=Switzerland.=b== It includes general information about the </string>
-		<url>apps-personal.php#European_Health_Insurance_Card</url>
-	</link>
-
-	<link>
-		<term>It</term>
-		<title>European Health Insurance Card</title>
-		<string>countries, Iceland, Lichtenstein, Norway and Switzerland. ==b=It=b== includes general information about the card, </string>
 		<url>apps-personal.php#European_Health_Insurance_Card</url>
 	</link>
 
@@ -8169,13 +7378,6 @@
 	</link>
 
 	<link>
-		<term>you</term>
-		<title>European Health Insurance Card</title>
-		<string>and who to contact in case ==b=you=b== have lost your card. </string>
-		<url>apps-personal.php#European_Health_Insurance_Card</url>
-	</link>
-
-	<link>
 		<term>have</term>
 		<title>European Health Insurance Card</title>
 		<string>who to contact in case you ==b=have=b== lost your card. </string>
@@ -8260,13 +7462,6 @@
 	</link>
 
 	<link>
-		<term>on</term>
-		<title>Maps</title>
-		<string>better than the Apple one??? Pre-installed ==b=on=b== many Tablets but also available from </string>
-		<url>apps-personal.php#Maps</url>
-	</link>
-
-	<link>
 		<term>many</term>
 		<title>Maps</title>
 		<string>than the Apple one??? Pre-installed on ==b=many=b== Tablets but also available from the </string>
@@ -8311,42 +7506,35 @@
 	<link>
 		<term>Play</term>
 		<title>Maps</title>
-		<string>Tablets but also available from the ==b=Play=b== Store. Can Pinch to Zoom In/Out. </string>
+		<string>Tablets but also available from the ==b=Play=b== Store. Can Pinch to Zoom In </string>
 		<url>apps-personal.php#Maps</url>
 	</link>
 
 	<link>
 		<term>Store</term>
 		<title>Maps</title>
-		<string>but also available from the Play ==b=Store.=b== Can Pinch to Zoom In/Out. </string>
-		<url>apps-personal.php#Maps</url>
-	</link>
-
-	<link>
-		<term>Can</term>
-		<title>Maps</title>
-		<string>also available from the Play Store. ==b=Can=b== Pinch to Zoom In/Out. </string>
+		<string>but also available from the Play ==b=Store.=b== Can Pinch to Zoom In Out. </string>
 		<url>apps-personal.php#Maps</url>
 	</link>
 
 	<link>
 		<term>Pinch</term>
 		<title>Maps</title>
-		<string>available from the Play Store. Can ==b=Pinch=b== to Zoom In/Out. </string>
+		<string>available from the Play Store. Can ==b=Pinch=b== to Zoom In Out. </string>
 		<url>apps-personal.php#Maps</url>
 	</link>
 
 	<link>
 		<term>Zoom</term>
 		<title>Maps</title>
-		<string>the Play Store. Can Pinch to ==b=Zoom=b== In/Out. </string>
+		<string>the Play Store. Can Pinch to ==b=Zoom=b== In Out. </string>
 		<url>apps-personal.php#Maps</url>
 	</link>
 
 	<link>
-		<term>InOut</term>
+		<term>Out</term>
 		<title>Maps</title>
-		<string>Play Store. Can Pinch to Zoom ==b=In/Out.=b== </string>
+		<string>Store. Can Pinch to Zoom In ==b=Out.=b== </string>
 		<url>apps-personal.php#Maps</url>
 	</link>
 
@@ -8375,13 +7563,6 @@
 		<term>results</term>
 		<title>Next Train Ireland</title>
 		<string> Get timetable and realtime ==b=results=b== for any train station in Ireland! </string>
-		<url>apps-personal.php#Next_Train_Ireland</url>
-	</link>
-
-	<link>
-		<term>for</term>
-		<title>Next Train Ireland</title>
-		<string> Get timetable and realtime results ==b=for=b== any train station in Ireland! Includes </string>
 		<url>apps-personal.php#Next_Train_Ireland</url>
 	</link>
 
@@ -8589,13 +7770,6 @@
 	</link>
 
 	<link>
-		<term>for</term>
-		<title>Pumps.ie</title>
-		<string> Pumps.ie ==b=for=b== Android will help you get the </string>
-		<url>apps-personal.php#Pumps.ie</url>
-	</link>
-
-	<link>
 		<term>Android</term>
 		<title>Pumps.ie</title>
 		<string> Pumps.ie for ==b=Android=b== will help you get the best </string>
@@ -8617,13 +7791,6 @@
 	</link>
 
 	<link>
-		<term>you</term>
-		<title>Pumps.ie</title>
-		<string> Pumps.ie for Android will help ==b=you=b== get the best price for your </string>
-		<url>apps-personal.php#Pumps.ie</url>
-	</link>
-
-	<link>
 		<term>get</term>
 		<title>Pumps.ie</title>
 		<string>Pumps.ie for Android will help you ==b=get=b== the best price for your petrol </string>
@@ -8641,13 +7808,6 @@
 		<term>price</term>
 		<title>Pumps.ie</title>
 		<string>will help you get the best ==b=price=b== for your petrol and diesel throughout </string>
-		<url>apps-personal.php#Pumps.ie</url>
-	</link>
-
-	<link>
-		<term>for</term>
-		<title>Pumps.ie</title>
-		<string>help you get the best price ==b=for=b== your petrol and diesel throughout Ireland. </string>
 		<url>apps-personal.php#Pumps.ie</url>
 	</link>
 
@@ -8897,13 +8057,6 @@
 	</link>
 
 	<link>
-		<term>you</term>
-		<title>TripIt</title>
-		<string>business dinner starts. With TripIt, everything ==b=you=b== need to get you where you’re </string>
-		<url>apps-personal.php#TripIt</url>
-	</link>
-
-	<link>
 		<term>need</term>
 		<title>TripIt</title>
 		<string>dinner starts. With TripIt, everything you ==b=need=b== to get you where you’re going </string>
@@ -8914,13 +8067,6 @@
 		<term>get</term>
 		<title>TripIt</title>
 		<string>With TripIt, everything you need to ==b=get=b== you where you’re going and back </string>
-		<url>apps-personal.php#TripIt</url>
-	</link>
-
-	<link>
-		<term>you</term>
-		<title>TripIt</title>
-		<string>TripIt, everything you need to get ==b=you=b== where you’re going and back again </string>
 		<url>apps-personal.php#TripIt</url>
 	</link>
 
@@ -9030,13 +8176,6 @@
 	</link>
 
 	<link>
-		<term>may</term>
-		<title>Your Passenger Rights</title>
-		<string>at airports or awaiting missing luggage ==b=may=b== now use a mobile application to </string>
-		<url>apps-personal.php#Your_Passenger_Rights</url>
-	</link>
-
-	<link>
 		<term>now</term>
 		<title>Your Passenger Rights</title>
 		<string>airports or awaiting missing luggage may ==b=now=b== use a mobile application to check </string>
@@ -9093,13 +8232,6 @@
 	</link>
 
 	<link>
-		<term>on</term>
-		<title>Your Passenger Rights</title>
-		<string>to check their rights immediately and ==b=on=b== the spot. </string>
-		<url>apps-personal.php#Your_Passenger_Rights</url>
-	</link>
-
-	<link>
 		<term>spot</term>
 		<title>Your Passenger Rights</title>
 		<string>their rights immediately and on the ==b=spot.=b== </string>
@@ -9135,13 +8267,6 @@
 	</link>
 
 	<link>
-		<term>on</term>
-		<title>PassWallet - Passbook + NFC</title>
-		<string> Display your Boarding Pass ==b=on=b== your Android Screen instead of on </string>
-		<url>apps-personal.php#PassWallet_-_Passbook_+_NFC</url>
-	</link>
-
-	<link>
 		<term>your</term>
 		<title>PassWallet - Passbook + NFC</title>
 		<string> Display your Boarding Pass on ==b=your=b== Android Screen instead of on paper </string>
@@ -9170,13 +8295,6 @@
 	</link>
 
 	<link>
-		<term>on</term>
-		<title>PassWallet - Passbook + NFC</title>
-		<string>on your Android Screen instead of ==b=on=b== paper (although I might do the </string>
-		<url>apps-personal.php#PassWallet_-_Passbook_+_NFC</url>
-	</link>
-
-	<link>
 		<term>paper</term>
 		<title>PassWallet - Passbook + NFC</title>
 		<string>your Android Screen instead of on ==b=paper=b== (although I might do the hardcopy </string>
@@ -9187,13 +8305,6 @@
 		<term>although</term>
 		<title>PassWallet - Passbook + NFC</title>
 		<string>Android Screen instead of on paper ==b=(although=b== I might do the hardcopy printout </string>
-		<url>apps-personal.php#PassWallet_-_Passbook_+_NFC</url>
-	</link>
-
-	<link>
-		<term>I</term>
-		<title>PassWallet - Passbook + NFC</title>
-		<string>Screen instead of on paper (although ==b=I=b== might do the hardcopy printout also, </string>
 		<url>apps-personal.php#PassWallet_-_Passbook_+_NFC</url>
 	</link>
 
@@ -9275,13 +8386,6 @@
 	</link>
 
 	<link>
-		<term>and</term>
-		<title>Met Eireann</title>
-		<string> ==b=...and=b== when will there be rain? </string>
-		<url>apps-personal.php#Met_Eireann</url>
-	</link>
-
-	<link>
 		<term>when</term>
 		<title>Met Eireann</title>
 		<string> ...and ==b=when=b== will there be rain? </string>
@@ -9299,13 +8403,6 @@
 		<term>there</term>
 		<title>Met Eireann</title>
 		<string> ...and when will ==b=there=b== be rain? </string>
-		<url>apps-personal.php#Met_Eireann</url>
-	</link>
-
-	<link>
-		<term>be</term>
-		<title>Met Eireann</title>
-		<string> ...and when will there ==b=be=b== rain? </string>
 		<url>apps-personal.php#Met_Eireann</url>
 	</link>
 

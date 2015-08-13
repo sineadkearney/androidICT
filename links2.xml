@@ -1,427 +1,988 @@
-
-<!--  Edited by XMLSpy  -->
 <pages>
-
-<link>
-<title>What is Android?</title>
-<url>android-os.php#what_is_android</url>
-</link>
-
-<link>
-<title>Android version</title>
-<url>android-os.php#what_is_android</url>
-</link>
-
-<link>
-<title>How to use Android?</title>
-<url>android-os.php#how_to_use_android</url>
-</link>
-
-<link>
-<title>Android Weblinks</title>
-<url>android-weblinks.php</url>
-</link>
-
-<link>
-<title>Android Classroom</title>
-<url>android-classroom.php</url>
-</link>
-
-<link>
-<title>Android Hardware</title>
-<url>android-hardware.php</url>
-</link>
-
-<link>
-<title>Android Tablets Specification</title>
-<url>spec-table.php</url>
-</link>
-
-<link>
-<title>Projector</title>
-<url>android-hardware.php#essential</url>
-</link>
-
-<link>
-<title>Tablet Case</title>
-<url>android-hardware.php#optional</url>
-</link>
-
-<link>
-<title>Visualiser</title>
-<url>android-hardware.php#optional</url>
-</link>
-
-<link>
-<title>Keyboard</title>
-<url>android-hardware.php#optional</url>
-</link>
-
-<link>
-<title>Android Research</title>
-<url>android-research.php</url>
-</link>
-
-<link>
-<title>Research and Media Articles</title>
-<url>android-research.php#articles</url>
-</link>
-
-<link>
-<title>Research Studies</title>
-<url>android-research.php#research_studies</url>
-</link>
-
-<link>
-<title>Android Testimonials</title>
-<url>android-testimonials.php</url>
-</link>
-
-<link>
-<title>Student Testimonials</title>
-<url>android-testimonials.php#pupils</url>
-</link>
-
-<link>
-<title>Android Support</title>
-<url>android-support.php</url>
-</link>
-
-<link>
-<title>What is the specification of the Tablets used in the Android Project?</title>
-<url>android-support.php#1</url>
-</link>
-
-<link>
-<title>How do I project my Android Desktop onto the Whiteboard?</title>
-<url>android-support.php#2</url>
-</link>
-
-<link>
-<title>My Projector does not have a HDMI Input socket. How can I use it?</title>
-<url>android-support.php#3</url>
-</link>
-
-<link>
-<title>Can I connect my Android to 'Apple TV' so that I can roam around the classroom?</title>
-<url>android-support.php#4</url>
-</link>
-
-<link>
-<title>Can I connect to my non-HDMI Pojector?</title>
-<url>android-support.php#5</url>
-</link>
-
-<link>
-<title>Can I use the Interactive Whiteboard in order to control the Tablet?</title>
-<url>android-support.php#6</url>
-</link>
-
-<link>
-<title>Does my classroom need to have Wifi internet access?</title>
-<url>android-support.php#7</url>
-</link>
-
-<link>
-<title>Can I view or control my Student Tablets from my Desktop?</title>
-<url>android-support.php#8</url>
-</link>
-
-<link>
-<title>Can I install Android Apps from a 'store'?</title>
-<url>android-support.php#9</url>
-</link>
-
-<link>
-<title>Can I install Androd Apps directly, or must I go via some 'store'?</title>
-<url>android-support.php#10</url>
-</link>
-
-<link>
-<title>Can I install a group of .apk files all at once?</title>
-<url>android-support.php#11</url>
-</link>
-
-<link>
-<title>Can I install a number of Apps across multiple Tablets?</title>
-<url>android-support.php#12</url>
-</link>
-
-<link>
-<title>Do I have to give my Credit Card details for the Google Play Store?</title>
-<url>android-support.php#13</url>
-</link>
-
-<link>
-<title>Can I 'lock down' the Tablets in order to control access to apps?</title>
-<url>android-support.php#14</url>
-</link>
-
-<link>
-<title>Contact</title>
-<url>contact.php</url>
-</link>
-
-<link>
-<title>Barry Donn</title>
-<url>contact.php#barry_donn</url>
-</link>
-
-<link>
-<title>Uptown Computers</title>
-<url>contact.php#barry_donn</url>
-</link>
-
-<link>
-<title>David Kearney</title>
-<url>contact.php#david_kearney</url>
-</link>
-
-<link>
-<title>David Kearney</title>
-<url>contact.php#david_kearney</url>
-</link>
-
-<link>
-<title>Apps for Primary Students - English</title>
-<url>apps-primary.php#english</url>
-</link>
-
-<link>
-<title>Apps for Primary Students - Irish/Gaeilge</title>
-<url>apps-primary.php#irish</url>
-</link>
-
-<link>
-<title>Apps for Primary Students - Geography</title>
-<url>apps-primary.php#geography</url>
-</link>
-
-<link>
-<title>Apps for Primary Students - History</title>
-<url>apps-primary.php#history</url>
-</link>
-
-<link>
-<title>Apps for Primary Students - Maths</title>
-<url>apps-primary.php#maths</url>
-</link>
-
-<link>
-<title>Apps for Primary Students - Music</title>
-<url>apps-primary.php#music</url>
-</link>
-
-<link>
-<title>Apps for Primary Students - Science</title>
-<url>apps-primary.php#science</url>
-</link>
-
-<link>
-<title>Apps for Primary Students - Typing</title>
-<url>apps-primary.php#typing</url>
-</link>
-
-<link>
-<title>Apps for Primary Students - Visual Arts</title>
-<url>apps-primary.php#arts</url>
-</link>
-
-
-<link>
-<title>Apps for Primary Students - All/Mixed Subjects</title>
-<url>apps-primary.php#allMixed</url>
-</link>
-
-<link>
-<title>Apps for Post Primary students - Art</title>
-<url>apps-postprimary.php#art</url>
-</link>
-
-<link>
-<title>Apps for Post Primary students - Business</title>
-<url>apps-postprimary.php#business</url>
-</link>
-
-<link>
-<title>Apps for Post Primary students - CSPE</title>
-<url>apps-postprimary.php#cspe</url>
-</link>
-
-<link>
-<title>Apps for Post Primary students - English</title>
-<url>apps-postprimary.php#english</url>
-</link>
-
-<link>
-<title>Apps for Post Primary students - Irish/Gaeilge</title>
-<url>apps-postprimary.php#irish</url>
-</link>
-
-<link>
-<title>Apps for Post Primary students - Geography</title>
-<url>apps-postprimary.php#geography</url>
-</link>
-
-<link>
-<title>Apps for Post Primary students - History</title>
-<url>apps-postprimary.php#history</url>
-</link>
-
-<link>
-<title>Apps for Post Primary students - Home Ec</title>
-<url>apps-postprimary.php#homeEc</url>
-</link>
-
-<link>
-<title>Apps for Post Primary students - Languages</title>
-<url>apps-postprimary.php#languages</url>
-</link>
-
-<link>
-<title>Apps for Post Primary students - Materials Technology</title>
-<url>apps-postprimary.php#matTech</url>
-</link>
-
-<link>
-<title>Apps for Post Primary students - Maths</title>
-<url>apps-postprimary.php#maths</url>
-</link>
-
-<link>
-<title>Apps for Post Primary students - Music</title>
-<url>apps-postprimary.php#music</url>
-</link>
-
-<link>
-<title>Apps for Post Primary students - PE/Health</title>
-<url>apps-postprimary.php#pe</url>
-</link>
-
-<link>
-<title>Apps for Post Primary students - Religion</title>
-<url>apps-postprimary.php#religion</url>
-</link>
-
-<link>
-<title>Apps for Post Primary students - Science</title>
-<url>apps-postprimary.php#Science</url>
-</link>
-
-<link>
-<title>Apps for Post Primary students - All Subjects</title>
-<url>apps-postprimary.php#all</url>
-</link>
-
-<link>
-<title>Apps for Teachers - All Subjects</title>
-<url>apps-teacher.php#all</url>
-</link>
-
-<link>
-<title>Apps for Teachers - Coding</title>
-<url>apps-teacher.php#coding</url>
-</link>
-
-<link>
-<title>Apps for Teachers - Creating</title>
-<url>apps-teacher.php#creating</url>
-</link>
-
-<link>
-<title>Apps for Teachers - Diagnostic</title>
-<url>apps-teacher.php#diagnostic</url>
-</link>
-
-<link>
-<title>Apps for Teachers - Editing</title>
-<url>apps-teacher.php#editing</url>
-</link>
-
-<link>
-<title>Apps for Teachers - Personal Development</title>
-<url>apps-teacher.php#personalDev</url>
-</link>
-
-<link>
-<title>Apps for Teachers - Publishing</title>
-<url>apps-teacher.php#publishing</url>
-</link>
-
-<link>
-<title>Apps for Teachers - Teaching Aid</title>
-<url>apps-teacher.php#teachingAid</url>
-</link>
-
-<link>
-<title>Apps for Teachers - Whiteboard</title>
-<url>apps-teacher.php#whiteboard</url>
-</link>
-
-<link>
-<title>Apps by Various Schools</title>
-<url>apps-teacher.php#schools</url>
-</link>
-
-<link>
-<title>Apps for Personal Use - Banking/Finance</title>
-<url>apps-personal.php#banking</url>
-</link>
-
-<link>
-<title>Apps for Personal Use - Cloud Storage</title>
-<url>apps-personal.php#cloud</url>
-</link>
-
-<link>
-<title>Apps for Personal Use - Entertainment/Hobbies</title>
-<url>apps-personal.php#entertainment</url>
-</link>
-
-<link>
-<title>Apps for Personal Use - Games</title>
-<url>apps-personal.php#games</url>
-</link>
-
-<link>
-<title>Apps for Personal Use - Networking/Communication</title>
-<url>apps-personal.php#netComm</url>
-</link>
-
-<link>
-<title>Apps for Personal Use - News/Media</title>
-<url>apps-personal.php#news</url>
-</link>
-
-<link>
-<title>Apps for Personal Use - Office</title>
-<url>apps-personal.php#office</url>
-</link>
-
-<link>
-<title>Apps for Personal Use - Property</title>
-<url>apps-personal.php#property</url>
-</link>
-
-<link>
-<title>Apps for Personal Use - Shopping</title>
-<url>apps-personal.php#shopping</url>
-</link>
-
-<link>
-<title>Apps for Personal Use - Travel</title>
-<url>apps-personal.php#travel</url>
-</link>
-
-<link>
-<title>Apps for Personal Use - Weather</title>
-<url>apps-personal.php#weather</url>
-</link>
-
-<link>
-<title>Apps for Special Needs Students</title>
-<url>apps-sn.php</url>
-</link>
-
-
+	<link>
+		<term>Our</term>
+		<title>Android Classroom</title>
+		<string>==b=Our=b== vision for a Tablet-enabled, student-centric classroom </string>
+		<url>android-classroom.php#1</url>
+	</link>
+
+	<link>
+		<term>vision</term>
+		<title>Android Classroom</title>
+		<string>Our ==b=vision=b== for a Tablet-enabled, student-centric classroom is </string>
+		<url>android-classroom.php#1</url>
+	</link>
+
+	<link>
+		<term>Tabletenabled</term>
+		<title>Android Classroom</title>
+		<string>Our vision for a ==b=Tablet-enabled,=b== student-centric classroom is one which recognizes </string>
+		<url>android-classroom.php#1</url>
+	</link>
+
+	<link>
+		<term>studentcentric</term>
+		<title>Android Classroom</title>
+		<string>Our vision for a Tablet-enabled, ==b=student-centric=b== classroom is one which recognizes and </string>
+		<url>android-classroom.php#1</url>
+	</link>
+
+	<link>
+		<term>classroom</term>
+		<title>Android Classroom</title>
+		<string>Our vision for a Tablet-enabled, student-centric ==b=classroom=b== is one which recognizes and enhances </string>
+		<url>android-classroom.php#1</url>
+	</link>
+
+	<link>
+		<term>one</term>
+		<title>Android Classroom</title>
+		<string>for a Tablet-enabled, student-centric classroom is ==b=one=b== which recognizes and enhances the existing </string>
+		<url>android-classroom.php#1</url>
+	</link>
+
+	<link>
+		<term>recognizes</term>
+		<title>Android Classroom</title>
+		<string>Tablet-enabled, student-centric classroom is one which ==b=recognizes=b== and enhances the existing classroom ICT </string>
+		<url>android-classroom.php#1</url>
+	</link>
+
+	<link>
+		<term>enhances</term>
+		<title>Android Classroom</title>
+		<string>classroom is one which recognizes and ==b=enhances=b== the existing classroom ICT infrastructure, and </string>
+		<url>android-classroom.php#1</url>
+	</link>
+
+	<link>
+		<term>existing</term>
+		<title>Android Classroom</title>
+		<string>one which recognizes and enhances the ==b=existing=b== classroom ICT infrastructure, and which then </string>
+		<url>android-classroom.php#1</url>
+	</link>
+
+	<link>
+		<term>classroom</term>
+		<title>Android Classroom</title>
+		<string>which recognizes and enhances the existing ==b=classroom=b== ICT infrastructure, and which then extends </string>
+		<url>android-classroom.php#1</url>
+	</link>
+
+	<link>
+		<term>ICT</term>
+		<title>Android Classroom</title>
+		<string>recognizes and enhances the existing classroom ==b=ICT=b== infrastructure, and which then extends this. </string>
+		<url>android-classroom.php#1</url>
+	</link>
+
+	<link>
+		<term>infrastructure</term>
+		<title>Android Classroom</title>
+		<string>and enhances the existing classroom ICT ==b=infrastructure,=b== and which then extends this. </string>
+		<url>android-classroom.php#1</url>
+	</link>
+
+	<link>
+		<term>then</term>
+		<title>Android Classroom</title>
+		<string>existing classroom ICT infrastructure, and which ==b=then=b== extends this. </string>
+		<url>android-classroom.php#1</url>
+	</link>
+
+	<link>
+		<term>extends</term>
+		<title>Android Classroom</title>
+		<string>classroom ICT infrastructure, and which then ==b=extends=b== this. </string>
+		<url>android-classroom.php#1</url>
+	</link>
+
+	<link>
+		<term>this</term>
+		<title>Android Classroom</title>
+		<string>ICT infrastructure, and which then extends ==b=this.=b== </string>
+		<url>android-classroom.php#1</url>
+	</link>
+
+	<link>
+		<term>Many</term>
+		<title>Android Classroom</title>
+		<string>==b=Many=b== if not most classrooms already have </string>
+		<url>android-classroom.php#2</url>
+	</link>
+
+	<link>
+		<term>if</term>
+		<title>Android Classroom</title>
+		<string>Many ==b=if=b== not most classrooms already have a </string>
+		<url>android-classroom.php#2</url>
+	</link>
+
+	<link>
+		<term>not</term>
+		<title>Android Classroom</title>
+		<string>Many if ==b=not=b== most classrooms already have a Data </string>
+		<url>android-classroom.php#2</url>
+	</link>
+
+	<link>
+		<term>most</term>
+		<title>Android Classroom</title>
+		<string>Many if not ==b=most=b== classrooms already have a Data Projector </string>
+		<url>android-classroom.php#2</url>
+	</link>
+
+	<link>
+		<term>classrooms</term>
+		<title>Android Classroom</title>
+		<string>Many if not most ==b=classrooms=b== already have a Data Projector connected </string>
+		<url>android-classroom.php#2</url>
+	</link>
+
+	<link>
+		<term>already</term>
+		<title>Android Classroom</title>
+		<string>Many if not most classrooms ==b=already=b== have a Data Projector connected to </string>
+		<url>android-classroom.php#2</url>
+	</link>
+
+	<link>
+		<term>have</term>
+		<title>Android Classroom</title>
+		<string>Many if not most classrooms already ==b=have=b== a Data Projector connected to an </string>
+		<url>android-classroom.php#2</url>
+	</link>
+
+	<link>
+		<term>Data</term>
+		<title>Android Classroom</title>
+		<string>not most classrooms already have a ==b=Data=b== Projector connected to an existing 'teacher </string>
+		<url>android-classroom.php#2</url>
+	</link>
+
+	<link>
+		<term>Projector</term>
+		<title>Android Classroom</title>
+		<string>most classrooms already have a Data ==b=Projector=b== connected to an existing 'teacher computer' </string>
+		<url>android-classroom.php#2</url>
+	</link>
+
+	<link>
+		<term>connected</term>
+		<title>Android Classroom</title>
+		<string>classrooms already have a Data Projector ==b=connected=b== to an existing 'teacher computer' (this </string>
+		<url>android-classroom.php#2</url>
+	</link>
+
+	<link>
+		<term>existing</term>
+		<title>Android Classroom</title>
+		<string>a Data Projector connected to an ==b=existing=b== 'teacher computer' (this latter may be </string>
+		<url>android-classroom.php#2</url>
+	</link>
+
+	<link>
+		<term>'teacher</term>
+		<title>Android Classroom</title>
+		<string>Data Projector connected to an existing ==b='teacher=b== computer' (this latter may be a </string>
+		<url>android-classroom.php#2</url>
+	</link>
+
+	<link>
+		<term>computer'</term>
+		<title>Android Classroom</title>
+		<string>Projector connected to an existing 'teacher ==b=computer'=b== (this latter may be a Deskop </string>
+		<url>android-classroom.php#2</url>
+	</link>
+
+	<link>
+		<term>this</term>
+		<title>Android Classroom</title>
+		<string>connected to an existing 'teacher computer' ==b=(this=b== latter may be a Deskop or </string>
+		<url>android-classroom.php#2</url>
+	</link>
+
+	<link>
+		<term>latter</term>
+		<title>Android Classroom</title>
+		<string>to an existing 'teacher computer' (this ==b=latter=b== may be a Deskop or Laptop, </string>
+		<url>android-classroom.php#2</url>
+	</link>
+
+	<link>
+		<term>Deskop</term>
+		<title>Android Classroom</title>
+		<string>computer' (this latter may be a ==b=Deskop=b== or Laptop, Windows or Mac or </string>
+		<url>android-classroom.php#2</url>
+	</link>
+
+	<link>
+		<term>Laptop</term>
+		<title>Android Classroom</title>
+		<string>latter may be a Deskop or ==b=Laptop,=b== Windows or Mac or Linux).  </string>
+		<url>android-classroom.php#2</url>
+	</link>
+
+	<link>
+		<term>Windows</term>
+		<title>Android Classroom</title>
+		<string>may be a Deskop or Laptop, ==b=Windows=b== or Mac or Linux).  </string>
+		<url>android-classroom.php#2</url>
+	</link>
+
+	<link>
+		<term>Mac</term>
+		<title>Android Classroom</title>
+		<string>a Deskop or Laptop, Windows or ==b=Mac=b== or Linux).  </string>
+		<url>android-classroom.php#2</url>
+	</link>
+
+	<link>
+		<term>Linux</term>
+		<title>Android Classroom</title>
+		<string>or Laptop, Windows or Mac or ==b=Linux).=b==  </string>
+		<url>android-classroom.php#2</url>
+	</link>
+
+	<link>
+		<term>Further</term>
+		<title>Android Classroom</title>
+		<string>==b=Further=b== many of these 'teacher computers' are </string>
+		<url>android-classroom.php#3</url>
+	</link>
+
+	<link>
+		<term>many</term>
+		<title>Android Classroom</title>
+		<string>Further ==b=many=b== of these 'teacher computers' are connected </string>
+		<url>android-classroom.php#3</url>
+	</link>
+
+	<link>
+		<term>these</term>
+		<title>Android Classroom</title>
+		<string>Further many of ==b=these=b== 'teacher computers' are connected to an </string>
+		<url>android-classroom.php#3</url>
+	</link>
+
+	<link>
+		<term>'teacher</term>
+		<title>Android Classroom</title>
+		<string>Further many of these ==b='teacher=b== computers' are connected to an existing </string>
+		<url>android-classroom.php#3</url>
+	</link>
+
+	<link>
+		<term>computers'</term>
+		<title>Android Classroom</title>
+		<string>Further many of these 'teacher ==b=computers'=b== are connected to an existing Interactive </string>
+		<url>android-classroom.php#3</url>
+	</link>
+
+	<link>
+		<term>are</term>
+		<title>Android Classroom</title>
+		<string>Further many of these 'teacher computers' ==b=are=b== connected to an existing Interactive Whiteboard </string>
+		<url>android-classroom.php#3</url>
+	</link>
+
+	<link>
+		<term>connected</term>
+		<title>Android Classroom</title>
+		<string>many of these 'teacher computers' are ==b=connected=b== to an existing Interactive Whiteboard (or </string>
+		<url>android-classroom.php#3</url>
+	</link>
+
+	<link>
+		<term>existing</term>
+		<title>Android Classroom</title>
+		<string>'teacher computers' are connected to an ==b=existing=b== Interactive Whiteboard (or there may be </string>
+		<url>android-classroom.php#3</url>
+	</link>
+
+	<link>
+		<term>Interactive</term>
+		<title>Android Classroom</title>
+		<string>computers' are connected to an existing ==b=Interactive=b== Whiteboard (or there may be a </string>
+		<url>android-classroom.php#3</url>
+	</link>
+
+	<link>
+		<term>Whiteboard</term>
+		<title>Android Classroom</title>
+		<string>are connected to an existing Interactive ==b=Whiteboard=b== (or there may be a Projector </string>
+		<url>android-classroom.php#3</url>
+	</link>
+
+	<link>
+		<term>there</term>
+		<title>Android Classroom</title>
+		<string>to an existing Interactive Whiteboard (or ==b=there=b== may be a Projector with an </string>
+		<url>android-classroom.php#3</url>
+	</link>
+
+	<link>
+		<term>Projector</term>
+		<title>Android Classroom</title>
+		<string>Whiteboard (or there may be a ==b=Projector=b== with an 'Interactive Projector')  </string>
+		<url>android-classroom.php#3</url>
+	</link>
+
+	<link>
+		<term>with</term>
+		<title>Android Classroom</title>
+		<string>(or there may be a Projector ==b=with=b== an 'Interactive Projector')  </string>
+		<url>android-classroom.php#3</url>
+	</link>
+
+	<link>
+		<term>'Interactive</term>
+		<title>Android Classroom</title>
+		<string>may be a Projector with an ==b='Interactive=b== Projector')  </string>
+		<url>android-classroom.php#3</url>
+	</link>
+
+	<link>
+		<term>Projector'</term>
+		<title>Android Classroom</title>
+		<string>be a Projector with an 'Interactive ==b=Projector')=b==  </string>
+		<url>android-classroom.php#3</url>
+	</link>
+
+	<link>
+		<term>Many</term>
+		<title>Android Classroom</title>
+		<string>==b=Many=b== schools and teachers have invested greatly </string>
+		<url>android-classroom.php#4</url>
+	</link>
+
+	<link>
+		<term>schools</term>
+		<title>Android Classroom</title>
+		<string>Many ==b=schools=b== and teachers have invested greatly in </string>
+		<url>android-classroom.php#4</url>
+	</link>
+
+	<link>
+		<term>teachers</term>
+		<title>Android Classroom</title>
+		<string>Many schools and ==b=teachers=b== have invested greatly in developing their </string>
+		<url>android-classroom.php#4</url>
+	</link>
+
+	<link>
+		<term>have</term>
+		<title>Android Classroom</title>
+		<string>Many schools and teachers ==b=have=b== invested greatly in developing their professional </string>
+		<url>android-classroom.php#4</url>
+	</link>
+
+	<link>
+		<term>invested</term>
+		<title>Android Classroom</title>
+		<string>Many schools and teachers have ==b=invested=b== greatly in developing their professional practice </string>
+		<url>android-classroom.php#4</url>
+	</link>
+
+	<link>
+		<term>greatly</term>
+		<title>Android Classroom</title>
+		<string>Many schools and teachers have invested ==b=greatly=b== in developing their professional practice and </string>
+		<url>android-classroom.php#4</url>
+	</link>
+
+	<link>
+		<term>developing</term>
+		<title>Android Classroom</title>
+		<string>and teachers have invested greatly in ==b=developing=b== their professional practice and resource bank </string>
+		<url>android-classroom.php#4</url>
+	</link>
+
+	<link>
+		<term>their</term>
+		<title>Android Classroom</title>
+		<string>teachers have invested greatly in developing ==b=their=b== professional practice and resource bank (sometimes </string>
+		<url>android-classroom.php#4</url>
+	</link>
+
+	<link>
+		<term>professional</term>
+		<title>Android Classroom</title>
+		<string>have invested greatly in developing their ==b=professional=b== practice and resource bank (sometimes dipping </string>
+		<url>android-classroom.php#4</url>
+	</link>
+
+	<link>
+		<term>practice</term>
+		<title>Android Classroom</title>
+		<string>invested greatly in developing their professional ==b=practice=b== and resource bank (sometimes dipping into </string>
+		<url>android-classroom.php#4</url>
+	</link>
+
+	<link>
+		<term>resource</term>
+		<title>Android Classroom</title>
+		<string>in developing their professional practice and ==b=resource=b== bank (sometimes dipping into cbiproject.net!) </string>
+		<url>android-classroom.php#4</url>
+	</link>
+
+	<link>
+		<term>bank</term>
+		<title>Android Classroom</title>
+		<string>developing their professional practice and resource ==b=bank=b== (sometimes dipping into cbiproject.net!) </string>
+		<url>android-classroom.php#4</url>
+	</link>
+
+	<link>
+		<term>sometimes</term>
+		<title>Android Classroom</title>
+		<string>their professional practice and resource bank ==b=(sometimes=b== dipping into cbiproject.net!) </string>
+		<url>android-classroom.php#4</url>
+	</link>
+
+	<link>
+		<term>dipping</term>
+		<title>Android Classroom</title>
+		<string>professional practice and resource bank (sometimes ==b=dipping=b== into cbiproject.net!) </string>
+		<url>android-classroom.php#4</url>
+	</link>
+
+	<link>
+		<term>into</term>
+		<title>Android Classroom</title>
+		<string>practice and resource bank (sometimes dipping ==b=into=b== cbiproject.net!) </string>
+		<url>android-classroom.php#4</url>
+	</link>
+
+	<link>
+		<term>cbiprojectnet</term>
+		<title>Android Classroom</title>
+		<string>and resource bank (sometimes dipping into ==b=cbiproject.net!)=b== </string>
+		<url>android-classroom.php#4</url>
+	</link>
+
+	<link>
+		<term>We</term>
+		<title>Android Classroom</title>
+		<string>==b=We=b== do not envisage discarding this equipment </string>
+		<url>android-classroom.php#5</url>
+	</link>
+
+	<link>
+		<term>do</term>
+		<title>Android Classroom</title>
+		<string>We ==b=do=b== not envisage discarding this equipment in </string>
+		<url>android-classroom.php#5</url>
+	</link>
+
+	<link>
+		<term>not</term>
+		<title>Android Classroom</title>
+		<string>We do ==b=not=b== envisage discarding this equipment in favour </string>
+		<url>android-classroom.php#5</url>
+	</link>
+
+	<link>
+		<term>envisage</term>
+		<title>Android Classroom</title>
+		<string>We do not ==b=envisage=b== discarding this equipment in favour of </string>
+		<url>android-classroom.php#5</url>
+	</link>
+
+	<link>
+		<term>discarding</term>
+		<title>Android Classroom</title>
+		<string>We do not envisage ==b=discarding=b== this equipment in favour of the </string>
+		<url>android-classroom.php#5</url>
+	</link>
+
+	<link>
+		<term>this</term>
+		<title>Android Classroom</title>
+		<string>We do not envisage discarding ==b=this=b== equipment in favour of the 'new </string>
+		<url>android-classroom.php#5</url>
+	</link>
+
+	<link>
+		<term>equipment</term>
+		<title>Android Classroom</title>
+		<string>We do not envisage discarding this ==b=equipment=b== in favour of the 'new model'. </string>
+		<url>android-classroom.php#5</url>
+	</link>
+
+	<link>
+		<term>favour</term>
+		<title>Android Classroom</title>
+		<string>not envisage discarding this equipment in ==b=favour=b== of the 'new model'. </string>
+		<url>android-classroom.php#5</url>
+	</link>
+
+	<link>
+		<term>'new</term>
+		<title>Android Classroom</title>
+		<string>this equipment in favour of the ==b='new=b== model'. </string>
+		<url>android-classroom.php#5</url>
+	</link>
+
+	<link>
+		<term>model'</term>
+		<title>Android Classroom</title>
+		<string>equipment in favour of the 'new ==b=model'.=b== </string>
+		<url>android-classroom.php#5</url>
+	</link>
+
+	<link>
+		<term>Rather</term>
+		<title>Android Classroom</title>
+		<string>==b=Rather,=b== we propose adding Tablets into the </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>we</term>
+		<title>Android Classroom</title>
+		<string>Rather, ==b=we=b== propose adding Tablets into the environment. </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>propose</term>
+		<title>Android Classroom</title>
+		<string>Rather, we ==b=propose=b== adding Tablets into the environment. These </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>adding</term>
+		<title>Android Classroom</title>
+		<string>Rather, we propose ==b=adding=b== Tablets into the environment. These Tablets </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>Tablets</term>
+		<title>Android Classroom</title>
+		<string>Rather, we propose adding ==b=Tablets=b== into the environment. These Tablets are </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>into</term>
+		<title>Android Classroom</title>
+		<string>Rather, we propose adding Tablets ==b=into=b== the environment. These Tablets are for </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>environment</term>
+		<title>Android Classroom</title>
+		<string>we propose adding Tablets into the ==b=environment.=b== These Tablets are for Student Use </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>These</term>
+		<title>Android Classroom</title>
+		<string>propose adding Tablets into the environment. ==b=These=b== Tablets are for Student Use in </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>Tablets</term>
+		<title>Android Classroom</title>
+		<string>adding Tablets into the environment. These ==b=Tablets=b== are for Student Use in classroom </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>are</term>
+		<title>Android Classroom</title>
+		<string>Tablets into the environment. These Tablets ==b=are=b== for Student Use in classroom where </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>Student</term>
+		<title>Android Classroom</title>
+		<string>the environment. These Tablets are for ==b=Student=b== Use in classroom where the learning </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>Use</term>
+		<title>Android Classroom</title>
+		<string>environment. These Tablets are for Student ==b=Use=b== in classroom where the learning is </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>classroom</term>
+		<title>Android Classroom</title>
+		<string>Tablets are for Student Use in ==b=classroom=b== where the learning is managed by </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>where</term>
+		<title>Android Classroom</title>
+		<string>are for Student Use in classroom ==b=where=b== the learning is managed by the </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>learning</term>
+		<title>Android Classroom</title>
+		<string>Student Use in classroom where the ==b=learning=b== is managed by the Teacher. The </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>managed</term>
+		<title>Android Classroom</title>
+		<string>in classroom where the learning is ==b=managed=b== by the Teacher. The Teacher may, </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>by</term>
+		<title>Android Classroom</title>
+		<string>classroom where the learning is managed ==b=by=b== the Teacher. The Teacher may, in </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>Teacher</term>
+		<title>Android Classroom</title>
+		<string>the learning is managed by the ==b=Teacher.=b== The Teacher may, in addition, have </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>Teacher</term>
+		<title>Android Classroom</title>
+		<string>is managed by the Teacher. The ==b=Teacher=b== may, in addition, have his her </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>addition</term>
+		<title>Android Classroom</title>
+		<string>the Teacher. The Teacher may, in ==b=addition,=b== have his her own Tablet in </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>have</term>
+		<title>Android Classroom</title>
+		<string>Teacher. The Teacher may, in addition, ==b=have=b== his her own Tablet in order </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>his</term>
+		<title>Android Classroom</title>
+		<string>The Teacher may, in addition, have ==b=his=b== her own Tablet in order to </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>her</term>
+		<title>Android Classroom</title>
+		<string>Teacher may, in addition, have his ==b=her=b== own Tablet in order to model </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>own</term>
+		<title>Android Classroom</title>
+		<string>may, in addition, have his her ==b=own=b== Tablet in order to model best </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>Tablet</term>
+		<title>Android Classroom</title>
+		<string>in addition, have his her own ==b=Tablet=b== in order to model best practice. </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>order</term>
+		<title>Android Classroom</title>
+		<string>have his her own Tablet in ==b=order=b== to model best practice. </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>model</term>
+		<title>Android Classroom</title>
+		<string>her own Tablet in order to ==b=model=b== best practice. </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>best</term>
+		<title>Android Classroom</title>
+		<string>own Tablet in order to model ==b=best=b== practice. </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>practice</term>
+		<title>Android Classroom</title>
+		<string>Tablet in order to model best ==b=practice.=b== </string>
+		<url>android-classroom.php#6</url>
+	</link>
+
+	<link>
+		<term>Tablets</term>
+		<title>Android Classroom</title>
+		<string>==b=Tablets=b== may be used in a one-to-one </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>used</term>
+		<title>Android Classroom</title>
+		<string>Tablets may be ==b=used=b== in a one-to-one ratio or with </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>onetoone</term>
+		<title>Android Classroom</title>
+		<string>Tablets may be used in a ==b=one-to-one=b== ratio or with a Tablet shared </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>ratio</term>
+		<title>Android Classroom</title>
+		<string>may be used in a one-to-one ==b=ratio=b== or with a Tablet shared among </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>with</term>
+		<title>Android Classroom</title>
+		<string>used in a one-to-one ratio or ==b=with=b== a Tablet shared among a Group: </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>Tablet</term>
+		<title>Android Classroom</title>
+		<string>a one-to-one ratio or with a ==b=Tablet=b== shared among a Group: the former </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>shared</term>
+		<title>Android Classroom</title>
+		<string>one-to-one ratio or with a Tablet ==b=shared=b== among a Group: the former model </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>among</term>
+		<title>Android Classroom</title>
+		<string>ratio or with a Tablet shared ==b=among=b== a Group: the former model is </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>Group</term>
+		<title>Android Classroom</title>
+		<string>with a Tablet shared among a ==b=Group:=b== the former model is often useful </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>former</term>
+		<title>Android Classroom</title>
+		<string>Tablet shared among a Group: the ==b=former=b== model is often useful for the </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>model</term>
+		<title>Android Classroom</title>
+		<string>shared among a Group: the former ==b=model=b== is often useful for the 'drill </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>often</term>
+		<title>Android Classroom</title>
+		<string>a Group: the former model is ==b=often=b== useful for the 'drill and practice' </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>useful</term>
+		<title>Android Classroom</title>
+		<string>Group: the former model is often ==b=useful=b== for the 'drill and practice' type </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>'drill</term>
+		<title>Android Classroom</title>
+		<string>model is often useful for the ==b='drill=b== and practice' type activities (where individual </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>practice'</term>
+		<title>Android Classroom</title>
+		<string>often useful for the 'drill and ==b=practice'=b== type activities (where individual activity and </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>type</term>
+		<title>Android Classroom</title>
+		<string>useful for the 'drill and practice' ==b=type=b== activities (where individual activity and reinforcement </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>activities</term>
+		<title>Android Classroom</title>
+		<string>for the 'drill and practice' type ==b=activities=b== (where individual activity and reinforcement is </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>where</term>
+		<title>Android Classroom</title>
+		<string>the 'drill and practice' type activities ==b=(where=b== individual activity and reinforcement is useful) </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>individual</term>
+		<title>Android Classroom</title>
+		<string>'drill and practice' type activities (where ==b=individual=b== activity and reinforcement is useful) or </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>activity</term>
+		<title>Android Classroom</title>
+		<string>and practice' type activities (where individual ==b=activity=b== and reinforcement is useful) or for </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>reinforcement</term>
+		<title>Android Classroom</title>
+		<string>type activities (where individual activity and ==b=reinforcement=b== is useful) or for a 'flipped </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>useful</term>
+		<title>Android Classroom</title>
+		<string>(where individual activity and reinforcement is ==b=useful)=b== or for a 'flipped classroom' (wikipedia </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>'flipped</term>
+		<title>Android Classroom</title>
+		<string>reinforcement is useful) or for a ==b='flipped=b== classroom' (wikipedia link) while the latter </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>classroom'</term>
+		<title>Android Classroom</title>
+		<string>is useful) or for a 'flipped ==b=classroom'=b== (wikipedia link) while the latter may </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>wikipedia</term>
+		<title>Android Classroom</title>
+		<string>useful) or for a 'flipped classroom' ==b=(wikipedia=b== link) while the latter may suit </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>link</term>
+		<title>Android Classroom</title>
+		<string>or for a 'flipped classroom' (wikipedia ==b=link)=b== while the latter may suit a </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>while</term>
+		<title>Android Classroom</title>
+		<string>for a 'flipped classroom' (wikipedia link) ==b=while=b== the latter may suit a Research </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>latter</term>
+		<title>Android Classroom</title>
+		<string>'flipped classroom' (wikipedia link) while the ==b=latter=b== may suit a Research approach with </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>suit</term>
+		<title>Android Classroom</title>
+		<string>(wikipedia link) while the latter may ==b=suit=b== a Research approach with Group Reporting </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>Research</term>
+		<title>Android Classroom</title>
+		<string>while the latter may suit a ==b=Research=b== approach with Group Reporting and or </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>approach</term>
+		<title>Android Classroom</title>
+		<string>the latter may suit a Research ==b=approach=b== with Group Reporting and or Group </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>with</term>
+		<title>Android Classroom</title>
+		<string>latter may suit a Research approach ==b=with=b== Group Reporting and or Group Presentation. </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>Group</term>
+		<title>Android Classroom</title>
+		<string>may suit a Research approach with ==b=Group=b== Reporting and or Group Presentation.  </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>Reporting</term>
+		<title>Android Classroom</title>
+		<string>suit a Research approach with Group ==b=Reporting=b== and or Group Presentation.  </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>Group</term>
+		<title>Android Classroom</title>
+		<string>approach with Group Reporting and or ==b=Group=b== Presentation.  </string>
+		<url>android-classroom.php#7</url>
+	</link>
+
+	<link>
+		<term>Presentation</term>
+		<title>Android Classroom</title>
+		<string>with Group Reporting and or Group ==b=Presentation.=b==  </string>
+		<url>android-classroom.php#7</url>
+	</link>
 </pages>

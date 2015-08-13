@@ -338,13 +338,13 @@ Each episode has a particular learning objective and, because they are fun, your
 				<div class="col-md-4 col-sm-6 col-xs-6 popover-icon" data-container="body" data-toggle="popover" data-placement="bottom"
 				data-content="
 				<p><strong>Description:</strong> This is a Lite version of WordBot! 3D Spelling to try before buying. It challenges your knowledge 
-				of words and helps build vocabulary and spelling skills as it takes you on a 3D tour of the solar system.
+				of words and helps build vocabulary and spelling skills as it takes you on a 3D tour of the solar system. 
 				<ul>
-				<li>Lite version to evaluate before buying</li>
-				<li>3D robot guides you through spelling challenges</li>
-				<li>Rocket letters spelling game</li>
-				<li>Custom word lists</li>
-				<li>Great for ADD, ADHD, dyslexia</li></ul></p>
+				<li>Lite version to evaluate before buying </li>
+				<li>3D robot guides you through spelling challenges </li>
+				<li>Rocket letters spelling game </li>
+				<li>Custom word lists </li>
+				<li>Great for ADD, ADHD, dyslexia </li></ul></p>
 				<p><i>In order to Export a word list, I found I had to firstly create a Folder in SD called 'EffectiveObjects'. A 'Text List' can 
 				be Imported (the structure is Word,WordPhonetic,Sentence ...no space after commas)</i></p>
 				<p><strong>Link:</strong> <a href='https://play.google.com/store/apps/details?id=au.com.mobiddiction.phonics' target='_blank'>
