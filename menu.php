@@ -34,7 +34,7 @@
 						  <a href="android-weblinks.php"> Android Weblinks</a>       
 						</li>
 						 <li id="apps-submenu-li">
-						  <a href="#"> Apps<span class="fa arrow"></span></a>  
+						  <a href="#">Android Apps<span class="fa arrow"></span></a>  
 							<ul id="apps-submenu" class="nav nav-second-level">
                                 <li>
 								  <a href="apps-sen.php">Apps for SEN Students</a>       
@@ -73,8 +73,15 @@
 						  <a href="android-support.php">Android Support</a>       
 						</li>	
 						<li>
+						  <a href="updates.php">Android Site Updates</a>       
+						</li>
+						
+						<!-- This link is hidden 
+						<li>
 						  <a href="teacher-forum.php">Teacher Forum</a>       
 						</li> 
+						-->
+						
 						<li>
 						  <a href="contact.php">Contact</a>       
 						</li> 
